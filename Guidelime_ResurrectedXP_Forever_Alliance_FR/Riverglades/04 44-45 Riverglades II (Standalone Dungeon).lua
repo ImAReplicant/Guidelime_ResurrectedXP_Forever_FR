@@ -1,0 +1,130 @@
+Guidelime.registerGuide([==[
+[N 44-45 Riverglades II (donjon autonome)][GL OFF]
+[D Guides autonomes RestedXP Forever pour la zone de Riverglades, 38-45. Converti depuis le guide RestedXP pour Guidelime.]
+[GA Alliance]
+[G 72.32,61.92 Riverglades]Cliquer sur *Râtelier de tannage* derrière le bateau. \\ Accepter [QA95260 Terreurs enfouies]
+[G 78.49,53.99 Riverglades]Cliquer sur *Avis de recherche*. \\ Accepter [QA95254 AVIS DE RECHERCHE : Traquepince] \\ Accepter [QA95120 AVIS DE RECHERCHE : Vieil Appât-Pourri]
+[G 78.85,54.22 Riverglades]Parler à *Gray Aube-Radieuse*. \\ Rendre [QT95961 Peur parentale]
+[G 79.02,54.19 Riverglades]Parler à *Fimbo Lubrimitz*. \\ Accepter [QA95121 Saveurs maritimes]
+[G 78.77,53.99 Riverglades]Parler à *Aubergiste Zizplink*. \\ Accepter [QA95988 Un pur délice]
+[G 78.76,53.99 Riverglades]Parler à *Aubergiste Zizplink*. \\ Lier votre pierre de foyer à [S Powderfuse Port] \\ (ignorer si votre pierre de foyer est déjà liée à Powderfuse Port : cocher l'étape)[TAR255894-]
+[OR][G 78.44,55.05 Riverglades]Parler à *Appât frais*. \\ Acheter 1 *Appât frais* pour 80 pièces d'argent. \\ Récupérer [QC95988,2 -][CI271657,1][TAR260487-]
+[G 77.1,52.9 Riverglades]Parler à *Friz Faiblétincelle*. \\ Rendre [QT94841 Caisse perdue] \\ Rendre [QT94928 De la fourrure pour Friz] \\ Accepter [QA95288 Le paradis de la contrebande] \\ Accepter [QA95059 La caisse de Faiblétincelle] \\ Accepter [QA95219 Port de porto]
+[A IT274971>9][G 75.99,52.64 Riverglades]Parler à *Jasper Engrechange*. \\ Accepter [QA95982 Pas mes oignons]
+[A IT274971>9][G 75.99,52.64 Riverglades]Parler à *Jasper Engrechange*. \\ Rendre [QT95982 Pas mes oignons]
+[OR][G 76.76,51.06 Riverglades]Parler à *Poison périmé*. \\ Acheter 1 *Poison périmé* pour 15 pièces d'argent. \\ Récupérer [QC95988,4 -][CI271654,1][TAR260560-]
+[OR][G 77.61,50.95 Riverglades]Parler à *Dégraissant gobelin* dans le bâtiment. \\ Acheter 1 *Dégraissant gobelin* pour 40 pièces d'argent. \\ Récupérer [QC95988,3 -][CI271653,1][TAR260565-]
+[G 79.45,52.7 Riverglades]Parler à *Maître de quai Whizzbuzz*. \\ Rendre [QT97332 Une confiance deux fois mal placée] \\ Accepter [QA95119 Concurrence déloyale] \\ Accepter [QA95118 Sauvagerie en haute mer]
+[G 79.94,52.49 Riverglades]Parler à *Argo Sifflécume*. \\ Rendre [QT95260 Terreurs enfouies] \\ Accepter [QA95261 Il faut des tripes]
+[G 80.85,53.03,40 Riverglades]Tuer *Traquepince*. Le fouiller pour *Pince de Trapclaw*. \\ Ignorer cette étape si *Traquepince* n'est pas là. \\ [QC95254,1 AVIS DE RECHERCHE : Traquepince]
+[G 81.02,49.77,40 Riverglades]Tuer *Clampants du rivage*. Les fouiller pour *Bave de rampant*, *Chair de clampant des sables* et *Entrailles de bête*. \\ [QC95988,1 Un pur délice] \\ [QC95121,2 Saveurs maritimes] \\ [QC95261,1 Il faut des tripes]
+[G 81.02,49.77,40 Riverglades]Fouiller *Chair de clampant des sables* sur les rampants des rives. [QC95121,2 Saveurs maritimes]
+[G 81.02,49.77,40 Riverglades]Fouiller *Bave de rampant* sur les rampants des rives. [QC95988,1 Un pur délice]
+[G 87.3,37.83,40 Riverglades]Tuer *Musketeers* et *Buccaneers*. Les fouiller pour *Marchandises de contrebande*. \\ [QC95119,1 Concurrence déloyale] \\ [QC95119,2 Concurrence déloyale] \\ [QC95288,1 Le paradis de la contrebande]
+[G 87.3,37.83,40 Riverglades]Tuer *Mousquetaires des mers de l'Est* et *Boucaniers des mers de l'Est*. [QC95119,1 Concurrence déloyale] \\ [QC95119,2 Concurrence déloyale]
+[G 79.45,52.7 Riverglades]Parler à *Maître de quai Whizzbuzz*. \\ Rendre [QT95119 Concurrence déloyale] \\ Accepter [QA95122 Croissance incontrôlée] \\ Accepter [QA95123 Et boum, chiens galeux !]
+[G 80.85,53.03,40 Riverglades]Tuer *Traquepince*. Le fouiller pour *Pince de Trapclaw*. \\ Ignorer cette étape si *Traquepince* n'est pas là. \\ [QC95254,1 AVIS DE RECHERCHE : Traquepince]
+[OC][L 80.41,40.05 Riverglades]Passer par-dessus la montagne
+[OC][L 79.56,37.42 Riverglades]Faire le tour de cette zone
+[OC]Tuer *Pillards de la mer de l'Est* et *Bombardiers de la mer de l'Est* autour de Windstead. \\ [QC95122,1 Croissance incontrôlée] \\ [QC95122,2 Croissance incontrôlée]
+Cliquer sur *Barils de poudre des mers de l'Est* autour de Windstead. \\ [QC95123,1 Et boum, chiens galeux !]
+Tuer *Pillards de la mer de l'Est* et *Bombardiers de la mer de l'Est* autour de Windstead. \\ [QC95122,1 Croissance incontrôlée] \\ [QC95122,2 Croissance incontrôlée]
+[OC][L 80.32,41.03 Riverglades]Passer par-dessus la montagne
+[G 79.45,52.69 Riverglades]Parler à *Maître de quai Whizzbuzz*. \\ Rendre [QT95122 Croissance incontrôlée] \\ Rendre [QT95123 Et boum, chiens galeux !] \\ Accepter [QA95124 Amiral Lamora] \\ Accepter [QA95165 À plus, olibrius !]
+[G 77.1,52.91 Riverglades]Parler à *Friz Faiblétincelle*. \\ Rendre [QT95288 Le paradis de la contrebande] \\ Accepter [QA95293 Contrebande surprise]
+[G 78.76,53.99 Riverglades]Parler à *Aubergiste Zizplink*. \\ Rendre [QT95988 Un pur délice] \\ Accepter [QA95957 Cul sec !]
+[O]Détruire *Liste de courses de Zizplink*. [CI276101,0-]
+[G 78.85,54.22 Riverglades]Parler à *Gray Aube-Radieuse* dans l'auberge. \\ Rendre [QT95957 Cul sec !] \\ Accepter [QA95975 Son monde]
+[G 80.85,53.03,40 Riverglades]Tuer *Traquepince*. Le fouiller pour *Pince de Trapclaw*. \\ Valider cet objectif maintenant si vous l'avez ignoré plus tôt. \\ [QC95254,1 AVIS DE RECHERCHE : Traquepince]
+[OC][G 79.02,54.21 Riverglades]Parler à *Fimbo Lubrimitz* dans l'auberge. \\ Rendre [QT95254 AVIS DE RECHERCHE : Traquepince]
+[G 91.26,39.72,90 Riverglades]Se rendre aux quais pour les quêtes de navire.
+[G 91.26,39.72 Riverglades]Parler à *Capitaine Courbepièce*. \\ Rendre [QT95293 Contrebande surprise]
+[G 91.22,39.82 Riverglades]Parler à *Capitaine Haynes*. \\ Accepter [QA95294 Une aubaine de contrebande]
+[G 90.88,39.36 Riverglades]Cliquer sur *Munitions de canon* au deuxième niveau du navire. \\ Essayer d'utiliser votre touche d'interaction depuis le premier niveau du navire pour interagir avec les munitions de canon du deuxième niveau. \\ Vous devrez peut-être orienter la caméra pour voir l'intérieur du navire. \\ [QC95165,3 À plus, olibrius !]
+[G 90.63,28.84,25 Riverglades]Tuer *Amiral Lamora*. Le fouiller pour *Clé de Lamora*. \\ Attention : il patrouille sur tout le premier niveau du navire. \\ [QC95124,1 Amiral Lamora] \\ Récupérer 1x *Clé de Lamora*
+[G 90.64,29.44 Riverglades]Cliquer sur *Munitions de canon* au deuxième niveau du navire. \\ [QC95165,2 À plus, olibrius !]
+[G 90.53,29.31 Riverglades]Cliquer sur *Butin de Lamora* au niveau le plus bas du navire. \\ [QC95124,2 Amiral Lamora]
+[G 88.29,25.77 Riverglades]Cliquer sur *Munitions de canon* au deuxième niveau du navire. \\ Essayer d'utiliser votre touche d'interaction depuis le premier niveau du navire pour interagir avec les munitions de canon du deuxième niveau. \\ Vous devrez peut-être orienter la caméra pour voir l'intérieur du navire. \\ [QC95165,1 À plus, olibrius !]
+[O]Détruire *Clé de Lamora* après avoir ouvert le coffre de Lamora. [CI268520,0-]
+[G 76.44,26.6,20 Riverglades][G 75.79,26.58,25 Riverglades]Cliquer sur *Champignon cadavérique* dans la grotte près de Windstead. \\ [QC95261,2 Il faut des tripes]
+[A IT266889<1][O][L 67.13,31.11 Riverglades][L 65.79,41.86 Riverglades]Tuer *Komuk* près des points de patrouille marqués. Le fouiller pour *Massue de guerre de Komuk*. \\ Komuk est un élite. Groupez-vous ou ignorez cette étape si vous ne pouvez pas le vaincre. \\ Cliquer sur *Massue de guerre de Komuk* dans vos sacs pour accepter la quête. \\ Accepter [QA94926 Marteau funeste] \\ Récupérer 1x *Massue de guerre de Komuk*
+[A IT266889][O]Cliquer sur *Massue de guerre de Komuk* dans la fenêtre des objets actifs pour accepter la quête. \\ Accepter [QA94926 Marteau funeste][UI266889-]
+[G 66.25,24.32,30 Riverglades][G 66.81,17.61,30 Riverglades][G 68.73,12.55 Riverglades]Parler à *Dunston Willis* dans la grotte. \\ Si *Dunston Willis* escorte un autre joueur, tuez les *Ogres* proches en attendant son retour. \\ Rendre [QT96125 Besoin de repos] \\ Accepter [QA96126 Le captif d'un Ogre]
+[G 67.66,19.14 Riverglades]Tuer *Gronok le Boucher* dans le bâtiment. Le fouiller pour *Clé de Gronok*. \\ [QC96126,1 Le captif d'un Ogre]
+[G 68.73,12.55 Riverglades]Parler à *Dunston Willis* dans la grotte. \\ La quête suivante lance une escorte. Penser à nettoyer les ennemis proches avant de l'accepter, surtout les patrouilles. \\ Rendre [QT96126 Le captif d'un Ogre] \\ Accepter [QA94927 L'évasion de Dunston]
+[L 66.13,25.1 Riverglades][L 67.16,28.88 Riverglades]Escorter *Dunston Willis* hors de Bolder'ok. Protégez-le des attaquants. \\ Tuer *patrols* avant que *Dunston Willis* n'atteigne un autre groupe d'ennemis. \\ [QC94927,1 L'évasion de Dunston]
+[O]Tuer *Gueule-Fantôme*. Le fouiller pour *Croc de Ghostmaw*. \\ Ghostmaw est un crocodile élite qui peut être n'importe où le long de la rive. Groupez-vous ou ignorez cette quête s'il est trop difficile. \\ Vous aurez d'autres occasions de le tuer plus tard. \\ [QC95991,1 AVIS DE RECHERCHE : Gueule-Fantôme]
+[O]Tuer *Recrues Rog'mar* et *Maître-lame Kaijo*. Le fouiller pour *Bannière du maître d'armes*. \\ *Maître-lame Kaijo* est un élite. Groupez-vous ou ignorez cette quête si vous ne pouvez pas le vaincre. \\ Cliquer sur *Caisses de ravitaillement Rog'mar* autour des campements. \\ [QC95064,1 Mesures préventives] \\ [QC95426,1 Fournitures de Rog'mar] \\ [QC95912,1 AVIS DE RECHERCHE : maître-lame Kaijo]
+[O][L 59.41,28.15 Riverglades]Tuer *Krek le Nuisible* à la cascade. \\ *Krek le Nuisible* est un élite. Groupez-vous ou ignorez cette quête si vous ne pouvez pas le vaincre. \\ [QC96085,1 Contamination en amont]
+[G 62.07,35.45,40 Riverglades]Tuer *Recrues Rog'mar* et *Maître-lame Kaijo*. Le fouiller pour *Bannière du maître d'armes*. \\ *Maître-lame Kaijo* est un élite. Groupez-vous ou ignorez cette quête si vous ne pouvez pas le vaincre. \\ Cliquer sur *Caisses de ravitaillement Rog'mar* autour des campements. \\ [QC95064,1 Mesures préventives] \\ [QC95426,1 Fournitures de Rog'mar] \\ [QC95912,1 AVIS DE RECHERCHE : maître-lame Kaijo]
+[G 62.07,35.45,40 Riverglades]Tuer *Recrues Rog'mar*. [QC95064,1 Mesures préventives]
+[G 62.07,35.45,40 Riverglades]Ouvrir *Caisses de ravitaillement Rog'mar* autour des campements. [QC95426,1 Fournitures de Rog'mar]
+[G 68.15,48.58 Riverglades]Parler à *Slibo Bekdanlo*. \\ Accepter [QA96063 Du gaz en or]
+[OC]Cliquer sur *Fleur sauvage*. \\ [QC95975,1 Son monde]
+[G 64.2,56.63,20 Riverglades]Cliquer sur *Fiole d'émanations du marécage* \\ [QC96063,1 Du gaz en or]
+[G 68.15,48.59 Riverglades]Parler à *Slibo Bekdanlo*. \\ Rendre [QT96063 Du gaz en or] \\ Accepter [QA96067 On se défoule !]
+[G 68.32,48.78 Riverglades]Vaincre *S4C-D3-G45*. \\ Arrêter d'attaquer une fois qu'il est vaincu. L'attaquer trop tôt peut le réactiver. \\ [QC96067,1 On se défoule !]
+[G 68.16,48.58 Riverglades]Parler à *Slibo Bekdanlo*. \\ Rendre [QT96067 On se défoule !]
+[G 59.52,63.98 Riverglades]Parler à *Guetteur Cornelius*. \\ Rendre [QT95329 Un guetteur sachant guetter…] \\ Rendre [QT95064 Mesures préventives] \\ Rendre [QT95426 Fournitures de Rog'mar] \\ Rendre [QT94927 L'évasion de Dunston] \\ Accepter [QA95066 Le cas de Rog'mar]
+[G 56.19,59.77,40 Riverglades]Cliquer sur *Fleur sauvage*. \\ [QC95975,1 Son monde]
+[G 30.71,49.07 Riverglades]Parler à *Sergent Riftan*. \\ Rendre [QT94886 Le front ouest] \\ Accepter [QA94888 On n'abandonne personne] \\ Accepter [QA94889 Tracer un chemin] \\ Accepter [QA96015 Un problème mineur]
+[OC]Attention aux *Massacreurs du Crépuscule* élites qui patrouillent dans la zone.
+[O]Tuer *Fanatiques du Crépuscule*, *Corrupteurs du Crépuscule* et *Champions du Crépuscule*. \\ Fouiller *Champions du Crépuscule* pour *Clé du Crépuscule*. \\ Attention à *Corrupteurs du Crépuscule*. Leur malus réduit vos attributs principaux de 30 pendant 30 minutes. \\ [QC94889,1 Tracer un chemin] \\ [QC94889,2 Tracer un chemin] \\ [QC94889,3 Tracer un chemin] \\ Récupérer [CI265821,5]
+[OC]Cliquer sur *Cages* pour libérer *Eclaireurs de Fort-Lointain*. \\ [QC94888,1 On n'abandonne personne]
+[G 26.53,47.83 Riverglades]Cliquer sur *Conduit* au sommet de la tour de guet. \\ Affaiblissez *Esclave du Crépuscule* sous 25%, puis utiliser *Pierre d'âme d'Ambrehall* pour le capturer. \\ [QC94907,1 Un petit service][UI268646-]
+[OC]Parler à *Maréchal Ryan trouvé*. \\ [QC94887,1 Il faut sauver le maréchal Ryan] \\ Rendre [QT94887 Il faut sauver le maréchal Ryan] \\ Accepter [QA94892 Les dernières volontés d'un maréchal]
+[G 29.08,45.34,30 Riverglades]Cliquer sur *Cages* pour libérer *Eclaireurs de Fort-Lointain*. \\ [QC94888,1 On n'abandonne personne]
+[G 26.17,40.82 Riverglades]Parler à *Maréchal Ryan trouvé*. \\ [QC94887,1 Il faut sauver le maréchal Ryan] \\ Rendre [QT94887 Il faut sauver le maréchal Ryan] \\ Accepter [QA94892 Les dernières volontés d'un maréchal]
+[OC]Tuer *Fanatiques du Crépuscule*, *Corrupteurs du Crépuscule* et *Champions du Crépuscule* dans le Voile du Crépuscule. \\ Attention avec *Corrupteurs du Crépuscule*. Ils lancent un sort qui applique un malus réduisant vos attributs principaux de 30 pendant 30 minutes. \\ [QC94889,1 Tracer un chemin] \\ [QC94889,2 Tracer un chemin] \\ [QC94889,3 Tracer un chemin]
+[G 27.51,36.46,10 Riverglades][G 27,35.56,35 Riverglades]Tuer *Mineurs ogres* et *Subjugateurs du Crépuscule* dans la grotte près du Voile du Crépuscule. \\ [QC96015,1 Un problème mineur] \\ [QC96015,2 Un problème mineur]
+[G 27.96,39.02,40 Riverglades]Tuer *Fanatiques du Crépuscule*, *Corrupteurs du Crépuscule* et *Champions du Crépuscule* dans le Voile du Crépuscule. \\ Attention avec *Corrupteurs du Crépuscule*. Ils lancent un sort qui applique un malus réduisant vos attributs principaux de 30 pendant 30 minutes. \\ [QC94889,1 Tracer un chemin] \\ [QC94889,2 Tracer un chemin] \\ [QC94889,3 Tracer un chemin]
+[G 30.72,49.07 Riverglades]Parler à *Sergent Riftan*. \\ Rendre [QT94888 On n'abandonne personne] \\ Rendre [QT94889 Tracer un chemin] \\ Rendre [QT96015 Un problème mineur] \\ Accepter [QA94890 Ramenez-moi sa tête]
+[O][L 26.74,44.76 Riverglades]Tuer *Suzerain Kilgar*. Le fouiller pour *Tête de Kilgar*. \\ *Suzerain Kilgar* est un élite. Groupez-vous ou ignorez cette quête si vous ne pouvez pas le vaincre. L'ignorer annule aussi *Des nouvelles pour Fort-Lointain*, *Souvenirs du Crépuscule* et *La menace du Crépuscule*. \\ [QC94890,1 Ramenez-moi sa tête]
+[O][L 30.71,49.06 Riverglades]Si vous avez vaincu Kilgar, retournez vers *Sergent Riftan*. \\ Rendre [QT94890 Ramenez-moi sa tête] \\ Accepter [QA94891 Des nouvelles pour Fort-Lointain] \\ Accepter [QA94983 Souvenirs du Crépuscule]
+[OC]Retourner à l'auberge [H Powderfuse Port]. \\ (uniquement si votre pierre de foyer est prête)
+[G 79.45,52.7 Riverglades]Parler à *Maître de quai Whizzbuzz*. \\ Rendre [QT95124 Amiral Lamora] \\ Rendre [QT95165 À plus, olibrius !]
+[G 79.95,52.49 Riverglades]Parler à *Argo Sifflécume*. \\ Rendre [QT95261 Il faut des tripes] \\ Accepter [QA95267 Le monstre émerge]
+[G 77.1,52.91 Riverglades]Parler à *Friz Faiblétincelle*. \\ Rendre [QT95294 Une aubaine de contrebande] \\ Accepter [QA95296 Transport et manutention] \\ Accepter [QA95295 Je connais un type…]
+[OC]Tuer *Guerriers murlocs* et *Oracles murlocs*. Les fouiller pour *Œil de Murloc d'eau de mer*. \\ [QC95121,1 Saveurs maritimes] \\ [QC95118,1 Sauvagerie en haute mer] \\ [QC95118,2 Sauvagerie en haute mer]
+[G 77.24,72.77 Riverglades]Tuer *Vieil Appât-Pourri*. Le fouiller pour *Harpon couvert de pourriture*. \\ *Vieil Appât-Pourri* est un élite. Groupez-vous ou ignorez cette quête si vous ne pouvez pas le vaincre. \\ [QC95120,1 AVIS DE RECHERCHE : Vieil Appât-Pourri]
+[G 74.35,72.72 Riverglades]Cliquer sur *Wreckage*. \\ Tuer *Battrodon monstrueux*. Le fouiller pour *Large amas d'appâts*. \\ [QC95267,1 Le monstre émerge][UI268647-]
+[G 74.25,67.69,40 Riverglades]Tuer *Guerriers murlocs* et *Oracles murlocs*. Les fouiller pour *Œil de Murloc d'eau de mer*. \\ [QC95121,1 Saveurs maritimes] \\ [QC95118,1 Sauvagerie en haute mer] \\ [QC95118,2 Sauvagerie en haute mer]
+[G 74.25,67.69,40 Riverglades]Fouiller *Saltwater Murloc Eyes* sur les murlocs. [QC95121,1 Saveurs maritimes]
+[G 79.02,54.2 Riverglades]Parler à *Fimbo Lubrimitz* dans l'auberge. \\ Rendre [QT95121 Saveurs maritimes] \\ Rendre [QT95254 AVIS DE RECHERCHE : Traquepince]
+[G 79.45,52.7 Riverglades]Parler à *Maître de quai Whizzbuzz*. \\ Rendre [QT95118 Sauvagerie en haute mer]
+[OC][G 79.45,52.7 Riverglades]Parler à *Maître de quai Whizzbuzz*. \\ Rendre [QT95120 AVIS DE RECHERCHE : Vieil Appât-Pourri]
+[G 79.94,52.49 Riverglades]Parler à *Argo Sifflécume*. \\ Rendre [QT95267 Le monstre émerge]
+[G 63.84,82.23 Riverglades]Parler à *Tessa Aube-Radieuse*. \\ Rendre [QT95975 Son monde]
+[OC][G 64.57,83.5,8 Riverglades][G 66.58,83.06,30 Riverglades]Suivre les points de passage lime dans l'ordre
+[OC][G 66.89,81.76,10 Riverglades]Monter sur les remparts du château et entrer dans le donjon par l'entrée latérale supérieure.
+[G 66.76,81.12 Riverglades]Parler à *Ashe Ambrehall*. \\ Rendre [QT94907 Un petit service] \\ Accepter [QA94984 Tome du Crépuscule]
+[O][L 66.76,81.12 Riverglades]Si vous avez apporté *Des nouvelles pour Fort-Lointain*, parlez à *Ashe Ambrehall*. \\ Rendre [QT94891 Des nouvelles pour Fort-Lointain]
+[G 66.67,81.02 Riverglades]Parler à *Demar Brant*. \\ Rendre [QT94926 Marteau funeste] \\ Rendre [QT95148 Rapport sur les Gnolls de la garde du Sud] \\ Rendre [QT95059 La caisse de Faiblétincelle] \\ Rendre [QT95066 Le cas de Rog'mar] \\ Rendre [QT94892 Les dernières volontés d'un maréchal] \\ Accepter [QA94893 Derniers mots] \\ Accepter [QA94982 L'œil de Mugg]
+[O][L 66.67,81.02 Riverglades]Après avoir rendu *Des nouvelles pour Fort-Lointain*, parlez à *Demar Brant*. \\ Accepter [QA94894 La menace du Crépuscule]
+[OC][L 66.85,79.93 Riverglades]Sortir du donjon par l'autre sortie. \\ (uniquement si vous êtes au donjon de Farholde)
+[G 66.15,79.6 Riverglades]Parler à *Amber Murmelame*. \\ Rendre [QT95912 AVIS DE RECHERCHE : maître-lame Kaijo]
+[O]Détruire *Rapport de Rog'mar*. [CI274981,0-]
+[A IT7964>7][G 66.15,79.6 Riverglades]Parler à *Amber Murmelame*. \\ Rendre [QT95184 Des lames des plus affûtées]
+[OC][L 63.54,85.08 Riverglades]Parler à *Wheatley*. \\ Rendre [QT95991 AVIS DE RECHERCHE : Gueule-Fantôme]
+[O][L 61.73,83.21 Riverglades]Si vous avez vaincu Krek, parlez à *Sœur Rowland*. \\ Rendre [QT96085 Contamination en amont]
+[O]Tuer *Twilight's Hammer cultists* dans la forteresse de Krol'dok. Les fouiller pour *Bracelet du Crépuscule*. \\ [QC94983,1 Souvenirs du Crépuscule]
+[O]Tuer *Zalfan Lunombre*. Regarder à droite en montant la rampe vers *Nar'gurk* : il patrouille juste à côté. \\ [QC96771,1 La vengeance des Bien-nés]
+[OC][G 37.45,37.24 Riverglades]Entrer dans la forteresse de Krol'dok
+[OC]La flèche ne peut pas s'afficher dans les donjons.
+[A IT267138<1][O]Tuer *Tunk* près de la forge, à côté de *Marchande de guerre Ashka*. Le fouiller pour *Moulage krol'dok*. \\ Récupérer [CI267138,1] \\ Ignorer si vous avez déjà ou avez rendu la quête *Moulage krol'dok*.
+[A IT267138][O]Cliquer sur *Moulage krol'dok* dans la fenêtre des objets actifs pour accepter la quête. \\ Accepter [QA94980 Moulage krol'dok][UI267138-]
+Tuer *Nar'gurk*. Le fouiller pour *Tome du Crépuscule*. \\ [QC94984,1 Tome du Crépuscule]
+Tuer *Suzerain Mugg*. Le fouiller pour *L'œil de Mugg*. \\ [QC94982,1 L'œil de Mugg]
+[O]Une fois vos objectifs de donjon terminés, quittez la forteresse de Krol'dok. Riftan est dehors au front ouest, Ashe et Demar sont au donjon de Farholde.
+[O][L 30.71,49.06 Riverglades]Parler à *Sergent Riftan*. \\ Rendre [QT94983 Souvenirs du Crépuscule] \\ Si vous voulez continuer cette chaîne facultative, demandez *L'essence rémanente* à Riftan après la récompense.
+[O]Si vous avez pris *Moulage krol'dok*, apportez-le à *Alphonse Dumas* en sortant du donjon.
+[O][L 64.46,82.03 Riverglades]Parler à *Alphonse Dumas*. \\ Rendre [QT94980 Moulage krol'dok] \\ Accepter [QA94981 Ingrédients clés]
+[A IT3575>11][O][L 64.46,82.02 Riverglades]Parler à *Alphonse Dumas*. \\ Rendre [QT94981 Ingrédients clés] \\ (uniquement si vous avez 4 cuirs épais : sinon cochez l'étape)
+[OC][G 64.57,83.5,8 Riverglades][G 66.58,83.06,30 Riverglades]Suivre les points de passage lime dans l'ordre
+[OC][G 66.89,81.76,10 Riverglades]Monter sur les remparts du château et entrer dans le donjon par l'entrée latérale supérieure.
+[G 66.75,81.11 Riverglades]Parler à *Ashe Ambrehall*. \\ Rendre [QT94984 Tome du Crépuscule] \\ Puis parlez à *Demar Brant* à côté d'Ashe. \\ Rendre [QT94982 L'œil de Mugg]
+[O][L 66.75,81.11 Riverglades]Entrer au donjon de Farholde en montant sur les remparts et en utilisant l'entrée latérale supérieure. \\ Parler à *Ashe Ambrehall*. \\ Rendre [QT94997 L'essence rémanente] \\ Si vous voulez continuer cette chaîne facultative, demandez *Curiosités intrigantes* à Ashe après la récompense.
+[OC][G 66.9,82,5 Riverglades]Sortir par la même sortie
+[O][L 66.27,83.27 Riverglades]Parler à *Mélanie Sable* à l'intérieur de la maison. \\ Rendre [QT94998 Curiosités intrigantes]
+[O]Livraisons facultatives après les Glades-de-la-Rivière : ouvrir manuellement le guide anglais *RestedXP Forever Dungeon Route (A)*. \\ *Transport et manutention* : *46-47 Tanaris/Zul'Farrak*, maître de quai Steamfizzle au port de Steamwheedle. \\ *Port de porto* : *47-48 Feralas*, Mardrack Greenwell à Fort Plume-de-lune. \\ *Je connais un type…*, *Derniers mots* et *La menace du Crépuscule* : *50-50 Stranglethorn Vale*, Ruzzgot à la baie du Butin, puis Abigail Lawson et Bolvar à Hurlevent. \\ Utiliser les étapes de retour correspondantes pour les quêtes que vous avez encore ; cocher ce rappel une fois terminé.
+]==], "RestedXP Forever Riverglades (A) FR")

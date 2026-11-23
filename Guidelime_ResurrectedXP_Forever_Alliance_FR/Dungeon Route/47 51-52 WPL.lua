@@ -1,0 +1,65 @@
+Guidelime.registerGuide([==[
+[N 51-52 Maleterres de l'Ouest][GL OFF]
+[D Route de leveling RestedXP Forever avec donjons, 1-60. Donjons de cette route : BRD, COD, DM, ES, GNOMER, HOT, MARA, RFC, RFD, ROL, STOCKS, ULDA, ZF. Converti depuis le guide RestedXP pour Guidelime.]
+[GA Alliance]
+[NX 52-52 Gangrebois]
+[O]Parler à *Messager Tombemartel* \\ *Messager Tombemartel* patrouille dans tout Forgefer \\ Accepter [QA5090 Un appel aux armes : les Maleterres]
+[OC]Se rendre à Forgefer
+[G 75.77,23.39 Ironforge]Parler à *Laris Bringuefourbi* \\ Accepter [QA4512 Un grand périple pour une petite gelée]
+[OC][L 71.83,16.12 Ironforge]Parler à *Conservateur en chef Thorius* \\ *Conservateur en chef Thorius* patrouille dans la salle des Explorateurs \\ Rendre [QT3182 Titre de propriété] \\ Accepter [QA3201 Enfin !] \\ (uniquement si vous avez rendu La corne de la bête)
+[G 71.83,16.12,30 Ironforge]Parler à *Conservateur en chef Thorius* \\ *Conservateur en chef Thorius* patrouille dans la salle des Explorateurs \\ Rendre [QT3368 Les pierres de Suntara]
+[G 77.54,11.83 Ironforge]Parler à *Historien Karnik* \\ Accepter [QA3448 La transmission du fardeau]
+[A Rogue][G 51.98,14.85 Ironforge]Parler à *Hulfdan Barbe-noire* \\ [T]Apprendre vos sorts de classe[TAR5165-]
+[A Warlock][G 53.2,7.8,15 Ironforge][G 52.7,6.07 Ironforge]Parler à *Jubahl Cherchecadavre* \\ [V]Acheter *Grimoires* pour vos familiers[TAR6382-]
+[A Warlock][G 50.34,5.66 Ironforge]Parler à *Eglantin* \\ Apprendre vos sorts de classe \\ Accepter [QA8419 La demande d'un diablotin]
+[A Shaman][G 47.17,13.87 Ironforge]Parler à *Eldrun Brise-tempête* \\ [T]Apprendre vos sorts de classe[TAR258098-]
+[G 30.96,4.82 Ironforge]Parler à *Tymor* \\ Rendre [QT3448 La transmission du fardeau] \\ Accepter [QA3449 Les runes des arcanes] \\ Accepter [QA3450 Une collecte facile]
+[A Paladin][G 23.13,6.15 Ironforge]Parler à *Brandur Martel-de-fer* \\ Apprendre vos sorts de classe \\ Accepter [QA8415 La pointe du Noroît]
+[A Priest][G 24.73,8.14 Ironforge]Parler à *Grand prêtre Rohan* \\ Apprendre vos sorts de classe \\ Accepter [QA8254 Aider le Cercle]
+[G 18.1,51.6 Ironforge]Parler à *Brassefeu l'aubergiste* \\ Lier votre pierre de foyer à [S Ironforge][TAR5111-]
+[OC][G 35.9,60.17 Ironforge]Aller à l'endroit indiqué
+[OC][L 35.9,60.17 Ironforge]Parler à *Bailey Mantepierre* \\ Retirer les objets suivants de votre banque : \\ *Plume d'Indomptable* \\ *Le Preneur d'images FX* \\ *Photo de Gammerita*[TAR2461-]
+[OC][L 74.08,48.21 Ironforge]Parler à *Bubulo Acerbus* \\ Faire les quêtes de tissu de Gnomeregan. Il vous faudra 3 piles de chaque tissu. Ignorer cette étape si vous ne pouvez pas toutes les faire \\ Rendre [QA7807-][QT7807 Un don de laine] \\ Rendre [QA7808-][QT7808 Un don de soie] \\ Rendre [QA7809-][QT7809 Un don de tisse-mage] \\ Rendre [QA7811-][QT7811 Un don d'étoffe runique]
+[OC][L 43.22,31.57 Ironforge]Parler à *Mistina Targe-acier* \\ Faire les quêtes de tissu de Forgefer. Il vous faudra 3 piles de chaque tissu. Ignorer cette étape si vous ne pouvez pas toutes les faire \\ Rendre [QA7802-][QT7802 Un don de laine] \\ Rendre [QA7803-][QT7803 Un don de soie] \\ Rendre [QA7804-][QT7804 Un don de tisse-mage] \\ Rendre [QA7805-][QT7805 Un don d'étoffe runique]
+[O][L 23.8,71.8 Ironforge][L 25.8,75.5 Ironforge][L 24.2,74.6 Ironforge]Parler à *Commissaire-priseur de Forgefer* \\ Acheter *Armature en mithril* à l'hôtel des ventes. Vous en aurez besoin plus tard pour une quête dans le cratère d'Un'Goro \\ Ignorer cette étape si vous ne pouvez pas en obtenir un \\ Récupérer [CI10561,1][TAR9859-][TAR8720-][TAR8671-]
+[A Warrior][G 65.9,88.41 Ironforge]Parler à *Bilban Cléamornifles* \\ [T]Apprendre vos sorts de classe[TAR5114-]
+[A Hunter][G 70.89,83.62 Ironforge]Parler à *Olmin Barbe-en-feu* \\ [T]Apprendre vos sorts de classe[TAR5116-]
+[A Hunter][G 70.9,83.6 Ironforge]Parler à *Olmin Barbe-en-feu* \\ Accepter [QA8151 Le charme du chasseur]
+[G 70.86,94.57 Ironforge]Parler à *Xiggs Allumèche* \\ Rendre [QT3450 Une collecte facile] \\ Accepter [QA3451 Signal de la récupération] \\ Rendre [QA3451-][QT3451 Signal de la récupération]
+[G 33.4,20,70 Ironforge][G 25.6,61.6,70 Ironforge][G 64.8,77.8,70 Ironforge][G 70.6,48,70 Ironforge][G 65,22.6,70 Ironforge][G 50.4,10.4,70 Ironforge][G 40.8,39.4,70 Ironforge][G 51.2,56.6,70 Ironforge][G 55.8,35.2,70 Ironforge][G 33,22.4 Ironforge]Parler à *Messager Tombemartel* \\ *Messager Tombemartel* patrouille dans tout Forgefer \\ Accepter [QA5090 Un appel aux armes : les Maleterres]
+[OC][L 55.49,47.75 Ironforge]Parler à *Gryth Thurden* \\ Prendre le vol vers [F]Loch Modan \\ (si vous avez pris Enfin !)[TAR1573-]
+[OC][L 18.19,84.03 Loch Modan]Parler à *Montagnarde Minigravillon* \\ Rendre [QT3201 Enfin !]
+[OC][L 33.94,50.95 Loch Modan]Parler à *Thorgrum Borrelson* \\ Prendre le vol vers le pic des Aigles, dans les Hinterlands \\ (uniquement si vous êtes à Loch Modan)[TAR1572-]
+[OC][L 55.49,47.75 Ironforge]Parler à *Gryth Thurden* \\ Prendre le vol vers le pic des Aigles, dans les Hinterlands \\ (uniquement si vous êtes à Forgefer)[TAR1573-]
+[G 9.75,44.47 The Hinterlands]Parler à *Maître des griffons Hachegriffe* \\ Rendre [QT2989 L'autel de Zul]
+[G 14.83,44.57 The Hinterlands]Parler à *Fraggar Tonnemante* \\ Rendre [QT2877 Nettoyer le rocher de l'Affût]
+[G 40.63,59.65 The Hinterlands]Fouiller *Tragan pourpre* sous l'eau \\ [QC2641,1 L'ingrédient secret de Sprinkle]
+[OC][G 11.07,46.15 The Hinterlands]Aller à l'endroit indiqué
+[OC][L 11.07,46.15 The Hinterlands]Parler à *Guthrum Tonnepoing* \\ Prendre le vol vers [F]Maleterres de l'Ouest[TAR8018-]
+[G 42.7,84.03 Western Plaguelands]Parler à *Commandant Ashlam Vaillepoing* \\ Rendre [QT5090 Un appel aux armes : les Maleterres] \\ Accepter [QA5092 Nettoyer le passage] \\ (uniquement si vous êtes sur Un appel aux armes : les Maleterres : sinon cochez l'étape)
+[A Paladin][G 42.7,84.03 Western Plaguelands]Parler à *Commandant Ashlam Vaillepoing* \\ Rendre [QT8415 La pointe du Noroît] \\ Accepter [QA8414 La dissipation du mal]
+[G 42.97,83.55 Western Plaguelands]Parler à *Officier de l'Aube d'argent Purecarde* \\ Accepter [QA5401 Brevet de l'Aube d'argent] \\ Rendre [QA5401-][QT5401 Brevet de l'Aube d'argent]
+[O]Équiper *Brevet de l'Aube d'argent* avant de tuer du Fléau pour qu'ils lâchent *Brevet de l'Aube d'argent*. Cocher cette étape une fois équipé, ou si vous ignorez les pierres du Fléau.[UI12846-]
+[A Paladin][O]Tuer n'importe lequel des *Scourge*. Les fouiller pour leurs *Pierres du Fléau des serviteurs* \\ [QC8414,1 La dissipation du mal]
+[G 50.01,76.9 Western Plaguelands]Tuer *Ecorcheurs Squelettes* et *Goules écumantes* \\ [QC5092,1 Nettoyer le passage] \\ [QC5092,2 Nettoyer le passage]
+[A Paladin][OC][L 51.99,82.85 Western Plaguelands]Parler à *Grand prêtre Thel'danis* \\ Rendre [QT8414 La dissipation du mal] \\ Accepter [QA8416 Pierres du Fléau inertes]
+[A Paladin][OC][L 51.99,82.85 Western Plaguelands]Parler à *Grand prêtre Thel'danis* \\ Accepter [QA8416 Pierres du Fléau inertes]
+[G 42.7,84.03 Western Plaguelands]Parler à *Commandant Ashlam Vaillepoing* \\ Rendre [QT5092 Nettoyer le passage] \\ Accepter [QA5215 Les chaudrons du Fléau]
+[A Paladin][OC][L 42.7,84.03 Western Plaguelands]Parler à *Commandant Ashlam Vaillepoing* \\ Rendre [QT8416 Pierres du Fléau inertes]
+[G 42.97,84.5 Western Plaguelands]Parler à *Grande prêtresse MacDonnell* \\ Rendre [QT5215 Les chaudrons du Fléau] \\ Accepter [QA5216 Cible : le Champ de Felstone]
+[G 37.02,57.14 Western Plaguelands]Tuer *Seigneur du Chaudron Bilegueule*. Le fouiller pour *Clé du chaudron du Champ de Gangrepierre* \\ *Seigneur du Chaudron Bilegueule* peut apparaître quand vous approchez de *Chaudron* \\ [QC5216,1 Cible : le Champ de Felstone]
+[G 37.19,56.86 Western Plaguelands]Cliquer sur *Chaudron du Fléau* \\ Rendre [QT5216 Cible : le Champ de Felstone] \\ Accepter [QA5217 Retour au camp du Noroît]
+[OC][G 38.05,54.59,12 Western Plaguelands]Entrer dans la maison
+[G 38.4,54.05 Western Plaguelands]Parler à *Janice Gangrepierre* à l'étage \\ Accepter [QA5021 Mieux vaut tard que jamais]
+[OC][G 38.05,54.56,8 Western Plaguelands]Passer par ce point de passage
+[OC][G 38.58,55.33,6 Western Plaguelands]Sortir de la maison \\ Entrer dans la grange
+[G 38.72,55.24 Western Plaguelands]Cliquer sur *Colis de Janice* au sol \\ Sort de 5 secondes d'incantation \\ Vous pouvez le faire depuis derrière le mur pour éviter d'aggro l'intérieur \\ Éviter d'aggro les *Scarlets* devant la grange. Si ça arrive, fuyez \\ Rendre [QT5021 Mieux vaut tard que jamais] \\ Accepter [QA5022 Mieux vaut tard que jamais]
+[A Hunter][XP52-16950 Farmer jusqu'à être à 16950 xp du niveau 52] \\ S'il vous manque encore de l'expérience, faites une quête de chaudron de plus pour arriver au bon niveau
+[A Paladin][G 37.19,56.86 Western Plaguelands]Tuer n'importe lequel des *Scourge*. Les fouiller pour leurs *Pierres du Fléau des serviteurs* \\ [QC8414,1 La dissipation du mal]
+[A Softcore][OC]Mourir et réapparaissez auprès du Gardien des esprits du camp du Souffle-glacé[TAR6491-]
+[OC]Se rendre au camp du Souffle-glacé
+[G 42.97,84.5 Western Plaguelands]Parler à *Grande prêtresse MacDonnell* \\ Rendre [QT5217 Retour au camp du Noroît]
+[A Paladin][G 51.99,82.85 Western Plaguelands]Parler à *Grand prêtre Thel'danis* \\ Rendre [QT8414 La dissipation du mal] \\ Accepter [QA8416 Pierres du Fléau inertes]
+[A Paladin][G 42.7,84.03 Western Plaguelands]Parler à *Commandant Ashlam Vaillepoing* \\ Rendre [QT8416 Pierres du Fléau inertes]
+[A Warrior,Paladin,Hunter,Rogue,Priest,Shaman,Warlock][OC][L 42.92,85.06 Western Plaguelands]Parler à *Bibilfaz Siffleplume* \\ Prendre le vol vers [F]Les Paluns[TAR12596-]
+]==], "RestedXP Forever Donjons (A) FR")

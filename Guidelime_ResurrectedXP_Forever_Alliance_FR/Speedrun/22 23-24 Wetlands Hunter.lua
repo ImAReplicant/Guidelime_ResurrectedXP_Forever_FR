@@ -1,0 +1,72 @@
+Guidelime.registerGuide([==[
+[N 23-24 Les Paluns (Chasseur)][GL OFF]
+[D Route speedrun RestedXP Forever (sans donjons), 1-60. Converti depuis le guide RestedXP pour Guidelime.]
+[GA Alliance,Hunter]
+[NX 24-27 Bois de la Pénombre/Les Carmines]
+[OC][G 8.51,55.7,70 Wetlands]Sauter du bateau quand il est le plus proche de la côte du port de Menethil \\ Nager vers le port de Menethil
+[G 8.51,55.7 Wetlands]Parler à *James Halloran* \\ Accepter [QA484 Les peaux de jeune crocilisque]
+[G 7.95,56.38 Wetlands]Parler à *Dewin Scintillaube* \\ [V]Acheter autant de *Potions de soins* que possible \\ Objet à stock limité. Ignorer cette étape si *Dewin Scintillaube* n'en a pas[TAR1453-]
+[G 8.36,58.53 Wetlands]Parler à *Karl Boran* \\ Accepter [QA279 Griffes des profondeurs]
+[A NightElf][G 9.49,59.69 Wetlands]Parler à *Shellei Brondir* \\ Prendre le [P Wetlands] point de vol[TAR1571-]
+[G 10.89,59.66 Wetlands]Parler à *Premier officier Fitzsimmons* \\ Accepter [QA288 La IIIe flotte] \\ Accepter [QA463 Le Gouverneur vert]
+[G 10.69,60.95 Wetlands]Parler à *Helbrek l'aubergiste* \\ Lier votre pierre de foyer à [S Menethil Harbor][TAR1464-]
+[G 10.69,60.95 Wetlands]Parler à *Helbrek l'aubergiste* \\ Acheter *Cruche d'hydromiel nain* chez lui \\ Racheter nourriture et eau si nécessaire \\ Acheter quelques *Côtelettes de mouton* en plus comme nourriture pour familier si besoin \\ [QC288,1 La IIIe flotte]
+[G 10.84,60.44 Wetlands]Parler à *Archéologue Outrepanse* à l'étage \\ Rendre [QT942 Les absences du Prospecteur] \\ Accepter [QA943 Les absences du Prospecteur]
+[G 10.84,60.44 Wetlands]Parler à *Archéologue Outrepanse* à l'étage \\ Accepter [QA943 Les absences du Prospecteur]
+[G 10.5,60.2 Wetlands]Parler à *Samor Festivus* à l'étage \\ [V]Acheter autant de *Potions de soins* que possible \\ Objet à stock limité. Ignorer cette étape si *Samor Festivus* n'en a pas[TAR1457-]
+[G 10.89,59.66 Wetlands]Parler à *Premier officier Fitzsimmons* \\ Rendre [QT288 La IIIe flotte]
+[G 11,58.6 Wetlands]Parler à *Edwina Monzor*. [V]Remplissez votre carquois de *Flèches aiguisées* sous le niveau 25. Si vous approchez de 25, vous pouvez acheter *Flèches rasoir* pour plus tard. À partir du niveau 25, remplissez votre carquois de *Flèches rasoir* et faire clic droit pour les équiper. Ignorer cette visite si vous êtes déjà approvisionné.[TAR1462-]
+[G 11.87,58.77 Wetlands]Parler à *Caitlin Grassman* \\ Rendre [QT95737 À la recherche de Caitlin]
+[G 11.87,58.77 Wetlands]Parler à *Caitlin Grassman* \\ Accepter [QA98282 Dangers alchimiques]
+[G 11.8,57.99 Wetlands]Parler à *Sidonie* \\ Accepter [QA470 En creusant dans la vase]
+[A IT4371<1][C][G 10.4,56,25 Wetlands][G 10.1,56.9,25 Wetlands][G 10.6,57.2,25 Wetlands][G 10.76,56.74 Wetlands]Acheter *Tube en bronze* chez *Neal Allen* pour *Les yeux dans les étoiles*. \\ Cocher cette étape si le vendeur n'a plus de stock. \\ Récupérer [CI4371,1][TAR1448-]
+[A IT4371][O][OR][V]Terminer l'échange avec *Neal Allen* une fois que vous avez le tube pour *Viktori Prism'Antras*.[QC174-][CI4371,1][TAR1448-]
+[G 11.46,52.16 Wetlands]Parler à *Tarrel Tisseroche* \\ Accepter [QA305 À la recherche de l'équipe de fouilles]
+[OC]Tuer *Jeunes crocilisques des Paluns*. Les fouiller pour leurs *Peau de jeune crocilisque* \\ [QC484,1 Les peaux de jeune crocilisque]
+[A Human,Dwarf,Gnome,Skyborne][G 16.26,39.41 Wetlands]Tuer *Murlocs Branchies-bleue* \\ Tuer *Enfourneur*. Le fouiller pour sa *Tête* \\ *Enfourneur* patrouille un peu dans les marais \\ [QC279,1 Griffes des profondeurs] \\ [QC279,2 Griffes des profondeurs]
+[A NightElf][G 16.26,39.41 Wetlands]Tuer *Murlocs Branchies-bleue* \\ Tuer *Enfourneur*. Le fouiller pour sa *Tête* \\ Garder les *Ailerons de murloc* que vous obtenez. Il vous en faudra 8 pour une quête plus tard \\ *Enfourneur* patrouille un peu dans les marais \\ [QC279,1 Griffes des profondeurs] \\ [QC279,2 Griffes des profondeurs] \\ Récupérer 8x *Aileron de murloc*
+[O]Tuer *Raptors* dans tous les Paluns. Les fouiller pour *Pierre de Relu* \\ Ne pas faire de détour pour terminer ça maintenant. Vous tuerez d'autres *Raptors* plus tard \\ [QC943,1 Les absences du Prospecteur]
+[G 38.17,50.88 Wetlands]Parler à *Ormer Tressefer* \\ Accepter [QA294 La vengeance d'Ormer]
+[G 38.91,52.34 Wetlands][G 38.81,52.39 Wetlands]Parler à *Merrin Tisseroche* et *Prospecteur Whelgar* \\ Rendre [QT305 À la recherche de l'équipe de fouilles] \\ Accepter [QA299 Découverte du passé]
+[G 38.86,52.21 Wetlands]Fouiller *Fossile d'Outrepanse* au sol \\ [QC943,2 Les absences du Prospecteur]
+[G 36.41,41.72,100 Wetlands]Descendre la rampe et sortir du site de fouilles de Whelgar
+[OC]Guetter *Limons noirs* en tuant les raptors. Tuez-les et fouiller pour *Sac de Sidonie* \\ Cet objet a un faible taux de chute : ne faites pas de détour pour les gelées, vous pourrez valider cet objectif plus tard \\ [QC470,1 En creusant dans la vase]
+[G 22.8,50.6 Wetlands]Tuer *Raptors tachetés* et *Hurleurs tachetés* \\ [QC294,1 La vengeance d'Ormer] \\ [QC294,2 La vengeance d'Ormer]
+[G 37.22,43.89,45 Wetlands][G 38.17,50.88 Wetlands]Parler à *Ormer Tressefer* \\ Rendre [QT294 La vengeance d'Ormer] \\ Accepter [QA295 La vengeance d'Ormer]
+[OC]Ouvrir *Reliques anciennes* et *Terre meuble*. Les fouiller pour *Fragments* \\ Les *Fragments* ont des points d'apparition aléatoires sur le site de fouilles \\ [QC299,1 Découverte du passé] \\ [QC299,2 Découverte du passé] \\ [QC299,3 Découverte du passé] \\ [QC299,4 Découverte du passé]
+[G 34.33,47.81 Wetlands]Tuer *Faucheurs tachetés* et *Tranchegueules tachetés* \\ Cette quête est DIFFICILE : les monstres sont bien plus haut niveau que vous, mais l'arme en récompense vaut l'effort \\ Je recommande d'utiliser le spot de la vidéo ci-dessous pour exploiter le pathing des monstres, ce qui facilite nettement la quête \\ Vidéo de référence : https://youtu.be/TxhLRt-IetU \\ [QC295,1 La vengeance d'Ormer] \\ [QC295,2 La vengeance d'Ormer]
+[G 38.17,50.88 Wetlands]Parler à *Ormer Tressefer* \\ Rendre [QT295 La vengeance d'Ormer] \\ Accepter [QA296 La vengeance d'Ormer]
+[G 33.25,51.5 Wetlands]Tuer *Grondecroc*. Le fouiller pour sa *Serre* \\ Il est généralement sur la colline au-dessus du site de fouilles principal, mais peut parfois descendre en patrouille \\ Attention : il peut *Rosser* en vous touchant 3 fois d'un coup \\ Cette quête est TRÈS DIFFICILE : il est niveau 29. Utiliser le spot de pathing de la quête précédente pour le kiter indéfiniment \\ Vidéo de référence : https://youtu.be/PAeOcxOgSNg \\ [QC296,1 La vengeance d'Ormer]
+[G 36.62,42.16 Wetlands][L 34.32,51.79 Wetlands][L 35.73,49.06 Wetlands][L 33.86,46.85 Wetlands][L 34.91,44.22 Wetlands]Ouvrir *Reliques anciennes* et *Terre meuble*. Les fouiller pour *Fragments* \\ Les *Fragments* ont des points d'apparition aléatoires sur le site de fouilles \\ [QC299,1 Découverte du passé] \\ [QC299,2 Découverte du passé] \\ [QC299,3 Découverte du passé] \\ [QC299,4 Découverte du passé]
+[G 38.17,50.88 Wetlands]Parler à *Ormer Tressefer* \\ Rendre [QT296 La vengeance d'Ormer] (choisir la récompense 1)
+[G 38.81,52.39 Wetlands]Parler à *Prospecteur Whelgar* \\ Rendre [QT299 Découverte du passé]
+[OC]Tuer *Jeunes crocilisques des Paluns*. Les fouiller pour leurs *Peau de jeune crocilisque* \\ [QC484,1 Les peaux de jeune crocilisque]
+[A IT3493][OC]Équiper *Carnassier* \\ (si c'est une amélioration)[UI3493-]
+[G 49.35,42.11 Wetlands]Parler à *Howin Genteplume* \\ Accepter [QA98245 Travail d'aiguille tranchegueule] \\ Accepter [QA98246 Période de disette]
+[OC]Vous croiserez peut-être deux *Limons noirs* en allant au sud vers les gnolls. Tuez-les et fouiller pour *Sac de Sidonie* \\ Cet objet a un faible taux de chute : ne faites pas de détour pour les gelées, vous pourrez valider cet objectif plus tard \\ [QC470,1 En creusant dans la vase]
+[G 56.37,40.4 Wetlands]Parler à *Rethiel le Gouverneur vert* \\ Rendre [QT463 Le Gouverneur vert] \\ Accepter [QA276 Piétinements de pattes]
+[A IT3397<6][OC][G 61.05,54.98,120 Wetlands]Tuer *Jeunes crocilisques des Paluns* au sud de la ceinture verte s'il vous manque encore *Les peaux de jeune crocilisque*. [QC484,1 Les peaux de jeune crocilisque]
+[OC][G 54.54,64.24,100 Wetlands]Passer par ce point de passage
+[OC][G 52.55,62.8,25 Wetlands]Entrer dans la grotte du rocher de Thelgen
+[G 48.69,62.35,40 Wetlands]Tuer *Traqueuses sanguines* et *Traqueuses des grottes*. Les fouiller pour *Glande de traqueur intacte* \\ [QC98282,1 Dangers alchimiques]
+[G 62.34,69.34 Wetlands]Tuer *Gnolls Poils-moussu* et *Bâtards Poils-moussu* \\ [QC276,1 Piétinements de pattes] \\ [QC276,2 Piétinements de pattes]
+[XP24 Farmer jusqu'au niveau 24]
+[OC]Continuer à farmer *Gnolls* jusqu'à ce que votre pierre de foyer ait moins de 2 minutes de recharge
+[G 56.37,40.4 Wetlands]Parler à *Rethiel le Gouverneur vert* \\ Rendre [QT276 Piétinements de pattes] \\ Accepter [QA277 Feu interdit]
+[G 64,72.2 Wetlands]Tuer *Jeunes crocilisques des Paluns*. Les fouiller pour leurs *Peau de jeune crocilisque* \\ [QC484,1 Les peaux de jeune crocilisque]
+Retourner à l'auberge [H Menethil Harbor]
+[G 11.89,58.83 Wetlands]Parler à *Caitlin Grassman* \\ Rendre [QT98282 Dangers alchimiques]
+[OC][L 11.8,57.99 Wetlands]Parler à *Sidonie* \\ Rendre [QT470 En creusant dans la vase]
+[G 8.51,55.7 Wetlands]Parler à *James Halloran* \\ Rendre [QT484 Les peaux de jeune crocilisque] \\ Accepter [QA471 Les devoirs de l'apprenti]
+[G 8.36,58.53 Wetlands]Parler à *Karl Boran* \\ Rendre [QT279 Griffes des profondeurs] \\ Accepter [QA281 Récupération de marchandises]
+[L 9.49,59.69 Wetlands][TAR1571-]Parler à *Shellei Brondir* \\ Prendre le vol vers [F Ironforge]
+[A IT5352][O]Utiliser *Livre : Les puissances d'en-bas* pour lancer la quête \\ Accepter [QA968 Les puissances d'en-bas][UI5352-]
+[A Human,NightElf,Gnome,Skyborne][A Guns<1][G 61.18,89.51 Ironforge]Parler à *Buliwyf Main-de-pierre* à l'intérieur \\ Apprendre Armes à feu [SK Guns 1 -][TAR11865-]
+[A Alchemy1][OC][L 24.94,73.66 Ironforge]Récolter 4 *Potions de mana mineures* et 2 *Elixir de robustesse mineure* \\ Vous pouvez les acheter à l'hôtel des ventes, les échanger ou utiliser *Alchimie* si vous l'avez pour les fabriquer \\ Si vous ne pouvez pas les obtenir, ignorez cette étape \\ Récupérer [CI2455,4] \\ Récupérer [CI2458,2] \\ (uniquement si vous êtes sur Un vieux collègue)
+[O][L 50.83,5.61 Ironforge]Parler à *Gerrig Poigne-d'os* \\ Rendre [QT968 Les puissances d'en-bas] \\ Cocher cette étape si vous partez sans la récompense facultative.
+[A IT4371<1][C][G 67.84,42.5 Ironforge]Acheter *Tube en bronze* chez *Coupebraquet Tournepignon* pour *Les yeux dans les étoiles*. \\ Cocher cette étape si le vendeur n'a plus de stock. \\ Récupérer [CI4371,1][TAR5175-]
+[A IT4371][O][OR][V]Terminer l'échange avec *Coupebraquet Tournepignon* une fois que vous avez le tube pour *Viktori Prism'Antras*.[QC174-][CI4371,1][TAR5175-]
+[G 72.08,51.87 Ironforge]Parler à *Lomac Rubangrenage* \\ Rendre [QT1072 Un vieux collègue]
+[A IT2455>3][OC][L 72.08,51.87 Ironforge]Parler à *Lomac Rubangrenage* \\ Accepter [QA1073 Inaptitude + Produits chimiques = Rigolo] \\ Rendre [QT1073 Inaptitude + Produits chimiques = Rigolo] \\ (uniquement si vous avez 2 élixirs de robustesse mineure)
+[OC][G 76.61,51.28,10 Ironforge]Prendre le tram vers Hurlevent
+]==], "RestedXP Forever Speedrun (A) FR")

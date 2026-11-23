@@ -1,0 +1,62 @@
+Guidelime.registerGuide([==[
+[N 48-49 Tanaris/Hinterlands][GL OFF]
+[D Route speedrun RestedXP Forever (sans donjons), 1-60. Converti depuis le guide RestedXP pour Guidelime.]
+[GA Alliance]
+[NX 49-50 Tanaris/Un'Goro]
+[OC][G 52.3,28.92 Tanaris]Aller à l'endroit indiqué
+[OC][L 52.3,28.92 Tanaris]Parler à *Vribleronce* \\ Retirer les objets suivants de votre banque : \\ *Gésier de roc* (si vous en avez)[TAR7799-]
+[G 51.8,28.66 Tanaris]Parler à *Marin Brouillecaboche* \\ Accepter [QA2605 Le gobelin assoiffé]
+[G 52.51,27.91 Tanaris]Parler à *Aubergiste Rouspétille* \\ Lier votre pierre de foyer à [S Gadgetzan][TAR7733-]
+[A IT8564][G 52.39,26.97 Tanaris]Cliquer sur *Oeuf-O-Matic* au sol \\ Rendre [QA2741-][QT2741 Le Super-Oeuf-O-Matic]
+[A IT8647]Ouvrir *Caisse d'oeufs*[UI8647-]
+[G 52.36,26.9 Tanaris]Parler à *Gruzouille Sautelevier* \\ Rendre [QT2941 Le prêt] \\ Accepter [QA2944 Le Preneur d'images FX]
+[A IT8646][O][G 52.36,26.9 Tanaris]Parler à *Gruzouille Sautelevier* \\ Accepter [QA2750 Un mauvais œuf] \\ Rendre [QT2750 Un mauvais œuf]
+[A IT8645][O][G 52.36,26.9 Tanaris]Parler à *Gruzouille Sautelevier* \\ Accepter [QA2749 Un œuf ordinaire] \\ Rendre [QT2749 Un œuf ordinaire]
+[A IT8644][O][G 52.36,26.9 Tanaris]Parler à *Gruzouille Sautelevier* \\ Accepter [QA2748 Un œuf de premier choix] \\ Rendre [QT2748 Un œuf de premier choix]
+[A IT8643][O][G 52.36,26.9 Tanaris]Parler à *Gruzouille Sautelevier* \\ Accepter [QA2747 Un œuf extraordinaire] \\ Rendre [QT2747 Un œuf extraordinaire]
+[A IT9539]Ouvrir *Boîte de rations*[UI9539-]
+[A IT9540]Ouvrir *Boîte de sorts*[UI9540-]
+[A IT9541]Ouvrir *Boîte de fournitures*[UI9541-]
+[G 51.56,26.75 Tanaris]Parler à *Tran'rek* \\ Accepter [QA3362 La vallée des Chardonniers]
+[G 50.21,27.48 Tanaris]Parler à *Grand Géomètre Radiésthéflop* \\ Accepter [QA992 Étude des eaux de Gadgetzan]
+[O]Tuer *Rocs*. Les fouiller pour leurs *Gésiers* \\ Ne pas faire de détour pour terminer ceci \\ [QC1452,1 Le Kocktail Kalimdor de Rhapsody]
+[G 39.02,29.24 Tanaris]Utiliser *Fiole de sourcier vide* à la mare de Sandsorrow Watch. Éviter les *Sandfury Trolls* élites en chemin \\ Deux *Tunnelières centipaars* niveau 47/48 apparaîtront quand vous remplissez *Fiole de sourcier vide*. Vous pouvez les tuer ou fuir pour les réinitialiser \\ [QC992,1 Étude des eaux de Gadgetzan][UI8584-]
+[G 50.21,27.48 Tanaris]Parler à *Grand Géomètre Radiésthéflop* \\ Rendre [QT992 Étude des eaux de Gadgetzan] \\ Accepter [QA82 Enquête au Repaire nuisible]
+[G 35.68,39.78,70 Tanaris]Tuer *Saccageurs des sables Centipaars*, *Traînards Centipaars*, *Dards Centipaars*, *Tunnelières centipaars* et *Guêpes Centipaars*. Les fouiller pour *Morceaux d'insecte Centipaar* \\ Attention : tous les *Centipaar* lancent *Rosser* (ajoute 2 attaques toutes les 10 secondes), *Saccageurs des sables Centipaars* lancent *Frappe en arc de cercle* (attaque de mêlée supplémentaire), *Traînards Centipaars* lancent *Essaim silithide* (invoque toutes les 10 secondes un monstre à 1 pv infligeant des dégâts de votre niveau, tué instantanément par l'AoE), *Dards Centipaars* lancent *Dard venimeux* (11-12 dégâts toutes les 5 secondes pendant 45 secondes), *Tunnelières centipaars* lancent *Perce-armure* (réduit l'armure de 50% pendant 20 secondes) et *Guêpes Centipaars* lancent *Poisons* (33-34 dégâts toutes les 3 secondes pendant 30 secondes) \\ [QC82,1 Enquête au Repaire nuisible]
+[G 49.48,35.85 Tanaris][L 44.6,39.6 Tanaris]Tuer *Rocs* et *Rocs de feu*. Les fouiller pour leurs *Gésiers* \\ Les *Rocs* partagent leurs apparitions avec *Brûlepattes affamées*. Vous devrez peut-être tuer *Brûlepattes affamées* pour forcer l'apparition de *Rocs* \\ [QC1452,1 Le Kocktail Kalimdor de Rhapsody]
+[OC]Ne pas faire de détour pour tuer des *Thistleshrub* pour cette quête, vous aurez une autre occasion plus tard: concentrez-vous sur *Dew Collectors* \\ [QC3362,1 La vallée des Chardonniers] \\ [QC3362,2 La vallée des Chardonniers]
+[G 28.7,64.06 Tanaris]Tuer *Dew Collectors*. Les fouiller pour *Dew Gland* \\ [QC2605,1 Le gobelin assoiffé]
+[A Softcore][OC]Mourir et réapparaissez auprès du Gardien des esprits à Gadgetzan[TAR6491-]
+[G 51.8,28.66 Tanaris]Parler à *Marin Brouillecaboche* \\ Rendre [QT2605 Le gobelin assoiffé] \\ Accepter [QA2606 De bon goût]
+[G 51.05,26.87 Tanaris]Parler à *Saupoudr* \\ Rendre [QT2606 De bon goût] \\ Accepter [QA2641 L'ingrédient secret de Sprinkle]
+[G 50.89,26.96 Tanaris]Parler à *Alchimiste Pilonzugg* \\ Rendre [QT82 Enquête au Repaire nuisible]
+[L 51.01,29.34 Tanaris][TAR7823-]Parler à *Bera Martel-de-pierre* \\ Prendre le vol vers [F Theramore]
+[OC][G 71.4,56.1 Dustwallow Marsh]Prendre le bateau vers le port de Menethil
+[OC][G 9.49,59.69 Wetlands]Aller à l'endroit indiqué
+[OC][L 9.49,59.69 Wetlands]Parler à *Shellei Brondir* \\ Prendre le vol vers les Hinterlands [F]Pic des Aigles[TAR1571-]
+[G 9.75,44.47 The Hinterlands]Parler à *Maître des griffons Hachegriffe* \\ Accepter [QA2988 Les cages Witherbark]
+[O]Fouiller *Plumes d'Indomptable* au sol \\ Ils sont dispersés au sol dans toutes les Hinterlands \\ [QC3661,1 Dans les faveurs d'Elune ?]
+[G 26.94,48.59 The Hinterlands]Parler à *Rhapsody Croquejarret* \\ Après le rendu, laissez environ 35 secondes de roleplay avant d'accepter L'histoire de Rhapsody \\ Rendre [QT1452 Le Kocktail Kalimdor de Rhapsody] \\ Accepter [QA1469 L'histoire de Rhapsody]
+[O]Tuer *Trolls Fânécorces*. Les fouiller pour leurs *Tribal Necklaces* \\ Récupérer [CI9259,5]
+[G 31.98,57.31 The Hinterlands]Cliquer sur *Troisième cage Fânécorce* \\ [QC2988,3 Les cages Witherbark]
+[G 23.28,58.81 The Hinterlands][G 23.12,58.82 The Hinterlands]Cliquer sur *Première cage Fânécorce* et *Deuxième cage Fânécorce* \\ [QC2988,1 Les cages Witherbark] \\ [QC2988,2 Les cages Witherbark]
+[G 32.23,58.21 The Hinterlands]Tuer *Trolls Fânécorces*. Les fouiller pour leurs *Tribal Necklaces* \\ Récupérer [CI9259,5]
+[G 14.17,45.33,25 The Hinterlands][G 14.83,44.57 The Hinterlands]Parler à *Fraggar Tonnemante* \\ Accepter [QA2880 Chasse au collier troll] \\ Rendre [QT2880 Chasse au collier troll] \\ Accepter [QA2877 Nettoyer le rocher de l'Affût]
+[G 9.75,44.47 The Hinterlands]Parler à *Maître des griffons Hachegriffe* \\ Rendre [QT2988 Les cages Witherbark] \\ Accepter [QA2989 L'autel de Zul]
+[G 40.63,59.65 The Hinterlands]Fouiller *Tragan violet* sous l'eau \\ [QC2641,1 L'ingrédient secret de Sprinkle]
+[G 48.81,68.39 The Hinterlands]S'ouvrir un chemin jusqu'au sommet de l'autel de Zul. S'assurer d'être à fond de vie avant d'y arriver ! \\ Courir jusqu'au point d'exploration, puis sauter sur le côté pour éviter les élites en haut. Attendre sur le rebord d'être sorti du combat. Regarder la vidéo ci-dessous \\ [QC2989,1 L'autel de Zul] \\ Vidéo de référence : https://youtu.be/Z4gDpWTXaFY
+[G 57.65,42.83 The Hinterlands]Tuer *Limaces vertes* et *Limons de jade* \\ [QC2877,1 Nettoyer le rocher de l'Affût] \\ [QC2877,2 Nettoyer le rocher de l'Affût]
+[G 28.1,58.1 The Hinterlands]Fouiller *Plumes d'Indomptable* au sol \\ Ils sont dispersés au sol dans toutes les Hinterlands \\ [QC3661,1 Dans les faveurs d'Elune ?]
+[A IT8704]Utiliser *Balise de détresse OOX-09/HL* pour lancer la quête \\ Accepter [QA485 Trouver OOX-09/HL !][UI8704-]
+[OC][L 49.35,37.66 The Hinterlands]Parler à *Robot guidé OOX-09/HL* \\ Rendre [QT485 Trouver OOX-09/HL !]
+[OC][L 49.35,37.66 The Hinterlands]Parler à *Robot guidé OOX-09/HL* \\ Accepter [QA836 À la rescousse de OOX-09/HL !] \\ (maintenez Maj chez le PNJ, sinon Guidelime accepte la quête immédiatement)
+[OC][L 79.33,61.26 The Hinterlands]Escorter *Robot guidé OOX-09/HL* en lieu sûr \\ Cette quête peut être difficile. Vous devrez affronter des vagues de 3/4 monstres. Ignorer cette étape si c'est trop dur \\ [QC836,1 À la rescousse de OOX-09/HL !]
+[OC]Farmer jusqu'à ce que la recharge de votre pierre de foyer passe sous 6 min
+[OC]Fouiller *Portos Pupellyverbos* au sol \\ [QC580,1 La bibine perdue de Whiskey Slim]
+[G 75.91,63.81,70 The Hinterlands]Utiliser *Le Preneur d'images FX* sur *Gammerita* \\ Cela fera aggro *Gammerita*. Se préparer à fuir après utilisation \\ [QC2944,1 Le Preneur d'images FX][UI9328-]
+[G 77.9,65.5 The Hinterlands]Fouiller *Portos Pupellyverbos* au sol \\ [QC580,1 La bibine perdue de Whiskey Slim]
+[G 80.78,46.82 The Hinterlands]Cliquer sur *Trésor de Cortello* sous l'eau \\ Rendre [QT626 Devinette de Cortello]
+[OC][L 47.2,65.95 The Hinterlands]Farmer jusqu'à ce que votre pierre de foyer soit rechargée
+[OC]Retourner à l'auberge [H Gadgetzan] si votre pierre de foyer y est liée.
+[G 52.51,27.91,150 Tanaris]Retourner à Gadgetzan. Si votre pierre de foyer est indisponible, prenez un vol ou allez-y par la route.
+]==], "RestedXP Forever Speedrun (A) FR")

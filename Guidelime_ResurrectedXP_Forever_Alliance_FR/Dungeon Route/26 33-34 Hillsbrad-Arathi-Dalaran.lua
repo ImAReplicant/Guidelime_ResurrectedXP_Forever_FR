@@ -1,0 +1,96 @@
+Guidelime.registerGuide([==[
+[N 33-34 Hautebrande/Arathi/Dalaran][GL OFF]
+[D Route de leveling RestedXP Forever avec donjons, 1-60. Donjons de cette route : BRD, COD, DM, ES, GNOMER, HOT, MARA, RFC, RFD, ROL, STOCKS, ULDA, ZF. Converti depuis le guide RestedXP pour Guidelime.]
+[GA Alliance]
+[NX 34-35 Mille Pointes]
+[G 10.83,60.4 Wetlands]Parler à *Vincent Hyal* \\ Rendre [QT1301 James Hyal] \\ Accepter [QA1302 James Hyal]
+[O][L 10.6,60.77 Wetlands]Parler à *Mikhail* \\ Accepter cette quête fera *Tapoke "Slim" Jahn* *Camouflage* près de l'entrée de l'auberge et s'enfuir dehors \\ Rendre [QT1248 Un diplomate a disparu] \\ Accepter [QA1249 Un diplomate a disparu] \\ (maintenez Maj chez le PNJ, sinon Guidelime accepte la quête immédiatement) \\ Si vous passez cette chaîne Un diplomate a disparu, cochez ses étapes restantes.
+[O][L 10.79,59.62 Wetlands]Sortir en courant ! \\ Vaincre *Tapoke "Slim" Jahn*. *Ami de Slim* s'enfuira dès que *Tapoke "Slim" Jahn* se rend \\ Utiliser un contrôle (CC) sur *Ami de Slim* si besoin \\ [QC1249,1 Un diplomate a disparu]
+[O][L 10.6,60.77 Wetlands]Parler à *Mikhail* \\ Attendre la fin du roleplay \\ Rendre [QT1249 Un diplomate a disparu]
+[O][L 10.54,60.26 Wetlands]Parler à *Tapoke "Slim" Jahn* \\ Accepter [QA1250 Un diplomate a disparu]
+[O][L 10.6,60.77 Wetlands]Parler à *Mikhail* \\ Rendre [QT1250 Un diplomate a disparu] \\ Accepter [QA1264 Un diplomate a disparu]
+[O]L'attaque de *Assassin ténébreux* sur Austrivage est un événement aléatoire \\ Si vous voyez un *Assassin ténébreux* à Austrivage, tuez-le. Fouillez-le pour *Contrat de l'assassin* \\ Utiliser *Contrat de l'assassin* pour lancer la quête \\ Ignorer cette étape si vous ne voyez pas l'événement \\ Accepter [QA522 Contrat de l'assassin][UI3668-]
+[OC][G 9.49,59.69 Wetlands]Aller à l'endroit indiqué
+[OC][L 9.49,59.69 Wetlands]Parler à *Shellei Brondir* \\ Prendre le vol vers [F]Austrivage[TAR1571-]
+[G 52.42,55.96 Hillsbrad Foothills]Parler à *Darren Malvew* \\ Accepter [QA564 Un problème très coûteux]
+[G 50.57,57.09 Hillsbrad Foothills]Parler à *Maître des traditions Dibbs* \\ Rendre [QT538 Austrivage]
+[G 50.34,59.05 Hillsbrad Foothills]Parler à *Phin Odelic* \\ Accepter [QA659 Les indices d'une Peste nouvelle ?]
+[G 51.46,58.39 Hillsbrad Foothills]Parler à *Lieutenant Farren Orinelle* \\ Accepter [QA536 Le long de la côte]
+[G 51.17,58.93 Hillsbrad Foothills]Parler à *Anderson l'aubergiste* \\ Lier votre pierre de foyer à [S Southshore][TAR2352-]
+[G 48.34,60.15 Hillsbrad Foothills]Parler à *Emissaire Jacques* \\ Accepter [QA92432 Une requête alarmante]
+[G 44.69,67.24 Hillsbrad Foothills]Tuer *Chasses-marée Ailerons déchirés* et *Oracles Ailerons déchirés* \\ [QC536,1 Le long de la côte] \\ [QC536,2 Le long de la côte]
+[G 51.46,58.39 Hillsbrad Foothills]Parler à *Lieutenant Farren Orinelle* \\ Rendre [QT536 Le long de la côte] \\ Accepter [QA559 La preuve de Farren]
+[G 33.19,69.1,50 Hillsbrad Foothills]Tuer *Chasses-marée Ailerons déchirés*, *Oracles Ailerons déchirés*, *Cours-la-côte Ailerons déchirés* et *Marches-boue Ailerons déchirés*. Les fouiller pour leurs *Têtes* \\ [QC559,1 La preuve de Farren]
+[G 51.46,58.39 Hillsbrad Foothills]Parler à *Lieutenant Farren Orinelle* \\ Rendre [QT559 La preuve de Farren] \\ Accepter [QA560 La preuve de Farren]
+[G 49.47,58.73 Hillsbrad Foothills]Parler à *Maréchal Senterouge* \\ Rendre [QT560 La preuve de Farren] \\ Accepter [QA561 La preuve de Farren]
+[G 48.14,59.12 Hillsbrad Foothills]Parler à *Magistrat Henry Maleb* \\ Accepter [QA505 Syndicat d'assassins]
+[OC][L 48.14,59.12 Hillsbrad Foothills]Parler à *Magistrat Henry Maleb* \\ Ne pas accepter la suite \\ Rendre [QT522 Contrat de l'assassin]
+[G 51.46,58.39 Hillsbrad Foothills]Parler à *Lieutenant Farren Orinelle* \\ Rendre [QT561 La preuve de Farren] \\ Accepter [QA562 Hurlevent me voilà]
+[G 56.97,67.01 Hillsbrad Foothills]Tuer *Sirènes Daguéchines* et *Chasseurs du rivage Daguéchines* \\ Vous devrez peut-être nager vers le large pour eux \\ [QC562,1 Hurlevent me voilà] \\ [QC562,2 Hurlevent me voilà]
+[G 51.46,58.39 Hillsbrad Foothills]Parler à *Lieutenant Farren Orinelle* \\ Rendre [QT562 Hurlevent me voilà] \\ Accepter [QA563 Nouvelle affectation]
+[A IT3719][O][L 48.94,55.03 Hillsbrad Foothills]Parler à *Micha Yance* \\ Si vous avez aussi *Rouleau d'étoffe de laine* et prévoyez de fabriquer la cape en fourrure de yéti, achetez 1 *Bobine de fil raffiné*. \\ Récupérer [CI2321,1][TAR2381-]
+[G 48.94,55.03 Hillsbrad Foothills]Parler à *Micha Yance* \\ Acheter 4 *Epices apaisantes* chez lui \\ Récupérer [CI3713,4][TAR2381-]
+[A Hunter][G 49,55.2 Hillsbrad Foothills]Parler à *Sarah Raycroft* à l'étage \\ [V]Racheter *Flèches rasoir* si nécessaire[TAR3541-]
+[A IT3719][O][L 49.43,55.53 Hillsbrad Foothills]Si vous avez à la fois *Cape d'homme des collines* et *Rouleau d'étoffe de laine*, parlez à *Bartolo Ginsetti* et accepter [QA565 La cape en fourrure de yéti de Bartolo]. Sinon cochez cette récupération facultative. Maintenez Maj en parlant à Bartolo pour éviter l'acceptation automatique.
+[OC][L 45.46,31.25 Hillsbrad Foothills]Entrer dans la grotte des yétis de Darrow Hill
+[OC]Commencer à chercher un groupe pour le donjon de Dalaran. Vous le ferez bientôt
+[OC]Tuer *Yetis*. Les fouiller pour leurs *Fur* \\ [QC565,4 La cape en fourrure de yéti de Bartolo]
+[G 44.49,29.74 Hillsbrad Foothills]Fouiller *Granit d'Alterac* au sol \\ *Granit d'Alterac* apparaît dans toute la grotte \\ [QC689,1 Hommage royal]
+[OC][L 44.49,29.74 Hillsbrad Foothills][L 41.6,65 Alterac Mountains][L 36.6,70.6 Alterac Mountains][L 31.2,52.8 Alterac Mountains]Tuer *Yetis*. Les fouiller pour leurs *Fur* \\ Si tous les *Yetis* sont morts dans la grotte, vous pouvez aussi tuer les *Yetis* au nord, autour des monts Alterac \\ [QC565,4 La cape en fourrure de yéti de Bartolo]
+[OC][G 17.85,85.1,70 Alterac Mountains][G 11.31,82.74,70 Alterac Mountains]Suivre les points de passage lime dans l'ordre
+[OC][G 67.99,47.36,50 Silverpine Forest]Se rendre au donjon de Dalaran \\ Ne pas entrer dans Dalaran. L'accès se fait par un égout à l'extérieur, du côté ouest
+[G 68.62,45.13 Silverpine Forest]Parler à *Image de l'archimage Modera* \\ Rendre [QT92432 Une requête alarmante] \\ Accepter [QA92458 Cœur de la perturbation] \\ Accepter [QA92457 Arcanes affamées]
+[G 9.19,60.09,5 Alterac Mountains]Entrer dans le donjon de Dalaran
+[O]Tuer *Vestiges en chasses*, *Vestiges saturés* et *Echos de mana* \\ NOTE : vous ne pourrez peut-être pas terminer cette quête en une seule passe. Envisagez de refaire le donjon, ou abandonnez la quête « Arcanes affamées » \\ [QC92457,1 Arcanes affamées] \\ [QC92457,2 Arcanes affamées] \\ [QC92457,3 Arcanes affamées]
+[OC]Pour *Un échantillon vert*, tuez les *Ancien gangrené* puis cliquer sur *Plante gangrenée*. Pour *Puissance accablante*, tuez les *Enigme arcanique*. [QC92456 Un échantillon vert][QC92489 Puissance accablante]
+Tuer *Ombre de l'archimage*. Le fouiller pour *Granule arcanique* \\ [QC92458,1 Cœur de la perturbation]
+[OC]Tuer *Ancien gangrené*. Cliquer ensuite sur *Plante gangrenée* au sol \\ [QC92456,1 Un échantillon vert]
+Tuer *Enigme arcanique* \\ [QC92489,1 Puissance accablante]
+Tuer *Ancien gangrené*. Cliquer ensuite sur *Plante gangrenée* au sol \\ [QC92456,1 Un échantillon vert]
+[OC]Sortir de l'instance de Dalaran
+[G 68.62,45.13 Silverpine Forest]Parler à *Image de l'archimage Modera* \\ Rendre [QT92458 Cœur de la perturbation]
+[OC][L 68.62,45.13 Silverpine Forest]Si *Arcanes affamées* est prête, parlez à *Image de l'archimage Modera* au même arrêt \\ Rendre [QT92457 Arcanes affamées] \\ Sinon continuez vers Alterac.
+[OC][G 26.54,81.26,20 Alterac Mountains]Passer par ce point de passage
+[OC][G 29.26,79.73,50 Alterac Mountains]Se rendre sur la colline la plus à l'ouest des monts Alterac
+[OC]Tuer *Syndicate Thieves* et *Détrousseurs du Syndicat* \\ Tuer tous les *Syndicate* du camp sur la colline à l'ouest de la route. Cet objectif peut être difficile si vous passez des monstres et devrez revenir en arrière \\ [QC505,1 Syndicat d'assassins] \\ [QC505,2 Syndicat d'assassins]
+[G 58.32,67.95 Alterac Mountains]Cliquer sur *Documents du syndicat* sur la table \\ Accepter [QA510 Documents d'annonce d'attaque] \\ Accepter [QA511 Lettre codée]
+[G 58.31,67.92,90 Alterac Mountains]Tuer *Syndicate Thieves* et *Détrousseurs du Syndicat* \\ [QC505,1 Syndicat d'assassins] \\ [QC505,2 Syndicat d'assassins]
+[G 38.78,91.07,65 Alterac Mountains][L 30.92,84.58 Alterac Mountains]Finir de tuer *Lions des montagnes*. Vérifier la colline la plus à l'ouest s'il en manque, et tuer tous les *Lion des montagnes massif* croisés en chemin. \\ [QC564,1 Un problème très coûteux]
+[G 71.4,68.6 Alterac Mountains][L 75.1,64.4 Alterac Mountains][L 78.7,61.2 Alterac Mountains][L 80.8,55.7 Alterac Mountains][L 83.1,52.2 Alterac Mountains][L 69.8,73.7 Alterac Mountains][L 68.2,77.1 Alterac Mountains][L 69.7,72.7 Alterac Mountains]Tuer *Gueules d'acier*. Les fouiller pour leurs *Viande de tortue* \\ Remonter et descendre la rivière jusqu'à terminer \\ Attention à ne pas croiser *Narillasanz*, un dragon rouge élite niveau 44 qui patrouille parfois dans la zone \\ Récupérer [CI3712,10][TAR2447-]
+[G 78.4,48.1 Alterac Mountains][L 78.1,52.2 Alterac Mountains][L 79.8,50.2 Alterac Mountains][L 64.6,38.3 Alterac Mountains][L 61.8,35.7 Alterac Mountains]Finir de tuer *Lions des montagnes massifs*. S'il n'y en a pas assez pour valider l'objectif, cherchez-en au nord de Strahnbrad \\ Attention à ne pas croiser *Narillasanz*, un dragon rouge élite niveau 44 qui patrouille parfois dans la zone \\ [QC564,2 Un problème très coûteux]
+[G 42.92,85.06 Western Plaguelands]Parler à *Bibilfaz Siffleplume* \\ Prendre le point de vol des Maleterres de l'Ouest [P Chillwind Camp][TAR12596-]
+[A IT2997][OC][L 42.92,85.06 Western Plaguelands]Parler à *Bibilfaz Siffleplume* \\ Prendre le vol vers [F]Austrivage[TAR12596-]
+[A IT2997][O][L 48.94,55.03 Hillsbrad Foothills]Parler à *Micha Yance* \\ Si vous avez *Cape d'homme des collines*, *Rouleau d'étoffe de laine* et 10 *Fourrure de yéti*, achetez les *Bobine de fil raffiné* restants. \\ Récupérer [CI2321,1][TAR2381-]
+[A IT2997<1][OC][L 42.92,85.06 Western Plaguelands]Parler à *Bibilfaz Siffleplume* \\ Prendre le vol vers [F]Austrivage[TAR12596-]
+[G 48.94,55.03 Hillsbrad Foothills]Parler à *Micha Yance* \\ Acheter 1 *Epices apaisantes* chez lui \\ Récupérer [CI3713,1][TAR2381-]
+[OC][L 49.43,55.53 Hillsbrad Foothills]Parler à *Bartolo Ginsetti* \\ Rendre [QT565 La cape en fourrure de yéti de Bartolo]
+[G 50.57,57.09 Hillsbrad Foothills]Parler à *Maître des traditions Dibbs* \\ Rendre [QT511 Lettre codée] \\ Accepter [QA514 Le maître des lettres]
+[A IT3712>9][G 51.88,58.68 Hillsbrad Foothills]Parler à *Chef Jessen* \\ Accepter [QA555 Bisque de tortue apaisante] \\ Rendre [QT555 Bisque de tortue apaisante]
+[G 48.14,59.12 Hillsbrad Foothills]Parler à *Magistrat Henry Maleb* \\ Rendre [QT505 Syndicat d'assassins] \\ Rendre [QT510 Documents d'annonce d'attaque]
+[G 52.42,55.96 Hillsbrad Foothills]Parler à *Darren Malvew* \\ Rendre [QT564 Un problème très coûteux]
+[OC][L 49.34,52.27 Hillsbrad Foothills]À Austrivage, parlez à *Darla Harris* pour prendre le vol vers [F Refuge Pointe] si vous connaissez le point de vol. Sinon prenez la route à l'est par le mur de Thoradin.
+[G 45.73,46.09,40 Arathi Highlands]Se rendre à *Cedrik Prose* à Refuge Pointe. Si vous venez par la route, tournez au nord au panneau de Refuge Pointe.
+[G 45.73,46.09 Arathi Highlands]Parler à *Cedrik Prose* et prendre le [P Refuge Pointe] point de vol. Si vous le connaissez déjà, ouvrez sa carte de vol ou cochez cette étape.[TAR2835-]
+[G 45.83,47.54 Arathi Highlands]Parler à *Capitaine Nials* \\ Pendant le vol, essayez de repérer *Messagère des Réprouvés*. Il parcourt la route de la ferme de Go'Shek à Moulin-de-Tarren. Savoir où il est sera utile pour une quête bientôt \\ Accepter [QA681 Le manoir de Nordclos]
+[G 46.65,47.01 Arathi Highlands]Parler à *Skuerto* \\ Rendre [QT690 La demande de Malin]
+[G 60.19,53.85 Arathi Highlands]Parler à *Quae* \\ Rendre [QT659 Les indices d'une Peste nouvelle ?] \\ Accepter [QA658 Les indices d'une Peste nouvelle ?]
+[A First Aid<151][O][G 26.97,58.83 Arathi Highlands]Se rendre au donjon de Stromgarde pour continuer à monter votre *Secourisme* \\ Suivre la flèche de très près une fois à l'intérieur : il y a beaucoup d'élites dans le donjon \\ Parler à *Deneb Walker* \\ Acheter *Expert en premiers soins - Sous les pansements*, *Manuel : Bandage épais en soie* et *Expert en premiers soins - Sous les pansements* chez lui \\ *Deneb Walker* a aussi des objets à stock limité comme *Manuel : Bandage épais en soie* et *Manuel : Bandage en tisse-mage*, que vous devriez acheter \\ Récupérer [CI16084,1] \\ Récupérer [CI16112,1] \\ Récupérer [CI16113,1][TAR2805-]
+[A Warrior,Paladin,Rogue,Priest,Shaman,Mage,Warlock,Druid][O][G 60.67,60.98 Arathi Highlands][L 59.7,20.2 Hillsbrad Foothills]Tuer *Messagère des Réprouvés*. La fouiller pour son *Documents scellés* \\ *Messagère des Réprouvés* apparaît près de la hutte de l'apothicaire à la ferme de Go'Shek (marqué sur votre carte) et marche jusqu'à Moulin-de-Tarren où il disparaît. \\ Il réapparaît environ toutes les 7 minutes après avoir été tué ou avoir atteint Moulin-de-Tarren \\ [QC658,1 Les indices d'une Peste nouvelle ?]
+[A Hunter][O][G 60.67,60.98 Arathi Highlands][L 59.7,20.2 Hillsbrad Foothills]Tuer *Messagère des Réprouvés*. La fouiller pour son *Documents scellés* \\ *Messagère des Réprouvés* apparaît près de la hutte de l'apothicaire à la ferme de Go'Shek (marqué sur votre carte) et marche jusqu'à Moulin-de-Tarren où il disparaît. \\ Il réapparaît environ toutes les 7 minutes après avoir été tué ou avoir atteint Moulin-de-Tarren \\ Lancer *Œil d'aigle* pour essayer de trouver *Messagère des Réprouvés* \\ Si vous ne les voyez pas en Arathi, cherchez-les à Hillsbrad après le manoir de Northfold \\ [QC658,1 Les indices d'une Peste nouvelle ?]
+[A Human][G 31.13,29.47 Arathi Highlands]Tuer *Syndicate Mercenaries* et *Bandits de grand chemin du Syndicat* \\ Attention : les *Bandits de grand chemin du Syndicat* sont à *Camouflage* et se trouvent autour du manoir de Northfold \\ Lancer *Perception* pour mieux repérer *Bandits de grand chemin du Syndicat* \\ [QC681,1 Le manoir de Nordclos] \\ [QC681,2 Le manoir de Nordclos]
+[A NightElf,Dwarf,Gnome,Skyborne][G 31.13,29.47 Arathi Highlands]Tuer *Syndicate Mercenaries* et *Bandits de grand chemin du Syndicat* \\ Attention : les *Bandits de grand chemin du Syndicat* sont à *Camouflage* et se trouvent autour du manoir de Northfold \\ [QC681,1 Le manoir de Nordclos] \\ [QC681,2 Le manoir de Nordclos]
+[A Hunter][OC]Retourner à l'auberge [H Southshore] \\ Acheter nourriture/eau si nécessaire
+[A Hunter][OC][G 50.41,58.8 Hillsbrad Foothills]Aller à l'endroit indiqué
+[A Hunter][OC][L 50.41,58.8 Hillsbrad Foothills]Parler à *Wesley* \\ Mettre votre familier à l'écurie. Vous apprivoiserez un *Rampant des plaines* bientôt[TAR9978-]
+[A Hunter][L 49.34,52.27 Hillsbrad Foothills][TAR2432-]Parler à *Darla Harris* \\ Prendre le vol vers les Hautes-terres Arathies [F Refuge Pointe]
+[A Hunter][G 46.4,45.6 Arathi Highlands]Parler à *Primono Tintinnabourse* \\ [V]Acheter jusqu'à une pile de *Jarret de cochon sauvage* comme nourriture de familier[TAR15124-]
+[G 45.83,47.54 Arathi Highlands]Parler à *Capitaine Nials* \\ Rendre [QT681 Le manoir de Nordclos]
+[A Hunter][G 41.6,47.8,40 Arathi Highlands][G 41.8,58.6,40 Arathi Highlands][G 49,50.2,40 Arathi Highlands][G 48,58.6 Arathi Highlands]Lancer *Œil d'aigle* pour chercher *Rampant des plaines*. Certains emplacements sont marqués sur votre carte \\ Lancer *Apprivoiser une bête* sur un *Rampant des plaines* pour l'apprivoiser \\ Attaquer des monstres avec pour apprendre *Morsure (rang 5)* \\ Plus d'infos sur l'apprentissage des familiers : https://www.wow-petopia.com/classic/training.php[TAR2563-]
+[OC][L 60.19,53.85 Arathi Highlands]Parler à *Quae* \\ Ne pas faire de détour pour trouver *Messagère des Réprouvés*. Vous pouvez ignorer cette étape et finir plus tard \\ Rendre [QT658 Les indices d'une Peste nouvelle ?]
+[A Druid][OC]Lancer Téléportation : Reflet-de-Lune
+[A Druid][G 52.53,40.56 Moonglade]Se téléporter à Reflet-de-Lune \\ Parler à *Loganaar* \\ [T]Apprendre vos sorts de classe[TAR12042-]
+[A Warrior,Rogue][OC]Retourner à l'auberge [H Southshore] si vous êtes loin du point de vol \\ Acheter de la nourriture si nécessaire
+[A Paladin,Priest,Shaman,Mage,Warlock,Druid][OC]Retourner à l'auberge [H Southshore] si vous êtes loin du point de vol \\ Acheter nourriture/eau si nécessaire
+[A Warrior,Paladin,Rogue,Priest,Shaman,Mage,Warlock,Druid][L 49.34,52.27 Hillsbrad Foothills][L 45.73,46.09 Arathi Highlands][TAR2432-]Parler à *Darla Harris* ou *Cedrik Prose* \\ Prendre le vol vers [F Wetlands]
+[A Hunter][L 45.73,46.09 Arathi Highlands][TAR2835-]Parler à *Cedrik Prose* \\ Prendre le vol vers [F Wetlands]
+]==], "RestedXP Forever Donjons (A) FR")

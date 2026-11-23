@@ -1,0 +1,115 @@
+Guidelime.registerGuide([==[
+[N 53-54 Cratère d'Un'Goro][GL OFF]
+[D Route de leveling RestedXP Forever avec donjons, 1-60. Donjons de cette route : BRD, COD, DM, ES, GNOMER, HOT, MARA, RFC, RFD, ROL, STOCKS, ULDA, ZF. Converti depuis le guide RestedXP pour Guidelime.]
+[GA Alliance]
+[NX 54-55 Gangrebois/Berceau-de-l'Hiver]
+[G 51.06,26.87 Tanaris]Parler à *Saupoudr* \\ Rendre [QT2641 L'ingrédient secret de Sprinkle] \\ Accepter [QA2661 Livraison pour Marin]
+[G 50.89,26.96 Tanaris]Parler à *Alchimiste Pilonzugg* \\ Rendre [QT4493 La marche des silithides] \\ Accepter [QA4496 Fiasco dans la jungle]
+[G 51.81,28.66 Tanaris]Parler à *Marin Brouillecaboche* \\ Rendre [QT2661 Livraison pour Marin] \\ Accepter [QA2662 Elixir Noggenfogger] \\ Rendre [QA2662-][QT2662 Elixir Noggenfogger]
+[G 52.71,45.92 Tanaris]Parler à *Marvon Chercherivet* \\ Rendre [QT3444 Le Cercle de pierres]
+[L 51.01,29.34 Tanaris][TAR7823-]Parler à *Bera Martel-de-pierre* \\ Prendre le vol vers Un'Goro [F Marshal's Refuge]
+[G 43.95,7.14 Un'Goro Crater][G 43.89,7.24 Un'Goro Crater]Parler à *Williden Marshal* et *Hol'anyee Marshal* \\ Accepter [QA3881 Le sauvetage de l'expédition] \\ Accepter [QA3883 Ecologie étrangère]
+[A IT11186>6][G 41.92,2.7 Un'Goro Crater]Parler à *J.D. Collie* \\ Accepter [QA4284 Cristaux de puissance] \\ Rendre [QT4284 Cristaux de puissance] \\ (uniquement si vous avez 7 cristaux de puissance verts : sinon cochez l'étape) \\ (uniquement si vous avez 7 cristaux de puissance bleus : sinon cochez l'étape) \\ (uniquement si vous avez 7 cristaux de puissance jaunes : sinon cochez l'étape)
+[O][L 41.92,2.7 Un'Goro Crater]Parler à *J.D. Collie* \\ Accepter [QA4285 Le Pylône nord] \\ Accepter [QA4287 Le Pylône est] \\ Accepter [QA4288 Le Pylône ouest]
+[G 43.5,7.5 Un'Goro Crater]Parler à *Etincelle Minerien* \\ Accepter [QA3882 Faites rouler les os]
+[G 43.53,8.44 Un'Goro Crater]Cliquer sur *Avis de recherche* \\ Accepter [QA4501 Attention aux pterreurdactyles]
+[G 43.61,8.5 Un'Goro Crater]Parler à *Spraggle Frock* \\ Accepter [QA4492 Perdu !]
+[G 44.23,11.58 Un'Goro Crater]Parler à *Shizzle* \\ Accepter [QA4503 La machine volante de Shizzle]
+[OC][L 45.5,24.5 Un'Goro Crater]Fouiller *Powers Crystals* au sol \\ Terminer ceci maintenant si ce n'est pas déjà fait. Ils sont dispersés au sol dans tout Un'Goro \\ Récupérer [CI11186,7] \\ Récupérer [CI11185,7] \\ Récupérer [CI11184,7] \\ Récupérer [CI11188,7] \\ (ignorer si vous avez déjà rendu Cristaux de puissance)
+[A IT11186>6][G 41.92,2.7 Un'Goro Crater]Parler à *J.D. Collie* \\ Accepter [QA4284 Cristaux de puissance] \\ Rendre [QT4284 Cristaux de puissance] \\ (uniquement si vous avez 7 cristaux de puissance verts : sinon cochez l'étape) \\ (uniquement si vous avez 7 cristaux de puissance bleus : sinon cochez l'étape) \\ (uniquement si vous avez 7 cristaux de puissance jaunes : sinon cochez l'étape)
+[O][L 41.92,2.7 Un'Goro Crater]Parler à *J.D. Collie* \\ Accepter [QA4285 Le Pylône nord] \\ Accepter [QA4287 Le Pylône est] \\ Accepter [QA4288 Le Pylône ouest]
+[OC]En allant au pylône de cristal nord, chassez *Dimeurtrodons* et *Jeunes dimeurtrodons*. Les fouiller pour leurs *Os de dinosaure* et *Écailles de diémétradon membraneuses* \\ [QC3882,1 Faites rouler les os] \\ [QC4503,1 La machine volante de Shizzle] \\ Tuer *Pterreurdactyles* et *Petits pterreurdactyles*. Les fouiller pour leurs *Écailles de ptérodactyle membraneuses* \\ [QC4503,2 La machine volante de Shizzle]
+[G 56.5,12.49 Un'Goro Crater]Cliquer sur *Pylône de cristal nord* \\ [QC4285,1 Le Pylône nord]
+[G 65.47,16.48 Un'Goro Crater]Tuer *Gorilles d'Un'Goro*, *Marteleurs d'Un'Goro* et *Foudroyeur d'Un'Goro*. Les fouiller pour leurs *Peaux* \\ [QC4289,1 Les gorilles d'Un'Goro] \\ [QC4289,2 Les gorilles d'Un'Goro] \\ [QC4289,3 Les gorilles d'Un'Goro]
+[OC]En traversant le cratère à l'est, chassez *Pterreurdactyles* et *Petits pterreurdactyles*. Les fouiller pour leurs *Écailles de ptérodactyle membraneuses* \\ [QC4503,2 La machine volante de Shizzle] \\ Tuer *Dimeurtrodons* et *Jeunes dimeurtrodons*. Les fouiller pour leurs *Os de dinosaure* et *Écailles de diémétradon membraneuses* \\ [QC3882,1 Faites rouler les os] \\ [QC4503,1 La machine volante de Shizzle]
+[G 68.54,36.54 Un'Goro Crater]Fouiller *Caisse de nourriture* au sol \\ [QC3881,1 Le sauvetage de l'expédition]
+[G 77.22,49.98 Un'Goro Crater]Cliquer sur *Pylône de cristal est* \\ [QC4287,1 Le Pylône est]
+[A IT11510<1][OR][G 79.93,49.9 Un'Goro Crater]Ouvrir *Sacoche de Torwa* et prendre *Sacoche de Torwa* pour la dalle de pierre. [QC4292,1 -][CI11569,1][UI11568-]
+[A IT11510<1][OR][G 79.93,49.9 Un'Goro Crater]Ouvrir *Sacoche de Torwa* et prendre *Sacoche de Torwa* pour la dalle de pierre. [QC4292,1 -][CI11570,1][UI11568-]
+[OR][G 79.93,49.9 Un'Goro Crater]Utiliser *Sacoche de Torwa* sur la dalle de pierre, puis *Sacoche de Torwa* dessus pour invoquer *Lar'korwi* \\ Tuer *Lar'korwi*. Le fouiller pour sa *Tête* \\ [QC4292,1 Un appât pour Lar'korwi][CI11510,1-][UI11568-][UI11569-][UI11570-]
+[G 71.64,75.96 Un'Goro Crater]Parler à *Torwa le Guide* \\ Rendre [QT4289 Les gorilles d'Un'Goro] \\ Accepter [QA4301 Le puissant U'cha] \\ Rendre [QT4292 Un appât pour Lar'korwi]
+[A IT280459][G 71.64,75.96 Un'Goro Crater]Parler à *Torwa le Guide* \\ Utiliser *Écaille imprégnée de cristal* pour lancer la quête \\ Accepter [QA87494 Contamination microcristalline] \\ Rendre [QT87494 Contamination microcristalline][UI280459-]
+[G 71.64,75.96 Un'Goro Crater]Parler à *Torwa le Guide* \\ Accepter [QA87492 Cristal insolite]
+[G 66.17,75.16 Un'Goro Crater]Fouiller *Cristal bleu abîmé* au sol \\ [QC87492,1 Cristal insolite]
+[OC]À l'ouest du camp de Torwa, chassez *Dimeurtrodons* et *Jeunes dimeurtrodons*. Les fouiller pour leurs *Os de dinosaure* et *Écailles de diémétradon membraneuses* \\ [QC3882,1 Faites rouler les os] \\ [QC4503,1 La machine volante de Shizzle]
+[G 44.3,90.4,40 Un'Goro Crater]Tuer *Pterreurdactyles*. Les fouiller pour leurs *Écailles de ptérodactyle membraneuses* \\ Inutile de réunir tous les *Écailles de ptérodactyle membraneuses* maintenant \\ [QC4501,1 Attention aux pterreurdactyles] \\ *La machine volante de Shizzle* (facultatif)
+[OC][G 49.93,81.7,70 Un'Goro Crater]Entrer dans la ruche de la Cicatrice glissante
+[O]Dans la ruche, tuez *Appât de Reine Gorishi* pour leurs *Glande olfactive gorishi* si vous êtes sur *Fiasco dans la jungle*. Si vous êtes sur *Ecologie étrangère*, utilisez *Unused Scraping Vial* dans la salle circulaire. \\ [QC4496,1 Fiasco dans la jungle][QC3883,1-]
+[G 48.67,85.32 Un'Goro Crater]Entrer dans la ruche de la Cicatrice glissante \\ Utiliser *Unused Scraping Vial* au centre de la salle circulaire \\ [QC3883,1 Ecologie étrangère]
+[G 48.8,85.3 Un'Goro Crater]Tuer *Appât de Reine Gorishi*. Les fouiller pour leurs *Glande olfactive gorishi* \\ [QC4496,1 Fiasco dans la jungle]
+[OC]En allant au matériel de recherche, chassez *Dimeurtrodons* et *Anciens dimeurtrodons*. Les fouiller pour leurs *Os de dinosaure* et *Écailles de diémétradon membraneuses* \\ [QC3882,1 Faites rouler les os] \\ [QC4503,1 La machine volante de Shizzle] \\ Tuer *Pterreurdactyles frénétiques*. Les fouiller pour leurs *Écailles de ptérodactyle membraneuses* \\ [QC4501,2 Attention aux pterreurdactyles] \\ [QC4503,2 La machine volante de Shizzle]
+[G 38.46,66.07 Un'Goro Crater]Fouiller *Equipement de recherche* au sol \\ [QC3881,2 Le sauvetage de l'expédition]
+[G 30.93,50.44 Un'Goro Crater]Parler à *Krakle* \\ Accepter [QA974 À la recherche de la source]
+[G 23.83,59.2 Un'Goro Crater]Cliquer sur *Pylône de cristal ouest* \\ [QC4288,1 Le Pylône ouest]
+[OC]À l'ouest du pylône de cristal ouest, chassez *Dimeurtrodons* et *Anciens dimeurtrodons*. Les fouiller pour leurs *Os de dinosaure* et *Écailles de diémétradon membraneuses* \\ [QC3882,1 Faites rouler les os] \\ [QC4503,1 La machine volante de Shizzle]
+[G 24.6,61.6 Un'Goro Crater][L 22.2,41 Un'Goro Crater]Fouiller *Écailles de ptérodactyle membraneuses* sur *Pterreurdactyles frénétiques* pour *La machine volante de Shizzle* \\ [QC4503,2 La machine volante de Shizzle]
+[G 24.6,61.6 Un'Goro Crater]Tuer *Pterreurdactyles frénétiques*. [QC4501,2 Attention aux pterreurdactyles]
+[G 28.4,60.8 Un'Goro Crater][L 31.04,77.7 Un'Goro Crater]Fouiller *Écailles de diémétradon membraneuses* sur les *Dimeurtrodons* et *Anciens dimeurtrodons* pour *La machine volante de Shizzle* \\ [QC4503,1 La machine volante de Shizzle]
+[G 28.4,60.8 Un'Goro Crater][L 31.04,77.7 Un'Goro Crater]Récolter *Os de dinosaure* sur les diémétradons ou au sol à l'emplacement marqué au sud-ouest. [QC3882,1 Faites rouler les os]
+[OC][G 47.1,47.1,10 Un'Goro Crater][G 47.7,48.3,10 Un'Goro Crater][G 48.2,50.1,10 Un'Goro Crater][G 48.67,49.33,15 Un'Goro Crater][G 48.02,47.05,10 Un'Goro Crater]Suivre les points de passage lime dans l'ordre
+[OC][G 48.81,45.94,10 Un'Goro Crater]Monter le sentier de lave de la crête de la Colonne de feu pour un raccourci vers le sommet. Suivre la flèche précisément
+[G 49.63,45.69 Un'Goro Crater]Utiliser *Thermomètre de Krakle* au sommet de la crête de la Colonne de feu, au point chaud \\ [QC974,1 À la recherche de la source][UI12472-]
+[G 30.93,50.44 Un'Goro Crater]Parler à *Krakle* \\ Rendre [QT974 À la recherche de la source] \\ Accepter [QA980 Les nouvelles sources]
+[G 49.8,53.4 Un'Goro Crater]Tuer *Elémentaires de brûlure* et *Brasiers vivants*. Les fouiller pour leurs *Ash* \\ [QC4502,1 Activité volcanique]
+[G 51.91,49.87 Un'Goro Crater]Parler à *Ringo* \\ Rendre [QT4492 Perdu !] \\ Accepter [QA4491 Un peu d'aide de mes amis] \\ Cela lancera une quête d'escorte \\ (maintenez Maj chez le PNJ, sinon Guidelime accepte la quête immédiatement)
+[G 43.62,8.5 Un'Goro Crater]Escorter *Ringo* jusqu'au refuge de Marshal \\ Utiliser *Gourde de Spraggle* sur lui quand il s'évanouit et cesse de vous suivre \\ [QC4491,1 Un peu d'aide de mes amis][UI11804-]
+[G 43.62,8.5 Un'Goro Crater]Parler à *Spraggle Frock* \\ Rendre [QT4491 Un peu d'aide de mes amis] \\ Rendre [QT4501 Attention aux pterreurdactyles]
+[G 43.5,7.42 Un'Goro Crater]Parler à *Etincelle Minerien* \\ Rendre [QT3882 Faites rouler les os]
+[G 43.89,7.24 Un'Goro Crater][G 43.95,7.14 Un'Goro Crater]Parler à *Williden Marshal* et *Hol'anyee Marshal* \\ Rendre [QT3883 Ecologie étrangère] \\ Rendre [QT3881 Le sauvetage de l'expédition]
+[A IT11116][G 43.95,7.14 Un'Goro Crater]Parler à *Williden Marshal* \\ Utiliser *Un journal abîmé* pour lancer la quête \\ Récupérer 1x *Un journal abîmé* \\ Accepter [QA3884 Le journal de Williden] \\ Rendre [QT3884 Le journal de Williden][UI11116-]
+[G 41.92,2.7 Un'Goro Crater]Parler à *J.D. Collie* \\ Rendre [QT4285 Le Pylône nord] \\ Rendre [QT4287 Le Pylône est] \\ Rendre [QT4288 Le Pylône ouest] \\ Accepter [QA4321 Ceci explique cela] \\ Rendre [QA4321-][QT4321 Ceci explique cela]
+[G 44.23,11.59 Un'Goro Crater]Parler à *Shizzle* \\ Rendre [QT4503 La machine volante de Shizzle]
+[O]Détruire *Manuel d'utilisateur de Pylône de cristal* [CI11482,0-]
+[G 46.38,13.44 Un'Goro Crater]Parler à *Karna Songerrance* \\ Accepter [QA4243 À la poursuite d'A-mi 01]
+[OC][G 63.66,16.56 Un'Goro Crater]Se rendre à Fungal Rock
+[A IT10561<1][G 67.66,16.76 Un'Goro Crater]Parler à *A-mi 01* \\ Rendre [QT4243 À la poursuite d'A-mi 01]
+[A IT10561][G 67.66,16.76 Un'Goro Crater]Parler à *A-mi 01* \\ Ne pas accepter encore la suite \\ Rendre [QT4243 À la poursuite d'A-mi 01]
+[G 68.49,12.18 Un'Goro Crater]Tuer *U'cha*. Le fouiller pour son *Pelt* \\ [QC4301,1 Le puissant U'cha]
+[A IT10561][G 67.66,16.76 Un'Goro Crater]Parler à *A-mi 01* \\ Accepter [QA4244 À la poursuite d'A-mi 01] \\ Rendre [QT4244 À la poursuite d'A-mi 01]
+[O][L 67.66,16.76 Un'Goro Crater]Si vous avez réparé *A-mi 01* et que l'escorte est proposée, acceptez [QA4245 À la poursuite d'A-mi 01] \\ Cocher cette étape si vous reportez l'escorte.
+[OC][L 46.38,13.44 Un'Goro Crater]Escorter *A-mi 01* jusqu'à *Karna Songerrance* au refuge de Marshal \\ [QC4245,1 À la poursuite d'A-mi 01]
+[OC]Parler à *Karna Songerrance* \\ Rendre [QT4245 À la poursuite d'A-mi 01]
+[OC][L 45.5,24.5 Un'Goro Crater]Fouiller *Humus d'Un'Goro* au sol \\ Récupérer [CI11018,25] \\ (uniquement si vous n'avez pas fait La terre d'Un'Goro)
+[G 71.64,75.96 Un'Goro Crater]Fouiller *Humus d'Un'Goro* au sol \\ [QC4496,2 Fiasco dans la jungle] \\ Parler à *Torwa le Guide* \\ Rendre [QT4301 Le puissant U'cha]
+[OC][G 71.64,75.96 Un'Goro Crater]Parler à *Torwa le Guide* \\ Rendre [QT87492 Cristal insolite]
+[A IT280459][G 71.64,75.96 Un'Goro Crater]Parler à *Torwa le Guide* \\ Utiliser *Écaille imprégnée de cristal* pour lancer la quête \\ Accepter [QA87494 Contamination microcristalline] \\ Rendre [QT87494 Contamination microcristalline][UI280459-]
+[OC]Retourner en courant à Gadgetzan, à Tanaris
+[A Softcore][OC]Mourir et réapparaissez auprès du Gardien des esprits de Gadgetzan une fois à Tanaris[TAR6491-]
+[G 50.89,26.96 Tanaris]Parler à *Alchimiste Pilonzugg* \\ Rendre [QT4496 Fiasco dans la jungle]
+[OC][G 52.3,28.92 Tanaris]Aller à l'endroit indiqué
+[OC][L 52.3,28.92 Tanaris]Parler à *Vribleronce* \\ Retirer les objets suivants de votre banque : \\ *Fiole d'Eridan* \\ *Balise cénarienne* \\ *Eau de puits de lune purifiée* \\ *Plumes de chouettard lunaires* (si vous les avez)[TAR7799-]
+[A Warrior,Rogue]Retourner à l'auberge [H Ratchet] \\ Acheter de la nourriture si nécessaire
+[A Paladin,Hunter,Priest,Shaman,Mage,Warlock,Druid]Retourner à l'auberge [H Ratchet] \\ Acheter nourriture/eau si nécessaire
+[G 62.45,38.73 The Barrens]Parler à *Liv Rafistolier* \\ Rendre [QT4502 Activité volcanique]
+[G 65.83,43.78 The Barrens]Parler à *Islen Oeil-des-rivières* \\ Accepter [QA5159 L'eau purifiée retourne à Gangrebois]
+[A Druid][OC]Lancer Téléportation : Reflet-de-Lune
+[A Druid][G 52.53,40.56 Moonglade]Se téléporter à Reflet-de-Lune \\ Parler à *Loganaar* \\ [T]Apprendre vos sorts de classe[TAR12042-]
+[A Druid][OC][G 44.15,45.22 Moonglade]Aller à l'endroit indiqué
+[A Druid][OC][L 44.15,45.22 Moonglade]Parler à *Silva Fil'naveth* \\ Prendre le vol vers Teldrassil[TAR11800-]
+[A Mage][OC]Se téléporter à Darnassus
+[A Warrior,Paladin,Hunter,Rogue,Priest,Shaman,Warlock][L 63.08,37.16 The Barrens][TAR16227-]Parler à *Bragok* \\ Prendre le vol vers [F Teldrassil]
+[A Warrior,Paladin,Hunter,Rogue,Priest,Shaman,Warlock,Druid][OC][G 55.89,89.46 Teldrassil]Prendre le portail violet vers Darnassus. Ne pas rendre encore les quêtes du village de Rut'theran
+[A Mage][OC][L 55.89,89.46 Teldrassil]Prendre le portail violet vers Darnassus. Ne pas rendre encore les quêtes du village de Rut'theran
+[A Warrior,Paladin,Rogue,Priest,Shaman,Mage,Warlock,Druid][O]Parler à *Héraut Traquelune* \\ *Héraut Traquelune* patrouille dans tout Darnassus \\ Accepter [QA1047 La nouvelle frontière]
+[A Hunter][O]Parler à *Héraut Traquelune* \\ *Héraut Traquelune* patrouille dans tout Darnassus \\ Lancer *Œil d'aigle* pour la trouver plus vite \\ Accepter [QA1047 La nouvelle frontière]
+[O][G 64.02,23 Darnassus]Parler à *Raedon Heurtebrune* \\ Faire les quêtes de tissu de Darnassus. Il vous faudra 3 piles de chaque tissu. Ignorer cette étape si vous ne pouvez pas toutes les faire \\ Rendre [QA7792-][QT7792 Un don de laine] \\ Rendre [QA7798-][QT7798 Un don de soie] \\ Rendre [QA7799-][QT7799 Un don de tisse-mage] \\ Rendre [QA7800-][QT7800 Un don d'étoffe runique]
+[G 39.31,84.67 Darnassus]Utiliser *Fiole d'Eridan* au puits de lune dans le temple de la Lune \\ [QC4441,1 Anciens corrompus][UI11682-]
+[A Priest][G 37.9,82.74 Darnassus]Parler à *Jandria* \\ [T]Apprendre vos sorts de classe[TAR4091-]
+[A Warrior][G 58.72,34.91 Darnassus]Parler à *Arias'ta Chantelame* \\ [T]Apprendre vos sorts de classe[TAR4087-]
+[G 67.43,15.66 Darnassus]Parler à *Saelienne l'aubergiste* \\ Accepter [QA3763 L'aide à l'archidruide Staghelm]
+[A Warrior,Paladin,Rogue,Priest,Shaman,Mage,Warlock,Druid][G 36.6,42.4,60 Darnassus][G 37.6,16.2,60 Darnassus][G 52.6,19.2,60 Darnassus][G 56.6,8.8,50 Darnassus][G 65.4,15.8,50 Darnassus][G 60.8,23.4,50 Darnassus][G 62.4,55.6,50 Darnassus][G 68,59.2,50 Darnassus][G 63.8,72.2,50 Darnassus][G 60.2,67.8,50 Darnassus][G 49.2,80.8,50 Darnassus][G 39.6,74.6,50 Darnassus][G 38.6,47,50 Darnassus][G 61.6,40.6 Darnassus]Parler à *Héraut Traquelune* \\ *Héraut Traquelune* patrouille dans tout Darnassus \\ Accepter [QA1047 La nouvelle frontière]
+[A Hunter][G 36.6,42.4,60 Darnassus][G 37.6,16.2,60 Darnassus][G 52.6,19.2,60 Darnassus][G 56.6,8.8,50 Darnassus][G 65.4,15.8,50 Darnassus][G 60.8,23.4,50 Darnassus][G 62.4,55.6,50 Darnassus][G 68,59.2,50 Darnassus][G 63.8,72.2,50 Darnassus][G 60.2,67.8,50 Darnassus][G 49.2,80.8,50 Darnassus][G 39.6,74.6,50 Darnassus][G 38.6,47,50 Darnassus][G 61.6,40.6 Darnassus]Parler à *Héraut Traquelune* \\ *Héraut Traquelune* patrouille dans tout Darnassus \\ Lancer *Œil d'aigle* pour la trouver plus vite \\ Accepter [QA1047 La nouvelle frontière]
+[G 34.81,9.26 Darnassus]Parler à *Archidruide Fandral Forteramure* au sommet de l'arbre \\ Rendre [QT3763 L'aide à l'archidruide Staghelm] \\ Accepter [QA3764 La terre d'Un'Goro] \\ Rendre [QT1047 La nouvelle frontière] \\ Accepter [QA6761 La nouvelle frontière]
+[G 31.48,8.24 Darnassus]Parler à *Jenal* \\ Rendre [QT3764 La terre d'Un'Goro]
+[G 34.81,9.26 Darnassus]Parler à *Archidruide Fandral Forteramure* au sommet de l'arbre \\ Accepter [QA3781 La recherche sur la Fibre d'aurore]
+[G 35.37,8.4 Darnassus]Parler à *Mathrengyl Pasdelours* à l'étage intermédiaire \\ Rendre [QT3781 La recherche sur la Fibre d'aurore] \\ Rendre [QT6761 La nouvelle frontière] \\ Accepter [QA6762 Rabine Saturna]
+[A Druid][G 35.37,8.4 Darnassus]Parler à *Mathrengyl Pasdelours* \\ [T]Apprendre vos sorts de classe[TAR4217-]
+[A Rogue][G 31.21,17.72,8 Darnassus][G 36.99,21.9 Darnassus]Parler à *Syurna* \\ [T]Apprendre vos sorts de classe[TAR4163-]
+[A Hunter][G 40.38,8.55 Darnassus]Parler à *Jocaste* \\ [T]Apprendre vos sorts de classe[TAR4146-]
+[OC][L 29.47,41.4 Darnassus]Prendre le portail violet vers le village de Rut'theran
+[O][L 55.5,92.05 Teldrassil]Parler à *Erelas Ambreciel* \\ Rendre [QT978 Les Indomptables lunaires]
+[G 55.5,92.05 Teldrassil]Parler à *Erelas Ambreciel* \\ Accepter [QA978 Les Indomptables lunaires]
+[OC][L 55.5,92.05 Teldrassil]Parler à *Erelas Ambreciel* \\ Accepter [QA979 Trouver Ranshalla]
+[G 55.09,91.67,10 Teldrassil][G 55.41,92.23 Teldrassil]Parler à *Daryn Calmevent* à l'étage \\ Accepter [QA5250 Pluie-d'Etoiles]
+[L 58.4,94.02 Teldrassil][TAR3838-]Parler à *Vesprystus* \\ Prendre le vol vers [F Felwood]
+]==], "RestedXP Forever Donjons (A) FR")

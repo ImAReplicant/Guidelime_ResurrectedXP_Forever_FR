@@ -1,0 +1,115 @@
+Guidelime.registerGuide([==[
+[N 53-54 UnGoro Crater][GL OFF]
+[D RestedXP Forever leveling route that includes dungeon runs, 1-60. Dungeons in this route: BRD, COD, DM, ES, GNOMER, HOT, MARA, RFC, RFD, ROL, STOCKS, ULDA, ZF. Converted from the RestedXP guide for Guidelime.]
+[GA Alliance]
+[NX 54-55 Felwood/Winterspring]
+[G 51.06,26.87 Tanaris]Talk to *Sprinkle* \\ Turn in [QT2641 Sprinkle's Secret Ingredient] \\ Accept [QA2661 Delivery for Marin]
+[G 50.89,26.96 Tanaris]Talk to *Alchemist Pestlezugg* \\ Turn in [QT4493 March of the Silithid] \\ Accept [QA4496 Bungle in the Jungle]
+[G 51.81,28.66 Tanaris]Talk to *Marin Noggenfogger* \\ Turn in [QT2661 Delivery for Marin] \\ Accept [QA2662 Noggenfogger Elixir] \\ Turn in [QA2662-][QT2662 Noggenfogger Elixir]
+[G 52.71,45.92 Tanaris]Talk to *Marvon Rivetseeker* \\ Turn in [QT3444 The Stone Circle]
+[L 51.01,29.34 Tanaris][TAR7823-]Talk to *Bera Stonehammer* \\ Fly to Un'Goro [F Marshal's Refuge]
+[G 43.95,7.14 Un'Goro Crater][G 43.89,7.24 Un'Goro Crater]Talk to *Williden Marshal* and *Hol'anyee Marshal* \\ Accept [QA3881 Expedition Salvation] \\ Accept [QA3883 Alien Ecology]
+[A IT11186>6][G 41.92,2.7 Un'Goro Crater]Talk to *J.D. Collie* \\ Accept [QA4284 Crystals of Power] \\ Turn in [QT4284 Crystals of Power] \\ (Only if you have 7 Green Power Crystal: otherwise tick it off) \\ (Only if you have 7 Blue Power Crystal: otherwise tick it off) \\ (Only if you have 7 Yellow Power Crystal: otherwise tick it off)
+[O][L 41.92,2.7 Un'Goro Crater]Talk to *J.D. Collie* \\ Accept [QA4285 The Northern Pylon] \\ Accept [QA4287 The Eastern Pylon] \\ Accept [QA4288 The Western Pylon]
+[G 43.5,7.5 Un'Goro Crater]Talk to *Spark Nilminer* \\ Accept [QA3882 Roll the Bones]
+[G 43.53,8.44 Un'Goro Crater]Click the *Wanted Poster* \\ Accept [QA4501 Beware of Pterrordax]
+[G 43.61,8.5 Un'Goro Crater]Talk to *Spraggle Frock* \\ Accept [QA4492 Lost!]
+[G 44.23,11.58 Un'Goro Crater]Talk to *Shizzle* \\ Accept [QA4503 Shizzle's Flyer]
+[OC][L 45.5,24.5 Un'Goro Crater]Loot *Power Crystals* on the ground \\ Complete this now if you haven't done so already. They are scattered on the ground throughout Un'Goro \\ Collect [CI11186,7] \\ Collect [CI11185,7] \\ Collect [CI11184,7] \\ Collect [CI11188,7] \\ (Skip if you already turned in Crystals of Power)
+[A IT11186>6][G 41.92,2.7 Un'Goro Crater]Talk to *J.D. Collie* \\ Accept [QA4284 Crystals of Power] \\ Turn in [QT4284 Crystals of Power] \\ (Only if you have 7 Green Power Crystal: otherwise tick it off) \\ (Only if you have 7 Blue Power Crystal: otherwise tick it off) \\ (Only if you have 7 Yellow Power Crystal: otherwise tick it off)
+[O][L 41.92,2.7 Un'Goro Crater]Talk to *J.D. Collie* \\ Accept [QA4285 The Northern Pylon] \\ Accept [QA4287 The Eastern Pylon] \\ Accept [QA4288 The Western Pylon]
+[OC]On the way to the Northern Crystal Pylon, hunt *Diemetradons* and *Young Diemetradons*. Loot them for their *Dinosaur Bones* and *Webbed Diemetradon Scales* \\ [QC3882,1 Roll the Bones] \\ [QC4503,1 Shizzle's Flyer] \\ Kill *Pterrordaxes* and *Fledgling Pterrordaxes*. Loot them for their *Webbed Pterrordax Scales* \\ [QC4503,2 Shizzle's Flyer]
+[G 56.5,12.49 Un'Goro Crater]Click the *Northern Crystal Pylon* \\ [QC4285,1 The Northern Pylon]
+[G 65.47,16.48 Un'Goro Crater]Kill *Un'Goro Gorillas*, *Un'Goro Stompers* and *Un'Goro Thunderer*. Loot them for their *Pelts* \\ [QC4289,1 The Apes of Un'Goro] \\ [QC4289,2 The Apes of Un'Goro] \\ [QC4289,3 The Apes of Un'Goro]
+[OC]As you cross the eastern crater, hunt *Pterrordaxes* and *Fledgling Pterrordaxes*. Loot them for their *Webbed Pterrordax Scales* \\ [QC4503,2 Shizzle's Flyer] \\ Kill *Diemetradons* and *Young Diemetradons*. Loot them for their *Dinosaur Bones* and *Webbed Diemetradon Scales* \\ [QC3882,1 Roll the Bones] \\ [QC4503,1 Shizzle's Flyer]
+[G 68.54,36.54 Un'Goro Crater]Loot the *Crate of Foodstuffs* on the ground \\ [QC3881,1 Expedition Salvation]
+[G 77.22,49.98 Un'Goro Crater]Click the *Eastern Crystal Pylon* \\ [QC4287,1 The Eastern Pylon]
+[A IT11510<1][OR][G 79.93,49.9 Un'Goro Crater]Open *Torwa's Pouch* and take the *Preserved Threshadon Meat* for the stone slab. [QC4292,1 -][CI11569,1][UI11568-]
+[A IT11510<1][OR][G 79.93,49.9 Un'Goro Crater]Open *Torwa's Pouch* and take the *Preserved Pheromone Mixture* for the stone slab. [QC4292,1 -][CI11570,1][UI11568-]
+[OR][G 79.93,49.9 Un'Goro Crater]Use the *Preserved Threshadon Meat* on the stone-slab, then use the *Preserved Pheromone Mixture* on it to summon *Lar'korwi* \\ Kill *Lar'korwi*. Loot him for his *Head* \\ [QC4292,1 The Bait for Lar'korwi][CI11510,1-][UI11568-][UI11569-][UI11570-]
+[G 71.64,75.96 Un'Goro Crater]Talk to *Torwa Pathfinder* \\ Turn in [QT4289 The Apes of Un'Goro] \\ Accept [QA4301 The Mighty U'cha] \\ Turn in [QT4292 The Bait for Lar'korwi]
+[A IT280459][G 71.64,75.96 Un'Goro Crater]Talk to *Torwa Pathfinder* \\ Use the *Crystal Infused Scale* to start the quest \\ Accept [QA87494 Microcrystal Contamination] \\ Turn in [QT87494 Microcrystal Contamination][UI280459-]
+[G 71.64,75.96 Un'Goro Crater]Talk to *Torwa Pathfinder* \\ Accept [QA87492 Uncanny Crystal]
+[G 66.17,75.16 Un'Goro Crater]Loot the *Damaged Blue Crystal* on the ground \\ [QC87492,1 Uncanny Crystal]
+[OC]West of Torwa's camp, hunt *Diemetradons* and *Young Diemetradons*. Loot them for their *Dinosaur Bones* and *Webbed Diemetradon Scales* \\ [QC3882,1 Roll the Bones] \\ [QC4503,1 Shizzle's Flyer]
+[G 44.3,90.4,40 Un'Goro Crater]Kill *Pterrordaxes*. Loot them for their *Webbed Pterrordax Scales* \\ You don't need to collect all *Webbed Pterrordax Scales* right now \\ [QC4501,1 Beware of Pterrordax] \\ *Shizzle's Flyer* (optional)
+[OC][G 49.93,81.7,70 Un'Goro Crater]Enter The Slithering Scar Hive
+[O]Inside the hive, kill *Gorishi* for their *Gorishi Scent Gland* if you are on *Bungle in the Jungle*. If you are on *Alien Ecology*, use the *Unused Scraping Vial* in the circular room. \\ [QC4496,1 Bungle in the Jungle][QC3883,1-]
+[G 48.67,85.32 Un'Goro Crater]Enter The Slithering Scar Hive \\ Use the *Unused Scraping Vial* in the centre of the circular room \\ [QC3883,1 Alien Ecology]
+[G 48.8,85.3 Un'Goro Crater]Kill the *Gorishi*. Loot them for their *Gorishi Scent Gland* \\ [QC4496,1 Bungle in the Jungle]
+[OC]On the way to the Research Equipment, hunt *Diemetradons* and *Elder Diemetradons*. Loot them for their *Dinosaur Bones* and *Webbed Diemetradon Scales* \\ [QC3882,1 Roll the Bones] \\ [QC4503,1 Shizzle's Flyer] \\ Kill *Frenzied Pterrordaxes*. Loot them for their *Webbed Pterrordax Scales* \\ [QC4501,2 Beware of Pterrordax] \\ [QC4503,2 Shizzle's Flyer]
+[G 38.46,66.07 Un'Goro Crater]Loot the *Research Equipment* on the ground \\ [QC3881,2 Expedition Salvation]
+[G 30.93,50.44 Un'Goro Crater]Talk to *Krakle* \\ Accept [QA974 Finding the Source]
+[G 23.83,59.2 Un'Goro Crater]Click the *Western Crystal Pylon* \\ [QC4288,1 The Western Pylon]
+[OC]West of the Western Crystal Pylon, hunt *Diemetradons* and *Elder Diemetradons*. Loot them for their *Dinosaur Bones* and *Webbed Diemetradon Scales* \\ [QC3882,1 Roll the Bones] \\ [QC4503,1 Shizzle's Flyer]
+[G 24.6,61.6 Un'Goro Crater][L 22.2,41 Un'Goro Crater]Loot *Webbed Pterrordax Scales* from *Frenzied Pterrordaxes* for *Shizzle's Flyer* \\ [QC4503,2 Shizzle's Flyer]
+[G 24.6,61.6 Un'Goro Crater]Kill *Frenzied Pterrordaxes*. [QC4501,2 Beware of Pterrordax]
+[G 28.4,60.8 Un'Goro Crater][L 31.04,77.7 Un'Goro Crater]Loot *Webbed Diemetradon Scales* from *Diemetradons* and *Elder Diemetradons* for *Shizzle's Flyer* \\ [QC4503,1 Shizzle's Flyer]
+[G 28.4,60.8 Un'Goro Crater][L 31.04,77.7 Un'Goro Crater]Collect *Dinosaur Bones* from Diemetradons or the ground at the marked southwest location. [QC3882,1 Roll the Bones]
+[OC][G 47.1,47.1,10 Un'Goro Crater][G 47.7,48.3,10 Un'Goro Crater][G 48.2,50.1,10 Un'Goro Crater][G 48.67,49.33,15 Un'Goro Crater][G 48.02,47.05,10 Un'Goro Crater]Follow the lime waypoints in order
+[OC][G 48.81,45.94,10 Un'Goro Crater]Travel up the Lava Path of Fire Plume Ridge for a shortcut to the top. Follow the Arrow precisely
+[G 49.63,45.69 Un'Goro Crater]Use *Krakle's Thermometer* atop Fire Plume Ridge at the Hot Spot \\ [QC974,1 Finding the Source][UI12472-]
+[G 30.93,50.44 Un'Goro Crater]Talk to *Krakle* \\ Turn in [QT974 Finding the Source] \\ Accept [QA980 The New Springs]
+[G 49.8,53.4 Un'Goro Crater]Kill *Scorching Elementals* and *Living Blazes*. Loot them for their *Ash* \\ [QC4502,1 Volcanic Activity]
+[G 51.91,49.87 Un'Goro Crater]Talk to *Ringo* \\ Turn in [QT4492 Lost!] \\ Accept [QA4491 A Little Help From My Friends] \\ This will start an escort quest \\ (Hold Shift at the NPC, or Guidelime accepts this quest at once)
+[G 43.62,8.5 Un'Goro Crater]Escort *Ringo* to Marshal's Refuge \\ Use *Spraggle's Canteen* on him when he faints and stops following you \\ [QC4491,1 A Little Help From My Friends][UI11804-]
+[G 43.62,8.5 Un'Goro Crater]Talk to *Spraggle Frock* \\ Turn in [QT4491 A Little Help From My Friends] \\ Turn in [QT4501 Beware of Pterrordax]
+[G 43.5,7.42 Un'Goro Crater]Talk to *Spark Nilminer* \\ Turn in [QT3882 Roll the Bones]
+[G 43.89,7.24 Un'Goro Crater][G 43.95,7.14 Un'Goro Crater]Talk to *Williden Marshal* and *Hol'anyee Marshal* \\ Turn in [QT3883 Alien Ecology] \\ Turn in [QT3881 Expedition Salvation]
+[A IT11116][G 43.95,7.14 Un'Goro Crater]Talk to *Williden Marshal* \\ Use *A Mangled Journal* to start the quest \\ Collect 1x *A Mangled Journal* \\ Accept [QA3884 Williden's Journal] \\ Turn in [QT3884 Williden's Journal][UI11116-]
+[G 41.92,2.7 Un'Goro Crater]Talk to *J.D. Collie* \\ Turn in [QT4285 The Northern Pylon] \\ Turn in [QT4287 The Eastern Pylon] \\ Turn in [QT4288 The Western Pylon] \\ Accept [QA4321 Making Sense of It] \\ Turn in [QA4321-][QT4321 Making Sense of It]
+[G 44.23,11.59 Un'Goro Crater]Talk to *Shizzle* \\ Turn in [QT4503 Shizzle's Flyer]
+[O]Destroy the *Crystal Pylon User's Manual* [CI11482,0-]
+[G 46.38,13.44 Un'Goro Crater]Talk to *Karna Remtravel* \\ Accept [QA4243 Chasing A-Me 01]
+[OC][G 63.66,16.56 Un'Goro Crater]Travel to Fungal Rock
+[A IT10561<1][G 67.66,16.76 Un'Goro Crater]Talk to *A-Me 01* \\ Turn in [QT4243 Chasing A-Me 01]
+[A IT10561][G 67.66,16.76 Un'Goro Crater]Talk to *A-Me 01* \\ Don't accept the follow up yet \\ Turn in [QT4243 Chasing A-Me 01]
+[G 68.49,12.18 Un'Goro Crater]Kill *U'cha*. Loot him for his *Pelt* \\ [QC4301,1 The Mighty U'cha]
+[A IT10561][G 67.66,16.76 Un'Goro Crater]Talk to *A-Me 01* \\ Accept [QA4244 Chasing A-Me 01] \\ Turn in [QT4244 Chasing A-Me 01]
+[O][L 67.66,16.76 Un'Goro Crater]If you repaired *A-Me 01* and the escort is offered, accept [QA4245 Chasing A-Me 01] \\ Tick this step if you are leaving the escort for later.
+[OC][L 46.38,13.44 Un'Goro Crater]Escort *A-Me 01* to *Karna Remtravel* at Marshal's Refuge \\ [QC4245,1 Chasing A-Me 01]
+[OC]Talk to *Karna Remtravel* \\ Turn in [QT4245 Chasing A-Me 01]
+[OC][L 45.5,24.5 Un'Goro Crater]Loot *Un'Goro Soil* on the ground \\ Collect [CI11018,25] \\ (Only if you have not done Un'Goro Soil)
+[G 71.64,75.96 Un'Goro Crater]Loot *Un'Goro Soil* on the ground \\ [QC4496,2 Bungle in the Jungle] \\ Talk to *Torwa Pathfinder* \\ Turn in [QT4301 The Mighty U'cha]
+[OC][G 71.64,75.96 Un'Goro Crater]Talk to *Torwa Pathfinder* \\ Turn in [QT87492 Uncanny Crystal]
+[A IT280459][G 71.64,75.96 Un'Goro Crater]Talk to *Torwa Pathfinder* \\ Use the *Crystal Infused Scale* to start the quest \\ Accept [QA87494 Microcrystal Contamination] \\ Turn in [QT87494 Microcrystal Contamination][UI280459-]
+[OC]Run back to Gadgetzan in Tanaris
+[A Softcore][OC]Die and respawn at the Gadgetzan Spirit Healer once you are in Tanaris[TAR6491-]
+[G 50.89,26.96 Tanaris]Talk to *Alchemist Pestlezugg* \\ Turn in [QT4496 Bungle in the Jungle]
+[OC][G 52.3,28.92 Tanaris]Go to the marked location
+[OC][L 52.3,28.92 Tanaris]Talk to *Gimblethorn* \\ Withdraw the following items from your bank: \\ *Eridan's Vial* \\ *Cenarion Beacon* \\ *Purified Moonwell Water* \\ *Moontouched Feathers* (If you have them)[TAR7799-]
+[A Warrior,Rogue]Hearth to [H Ratchet] \\ Buy food if needed
+[A Paladin,Hunter,Priest,Shaman,Mage,Warlock,Druid]Hearth to [H Ratchet] \\ Buy food/water if needed
+[G 62.45,38.73 The Barrens]Talk to *Liv Rizzlefix* \\ Turn in [QT4502 Volcanic Activity]
+[G 65.83,43.78 The Barrens]Talk to *Islen Waterseer* \\ Accept [QA5159 Cleansed Water Returns to Felwood]
+[A Druid][OC]Cast Teleport: Moonglade
+[A Druid][G 52.53,40.56 Moonglade]Teleport to Moonglade \\ Talk to *Loganaar* \\ [T]Train your class spells[TAR12042-]
+[A Druid][OC][G 44.15,45.22 Moonglade]Go to the marked location
+[A Druid][OC][L 44.15,45.22 Moonglade]Talk to *Silva Fil'naveth* \\ Fly to Teldrassil[TAR11800-]
+[A Mage][OC]Teleport to Darnassus
+[A Warrior,Paladin,Hunter,Rogue,Priest,Shaman,Warlock][L 63.08,37.16 The Barrens][TAR16227-]Talk to *Bragok* \\ Fly to [F Teldrassil]
+[A Warrior,Paladin,Hunter,Rogue,Priest,Shaman,Warlock,Druid][OC][G 55.89,89.46 Teldrassil]Take the purple portal into Darnassus. Don't turn in the Rut'theran Village quests yet
+[A Mage][OC][L 55.89,89.46 Teldrassil]Take the purple portal into Darnassus. Don't turn in the Rut'theran Village quests yet
+[A Warrior,Paladin,Rogue,Priest,Shaman,Mage,Warlock,Druid][O]Talk to *Herald Moonstalker* \\ *Herald Moonstalker* patrols throughout Darnassus \\ Accept [QA1047 The New Frontier]
+[A Hunter][O]Talk to *Herald Moonstalker* \\ *Herald Moonstalker* patrols throughout Darnassus \\ Cast *Eagle Eye* to try and find her faster \\ Accept [QA1047 The New Frontier]
+[O][G 64.02,23 Darnassus]Talk to *Raedon Duskstriker* \\ Do the Darnassus cloth turn ins. You'll need 3 stacks of each cloth. Skip this step if you're unable to complete all of them \\ Turn in [QA7792-][QT7792 A Donation of Wool] \\ Turn in [QA7798-][QT7798 A Donation of Silk] \\ Turn in [QA7799-][QT7799 A Donation of Mageweave] \\ Turn in [QA7800-][QT7800 A Donation of Runecloth]
+[G 39.31,84.67 Darnassus]Use *Eridan's Vial* at the moonwell inside the Temple of the Moon \\ [QC4441,1 Felbound Ancients][UI11682-]
+[A Priest][G 37.9,82.74 Darnassus]Talk to *Jandria* \\ [T]Train your class spells[TAR4091-]
+[A Warrior][G 58.72,34.91 Darnassus]Talk to *Arias'ta Bladesinger* \\ [T]Train your class spells[TAR4087-]
+[G 67.43,15.66 Darnassus]Talk to *Innkeeper Saelienne* \\ Accept [QA3763 Assisting Arch Druid Staghelm]
+[A Warrior,Paladin,Rogue,Priest,Shaman,Mage,Warlock,Druid][G 36.6,42.4,60 Darnassus][G 37.6,16.2,60 Darnassus][G 52.6,19.2,60 Darnassus][G 56.6,8.8,50 Darnassus][G 65.4,15.8,50 Darnassus][G 60.8,23.4,50 Darnassus][G 62.4,55.6,50 Darnassus][G 68,59.2,50 Darnassus][G 63.8,72.2,50 Darnassus][G 60.2,67.8,50 Darnassus][G 49.2,80.8,50 Darnassus][G 39.6,74.6,50 Darnassus][G 38.6,47,50 Darnassus][G 61.6,40.6 Darnassus]Talk to *Herald Moonstalker* \\ *Herald Moonstalker* patrols throughout Darnassus \\ Accept [QA1047 The New Frontier]
+[A Hunter][G 36.6,42.4,60 Darnassus][G 37.6,16.2,60 Darnassus][G 52.6,19.2,60 Darnassus][G 56.6,8.8,50 Darnassus][G 65.4,15.8,50 Darnassus][G 60.8,23.4,50 Darnassus][G 62.4,55.6,50 Darnassus][G 68,59.2,50 Darnassus][G 63.8,72.2,50 Darnassus][G 60.2,67.8,50 Darnassus][G 49.2,80.8,50 Darnassus][G 39.6,74.6,50 Darnassus][G 38.6,47,50 Darnassus][G 61.6,40.6 Darnassus]Talk to *Herald Moonstalker* \\ *Herald Moonstalker* patrols throughout Darnassus \\ Cast *Eagle Eye* to try and find her faster \\ Accept [QA1047 The New Frontier]
+[G 34.81,9.26 Darnassus]Talk to *Arch Druid Fandral Staghelm* at the top floor of the tree \\ Turn in [QT3763 Assisting Arch Druid Staghelm] \\ Accept [QA3764 Un'Goro Soil] \\ Turn in [QT1047 The New Frontier] \\ Accept [QA6761 The New Frontier]
+[G 31.48,8.24 Darnassus]Talk to *Jenal* \\ Turn in [QT3764 Un'Goro Soil]
+[G 34.81,9.26 Darnassus]Talk to *Arch Druid Fandral Staghelm* at the top floor of the tree \\ Accept [QA3781 Morrowgrain Research]
+[G 35.37,8.4 Darnassus]Talk to *Mathrengyl Bearwalker* on the middle floor \\ Turn in [QT3781 Morrowgrain Research] \\ Turn in [QT6761 The New Frontier] \\ Accept [QA6762 Rabine Saturna]
+[A Druid][G 35.37,8.4 Darnassus]Talk to *Mathrengyl Bearwalker* \\ [T]Train your class spells[TAR4217-]
+[A Rogue][G 31.21,17.72,8 Darnassus][G 36.99,21.9 Darnassus]Talk to *Syurna* \\ [T]Train your class spells[TAR4163-]
+[A Hunter][G 40.38,8.55 Darnassus]Talk to *Jocaste* \\ [T]Train your class spells[TAR4146-]
+[OC][L 29.47,41.4 Darnassus]Take the purple portal to Rut'theran Village
+[O][L 55.5,92.05 Teldrassil]Talk to *Erelas Ambersky* \\ Turn in [QT978 Moontouched Wildkin]
+[G 55.5,92.05 Teldrassil]Talk to *Erelas Ambersky* \\ Accept [QA978 Moontouched Wildkin]
+[OC][L 55.5,92.05 Teldrassil]Talk to *Erelas Ambersky* \\ Accept [QA979 Find Ranshalla]
+[G 55.09,91.67,10 Teldrassil][G 55.41,92.23 Teldrassil]Talk to *Daryn Lightwind* up stairs \\ Accept [QA5250 Starfall]
+[L 58.4,94.02 Teldrassil][TAR3838-]Talk to *Vesprystus* \\ Fly to [F Felwood]
+]==], "RestedXP Forever Dungeon Route (A)")

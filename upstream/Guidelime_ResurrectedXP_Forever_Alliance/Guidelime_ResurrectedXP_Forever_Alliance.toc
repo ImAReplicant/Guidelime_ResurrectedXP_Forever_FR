@@ -1,0 +1,172 @@
+## Interface: 16001
+## Title: Guidelime |cff2a9df4ResurrectedXP Forever|r (Alliance)
+## Author: RestedXP (route), converted for Guidelime
+## Version: 1.7.6
+## Dependencies: Guidelime, Questie, QuestieDB
+## Notes: RestedXP Forever leveling guides (Alliance) for Guidelime on WoW: Forever
+
+Speedrun\01 1-6 Shadowglen.lua
+Speedrun\02 1-6 Northshire.lua
+Speedrun\03 1-5 Coldridge Valley.lua
+Speedrun\04 1-9 Skyborne.lua
+Speedrun\05 5-11 Dun Morogh.lua
+Speedrun\06 6-11 Teldrassil.lua
+Speedrun\07 6-11 Elwynn Forest.lua
+Speedrun\08 9-13 Skyborne.lua
+Speedrun\09 11-13 Loch Modan.lua
+Speedrun\10 11-12 Elwynn (Dwarf-Gnome).lua
+Speedrun\11 11-13 Loch Modan (Hunter).lua
+Speedrun\12 12-14 Loch Modan (Dwarf-Gnome).lua
+Speedrun\13 13-15 Westfall.lua
+Speedrun\14 14-16 Darkshore.lua
+Speedrun\15 15-16 Loch Modan.lua
+Speedrun\16 16-19 Darkshore.lua
+Speedrun\17 19-20 Redridge.lua
+Speedrun\18 19-21 Darkshore-Ashenvale.lua
+Speedrun\19 20-21 Darkshore-Ashenvale.lua
+Speedrun\20 21-23 Ashenvale-Stonetalon.lua
+Speedrun\21 21-23 Stonetalon-Ashenvale.lua
+Speedrun\22 23-24 Wetlands Hunter.lua
+Speedrun\23 23-24 Wetlands.lua
+Speedrun\24 24-27 Duskwood-Redridge.lua
+Speedrun\25 27-29 Wetlands-Hillsbrad.lua
+Speedrun\26 29-30 Ashenvale.lua
+Speedrun\27 29-32 Duskwood.lua
+Speedrun\28 32-33 Hillsbrad-Arathi.lua
+Speedrun\29 33-34 Thousand Needles.lua
+Speedrun\30 34-35 Stranglethorn Vale I.lua
+Speedrun\31 35-36 Desolace.lua
+Speedrun\32 35-37 Desolace.lua
+Speedrun\33 36-38 Stranglethorn Vale II.lua
+Speedrun\34 38-39 Swamp of Sorrows.lua
+Speedrun\35 39-40 Riverglades.lua
+Speedrun\36 40-41 Alterac-Arathi.lua
+Speedrun\37 40-40 Dustwallow Marsh.lua
+Speedrun\38 40-40 Dustwallow Marsh2.lua
+Speedrun\39 41-41 Desolace.lua
+Speedrun\40 41-42 Badlands.lua
+Speedrun\41 42-44 STV-Swamp of Sorrows.lua
+Speedrun\42 44-45 Riverglades.lua
+Speedrun\43 45-46 Tanaris.lua
+Speedrun\44 46-47 Feralas-Azshara.lua
+Speedrun\45 48-49 Tanaris-Hinterlands.lua
+Speedrun\46 49-50 Tanaris-Un'Goro.lua
+Speedrun\47 50-50 Stranglethorn Vale.lua
+Speedrun\48 50-51 Searing Gorge.lua
+Speedrun\49 51-51 Blasted Lands.lua
+Speedrun\50 51-52 WPL.lua
+Speedrun\51 52-52 Felwood.lua
+Speedrun\52 52-53 Feralas.lua
+Speedrun\53 53-53 Azshara.lua
+Speedrun\54 53-54 UnGoro Crater.lua
+Speedrun\55 54-55 Felwood-Winterspring.lua
+Speedrun\56 55-56 Winterspring.lua
+Speedrun\57 56-57 Burning Steppes.lua
+Speedrun\58 57-59 Western-Eastern Plaguelands.lua
+Speedrun\59 59-59 Winterspring-Silithus part 1.lua
+Speedrun\60 59-60 Winterspring-Silithus part 2.lua
+Dungeon Route\01 1-6 Shadowglen.lua
+Dungeon Route\02 1-6 Northshire.lua
+Dungeon Route\03 1-5 Coldridge Valley.lua
+Dungeon Route\04 1-9 Skyborne.lua
+Dungeon Route\05 5-11 Dun Morogh.lua
+Dungeon Route\06 6-11 Teldrassil.lua
+Dungeon Route\07 6-11 Elwynn Forest.lua
+Dungeon Route\08 9-13 Skyborne.lua
+Dungeon Route\09 11-13 Loch Modan.lua
+Dungeon Route\10 11-12 Elwynn (Dwarf-Gnome).lua
+Dungeon Route\11 11-13 Loch Modan (Hunter).lua
+Dungeon Route\12 11-16 Darkshore-Loch Modan.lua
+Dungeon Route\13 12-14 Loch Modan (Dwarf-Gnome).lua
+Dungeon Route\14 13-15 Westfall.lua
+Dungeon Route\15 15-17 Darkshore.lua
+Dungeon Route\16 17-18 Hall of Thanes.lua
+Dungeon Route\17 18-19 Ruins of Lordaeron.lua
+Dungeon Route\18 19-20 Deadmines.lua
+Dungeon Route\19 20-21 Darkshore-Ashenvale.lua
+Dungeon Route\20 21-23 Ashenvale-Stonetalon.lua
+Dungeon Route\21 23-24 Wetlands.lua
+Dungeon Route\22 24-28 Duskwood-Redridge-Stockades.lua
+Dungeon Route\23 28-31 Wetlands-Excavation Site.lua
+Dungeon Route\24 31-31 Ashenvale.lua
+Dungeon Route\25 31-33 Duskwood-Gnomeregan.lua
+Dungeon Route\26 33-34 Hillsbrad-Arathi-Dalaran.lua
+Dungeon Route\27 34-35 Thousand Needles.lua
+Dungeon Route\28 35-36 Stranglethorn Vale I.lua
+Dungeon Route\29 35-36 Desolace.lua
+Dungeon Route\30 36-37 Stranglethorn Vale II.lua
+Dungeon Route\31 37-38 Swamp of Sorrows.lua
+Dungeon Route\32 38-39 Riverglades.lua
+Dungeon Route\33 39-40 Alterac-Arathi.lua
+Dungeon Route\34 40-41 Dustwallow Marsh-RFD.lua
+Dungeon Route\35 40-41 Desolace.lua
+Dungeon Route\36 41-42 Badlands.lua
+Dungeon Route\37 42-44 STV-Swamp of Sorrows.lua
+Dungeon Route\38 44-46 Riverglades-Krol'dok.lua
+Dungeon Route\39 46-46 Uldaman.lua
+Dungeon Route\40 46-47 Tanaris-Zul'Farrak.lua
+Dungeon Route\41 47-48 Feralas.lua
+Dungeon Route\42 48-49 Tanaris-Hinterlands.lua
+Dungeon Route\43 49-50 Tanaris-Un'Goro.lua
+Dungeon Route\44 50-50 Stranglethorn Vale.lua
+Dungeon Route\45 50-51 Searing Gorge.lua
+Dungeon Route\46 51-51 Blasted Lands.lua
+Dungeon Route\47 51-52 WPL.lua
+Dungeon Route\48 52-52 Felwood.lua
+Dungeon Route\49 52-53 Feralas-Maraudon.lua
+Dungeon Route\50 53-53 Azshara.lua
+Dungeon Route\51 53-54 UnGoro Crater.lua
+Dungeon Route\52 54-55 Felwood-Winterspring.lua
+Dungeon Route\53 55-56 Winterspring.lua
+Dungeon Route\54 56-57 Burning Steppes-Blackrock Depths.lua
+Dungeon Route\55 57-59 Western-Eastern Plaguelands.lua
+Dungeon Route\56 59-59 Winterspring-Silithus part 1.lua
+Dungeon Route\57 59-60 Winterspring-Silithus part 2.lua
+Mage AoE\01 1-10 ADV Elwynn Forest Human Mage AoE.lua
+Mage AoE\02 1-10 ADV Dun Morogh Gnome Mage AoE.lua
+Mage AoE\03 1-10 Elwynn Forest Mage AoE.lua
+Mage AoE\04 1-10 Dun Morogh Mage AoE.lua
+Mage AoE\05 10-11 ADV Dun Morogh Human Mage AoE.lua
+Mage AoE\06 10-12 ADV Darkshore 1 Mage AoE.lua
+Mage AoE\07 10-12 LAUNCH ADV Darkshore 1 Mage AoE.lua
+Mage AoE\08 10-12 Loch Modan Mage AoE.lua
+Mage AoE\09 12-14 ADV Loch Modan Mage AoE.lua
+Mage AoE\10 12-18 Darkshore Mage AoE.lua
+Mage AoE\11 14-16 ADV Darkshore 2 Mage AoE.lua
+Mage AoE\12 16-18 ADV Westfall Mage AoE.lua
+Mage AoE\13 18-20 ADV Darkshore 3 Mage AoE.lua
+Mage AoE\14 18-21 Redridge Mage AoE.lua
+Mage AoE\15 20-22 ADV Redridge 1 Mage AoE.lua
+Mage AoE\16 21-22 Duskwood Mage AoE.lua
+Mage AoE\17 22-26 Wetlands Mage AoE.lua
+Mage AoE\18 26-31 Duskwood Part 2 Mage AoE.lua
+Mage AoE\19 31-33 Hillsbrad Mage AoE.lua
+Mage AoE\20 33-60 Mage AoE.lua
+Dungeon Quests\01 15-30 01 Hall of Thanes.lua
+Dungeon Quests\02 15-30 02 Ruins of Lordaeron.lua
+Dungeon Quests\03 15-30 03 The Deadmines.lua
+Dungeon Quests\04 15-30 04 Shadowfang Keep.lua
+Dungeon Quests\05 15-30 05 Blackfathom Deeps.lua
+Dungeon Quests\06 15-30 06 The Stockade.lua
+Dungeon Quests\07 15-30 07 Excavation Site Wetlands.lua
+Dungeon Quests\08 30-50 08 Gnomeregan.lua
+Dungeon Quests\09 30-50 09 City of Dalaran.lua
+Dungeon Quests\10 30-50 10 Razorfen Kraul.lua
+Dungeon Quests\11 30-50 11 Scarlet Monastery.lua
+Dungeon Quests\12 30-50 12 Razorfen Downs.lua
+Dungeon Quests\13 30-50 13 Uldaman.lua
+Dungeon Quests\14 30-50 14 Zul'Farrak.lua
+Dungeon Quests\15 50-60 15 Maraudon.lua
+Dungeon Quests\16 50-60 16 Sunken Temple.lua
+Dungeon Quests\17 50-60 17 Blackrock Depths.lua
+Dungeon Quests\18 50-60 18 Lower Blackrock Spire.lua
+Dungeon Quests\19 50-60 19 Upper Blackrock Spire.lua
+Dungeon Quests\20 50-60 20 Scholomance.lua
+Dungeon Quests\21 50-60 21 Stratholme.lua
+Dungeon Quests\22 50-60 22 Dire Maul (East).lua
+Dungeon Quests\23 50-60 23 Dire Maul (West).lua
+Dungeon Quests\24 50-60 24 Dire Maul (North).lua
+Riverglades\01 38-40 Riverglades I (Standalone Speedrun).lua
+Riverglades\02 38-40 Riverglades I (Standalone Dungeon).lua
+Riverglades\03 44-45 Riverglades II (Standalone Speedrun).lua
+Riverglades\04 44-45 Riverglades II (Standalone Dungeon).lua

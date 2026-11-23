@@ -1,0 +1,96 @@
+Guidelime.registerGuide([==[
+[N 33-34 Hillsbrad/Arathi/Dalaran][GL OFF]
+[D RestedXP Forever leveling route that includes dungeon runs, 1-60. Dungeons in this route: BRD, COD, DM, ES, GNOMER, HOT, MARA, RFC, RFD, ROL, STOCKS, ULDA, ZF. Converted from the RestedXP guide for Guidelime.]
+[GA Alliance]
+[NX 34-35 Thousand Needles]
+[G 10.83,60.4 Wetlands]Talk to *Vincent Hyal* \\ Turn in [QT1301 James Hyal] \\ Accept [QA1302 James Hyal]
+[O][L 10.6,60.77 Wetlands]Talk to *Mikhail* \\ Accepting this quest will make *Tapoke "Slim" Jahn* by the Inn entrance *Stealth* and run away outside \\ Turn in [QT1248 The Missing Diplomat] \\ Accept [QA1249 The Missing Diplomat] \\ (Hold Shift at the NPC, or Guidelime accepts this quest at once) \\ If you skip this Missing Diplomat chain, tick off its remaining steps.
+[O][L 10.79,59.62 Wetlands]Quickly run outside! \\ Defeat *Tapoke "Slim" Jahn*. *Slim's Friend* will run away once *Tapoke "Slim" Jahn* submits \\ Use any Crowd Control (CC) on *Slim's Friend* if needed \\ [QC1249,1 The Missing Diplomat]
+[O][L 10.6,60.77 Wetlands]Talk to *Mikhail* \\ Wait out the RP \\ Turn in [QT1249 The Missing Diplomat]
+[O][L 10.54,60.26 Wetlands]Talk to *Tapoke "Slim" Jahn* \\ Accept [QA1250 The Missing Diplomat]
+[O][L 10.6,60.77 Wetlands]Talk to *Mikhail* \\ Turn in [QT1250 The Missing Diplomat] \\ Accept [QA1264 The Missing Diplomat]
+[O]The *Shadowy Assassin* attack on Southshore is a random event \\ If you ever see a *Shadowy Assassin* in Southshore, kill them. Loot them for the *Assassin's Contract* \\ Use the *Assassin's Contract* to start the quest \\ Skip this step if you don't see the event \\ Accept [QA522 Assassin's Contract][UI3668-]
+[OC][G 9.49,59.69 Wetlands]Go to the marked location
+[OC][L 9.49,59.69 Wetlands]Talk to *Shellei Brondir* \\ Fly to [F]Southshore[TAR1571-]
+[G 52.42,55.96 Hillsbrad Foothills]Talk to *Darren Malvew* \\ Accept [QA564 Costly Menace]
+[G 50.57,57.09 Hillsbrad Foothills]Talk to *Loremaster Dibbs* \\ Turn in [QT538 Southshore]
+[G 50.34,59.05 Hillsbrad Foothills]Talk to *Phin Odelic* \\ Accept [QA659 Hints of a New Plague?]
+[G 51.46,58.39 Hillsbrad Foothills]Talk to *Lieutenant Farren Orinelle* \\ Accept [QA536 Down the Coast]
+[G 51.17,58.93 Hillsbrad Foothills]Talk to *Innkeeper Anderson* \\ Set your Hearthstone to [S Southshore][TAR2352-]
+[G 48.34,60.15 Hillsbrad Foothills]Talk to *Emissary Jacques* \\ Accept [QA92432 An Alarming Request]
+[G 44.69,67.24 Hillsbrad Foothills]Kill *Torn Fin Tidehunters* and *Torn Fin Oracles* \\ [QC536,1 Down the Coast] \\ [QC536,2 Down the Coast]
+[G 51.46,58.39 Hillsbrad Foothills]Talk to *Lieutenant Farren Orinelle* \\ Turn in [QT536 Down the Coast] \\ Accept [QA559 Farren's Proof]
+[G 33.19,69.1,50 Hillsbrad Foothills]Kill *Torn Fin Tidehunters*, *Torn Fin Oracles*, *Torn Fin Coastrunners* and *Torn Fin Muckdwellers*. Loot them for their *Heads* \\ [QC559,1 Farren's Proof]
+[G 51.46,58.39 Hillsbrad Foothills]Talk to *Lieutenant Farren Orinelle* \\ Turn in [QT559 Farren's Proof] \\ Accept [QA560 Farren's Proof]
+[G 49.47,58.73 Hillsbrad Foothills]Talk to *Marshal Redpath* \\ Turn in [QT560 Farren's Proof] \\ Accept [QA561 Farren's Proof]
+[G 48.14,59.12 Hillsbrad Foothills]Talk to *Magistrate Henry Maleb* \\ Accept [QA505 Syndicate Assassins]
+[OC][L 48.14,59.12 Hillsbrad Foothills]Talk to *Magistrate Henry Maleb* \\ Don't accept the follow up \\ Turn in [QT522 Assassin's Contract]
+[G 51.46,58.39 Hillsbrad Foothills]Talk to *Lieutenant Farren Orinelle* \\ Turn in [QT561 Farren's Proof] \\ Accept [QA562 Stormwind Ho!]
+[G 56.97,67.01 Hillsbrad Foothills]Kill *Daggerspine Sirens* and *Daggerspine Shorehunters* \\ You may need to swim out in the water for them \\ [QC562,1 Stormwind Ho!] \\ [QC562,2 Stormwind Ho!]
+[G 51.46,58.39 Hillsbrad Foothills]Talk to *Lieutenant Farren Orinelle* \\ Turn in [QT562 Stormwind Ho!] \\ Accept [QA563 Reassignment]
+[A IT3719][O][L 48.94,55.03 Hillsbrad Foothills]Talk to *Micha Yance* \\ If you also have a *Bolt of Woolen Cloth* and plan to make the yeti fur cloak, buy 1 *Fine Thread*. \\ Collect [CI2321,1][TAR2381-]
+[G 48.94,55.03 Hillsbrad Foothills]Talk to *Micha Yance* \\ Buy 4 *Soothing Spices* from him \\ Collect [CI3713,4][TAR2381-]
+[A Hunter][G 49,55.2 Hillsbrad Foothills]Talk to *Sarah Raycroft* upstairs \\ [V]Restock on *Razor Arrows* if necessary[TAR3541-]
+[A IT3719][O][L 49.43,55.53 Hillsbrad Foothills]If you have both a *Hillman's Cloak* and a *Bolt of Woolen Cloth*, talk to *Bartolo Ginsetti* and accept [QA565 Bartolo's Yeti Fur Cloak]. Otherwise tick this optional pickup. Hold Shift when speaking to Bartolo to prevent auto-accept.
+[OC][L 45.46,31.25 Hillsbrad Foothills]Enter the Darrow Hill Yeti Cave
+[OC]Start looking for a group for the City of Dalaran dungeon. You will run it shortly
+[OC]Kill *Yetis*. Loot them for their *Fur* \\ [QC565,4 Bartolo's Yeti Fur Cloak]
+[G 44.49,29.74 Hillsbrad Foothills]Loot the *Alterac Granite* on the ground \\ *Alterac Granite* spawns throughout the entire Cave \\ [QC689,1 A King's Tribute]
+[OC][L 44.49,29.74 Hillsbrad Foothills][L 41.6,65 Alterac Mountains][L 36.6,70.6 Alterac Mountains][L 31.2,52.8 Alterac Mountains]Kill *Yetis*. Loot them for their *Fur* \\ If all of the *Yetis* are dead inside of the cave you may kill the *Yetis* to the north around Alterac Mountains as well \\ [QC565,4 Bartolo's Yeti Fur Cloak]
+[OC][G 17.85,85.1,70 Alterac Mountains][G 11.31,82.74,70 Alterac Mountains]Follow the lime waypoints in order
+[OC][G 67.99,47.36,50 Silverpine Forest]Travel to the City of Dalaran dungeon \\ Do not go inside Dalaran. The entrance is via a sewer on the outside of Dalaran, on the western side
+[G 68.62,45.13 Silverpine Forest]Talk to *Image of Archmage Modera* \\ Turn in [QT92432 An Alarming Request] \\ Accept [QA92458 Heart of Disruption] \\ Accept [QA92457 Starving Arcane]
+[G 9.19,60.09,5 Alterac Mountains]Enter the City of Dalaran dungeon
+[O]Kill *Seeking Remnants*, *Saturated Remnants* and *Mana Echos* \\ NOTE: You may not be able to complete this quest in just one run. Consider running the dungeon again, or abandon the quest "Starving Arcane" \\ [QC92457,1 Starving Arcane] \\ [QC92457,2 Starving Arcane] \\ [QC92457,3 Starving Arcane]
+[OC]For *A Green Sample*, kill the *Fel Ancient* and click the *Fel Plant* afterward. For *Power Overwhelming*, kill the *Arcanic Enigma*. [QC92456 A Green Sample][QC92489 Power Overwhelming]
+Kill the *Shade of the Archmage*. Loot it for the *Arcane Mote* \\ [QC92458,1 Heart of Disruption]
+[OC]Kill the *Fel Ancient*. Click the *Fel Plant* on the ground after \\ [QC92456,1 A Green Sample]
+Kill the *Arcanic Enigma* \\ [QC92489,1 Power Overwhelming]
+Kill the *Fel Ancient*. Click the *Fel Plant* on the ground after \\ [QC92456,1 A Green Sample]
+[OC]Zone out of the City of Dalaran
+[G 68.62,45.13 Silverpine Forest]Talk to *Image of Archmage Modera* \\ Turn in [QT92458 Heart of Disruption]
+[OC][L 68.62,45.13 Silverpine Forest]If *Starving Arcane* is ready, talk to *Image of Archmage Modera* at this same stop \\ Turn in [QT92457 Starving Arcane] \\ Otherwise continue to Alterac.
+[OC][G 26.54,81.26,20 Alterac Mountains]Go via this waypoint
+[OC][G 29.26,79.73,50 Alterac Mountains]Head to the Alterac Mountains hill located furthest west
+[OC]Kill *Syndicate Thieves* and *Syndicate Footpads* \\ Kill all *Syndicate* mobs you see in the camp on the hill west of the road. This quest objective may be hard to complete if you skip mobs and you'd have to backtrack \\ [QC505,1 Syndicate Assassins] \\ [QC505,2 Syndicate Assassins]
+[G 58.32,67.95 Alterac Mountains]Click the *Syndicate Documents* on the table \\ Accept [QA510 Foreboding Plans] \\ Accept [QA511 Encrypted Letter]
+[G 58.31,67.92,90 Alterac Mountains]Kill *Syndicate Thieves* and *Syndicate Footpads* \\ [QC505,1 Syndicate Assassins] \\ [QC505,2 Syndicate Assassins]
+[G 38.78,91.07,65 Alterac Mountains][L 30.92,84.58 Alterac Mountains]Finish killing *Mountain Lions*. Check the westernmost hill if you need more, and kill every *Hulking Mountain Lion* you see along the way. \\ [QC564,1 Costly Menace]
+[G 71.4,68.6 Alterac Mountains][L 75.1,64.4 Alterac Mountains][L 78.7,61.2 Alterac Mountains][L 80.8,55.7 Alterac Mountains][L 83.1,52.2 Alterac Mountains][L 69.8,73.7 Alterac Mountains][L 68.2,77.1 Alterac Mountains][L 69.7,72.7 Alterac Mountains]Kill *Snapjaws*. Loot them for their *Turtle Meat* \\ Go up and down along the River until you've completed it \\ Be careful not to run into *Narillasanz* a level 44 elite red dragon that may be patroling around the area \\ Collect [CI3712,10][TAR2447-]
+[G 78.4,48.1 Alterac Mountains][L 78.1,52.2 Alterac Mountains][L 79.8,50.2 Alterac Mountains][L 64.6,38.3 Alterac Mountains][L 61.8,35.7 Alterac Mountains]Finish off killing *Hulking Mountain Lions*. If there's not enough spawns to complete the objective you can find more in the area north of Strahnbrad \\ Be careful not to run into *Narillasanz* a level 44 elite red dragon that may be patroling around the area \\ [QC564,2 Costly Menace]
+[G 42.92,85.06 Western Plaguelands]Talk to *Bibilfaz Featherwhistle* \\ Get the Western Plaguelands Flight Path [P Chillwind Camp][TAR12596-]
+[A IT2997][OC][L 42.92,85.06 Western Plaguelands]Talk to *Bibilfaz Featherwhistle* \\ Fly to [F]Southshore[TAR12596-]
+[A IT2997][O][L 48.94,55.03 Hillsbrad Foothills]Talk to *Micha Yance* \\ If you have the *Hillman's Cloak*, *Bolt of Woolen Cloth* and 10 *Yeti Fur*, buy any remaining *Fine Thread*. \\ Collect [CI2321,1][TAR2381-]
+[A IT2997<1][OC][L 42.92,85.06 Western Plaguelands]Talk to *Bibilfaz Featherwhistle* \\ Fly to [F]Southshore[TAR12596-]
+[G 48.94,55.03 Hillsbrad Foothills]Talk to *Micha Yance* \\ Buy 1 *Soothing Spice* from him \\ Collect [CI3713,1][TAR2381-]
+[OC][L 49.43,55.53 Hillsbrad Foothills]Talk to *Bartolo Ginsetti* \\ Turn in [QT565 Bartolo's Yeti Fur Cloak]
+[G 50.57,57.09 Hillsbrad Foothills]Talk to *Loremaster Dibbs* \\ Turn in [QT511 Encrypted Letter] \\ Accept [QA514 Letter to Stormpike]
+[A IT3712>9][G 51.88,58.68 Hillsbrad Foothills]Talk to *Chef Jessen* \\ Accept [QA555 Soothing Turtle Bisque] \\ Turn in [QT555 Soothing Turtle Bisque]
+[G 48.14,59.12 Hillsbrad Foothills]Talk to *Magistrate Henry Maleb* \\ Turn in [QT505 Syndicate Assassins] \\ Turn in [QT510 Foreboding Plans]
+[G 52.42,55.96 Hillsbrad Foothills]Talk to *Darren Malvew* \\ Turn in [QT564 Costly Menace]
+[OC][L 49.34,52.27 Hillsbrad Foothills]At Southshore, talk to *Darla Harris* to fly to [F Refuge Pointe] if you know the flight path. Otherwise take the road east through Thoradin's Wall.
+[G 45.73,46.09,40 Arathi Highlands]Head to *Cedrik Prose* at Refuge Pointe. If you came by road, turn north at the signpost for Refuge Pointe.
+[G 45.73,46.09 Arathi Highlands]Talk to *Cedrik Prose* and get the [P Refuge Pointe] flight path. If you already know it, open his flight map or tick this step.[TAR2835-]
+[G 45.83,47.54 Arathi Highlands]Talk to *Captain Nials* \\ While on the flight path try to see if you fly over the *Forsaken Courier*. It travels the road from Go'shek farm to Tarren Mill. Knowing where it is will be useful for a quest soon \\ Accept [QA681 Northfold Manor]
+[G 46.65,47.01 Arathi Highlands]Talk to *Skuerto* \\ Turn in [QT690 Malin's Request]
+[G 60.19,53.85 Arathi Highlands]Talk to *Quae* \\ Turn in [QT659 Hints of a New Plague?] \\ Accept [QA658 Hints of a New Plague?]
+[A First Aid<151][O][G 26.97,58.83 Arathi Highlands]Travel to Stromgarde Keep to further train your *First Aid* \\ Follow the Arrow very closely once you are inside, as there are a lot of Elite mobs in the Keep \\ Talk to *Deneb Walker* \\ Buy the *Expert First Aid - Under Wraps*, *Manual: Heavy Silk Bandage* and *Manual: Mageweave Bandage* from him \\ *Deneb Walker* also has limited supply items such as *Scrolls* and *Potions* as well which you should buy \\ Collect [CI16084,1] \\ Collect [CI16112,1] \\ Collect [CI16113,1][TAR2805-]
+[A Warrior,Paladin,Rogue,Priest,Shaman,Mage,Warlock,Druid][O][G 60.67,60.98 Arathi Highlands][L 59.7,20.2 Hillsbrad Foothills]Kill the *Forsaken Courier*. Loot her for her *Sealed Folder* \\ The *Forsaken Courier* spawns next to the Apothecary's hut in Go'shek farm (marked on your map) and walks all the way to Tarren Mill where it despawns. \\ It respawns about every 7 minutes after being killed or reaching Tarren Mill \\ [QC658,1 Hints of a New Plague?]
+[A Hunter][O][G 60.67,60.98 Arathi Highlands][L 59.7,20.2 Hillsbrad Foothills]Kill the *Forsaken Courier*. Loot her for her *Sealed Folder* \\ The *Forsaken Courier* spawns next to the Apothecary's hut in Go'shek farm (marked on your map) and walks all the way to Tarren Mill where it despawns. \\ It respawns about every 7 minutes after being killed or reaching Tarren Mill \\ Cast *Eagle Eye* to try and find the *Forsaken Courier* \\ If you can't see them in Arathi, look for them in Hillsbrad after finishing Northfold Manor \\ [QC658,1 Hints of a New Plague?]
+[A Human][G 31.13,29.47 Arathi Highlands]Kill *Syndicate Mercenaries* and *Syndicate Highwaymen* \\ Be aware *Syndicate Highwaymen* are in *Stealth* and can be found around the perimiter of Northfold Manor \\ Cast *Perception* to help spot *Syndicate Highwaymen* \\ [QC681,1 Northfold Manor] \\ [QC681,2 Northfold Manor]
+[A NightElf,Dwarf,Gnome,Skyborne][G 31.13,29.47 Arathi Highlands]Kill *Syndicate Mercenaries* and *Syndicate Highwaymen* \\ Be aware *Syndicate Highwaymen* are in *Stealth* and can be found around the perimiter of Northfold Manor \\ [QC681,1 Northfold Manor] \\ [QC681,2 Northfold Manor]
+[A Hunter][OC]Hearth to [H Southshore] \\ Buy food/water if needed
+[A Hunter][OC][G 50.41,58.8 Hillsbrad Foothills]Go to the marked location
+[A Hunter][OC][L 50.41,58.8 Hillsbrad Foothills]Talk to *Wesley* \\ Stable your pet. You will tame a *Plains Creeper* shortly[TAR9978-]
+[A Hunter][L 49.34,52.27 Hillsbrad Foothills][TAR2432-]Talk to *Darla Harris* \\ Fly to Arathi Highlands [F Refuge Pointe]
+[A Hunter][G 46.4,45.6 Arathi Highlands]Talk to *Targot Jinglepocket* \\ [V]Buy up to a stack of *Wild Hog Shank* to serve as pet food[TAR15124-]
+[G 45.83,47.54 Arathi Highlands]Talk to *Captain Nials* \\ Turn in [QT681 Northfold Manor]
+[A Hunter][G 41.6,47.8,40 Arathi Highlands][G 41.8,58.6,40 Arathi Highlands][G 49,50.2,40 Arathi Highlands][G 48,58.6 Arathi Highlands]Cast *Eagle Eye* to try and find a *Plains Creeper*. Some of their locations are marked on your map \\ Cast *Tame Beast* on a *Plains Creeper* to tame it \\ Attack mobs with it to learn *Bite (Rank 5)* \\ Click here for more info about pet training: https://www.wow-petopia.com/classic/training.php[TAR2563-]
+[OC][L 60.19,53.85 Arathi Highlands]Talk to *Quae* \\ Don't go out of your way to find the *Forsaken Courier*. You can skip this step and finish it later \\ Turn in [QT658 Hints of a New Plague?]
+[A Druid][OC]Cast Teleport: Moonglade
+[A Druid][G 52.53,40.56 Moonglade]Teleport to Moonglade \\ Talk to *Loganaar* \\ [T]Train your class spells[TAR12042-]
+[A Warrior,Rogue][OC]Hearth to [H Southshore] if you are far away from the Flight Path \\ Buy food if needed
+[A Paladin,Priest,Shaman,Mage,Warlock,Druid][OC]Hearth to [H Southshore] if you are far away from the Flight Path \\ Buy food/water if needed
+[A Warrior,Paladin,Rogue,Priest,Shaman,Mage,Warlock,Druid][L 49.34,52.27 Hillsbrad Foothills][L 45.73,46.09 Arathi Highlands][TAR2432-]Talk to *Darla Harris* or *Cedrik Prose* \\ Fly to [F Wetlands]
+[A Hunter][L 45.73,46.09 Arathi Highlands][TAR2835-]Talk to *Cedrik Prose* \\ Fly to [F Wetlands]
+]==], "RestedXP Forever Dungeon Route (A)")

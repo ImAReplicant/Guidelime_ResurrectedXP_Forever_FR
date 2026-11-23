@@ -1,0 +1,65 @@
+Guidelime.registerGuide([==[
+[N 51-52 WPL][GL OFF]
+[D RestedXP Forever speedrun route (no dungeons), 1-60. Converted from the RestedXP guide for Guidelime.]
+[GA Alliance]
+[NX 52-52 Felwood]
+[O]Talk to *Courier Hammerfall* \\ *Courier Hammerfall* patrols through all of Ironforge \\ Accept [QA5090 A Call to Arms: The Plaguelands!]
+[OC]Head to Ironforge
+[G 75.77,23.39 Ironforge]Talk to *Laris Geardawdle* \\ Accept [QA4512 A Little Slime Goes a Long Way]
+[OC][L 71.83,16.12 Ironforge]Talk to *Curator Thorius* \\ *Curator Thorius* patrols through the Hall of Explorers \\ Turn in [QT3182 Proof of Deed] \\ Accept [QA3201 At Last!] \\ (Only if you turned in The Horn of the Beast)
+[G 71.83,16.12,30 Ironforge]Talk to *Curator Thorius* \\ *Curator Thorius* patrols through the Hall of Explorers \\ Turn in [QT3368 Suntara Stones]
+[G 77.54,11.83 Ironforge]Talk to *Historian Karnik* \\ Accept [QA3448 Passing the Burden]
+[A Rogue][G 51.98,14.85 Ironforge]Talk to *Hulfdan Blackbeard* \\ [T]Train your class spells[TAR5165-]
+[A Warlock][G 53.2,7.8,15 Ironforge][G 52.7,6.07 Ironforge]Talk to *Jubahl Corpseseeker* \\ [V]Buy *Grimoires* for your pets[TAR6382-]
+[A Warlock][G 50.34,5.66 Ironforge]Talk to *Briarthorn* \\ Train your class spells \\ Accept [QA8419 An Imp's Request]
+[A Shaman][G 47.17,13.87 Ironforge]Talk to *Eldrun Stormbreaker* \\ [T]Train your class spells[TAR258098-]
+[G 30.96,4.82 Ironforge]Talk to *Tymor* \\ Turn in [QT3448 Passing the Burden] \\ Accept [QA3449 Arcane Runes] \\ Accept [QA3450 An Easy Pickup]
+[A Paladin][G 23.13,6.15 Ironforge]Talk to *Brandur Ironhammer* \\ Train your class spells \\ Accept [QA8415 Chillwind Point]
+[A Priest][G 24.73,8.14 Ironforge]Talk to *High Priest Rohan* \\ Train your class spells \\ Accept [QA8254 Cenarion Aid]
+[G 18.1,51.6 Ironforge]Talk to *Innkeeper Firebrew* \\ Set your Hearthstone to [S Ironforge][TAR5111-]
+[OC][G 35.9,60.17 Ironforge]Go to the marked location
+[OC][L 35.9,60.17 Ironforge]Talk to *Bailey Stonemantle* \\ Withdraw the following items from your bank: \\ *Wildkin Feather* \\ *Super Snapper FX* \\ *Snapshot of Gammerita*[TAR2461-]
+[OC][L 74.08,48.21 Ironforge]Talk to *Bubulo Acerbus* \\ Do the Gnomeregan cloth turn ins. You'll need 3 stacks of each cloth. Skip this step if you're unable to complete all of them \\ Turn in [QA7807-][QT7807 A Donation of Wool] \\ Turn in [QA7808-][QT7808 A Donation of Silk] \\ Turn in [QA7809-][QT7809 A Donation of Mageweave] \\ Turn in [QA7811-][QT7811 A Donation of Runecloth]
+[OC][L 43.22,31.57 Ironforge]Talk to *Mistina Steelshield* \\ Do the Ironforge cloth turn ins. You'll need 3 stacks of each cloth. Skip this step if you're unable to complete all of them \\ Turn in [QA7802-][QT7802 A Donation of Wool] \\ Turn in [QA7803-][QT7803 A Donation of Silk] \\ Turn in [QA7804-][QT7804 A Donation of Mageweave] \\ Turn in [QA7805-][QT7805 A Donation of Runecloth]
+[O][L 23.8,71.8 Ironforge][L 25.8,75.5 Ironforge][L 24.2,74.6 Ironforge]Talk to an *Ironforge Auctioneer* \\ Buy a *Mithril Casing* from the Auction House. You will need this later for a quest in Un'Goro Crater \\ Skip this step if you can't acquire one \\ Collect [CI10561,1][TAR9859-][TAR8720-][TAR8671-]
+[A Warrior][G 65.9,88.41 Ironforge]Talk to *Bilban Tosslespanner* \\ [T]Train your class spells[TAR5114-]
+[A Hunter][G 70.89,83.62 Ironforge]Talk to *Olmin Burningbeard* \\ [T]Train your class spells[TAR5116-]
+[A Hunter][G 70.9,83.6 Ironforge]Talk to *Olmin Burningbeard* \\ Accept [QA8151 The Hunter's Charm]
+[G 70.86,94.57 Ironforge]Talk to *Xiggs Fuselighter* \\ Turn in [QT3450 An Easy Pickup] \\ Accept [QA3451 Signal for Pickup] \\ Turn in [QA3451-][QT3451 Signal for Pickup]
+[G 33.4,20,70 Ironforge][G 25.6,61.6,70 Ironforge][G 64.8,77.8,70 Ironforge][G 70.6,48,70 Ironforge][G 65,22.6,70 Ironforge][G 50.4,10.4,70 Ironforge][G 40.8,39.4,70 Ironforge][G 51.2,56.6,70 Ironforge][G 55.8,35.2,70 Ironforge][G 33,22.4 Ironforge]Talk to *Courier Hammerfall* \\ *Courier Hammerfall* patrols through all of Ironforge \\ Accept [QA5090 A Call to Arms: The Plaguelands!]
+[OC][L 55.49,47.75 Ironforge]Talk to *Gryth Thurden* \\ Fly to [F]Loch Modan \\ (If you took At Last!)[TAR1573-]
+[OC][L 18.19,84.03 Loch Modan]Talk to *Mountaineer Pebblebitty* \\ Turn in [QT3201 At Last!]
+[OC][L 33.94,50.95 Loch Modan]Talk to *Thorgrum* \\ Fly to The Hinterlands Aerie Peak \\ (Only if you are in Loch Modan)[TAR1572-]
+[OC][L 55.49,47.75 Ironforge]Talk to *Gryth Thurden* \\ Fly to The Hinterlands Aerie Peak \\ (Only if you are in Ironforge)[TAR1573-]
+[G 9.75,44.47 The Hinterlands]Talk to *Gryphon Master Talonaxe* \\ Turn in [QT2989 The Altar of Zul]
+[G 14.83,44.57 The Hinterlands]Talk to *Fraggar Thundermantle* \\ Turn in [QT2877 Skulk Rock Clean-up]
+[G 40.63,59.65 The Hinterlands]Loot the *Violet Tragan* underwater \\ [QC2641,1 Sprinkle's Secret Ingredient]
+[OC][G 11.07,46.15 The Hinterlands]Go to the marked location
+[OC][L 11.07,46.15 The Hinterlands]Talk to *Guthrum Thunderfist* \\ Fly to [F]Western Plaguelands[TAR8018-]
+[G 42.7,84.03 Western Plaguelands]Talk to *Commander Ashlam Valorfist* \\ Turn in [QT5090 A Call to Arms: The Plaguelands!] \\ Accept [QA5092 Clear the Way] \\ (Only if you are on A Call to Arms: The Plaguelands!: otherwise tick it off)
+[A Paladin][G 42.7,84.03 Western Plaguelands]Talk to *Commander Ashlam Valorfist* \\ Turn in [QT8415 Chillwind Point] \\ Accept [QA8414 Dispelling Evil]
+[G 42.97,83.55 Western Plaguelands]Talk to *Argent Officer Pureheart* \\ Accept [QA5401 Argent Dawn Commission] \\ Turn in [QA5401-][QT5401 Argent Dawn Commission]
+[O]Equip the *Argent Dawn Commission* before killing Scourge, so they can drop *Scourgestones*. Tick this step once it is equipped or if you are skipping Scourgestones.[UI12846-]
+[A Paladin][O]Kill any of the *Scourge*. Loot them for their *Minion's Scourgestones* \\ [QC8414,1 Dispelling Evil]
+[G 50.01,76.9 Western Plaguelands]Kill *Skeletal Flayers* and *Slavering Ghouls* \\ [QC5092,1 Clear the Way] \\ [QC5092,2 Clear the Way]
+[A Paladin][OC][L 51.99,82.85 Western Plaguelands]Talk to *High Priest Thel'danis* \\ Turn in [QT8414 Dispelling Evil] \\ Accept [QA8416 Inert Scourgestones]
+[A Paladin][OC][L 51.99,82.85 Western Plaguelands]Talk to *High Priest Thel'danis* \\ Accept [QA8416 Inert Scourgestones]
+[G 42.7,84.03 Western Plaguelands]Talk to *Commander Ashlam Valorfist* \\ Turn in [QT5092 Clear the Way] \\ Accept [QA5215 The Scourge Cauldrons]
+[A Paladin][OC][L 42.7,84.03 Western Plaguelands]Talk to *Commander Ashlam Valorfist* \\ Turn in [QT8416 Inert Scourgestones]
+[G 42.97,84.5 Western Plaguelands]Talk to *High Priestess MacDonnell* \\ Turn in [QT5215 The Scourge Cauldrons] \\ Accept [QA5216 Target: Felstone Field]
+[G 37.02,57.14 Western Plaguelands]Kill *Cauldron Lord Bilemaw*. Loot him for the *Felstone Field Cauldron Key* \\ *Cauldron Lord Bilemaw* may spawn as you approach the *Cauldron* \\ [QC5216,1 Target: Felstone Field]
+[G 37.19,56.86 Western Plaguelands]Click on the *Scourge Cauldron* \\ Turn in [QT5216 Target: Felstone Field] \\ Accept [QA5217 Return to Chillwind Camp]
+[OC][G 38.05,54.59,12 Western Plaguelands]Go inside the house
+[G 38.4,54.05 Western Plaguelands]Talk to *Janice Felstone* up stairs \\ Accept [QA5021 Better Late Than Never]
+[OC][G 38.05,54.56,8 Western Plaguelands]Exit the house
+[OC][G 38.58,55.33,6 Western Plaguelands]Go inside the barn
+[G 38.72,55.24 Western Plaguelands]Click *Janice's Parcel* on the ground \\ This has a 5 second cast time \\ You can do this from behind the wall to avoid aggroing anything inside \\ Avoid aggroing the *Scarlets* outside the barn. If you do, run away \\ Turn in [QT5021 Better Late Than Never] \\ Accept [QA5022 Better Late Than Never]
+[A Hunter][XP52-16950 Grind until you are 16950 XP away from 52] \\ If you are not yet close, do one more Cauldron quest to get you where you need to be
+[A Paladin][G 37.19,56.86 Western Plaguelands]Kill any of the *Scourge*. Loot them for their *Minion's Scourgestones* \\ [QC8414,1 Dispelling Evil]
+[A Softcore][OC]Die and respawn at the Chillwind Camp Spirit Healer[TAR6491-]
+[OC]Travel to Chillwind Camp
+[G 42.97,84.5 Western Plaguelands]Talk to *High Priestess MacDonnell* \\ Turn in [QT5217 Return to Chillwind Camp]
+[A Paladin][G 51.99,82.85 Western Plaguelands]Talk to *High Priest Thel'danis* \\ Turn in [QT8414 Dispelling Evil] \\ Accept [QA8416 Inert Scourgestones]
+[A Paladin][G 42.7,84.03 Western Plaguelands]Talk to *Commander Ashlam Valorfist* \\ Turn in [QT8416 Inert Scourgestones]
+[A Warrior,Paladin,Hunter,Rogue,Priest,Shaman,Warlock][OC][L 42.92,85.06 Western Plaguelands]Talk to *Bibilfaz Featherwhistle* \\ Fly to [F]Wetlands[TAR12596-]
+]==], "RestedXP Forever Speedrun (A)")

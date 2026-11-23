@@ -1,0 +1,72 @@
+Guidelime.registerGuide([==[
+[N 23-24 Wetlands Hunter][GL OFF]
+[D RestedXP Forever speedrun route (no dungeons), 1-60. Converted from the RestedXP guide for Guidelime.]
+[GA Alliance,Hunter]
+[NX 24-27 Duskwood/Redridge]
+[OC][G 8.51,55.7,70 Wetlands]Jump off the boat when it's closest to Menethil Harbor's shore \\ Swim toward Menethil Harbor
+[G 8.51,55.7 Wetlands]Talk to *James Halloran* \\ Accept [QA484 Young Crocolisk Skins]
+[G 7.95,56.38 Wetlands]Talk to *Dewin Shimmerdawn* \\ [V]Buy as many *Healing Potions* that are available \\ This is a limited supply item. Skip this step if *Dewin Shimmerdawn* doesn't have any[TAR1453-]
+[G 8.36,58.53 Wetlands]Talk to *Karl Boran* \\ Accept [QA279 Claws from the Deep]
+[A NightElf][G 9.49,59.69 Wetlands]Talk to *Shellei* \\ Get the [P Wetlands] flight path[TAR1571-]
+[G 10.89,59.66 Wetlands]Talk to *First Mate Fitzsimmons* \\ Accept [QA288 The Third Fleet] \\ Accept [QA463 The Greenwarden]
+[G 10.69,60.95 Wetlands]Talk to *Innkeeper Helbrek* \\ Set your Hearthstone to [S Menethil Harbor][TAR1464-]
+[G 10.69,60.95 Wetlands]Talk to *Innkeeper Helbrek* \\ Buy a *Flagon of Dwarven Honeymead* from him \\ Restock on Food and Water if necessary \\ Buy some extra *Mutton Chops* to serve as pet food if needed \\ [QC288,1 The Third Fleet]
+[G 10.84,60.44 Wetlands]Talk to *Archaeologist Flagongut* up stairs \\ Turn in [QT942 The Absent Minded Prospector] \\ Accept [QA943 The Absent Minded Prospector]
+[G 10.84,60.44 Wetlands]Talk to *Archaeologist Flagongut* up stairs \\ Accept [QA943 The Absent Minded Prospector]
+[G 10.5,60.2 Wetlands]Talk to *Samor Festivus* upstairs \\ [V]Buy as many *Healing Potions* that are available \\ This is a limited supply item. Skip this step if *Samor Festivus* doesn't have any[TAR1457-]
+[G 10.89,59.66 Wetlands]Talk to *First Mate Fitzsimmons* \\ Turn in [QT288 The Third Fleet]
+[G 11,58.6 Wetlands]Talk to *Edwina Monzor*. [V]Restock your quiver with *Sharp Arrows* below level 25. If you are nearly 25, you can buy *Razor Arrows* for later. From level 25, fill your quiver with *Razor Arrows* and right-click them to equip them. Skip this visit if you are already stocked.[TAR1462-]
+[G 11.87,58.77 Wetlands]Talk to *Caitlin Grassman* \\ Turn in [QT95737 Seeking Caitlin]
+[G 11.87,58.77 Wetlands]Talk to *Caitlin Grassman* \\ Accept [QA98282 Alchemical Hazards]
+[G 11.8,57.99 Wetlands]Talk to *Sida* \\ Accept [QA470 Digging Through the Ooze]
+[A IT4371<1][C][G 10.4,56,25 Wetlands][G 10.1,56.9,25 Wetlands][G 10.6,57.2,25 Wetlands][G 10.76,56.74 Wetlands]Buy a *Bronze Tube* from *Neal Allen* for *Look To The Stars*. \\ Tick this step if the vendor is sold out. \\ Collect [CI4371,1][TAR1448-]
+[A IT4371][O][OR][V]Finish trading with *Neal Allen* once you have the tube for *Viktori Prism'Antras*.[QC174-][CI4371,1][TAR1448-]
+[G 11.46,52.16 Wetlands]Talk to *Tarrel Rockweaver* \\ Accept [QA305 In Search of The Excavation Team]
+[OC]Kill *Young Wetlands Crocolisks*. Loot them for their *Young Crocolisk Skin* \\ [QC484,1 Young Crocolisk Skins]
+[A Human,Dwarf,Gnome,Skyborne][G 16.26,39.41 Wetlands]Kill *Bluegill Murlocs* \\ Kill *Gobbler*. Loot him for his *Head* \\ *Gobbler* patrols the Marshlands slightly \\ [QC279,1 Claws from the Deep] \\ [QC279,2 Claws from the Deep]
+[A NightElf][G 16.26,39.41 Wetlands]Kill *Bluegill Murlocs* \\ Kill *Gobbler*. Loot him for his *Head* \\ Keep any *Murloc Fins* you may get. You will need 8 for a quest later \\ *Gobbler* patrols the Marshlands slightly \\ [QC279,1 Claws from the Deep] \\ [QC279,2 Claws from the Deep] \\ Collect 8x *Murloc Fin*
+[O]Kill *Raptors* throughout Wetlands. Loot them for the *Stone of Relu* \\ Don't go out of your way to complete this now. You will kill different *Raptors* later \\ [QC943,1 The Absent Minded Prospector]
+[G 38.17,50.88 Wetlands]Talk to *Ormer Ironbraid* \\ Accept [QA294 Ormer's Revenge]
+[G 38.91,52.34 Wetlands][G 38.81,52.39 Wetlands]Talk to *Merrin Rockweaver* and *Prospector Whelgar* \\ Turn in [QT305 In Search of The Excavation Team] \\ Accept [QA299 Uncovering the Past]
+[G 38.86,52.21 Wetlands]Loot *Flagongut's Fossil* on the ground \\ [QC943,2 The Absent Minded Prospector]
+[G 36.41,41.72,100 Wetlands]Head down the ramp and exit Whelgar's Excavation Site
+[OC]Be on the lookout for *Black Oozes* while killing the raptors. Kill them and loot for *Sida's Bag* \\ This item has a low droprate, don't go out of your way to find the Oozes, you can complete this objective later \\ [QC470,1 Digging Through the Ooze]
+[G 22.8,50.6 Wetlands]Kill *Mottled Raptors* and *Mottled Screechers* \\ [QC294,1 Ormer's Revenge] \\ [QC294,2 Ormer's Revenge]
+[G 37.22,43.89,45 Wetlands][G 38.17,50.88 Wetlands]Talk to *Ormer Ironbraid* \\ Turn in [QT294 Ormer's Revenge] \\ Accept [QA295 Ormer's Revenge]
+[OC]Open the *Ancient Relics* and *Loose Soil*. Loot them for the *Fragments* \\ The *Fragments* have random spawn locations in the Excavation Site \\ [QC299,1 Uncovering the Past] \\ [QC299,2 Uncovering the Past] \\ [QC299,3 Uncovering the Past] \\ [QC299,4 Uncovering the Past]
+[G 34.33,47.81 Wetlands]Kill *Mottled Scytheclaws* and *Mottled Razormaws* \\ This quest is HARD as the mobs are much higher level than you but the weapon you get as a reward is well worth the effort \\ I recommend using the spot from a video linked below to abuse mob pathing which will make doing the quest significantly easier \\ Click here for a reference video: https://youtu.be/TxhLRt-IetU \\ [QC295,1 Ormer's Revenge] \\ [QC295,2 Ormer's Revenge]
+[G 38.17,50.88 Wetlands]Talk to *Ormer Ironbraid* \\ Turn in [QT295 Ormer's Revenge] \\ Accept [QA296 Ormer's Revenge]
+[G 33.25,51.5 Wetlands]Kill *Sarltooth*. Loot him for his *Talon* \\ He is usually on the hill above the main excavation site but can sometimes patrol down \\ Be careful as he can *Thrash* hitting you 3 times at once \\ This quest is VERY HARD as he is level 29. Use the pathing spot from the previous quest to be able to kite him indefinitely \\ Click here for a reference video: https://youtu.be/PAeOcxOgSNg \\ [QC296,1 Ormer's Revenge]
+[G 36.62,42.16 Wetlands][L 34.32,51.79 Wetlands][L 35.73,49.06 Wetlands][L 33.86,46.85 Wetlands][L 34.91,44.22 Wetlands]Open the *Ancient Relics* and *Loose Soil*. Loot them for the *Fragments* \\ The *Fragments* have random spawn locations in the Excavation Site \\ [QC299,1 Uncovering the Past] \\ [QC299,2 Uncovering the Past] \\ [QC299,3 Uncovering the Past] \\ [QC299,4 Uncovering the Past]
+[G 38.17,50.88 Wetlands]Talk to *Ormer Ironbraid* \\ Turn in [QT296 Ormer's Revenge] (choose reward 1)
+[G 38.81,52.39 Wetlands]Talk to *Prospector Whelgar* \\ Turn in [QT299 Uncovering the Past]
+[OC]Kill *Young Wetlands Crocolisks*. Loot them for their *Young Crocolisk Skin* \\ [QC484,1 Young Crocolisk Skins]
+[A IT3493][OC]Equip the *Raptor's End* \\ (If it is an upgrade)[UI3493-]
+[G 49.35,42.11 Wetlands]Talk to *Howin Kindfeather* \\ Accept [QA98245 Razormaw Needling] \\ Accept [QA98246 Trying Times]
+[OC]You might pass a pair of *Black Oozes* while heading south to the Gnolls. Kill them and loot for *Sida's Bag* \\ This item has a low droprate, don't go out of your way to find the Oozes, you can complete this objective later \\ [QC470,1 Digging Through the Ooze]
+[G 56.37,40.4 Wetlands]Talk to *Rethiel the Greenwarden* \\ Turn in [QT463 The Greenwarden] \\ Accept [QA276 Tramping Paws]
+[A IT3397<6][OC][G 61.05,54.98,120 Wetlands]Kill *Young Wetlands Crocolisks* south of the Green Belt if you still need *Young Crocolisk Skins*. [QC484,1 Young Crocolisk Skins]
+[OC][G 54.54,64.24,100 Wetlands]Go via this waypoint
+[OC][G 52.55,62.8,25 Wetlands]Enter the Thelgen Rock cave
+[G 48.69,62.35,40 Wetlands]Kill *Leech Stalkers* and *Cave Stalkers*. Loot them for the *Unruptured Stalker Gland* \\ [QC98282,1 Alchemical Hazards]
+[G 62.34,69.34 Wetlands]Kill *Mosshide Gnolls* and *Mosshide Mongrels* \\ [QC276,1 Tramping Paws] \\ [QC276,2 Tramping Paws]
+[XP24 Grind to level 24]
+[OC]Keep grinding *Gnolls* until your hearth has <2 minutes left
+[G 56.37,40.4 Wetlands]Talk to *Rethiel the Greenwarden* \\ Turn in [QT276 Tramping Paws] \\ Accept [QA277 Fire Taboo]
+[G 64,72.2 Wetlands]Kill *Young Wetlands Crocolisks*. Loot them for their *Young Crocolisk Skin* \\ [QC484,1 Young Crocolisk Skins]
+Hearth to [H Menethil Harbor]
+[G 11.89,58.83 Wetlands]Talk to *Caitlin Grassman* \\ Turn in [QT98282 Alchemical Hazards]
+[OC][L 11.8,57.99 Wetlands]Talk to *Sida* \\ Turn in [QT470 Digging Through the Ooze]
+[G 8.51,55.7 Wetlands]Talk to *James Halloran* \\ Turn in [QT484 Young Crocolisk Skins] \\ Accept [QA471 Apprentice's Duties]
+[G 8.36,58.53 Wetlands]Talk to *Karl Boran* \\ Turn in [QT279 Claws from the Deep] \\ Accept [QA281 Reclaiming Goods]
+[L 9.49,59.69 Wetlands][TAR1571-]Talk to *Shellei Brondir* \\ Fly to [F Ironforge]
+[A IT5352][O]Use the *Book: The Powers Below* to start the quest \\ Accept [QA968 The Powers Below][UI5352-]
+[A Human,NightElf,Gnome,Skyborne][A Guns<1][G 61.18,89.51 Ironforge]Talk to *Buliwyf Stonehand* inside \\ Train Guns [SK Guns 1 -][TAR11865-]
+[A Alchemy1][OC][L 24.94,73.66 Ironforge]Gather 4 *Minor Mana Potions* and 2 *Elixir of Minor Fortitudes* \\ You can buy these from the Auction House, trade players for them or use *Alchemy* if you have it to make them \\ If you are unable to acquire them, skip this step \\ Collect [CI2455,4] \\ Collect [CI2458,2] \\ (Only if you are on An Old Colleague)
+[O][L 50.83,5.61 Ironforge]Talk to *Gerrig Bonegrip* \\ Turn in [QT968 The Powers Below] \\ Tick this step if you are leaving without the optional reward.
+[A IT4371<1][C][G 67.84,42.5 Ironforge]Buy a *Bronze Tube* from *Gearcutter Cogspinner* for *Look To The Stars*. \\ Tick this step if the vendor is sold out. \\ Collect [CI4371,1][TAR5175-]
+[A IT4371][O][OR][V]Finish trading with *Gearcutter Cogspinner* once you have the tube for *Viktori Prism'Antras*.[QC174-][CI4371,1][TAR5175-]
+[G 72.08,51.87 Ironforge]Talk to *Lomac Gearstrip* \\ Turn in [QT1072 An Old Colleague]
+[A IT2455>3][OC][L 72.08,51.87 Ironforge]Talk to *Lomac Gearstrip* \\ Accept [QA1073 Ineptitude + Chemicals = Fun] \\ Turn in [QT1073 Ineptitude + Chemicals = Fun] \\ (Only if you have 2 Elixir of Minor Fortitude)
+[OC][G 76.61,51.28,10 Ironforge]Take the tram to Stormwind
+]==], "RestedXP Forever Speedrun (A)")

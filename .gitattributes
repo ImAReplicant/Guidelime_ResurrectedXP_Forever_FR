@@ -1,0 +1,10 @@
+# Normalisation des fins de ligne : un .toc ou un .lua en CRLF casse le chargement sous WoW.
+* text=auto eol=lf
+*.lua text eol=lf
+*.toc text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.sh text eol=lf
+*.png binary
+*.tga binary
