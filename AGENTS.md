@@ -79,4 +79,7 @@ bash tools/make_icon.sh           # régénère Media/icon-256.png et Media/Icon
   `import_dump.py`) ; sinon on le corrige à la main et `validate.py` signale les entrées douteuses.
 - `wowhead_names.py` est limité par le débit de Wowhead : lancer par lots (`--limit`, `--delay`), il
   reprend là où il s'est arrêté et patiente sur un 403.
+- Les icônes ne sont pas vérifiées par la CI (elle ne lance pas ImageMagick) : après un changement de
+  `Media/icon-source.png`, relancer `bash tools/make_icon.sh` et committer les deux sorties. Le script
+  échoue si le format n'est plus celui attendu par WoW (TGA 64×64, 32 bits, alpha).
 - Le dossier racine du dépôt porte le nom de l'addon : ne pas le renommer sans mettre à jour les READMEs.
