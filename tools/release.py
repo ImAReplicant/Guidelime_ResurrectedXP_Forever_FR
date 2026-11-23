@@ -18,10 +18,12 @@ import sys
 import urllib.request
 import uuid
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from addon import ADDON, OUT, TOC as ADDON_TOC  # noqa: E402
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-ZIP = os.path.join(ROOT, "dist", "Guidelime_ResurrectedXP_Forever_Alliance_FR.zip")
-TOC = os.path.join(ROOT, "Guidelime_ResurrectedXP_Forever_Alliance_FR",
-                   "Guidelime_ResurrectedXP_Forever_Alliance_FR.toc")
+ZIP = os.path.join(ROOT, "dist", ADDON + ".zip")
+TOC = os.path.join(OUT, ADDON_TOC)
 CURSE_URL = "https://wow.curseforge.com/api/projects/%s/upload-file"
 WAGO_URL = "https://addons.wago.io/api/projects/%s/version"
 

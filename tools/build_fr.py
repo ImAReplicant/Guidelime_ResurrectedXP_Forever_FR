@@ -10,12 +10,14 @@ import os
 import re
 import sys
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from addon import ADDON, OUT, TOC  # noqa: E402
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 GL = os.path.join(ROOT, "glossaire")
 DUMP = "30-client.json"
 WOWHEAD = "29-wowhead.json"
 EN = os.path.join(ROOT, "upstream", "Guidelime_ResurrectedXP_Forever_Alliance")
-OUT = os.path.join(ROOT, "Guidelime_ResurrectedXP_Forever_Alliance_FR")
 DIRS = ["Speedrun", "Dungeon Route", "Riverglades"]
 SEP = "\\" * 2
 TAG = re.compile(r"\[([^\]]*)\]")
@@ -24,8 +26,8 @@ QUEST_TAG = re.compile(r"^(Q[AATCS])([0-9/?]+)((?:,[0-9]*)?)(\s*)(.*)$")
 XP_TAG = re.compile(r"^(XP)\s*(\d+)([+\-.]?)(\d*)\s*(.*)$")
 GUIDE_TAG = re.compile(r"^(NX|LI|N)(\s*)(.*)$")
 FR_SUFFIX = "-fr.1"  # suffixe de la version FR, a bumper avec le guide
-# a remplacer a la creation du depot distant et des projets CurseForge / Wago (voir AGENTS.md)
-WEBSITE = "https://github.com/CHANGEME/Guidelime_ResurrectedXP_Forever_Alliance_FR"
+# a remplacer a la creation des projets CurseForge / Wago (voir AGENTS.md)
+WEBSITE = "https://github.com/ImAReplicant/Guidelime_ResurrectedXP_Forever_FR"
 CURSE_ID = "000000"
 WAGO_ID = "CHANGEME"
 FOOTER = re.compile(r'^\]==\], "([^"]*)"\)(\.title = "([^"]*)")?$')
@@ -495,13 +497,13 @@ def main():
         "## Version: " + toc_field("Version") + FR_SUFFIX,
         "## RequiredDeps: Guidelime, Questie",
         "## Notes: Traduction francaise du guide RestedXP Forever (Alliance) pour Guidelime.",
-        "## IconTexture: Interface\\AddOns\\Guidelime_ResurrectedXP_Forever_Alliance_FR\\Media\\Icon.tga",
+        "## IconTexture: Interface\\AddOns\\" + ADDON + "\\Media\\Icon.tga",
         "## X-Website: " + WEBSITE,
         "## X-Curse-Project-ID: " + CURSE_ID,
         "## X-Wago-ID: " + WAGO_ID,
         "",
     ] + files_written
-    open(os.path.join(OUT, "Guidelime_ResurrectedXP_Forever_Alliance_FR.toc"), "w",
+    open(os.path.join(OUT, TOC), "w",
          encoding="utf-8").write("\n".join(toc) + "\n")
 
     total_occ = sum(t.cles["clauses"].values())

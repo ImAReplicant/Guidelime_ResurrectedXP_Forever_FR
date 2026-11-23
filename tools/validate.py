@@ -18,9 +18,11 @@ import shutil
 import subprocess
 import sys
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from addon import OUT, TOC  # noqa: E402
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SRC = os.path.join(ROOT, "upstream", "Guidelime_ResurrectedXP_Forever_Alliance")
-OUT = os.path.join(ROOT, "Guidelime_ResurrectedXP_Forever_Alliance_FR")
 DIRS = ["Speedrun", "Dungeon Route", "Riverglades"]
 EN_DIRS = ["Speedrun", "Dungeon Route", "Dungeon Quests", "Mage AoE", "Riverglades"]
 SEP = "\\" * 2
@@ -149,7 +151,7 @@ def main():
             group_files.setdefault(group, []).append(out_path)
 
     check_toc(SRC, "Guidelime_ResurrectedXP_Forever_Alliance.toc", EN_DIRS)
-    check_toc(OUT, "Guidelime_ResurrectedXP_Forever_Alliance_FR.toc", DIRS)
+    check_toc(OUT, TOC, DIRS)
 
     # coherence des liens de guides
     for group, names in groups.items():

@@ -1,7 +1,9 @@
 # AGENTS.md — repère pour les agents et les mainteneurs
 
-Dépôt de la **traduction française** de *Guidelime — ResurrectedXP Forever (Alliance)* (WoW Forever,
-client `Interface: 16001`). L'addon anglais n'est pas publié ici : c'est l'entrée de build.
+Dépôt des **traductions françaises** de *Guidelime — ResurrectedXP Forever* (WoW Forever,
+client `Interface: 16001`). L'addon **Alliance** est publié aujourd'hui ; la version **Horde** viendra
+plus tard (d'où le nom du dépôt sans « Alliance »). Les guides anglais ne sont pas publiés ici : ils sont
+l'entrée de build.
 
 ## Carte du dépôt
 
@@ -14,6 +16,21 @@ tools/                                         chaîne de production (Python 3, 
 glossaire/                                     mémoire de traduction (trad/) + instantanés générés
 RAPPORT-traduction.md                          ce qui reste en anglais (généré)
 ```
+
+Le nom de l'addon est centralisé dans `tools/addon.py` (`ADDON`, surchargeable par la variable
+d'environnement `ADDON_NAME`) : c'est le point d'entrée pour une seconde édition.
+
+### Ajouter la version Horde (plus tard)
+
+1. Déposer les guides EN Horde dans `upstream/Guidelime_ResurrectedXP_Forever_Horde/`.
+2. Ajouter un glossaire généré par corpus : `cles.json`, `name_ids.json`, `auto_*` décrivent **un** corpus
+   de guides, ils ne peuvent pas être partagés entre Alliance et Horde. La mémoire de traduction
+   `glossaire/trad/` (clauses, noms, quêtes) reste commune.
+3. Construire avec `ADDON_NAME=Guidelime_ResurrectedXP_Forever_Horde_FR` et un dossier de sortie dédié
+   (`tools/addon.py` accepte déjà la surcharge ; `build_fr.py` lit `upstream/…_Alliance` en dur, à
+   paramétrer à ce moment-là).
+4. Ajouter le job correspondant dans `.github/workflows/release.yml` et un second projet CurseForge/Wago
+   (un projet par addon, chacun avec son `## X-Curse-Project-ID` / `## X-Wago-ID`).
 
 Projet anglais d'origine : <https://www.curseforge.com/wow/addons/guidelime-resurrectedxp-alliance-forever>.
 L'icône est dérivée de celle de [Guidelime](https://github.com/max-ri/Guidelime) (© max-ri) ; elle sera
