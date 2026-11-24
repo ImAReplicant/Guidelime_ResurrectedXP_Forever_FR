@@ -34,6 +34,9 @@ La couverture exacte (clauses, noms, titres de quêtes) est régénérée à cha
 **[RAPPORT-traduction.md](RAPPORT-traduction.md)** ; la politique de traduction et la procédure de mise à
 jour sont dans **[README-FR.md](README-FR.md)**.
 
+La traduction **suit les mises à jour de l'addon anglais** : une vérification hebdomadaire détecte les
+nouvelles versions et ouvre une pull request avec les guides régénérés et les chaînes restant à traduire.
+
 **Ne sont jamais modifiés** : codes de balises, identifiants de quêtes/objectifs, coordonnées, noms de zones
 dans `[G …]`/`[L …]`, classes/races dans `[A …]`/`[GA …]`. La progression automatique est strictement
 identique à la version anglaise.

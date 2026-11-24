@@ -1,0 +1,82 @@
+name: upstream
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    outputs:
+      update: ${{ steps.check.outputs.update }}
+      version: ${{ steps.check.outputs.version }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Nouvelle version de l'addon anglais ?
+        id: check
+        env:
+          CF_API_KEY: ${{ secrets.CF_API_KEY }}
+        run: |
+          if [ -z "$CF_API_KEY" ]; then
+            echo "::warning::CF_API_KEY absent : verification de l'amont ignoree (voir AGENTS.md)"
+            exit 0
+          fi
+          set +e
+          python3 tools/update_upstream.py --check
+          code=$?
+          set -e
+          case "$code" in
+            0) exit 0 ;;
+            2) echo "update=true" >> "$GITHUB_OUTPUT" ;;
+            *) exit "$code" ;;
+          esac
+
+      - name: Mise a jour et regeneration
+        if: steps.check.outputs.update == 'true'
+        env:
+          CF_API_KEY: ${{ secrets.CF_API_KEY }}
+        run: |
+          python3 tools/update_upstream.py --apply
+          python3 tools/extract.py
+          python3 tools/build_fr.py
+          python3 tools/validate.py
+          python3 tools/package.py
+          echo "version=$(grep '^## Version:' upstream/Guidelime_ResurrectedXP_Forever_Alliance/Guidelime_ResurrectedXP_Forever_Alliance.toc | cut -d' ' -f3)" >> "$GITHUB_OUTPUT"
+        id: apply
+
+      - name: Differerence sur les guides amont
+        if: steps.check.outputs.update == 'true'
+        id: diff
+        run: |
+          {
+            echo "## Guides modifies"
+            echo '```'
+            git diff --stat -- upstream/ | tail -n 30
+            echo '```'
+            echo
+            echo "## Restes a traduire"
+            sed -n '/^| Element/,/^$/p' RAPPORT-traduction.md
+          } > /tmp/body.md
+          echo "body<<EOF" >> "$GITHUB_OUTPUT"
+          cat /tmp/body.md >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
+
+      - name: Pull request
+        if: steps.check.outputs.update == 'true'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: upstream/${{ steps.apply.outputs.version }}
+          title: "Upstream ${{ steps.apply.outputs.version }}"
+          commit-message: "Upstream ${{ steps.apply.outputs.version }} : guides anglais et traduction regeneres"
+          body: ${{ steps.diff.outputs.body }}
+          delete-branch: true

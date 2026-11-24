@@ -46,11 +46,39 @@ python3 tools/build_fr.py --selftest   # auto-contrôle des heuristiques
 python3 tools/validate.py         # porte de sortie (code 1 si erreur)
 python3 tools/package.py          # dist/Guidelime_ResurrectedXP_Forever_Alliance_FR.zip
 python3 tools/release.py --dry-run     # uploads CurseForge + Wago (sans réseau)
+python3 tools/update_upstream.py --check   # l'addon anglais a-t-il bougé ? (CF_API_KEY requis)
 bash tools/make_icon.sh           # régénère Media/icon-256.png et Media/Icon.tga
 ```
 
 `extract.py`, `validate.py` et `gen_dump.py` lisent une installation de Guidelime :
 `GUIDELIME_DIR=/chemin/vers/Guidelime` (défaut `/tmp/gl/Guidelime`).
+
+## Mettre à jour depuis l'amont
+
+Les guides anglais viennent de [CurseForge](https://www.curseforge.com/wow/addons/guidelime-resurrectedxp-alliance-forever)
+et sont recopiés dans `upstream/` par `tools/update_upstream.py` :
+
+| Commande | Effet |
+|---|---|
+| `--check` | compare la version de `upstream/…/*.toc` à la dernière publiée ; code 0 = à jour, **2 = mise à jour disponible**, 1 = erreur |
+| `--apply` | télécharge et remplace `upstream/Guidelime_ResurrectedXP_Forever_Alliance/` (rien d'autre ne bouge) |
+| `--from-zip <archive>` | même chose depuis un zip téléchargé à la main — **sans clé API ni réseau** |
+| `--selftest` | vérifie le parsing d'une réponse API factice, hors ligne |
+
+`--check`/`--apply` demandent une clé API CurseForge gratuite (<https://console.curseforge.com/>) dans
+`CF_API_KEY`. L'API officielle est la seule voie : le site et son API interne sont derrière Cloudflare.
+
+Enchaînement après une mise à jour (ou laisser la CI le faire) :
+
+```bash
+python3 tools/update_upstream.py --apply
+python3 tools/extract.py && python3 tools/build_fr.py && python3 tools/validate.py
+```
+
+La version FR suit l'amont automatiquement (`1.7.6` → `1.7.7-fr.1`) : `FR_SUFFIX` ne se bump que pour un
+changement **de traduction** à version amont identique. Le workflow `upstream.yml` fait cette vérification
+chaque lundi et ouvre une pull request intitulée `Upstream <version>` (guides modifiés + restes à traduire) ;
+sans le secret `CF_API_KEY`, il se contente d'un avertissement et reste vert.
 
 ## Règles dures
 
@@ -81,6 +109,8 @@ bash tools/make_icon.sh           # régénère Media/icon-256.png et Media/Icon
 ### Checklist de première publication (à faire une fois)
 
 - [ ] Créer le dépôt distant et remplacer `WEBSITE` dans `tools/build_fr.py` (et le README).
+- [ ] Demander une clé API CurseForge (<https://console.curseforge.com/>) et la poser en secret
+      `CF_API_KEY` : c'est elle qui alimente la vérification hebdomadaire de l'amont.
 - [ ] Créer le projet CurseForge (jeu *WoW*, version **Forever**, catégorie *Quests & Leveling*) ;
       renseigner `CURSE_ID` dans `tools/build_fr.py` et le secret `CF_PROJECT_ID`.
 - [ ] Créer le projet Wago Addons ; renseigner `WAGO_ID` dans `tools/build_fr.py` et le secret
