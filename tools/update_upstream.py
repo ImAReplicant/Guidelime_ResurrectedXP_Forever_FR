@@ -99,16 +99,26 @@ def download(f, key=None):
     except urllib.error.HTTPError as exc:
         if not key or exc.code not in (401, 403, 404):
             raise SystemExit("telechargement refuse (%s) : %s" % (exc.code, media))
+    except urllib.error.URLError as exc:
+        raise SystemExit("CDN injoignable (%s) : %s" % (exc, media))
     try:
         return fetch_bytes(edge, key)
     except urllib.error.HTTPError as exc:
         raise SystemExit("telechargement refuse (%s) : %s (repli edge, x-api-key fourni)"
                          % (exc.code, edge))
+    except urllib.error.URLError as exc:
+        raise SystemExit("CDN injoignable (%s) : %s (repli edge)" % (exc, edge))
 
 
 def install_zip(path):
     """Remplace upstream/<addon>/ par le contenu du zip (le seul dossier qui bouge)."""
-    with zipfile.ZipFile(path) as zf:
+    if not os.path.exists(path):
+        raise SystemExit("archive introuvable : %s" % path)
+    try:
+        zf = zipfile.ZipFile(path)
+    except zipfile.BadZipFile:
+        raise SystemExit("ce n'est pas une archive zip : %s" % path)
+    with zf:
         names = zf.namelist()
         if not any(n == EN_ADDON + "/" + EN_ADDON + ".toc" for n in names):
             raise SystemExit("archive inattendue : %s/%s.toc absent de %s" % (EN_ADDON, EN_ADDON, path))
