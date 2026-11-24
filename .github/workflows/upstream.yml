@@ -34,6 +34,18 @@ jobs:
             *) exit "$code" ;;
           esac
 
+      # rappel hebdomadaire : le fichier envoye reste invisible tant que CurseForge ne l'a pas approuve
+      - name: Etat de publication CurseForge
+        continue-on-error: true
+        run: |
+          set +e
+          python3 tools/release.py --status
+          code=$?
+          set -e
+          if [ "$code" -eq 2 ]; then
+            echo "::warning::le fichier n'est pas encore public (attente de moderation CurseForge)"
+          fi
+
       - name: Mise a jour et regeneration
         if: steps.check.outputs.update == 'true'
         id: apply

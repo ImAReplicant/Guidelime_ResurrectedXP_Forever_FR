@@ -124,11 +124,9 @@ CF_PROJECT_ID=1829310 CF_API_TOKEN=… python3 tools/release.py
 sans elle, le fichier s'affiche « no game version » et n'est pas proposé par l'application CurseForge.
 
 Un fichier envoyé sur un projet neuf reste **en attente de modération** avant d'être listé publiquement.
-Pour vérifier qu'il est bien publié (aucune authentification requise) :
-
-```bash
-curl -s https://api.cfwidget.com/1829310 | python3 -m json.tool | grep -A3 '"files"'
-```
+`python3 tools/release.py --status` interroge l'API publique et répond : **0** publié, **2** en attente,
+**1** illisible. Le workflow `upstream` (hebdomadaire) lance cette vérification et émet un avertissement
+tant que le fichier n'est pas public.
 
 Corriger le type, la version de jeu ou le changelog d'un fichier **déjà envoyé** (sans ré-uploader) :
 `POST https://wow.curseforge.com/api/projects/1829310/update-file`, en-tête `X-Api-Token`, champ `metadata`

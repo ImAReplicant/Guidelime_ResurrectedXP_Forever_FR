@@ -26,6 +26,34 @@ ZIP = os.path.join(ROOT, "dist", ADDON + ".zip")
 TOC = os.path.join(OUT, ADDON_TOC)
 CURSE_URL = "https://wow.curseforge.com/api/projects/%s/upload-file"
 WAGO_URL = "https://addons.wago.io/api/projects/%s/version"
+CURSE_PUBLIC = "https://www.curseforge.com/api/v1/mods/%s/files"
+
+
+def publication_status():
+    """Etat de publication du fichier courant sur la page du projet (API publique, sans jeton).
+
+    Un fichier depose sur un projet neuf reste invisible tant que la moderation ne l'a pas approuve.
+    Code de sortie : 0 publie, 2 en attente de moderation, 1 erreur.
+    """
+    pid = os.environ.get("CF_PROJECT_ID", "1829310")
+    want = version()
+    try:
+        req = urllib.request.Request(CURSE_PUBLIC % pid, headers={"User-Agent": "Mozilla/5.0",
+                                                                  "Accept": "application/json"})
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            files = json.loads(resp.read().decode("utf-8")).get("data") or []
+    except Exception as exc:  # noqa: BLE001 - message brut de l'API
+        print("ERREUR : etat de publication illisible (%s)" % exc, file=sys.stderr)
+        return 1
+    for f in files:
+        name = f.get("displayName") or f.get("fileName") or ""
+        if want in name:
+            print("publie : %s | type %s | versions %s" % (
+                name, f.get("releaseType"), ", ".join(str(v) for v in f.get("gameVersions") or [])))
+            return 0
+    print("en attente de moderation : %s n'apparait pas encore sur la page du projet (%d fichier(s) public(s))"
+          % (want, len(files)))
+    return 2
 
 
 def version():
@@ -65,6 +93,8 @@ def post(url, headers, body, content_type):
 
 def main():
     dry = "--dry-run" in sys.argv
+    if "--status" in sys.argv:
+        return publication_status()
     if not os.path.exists(ZIP):
         raise SystemExit("archive absente : lancer python3 tools/package.py")
     ver, notes = version(), changelog()
