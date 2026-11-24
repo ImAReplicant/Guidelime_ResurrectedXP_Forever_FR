@@ -129,6 +129,12 @@ Pour vérifier qu'il est bien publié (aucune authentification requise) :
 curl -s https://api.cfwidget.com/1829310 | python3 -m json.tool | grep -A3 '"files"'
 ```
 
+Corriger le type, la version de jeu ou le changelog d'un fichier **déjà envoyé** (sans ré-uploader) :
+`POST https://wow.curseforge.com/api/projects/1829310/update-file`, en-tête `X-Api-Token`, champ `metadata`
+= `{"fileID": <id>, "displayName": …, "releaseType": "beta|release|alpha", "gameVersions": [17053],
+"changelog": …, "changelogType": "markdown"}`. La réponse `{"id": <fileID>}` confirme que le fichier
+appartient bien au projet.
+
 ### Checklist de première publication (à faire une fois)
 
 - [x] Dépôt distant et `WEBSITE` renseignés.
