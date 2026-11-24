@@ -78,8 +78,7 @@ Retourner à l'auberge [H Nijel's Point]
 [A Hunter][OC][G 31.04,43.12 Feralas][L 30.64,43.43 Feralas]Parler à *Mardrack Puisevert* et *Faralorn* \\ Une session de farm arrive \\ [V]Acheter nourriture/eau si nécessaire \\ [V]Acheter des munitions si nécessaire
 [G 31.78,45.5 Feralas]Parler à *Troyas Lunebise* \\ Rendre [QT2942 La Pierre du matin]
 [G 30.63,42.71 Feralas]Parler à *Pratt McGrubben* et rendre [QT7733 Qualité améliorée].
-[O][G 30.63,42.71 Feralas]Parler à *Pratt McGrubben* et rendre [QT7735 Une peau de yéti en parfait état].
-[A IT18969][O]Utiliser *Peau de yéti en parfait état* pour accepter [QA7735 Une peau de yéti en parfait état], puis donnez-le à Pratt. [UI18969-]
+[A IT18969][O][G 30.63,42.71 Feralas]Utiliser *Peau de yéti en parfait état* pour accepter [QA7735 Une peau de yéti en parfait état], then talk to *Pratt McGrubben* to turn in [QT7735 Une peau de yéti en parfait état].[UI18969-]
 [L 30.24,43.25 Feralas][TAR8019-]Parler à *Fyldren Plumelune* \\ Prendre le vol vers [F Ratchet]
 [OC]Si vous laissez ces quêtes de Maraudon inachevées, abandonnez seulement celles encore dans votre journal \\ Abandonner Corruption de la terre et de la Graine \\ Abandonner La corruption de Vylelangue \\ Abandonner Forces maléfiques retorses \\ Abandonner Les instructions du paria \\ Abandonner Légendes de Maraudon \\ (si Guidelime réaffiche une ligne antérieure qui accepte *Les instructions du paria* ou *Légendes de Maraudon* après abandon : cocher cette ligne)
 ]==], "RestedXP Forever Donjons (A) FR")

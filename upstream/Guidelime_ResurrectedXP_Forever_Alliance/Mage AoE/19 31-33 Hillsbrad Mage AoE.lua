@@ -28,7 +28,7 @@ Guidelime.registerGuide([==[
 [G 46.65,47.01 Arathi Highlands]Talk to *Skuerto* \\ Turn in [QT690 Malin's Request]
 [OC][G 46.34,47.03 Arathi Highlands][V]Buy potions from Drovnar if you want
 [G 45.73,46.1 Arathi Highlands]Get the [P Refuge Pointe] flight path
-[G 19.72,29.04,40 Arathi Highlands][G 50.71,58.76,15 Hillsbrad Foothills][G 52.09,58.7 Hillsbrad Foothills]Run to Southshore, into the inn, then into the basement. If you fail the timed quest, abandon it and skip this step \\ Talk to *Brewmeister Bilger* \\ Turn in [QT647 MacKreel's Moonshine]
+[OC][G 19.72,29.04,40 Arathi Highlands][G 50.71,58.76,15 Hillsbrad Foothills][G 52.09,58.7 Hillsbrad Foothills]Run to Southshore, into the inn, then into the basement. If you fail the timed quest, abandon it and skip this step \\ If Guidelime brings back the earlier line that accepts *MacKreel's Moonshine* once you abandon it: tick that line off \\ Talk to *Brewmeister Bilger* \\ Turn in [QT647 MacKreel's Moonshine]
 [G 51.89,58.68 Hillsbrad Foothills]go back upstairs \\ Talk to *Chef Jessen* \\ Accept [QA555 Soothing Turtle Bisque]
 [G 50.34,59.05 Hillsbrad Foothills]Go back out the Inn \\ Talk to *Phin Odelic* \\ Accept [QA659 Hints of a New Plague?]
 [G 49.47,58.73 Hillsbrad Foothills]Talk to *Marshal Redpath* \\ Accept [QA500 Crushridge Bounty]

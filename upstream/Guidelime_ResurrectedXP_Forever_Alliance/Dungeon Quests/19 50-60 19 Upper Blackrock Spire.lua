@@ -13,9 +13,9 @@ Guidelime.registerGuide([==[
 [G 79.28,73.7 Azshara]Talk to *Duke Hydraxis* \\ Turn in [QT6804 Poisoned Water] \\ Turn in [QT6805 Stormers and Rumblers] \\ Accept [QA6821 Eye of the Emberseer]
 [OC]Travel to Burning Steppes
 [G 84.8,69 Burning Steppes]Talk to *Mayara Brightwing* \\ Accept [QA4764 Doomrigger's Clasp]
-[G 84.74,69.02 Burning Steppes]Talk to *Marshal Maxwell* \\ Accept [QA5102 General Drakkisath's Demise]
+[G 84.74,69.02 Burning Steppes]Talk to *Marshal Maxwell* \\ If you cannot accept this quest, complete *General Drakkisath's Command* from LBRS first \\ Accept [QA5102 General Drakkisath's Demise]
 [G 65.2,23.8 Burning Steppes]Talk to *Tinkee* \\ Accept [QA4734 Egg Freezing]
-[G 65.2,23.8 Burning Steppes]Talk to *Tinkee* \\ Accept [QA4735 Egg Collection]
+[O][L 65.2,23.8 Burning Steppes]Talk to *Tinkee* \\ Accept [QA4735 Egg Collection] \\ (Only if you already turned in *Egg Freezing* on an earlier run)
 [OC]Travel to Blackrock Mountain
 [A Hardcore][G 34.94,27.76 Burning Steppes]Kill the *Scarshield Quartermaster*. Loot him for *Blackhand's Command*. Use it to accept the quest \\ This is a strong level 55 elite. Do this with a group for safety \\ He is located in the hallway to the right of the Blackrock Spire instance portal \\ Collect 1x *Blackhand's Command* \\ Accept [QA7761 Blackhand's Command][UI18987-]
 [A Softcore][G 34.94,27.76 Burning Steppes]Kill the *Scarshield Quartermaster*. Loot him for *Blackhand's Command*. Use it to accept the quest \\ He is located in the hallway to the right of the Blackrock Spire instance portal \\ Collect 1x *Blackhand's Command* \\ Accept [QA7761 Blackhand's Command][UI18987-]

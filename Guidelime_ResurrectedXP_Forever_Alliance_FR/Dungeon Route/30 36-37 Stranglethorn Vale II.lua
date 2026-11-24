@@ -96,8 +96,8 @@ Escorter *Zimmix Sputterspark* hors des ruines de Zul'Kunda \\ [QC97331,1 La gra
 [A Paladin,Hunter,Priest,Shaman,Mage,Warlock,Druid][OC]Retourner à l'auberge [H Booty Bay] uniquement si c'est prêt et lié là-bas \\ Acheter nourriture/eau si nécessaire
 [O]Si vous êtes encore près du camp des rebelles ou de Nesingwary et ne pouvez pas utiliser la pierre de foyer vers la baie du Butin, suivez la route principale au sud par la vallée de Strangleronce jusqu'à la baie du Butin. Cocher cette étape en arrivant.
 [G 27,77.12 Stranglethorn Vale]Parler à *Kebok* à l'étage, au dernier niveau \\ Rendre [QT189 Oreilles de Bloodscalp]
-[O][L 26.94,77.21 Stranglethorn Vale]Parler à *Krazek* à l'étage pour accepter [QA1116 De la Poussière de rêve dans les marécages]. Cocher ce rappel si vous passez la quête.
 [O][L 26.94,77.21 Stranglethorn Vale]Parler à *Krazek* à l'étage \\ Rendre [QT1115 Le marchand de rumeurs] \\ Cocher ce rappel si vous reportez la livraison.
+[O][L 26.94,77.21 Stranglethorn Vale]Parler à *Krazek* à l'étage pour accepter [QA1116 De la Poussière de rêve dans les marécages]. Cocher ce rappel si vous passez la quête.
 [OC]Garder *Cannes à pêches gobelines*. Ils sont utiles pour le splitpull \\ Vidéo sur le splitpull (utile à apprendre) : https://www.youtube.com/watch?v=H-IwZ6P-ldY
 [G 27.23,76.87 Stranglethorn Vale]Parler à *Baron Revilgaz* \\ Rendre [QT601 Les élémentaires d'eau] \\ Accepter [QA602 Analyse magique]
 [G 28.29,77.59 Stranglethorn Vale]Parler à *Drizzlik* \\ Rendre [QT577 Un peu d'assemblage est nécessaire]

@@ -21,7 +21,7 @@ Guidelime.registerGuide([==[
 [A Warrior][G 69.3,79 Elwynn Forest]Kill *Princess*. Loot her for her *Collar* \\ *Princess* will aggro with both of her *Porcine Entourage* \\ *Princess* will also cast *Rushing Charge* which deals heavy damage \\ Pool 100 Rage before you engage *Princess* \\ Be ready to use a *Lesser Healing Potion* \\ [QC88,1 Princess Must Die!]
 [A Paladin,Priest,Shaman,Mage,Warlock,Druid][G 69.3,79 Elwynn Forest]Kill *Princess*. Loot her for her *Collar* \\ *Princess* will aggro with both of her *Porcine Entourage* \\ *Princess* will also cast *Rushing Charge* which deals heavy damage \\ Be ready to use a *Lesser Healing Potion* \\ Click here for video reference: https://www.youtube.com/watch?v=GRrXOV-UvD4 \\ [QC88,1 Princess Must Die!]
 [A Rogue][G 69.3,79 Elwynn Forest]Kill *Princess*. Loot her for her *Collar* \\ *Princess* will aggro with both of her *Porcine Entourage* \\ *Princess* will also cast *Rushing Charge* which deals heavy damage \\ Be sure *Evasion* is ready. If you're struggling, you can use the Fence with Throwing Weapons to abuse pathing and buy time \\ Be ready to use a *Lesser Healing Potion* \\ Click here for video reference: https://www.youtube.com/watch?v=GRrXOV-UvD4 \\ [QC88,1 Princess Must Die!]
-[A Warlock][O][L 71.1,80.66 Elwynn Forest]Kill *Morgan the Collector* and loot *The Collector's Ring*. Cast *Fear* on Morgan to control him. \\ [QC147,1 Manhunt]
+[A Warlock][O][L 71.1,80.66 Elwynn Forest]Only if you already turned in *The Collector* and are on *Manhunt*: kill *Morgan the Collector* and loot *The Collector's Ring*. Cast *Fear* on Morgan to control him. \\ [QC147,1 Manhunt]
 [A Warlock][G 71.1,80.66 Elwynn Forest]Kill *Surena Caledon*. Loot her for her *Choker* \\ Focus on killing *Surena Caledon* very quickly \\ Cast *Fear* on *Morgan the Collector* continously \\ [QC1688,1 Surena Caledon]
 [OC][G 73.97,72.18,30 Elwynn Forest]Travel east to *Guard Thomas*
 [G 73.97,72.18 Elwynn Forest]Talk to *Guard Thomas* \\ Turn in [QT35 Further Concerns] \\ Accept [QA37 Find the Lost Guards] \\ Accept [QA52 Protect the Frontier]
@@ -65,10 +65,10 @@ Guidelime.registerGuide([==[
 [A Warlock][G 39.22,85.25 Stormwind City]Talk to *Gakin the Darkbinder* \\ Turn in [QT1689 The Binding]
 [A Warlock][A Softcore][OC]Optional Goldshire shortcut: die and respawn at the Spirit Healer by using *Life Tap* and standing on the Bonfire next to you[TAR6491-]
 [OC][G 42.11,65.93 Elwynn Forest]Exit Stormwind. Travel to Goldshire
-[A Warlock][O][L 42.11,65.93 Elwynn Forest]Talk to *Marshal Dughan* \\ Turn in [QT147 Manhunt]
 [G 42.11,65.93 Elwynn Forest]Talk to *Marshal Dughan* \\ Turn in [QT39 Deliver Thomas' Report]
 [A Warlock][O]Talk to *Marshal Dughan* \\ Turn in [QT176 Wanted: "Hogger"]
 [A Warlock][O]Talk to *Marshal Dughan* \\ Turn in [QT123 The Collector]
+[A Warlock][O]Only if you already turned in *The Collector* and are on *Manhunt*: talk to *Marshal Dughan* \\ Turn in [QT147 Manhunt]
 [A Warrior][OC][L 41.09,65.77 Elwynn Forest]Talk to *Lyria Du Lac* \\ [T]Train your class spells \\ (From level 12)[TAR913-]
 [A Paladin][OC][L 41.1,66.04 Elwynn Forest]Talk to *Brother Wilhelm* \\ [T]Train your class spells \\ (From level 12)[TAR927-]
 [A Rogue,Priest,Mage][OC][L 43.88,66.55 Elwynn Forest]Travel upstairs in the Inn \\ (From level 12)

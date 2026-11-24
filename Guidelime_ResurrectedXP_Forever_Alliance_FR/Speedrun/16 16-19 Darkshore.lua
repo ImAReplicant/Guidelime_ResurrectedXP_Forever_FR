@@ -6,7 +6,8 @@ Guidelime.registerGuide([==[
 [NX 19-21 Sombrivage/Orneval]
 [G 37.21,44.22 Darkshore]Cliquer sur *Avis de recherche* \\ Accepter [QA4740 On recherche : Fondeboue !]
 [A NightElf][G 37.44,41.84 Darkshore]Parler à *Archéologue Hollee* \\ Rendre [QT730 Des problèmes à Sombrivage ?] \\ Accepter [QA729 Les absences du Prospecteur]
-[G 37.39,40.13 Darkshore]Parler à *Thundris Tissevent* \\ Rendre [QT4762 La Bondissante] \\ Rendre [QT97926 Faire avec les moyens du bord] \\ Accepter [QA4763 La corruption des Noirbois]
+[A NightElf][G 37.39,40.13 Darkshore]Parler à *Thundris Tissevent* \\ Rendre [QT4762 La Bondissante] \\ Rendre [QT97926 Faire avec les moyens du bord] \\ Accepter [QA4763 La corruption des Noirbois]
+[A !NightElf][G 37.39,40.13 Darkshore]Parler à *Thundris Tissevent* \\ Rendre [QT4762 La Bondissante] \\ Accepter [QA4763 La corruption des Noirbois]
 [OC][L 37.78,44.06 Darkshore]Utiliser *Bol de purification rempli* sur *Bol de purification vide* \\ Récupérer [CI12347,1][UI12346-]
 [OC][G 42.02,58.87,50 Darkshore][G 43.22,59.69,50 Darkshore][G 43.07,62.45,50 Darkshore][G 42.49,60.68,50 Darkshore]Suivre les points de passage jusqu'à la zone où patrouille Anaya.
 [L 42.49,60.68 Darkshore]Tuer *Anaya Coursaurore*. La fouiller pour son *Pendentif* \\ [QC963,1 Un amour éternel]

@@ -7,7 +7,7 @@ Guidelime.registerGuide([==[
 [G 74.64,11.74 Ironforge]Talk to *Prospector Stormpike* \\ Accept [QA2398 The Lost Dwarves] \\ Accept [QA707 Ironband Wants You!]
 [OC][G 55.5,47.74 Ironforge]Go to the marked location \\ (Skip if you are already in Loch Modan or Badlands)
 [OC][L 55.5,47.74 Ironforge]Talk to *Gryth Thurden* \\ Fly to [F]Loch Modan[TAR1573-]
-[G 36.5,48.35,15 Loch Modan][G 37.07,49.38 Loch Modan]Talk to *Ghak Healtouch* \\ Accept [QA17 Uldaman Reagent Run]
+[O][L 37.07,49.38 Loch Modan]Talk to *Ghak Healtouch* \\ Accept [QA17 Uldaman Reagent Run] \\ (Requires *Badlands Reagent Run* already completed)
 [G 36.5,48.35,15 Loch Modan][G 37.07,49.38 Loch Modan]Talk to *Ghak Healtouch* \\ This quest is a prerequisite that requires killing mobs in Badlands for a follow up quest in Uldaman. If you wish to not complete it, skip this step \\ Accept [QA2500 Badlands Reagent Run]
 [OC][G 65.93,65.62,80 Loch Modan]Travel to Ironband's Excavation Site
 [G 65.93,65.62 Loch Modan]Talk to *Prospector Ironband* \\ Turn in [QT707 Ironband Wants You!] \\ Accept [QA738 Find Agmond]
@@ -56,9 +56,9 @@ Click *The Discs of Norgannon* \\ Turn in [QT2278 The Platinum Discs] \\ Accept 
 [G 74.18,9.37 Ironforge]Talk to *Krom Stoutarm* \\ Turn in [QT1360 Reclaimed Treasures]
 [G 77.54,11.83 Ironforge][G 77.34,9.71 Ironforge]Talk to *Historian Karnik* and *Advisor Belgrum* \\ Turn in [QT724 Prospect of Faith] \\ Accept [QA725 Passing Word of a Threat] \\ Turn in [QT725 Passing Word of a Threat] \\ Accept [QA726 Passing Word of a Threat] \\ Turn in [QT726 Passing Word of a Threat]
 [G 33.87,59.14 Ironforge]Talk to *Dinita Stonemantle* \\ Turn in [QT2439 The Platinum Discs]
-[O][L 36.38,3.61 Ironforge]Talk to *Talvash del Kissel* \\ Bring 5 *Silver Bars* to *Talvash del Kissel* \\ If you are unable to acquire them, abandon this quest \\ [QC2199,1 Lore for a Price] \\ Turn in [QT2199 Lore for a Price] \\ Tick this step if you are postponing this visit.
-[O][L 36.38,3.61 Ironforge]Talk to *Talvash del Kissel* \\ Accept [QA2199 Lore for a Price] \\ Tick this step if you are postponing this visit.
-[O][L 36.38,3.61 Ironforge]Talk to *Talvash del Kissel* \\ Turn in [QT2198 The Shattered Necklace] \\ Tick this step if you are postponing this visit.
+[O][L 36.38,3.61 Ironforge]Talk to *Talvash del Kissel* \\ (Shattered Necklace follow-up 3/3 — activates after accepting *Lore for a Price*) \\ Bring 5 *Silver Bars* to *Talvash del Kissel* \\ If you are unable to acquire them, abandon this quest \\ [QC2199,1 Lore for a Price] \\ Turn in [QT2199 Lore for a Price] \\ Tick this step if you are postponing this visit.
+[O][L 36.38,3.61 Ironforge]Talk to *Talvash del Kissel* \\ (Shattered Necklace follow-up 2/3 — activates after turning in *The Shattered Necklace*) \\ Accept [QA2199 Lore for a Price] \\ Tick this step if you are postponing this visit.
+[O][L 36.38,3.61 Ironforge]Talk to *Talvash del Kissel* \\ (Shattered Necklace follow-up 1/3 — activates after using the *Shattered Necklace* below) \\ Turn in [QT2198 The Shattered Necklace] \\ Tick this step if you are postponing this visit.
 [A IT7666]Use the *Shattered Necklace* to start the quest \\ Accept [QA2198 The Shattered Necklace][UI7666-]
 You have completed the Uldaman quest guide. Please select a new guide
 ]==], "RestedXP Forever Dungeon Quests (A)")

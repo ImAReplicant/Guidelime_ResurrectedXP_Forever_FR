@@ -16,9 +16,9 @@ Guidelime.registerGuide([==[
 [A Rogue][G 51.49,15.33 Ironforge]Talk to *Fenthwick* \\ [T]Train your class spells[TAR5167-]
 [A Warlock][G 51.1,8.7,15 Ironforge][G 50.34,5.66 Ironforge]Talk to *Briarthorn* \\ [T]Train your class spells[TAR5172-]
 [A Warlock][G 53.2,7.8,15 Ironforge][G 52.7,6.07 Ironforge]Talk to *Jubahl Corpseseeker* \\ [V]Buy *Grimoires* for your pets[TAR6382-]
-[O][L 75.77,23.39 Ironforge]If you already collected the Un'Goro samples, talk to *Laris Geardawdle*. Turn in [QT4513 A Little Slime Goes a Long Way]. Tick this step to defer the hand-in.
-[A Mage][O][L 75.77,23.39 Ironforge]Talk to *Laris Geardawdle*. Accept [QA4513 A Little Slime Goes a Long Way]. Tick this step if you are skipping the Un'Goro samples.
 [O][L 75.77,23.39 Ironforge]Talk to *Laris Geardawdle*. Turn in [QT4512 A Little Slime Goes a Long Way]. Tick this step if you are postponing the hand-in.
+[A Mage][O][L 75.77,23.39 Ironforge]Talk to *Laris Geardawdle*. Accept [QA4513 A Little Slime Goes a Long Way]. Tick this step if you are skipping the Un'Goro samples.
+[A IT11954>9][O][L 75.77,23.39 Ironforge]If you already collected the Un'Goro samples, talk to *Laris Geardawdle*. Turn in [QT4513 A Little Slime Goes a Long Way]. Tick this step to defer the hand-in.
 [OC][L 71.83,16.12 Ironforge]Talk to *Curator Thorius* \\ *Curator Thorius* patrols through the Hall of Explorers \\ Only accept this quest if you're able to find party members to complete elite quests in Searing Gorge shortly \\ Accept [QA3371 Dwarven Justice]
 [A Warrior][G 65.9,88.41 Ironforge]Talk to *Bilban Tosslespanner* \\ [T]Train your class spells[TAR5114-]
 [A Hunter][G 69.87,82.89 Ironforge]Talk to *Regnus Thundergranite* \\ [T]Train your class spells[TAR5117-]

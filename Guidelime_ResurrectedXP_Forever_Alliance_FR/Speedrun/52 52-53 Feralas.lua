@@ -40,7 +40,6 @@ Guidelime.registerGuide([==[
 [A Hunter][OC][G 31.04,43.12 Feralas][L 30.64,43.43 Feralas]Parler à *Mardrack Puisevert* et *Faralorn* \\ Une session de farm arrive \\ [V]Acheter nourriture/eau si nécessaire \\ [V]Acheter des munitions si nécessaire
 [G 31.78,45.5 Feralas]Parler à *Troyas Lunebise* \\ Rendre [QT2942 La Pierre du matin]
 [O][L 30.63,42.71 Feralas]Parler à *Pratt McGrubben* \\ Rendre [QT7733 Qualité améliorée]
-[O][G 30.63,42.71 Feralas]Parler à *Pratt McGrubben* et rendre [QT7735 Une peau de yéti en parfait état].
-[A IT18969][O]Utiliser *Peau de yéti en parfait état* pour accepter [QA7735 Une peau de yéti en parfait état], puis donnez-le à Pratt. [UI18969-]
+[A IT18969][O][G 30.63,42.71 Feralas]Utiliser *Peau de yéti en parfait état* pour accepter [QA7735 Une peau de yéti en parfait état], then talk to *Pratt McGrubben* to turn in [QT7735 Une peau de yéti en parfait état].[UI18969-]
 [L 30.24,43.25 Feralas][TAR8019-]Parler à *Fyldren Plumelune* \\ Prendre le vol vers [F Ratchet]
 ]==], "RestedXP Forever Speedrun (A) FR")

@@ -63,6 +63,7 @@ Guidelime.registerGuide([==[
 [OC][L 56.4,30.5 Westfall]Parler à *Salma Saldean* \\ Rendre [QT22 La tourte au foie de Broche-tripes] \\ Rendre [QT38 Le ragoût de la marche de l'Ouest]
 [A IT732<3][OC][L 50.8,21.76 Westfall]Récolter trois *Okra* dans les champs s'il vous en faut encore pour *Le ragoût de la marche de l'Ouest*.
 [G 50.8,21.76 Westfall]Tuer *Gardiens des moissons*. Les fouiller pour leurs *Flasques d'huile* \\ [QC9,1 Les champs de mort] \\ Récupérer 5x *Flasque d'huile*
+[G 54.42,40.38 Westfall]Finish gathering any remaining ingredients for *Westfall Stew* and *Goretusk Liver Pie* \\ [QC38,1 Le ragoût de la marche de l'Ouest] \\ [QC38,2 Le ragoût de la marche de l'Ouest] \\ [QC38,3 Le ragoût de la marche de l'Ouest] \\ [QC38,4 Le ragoût de la marche de l'Ouest] \\ [QC22,1 La tourte au foie de Broche-tripes]
 [G 56.04,31.23 Westfall]Parler à *Saldean le fermier* \\ Rendre [QT9 Les champs de mort]
 [G 56.4,30.5 Westfall]Parler à *Salma Saldean* \\ Rendre [QT38 Le ragoût de la marche de l'Ouest] \\ Rendre [QT22 La tourte au foie de Broche-tripes]
 [G 48.36,46.73 Westfall]Tuer *Trappeurs défias* et *Contrebandiers défias*. Les fouiller pour leurs *masques en cuir rouge* \\ C'est une zone à respawn dynamique : si vous en tuez assez, ils continueront d'apparaître \\ [QC12,1 La milice du peuple] \\ [QC12,2 La milice du peuple] \\ [QC153,1 Les masques en cuir rouge]

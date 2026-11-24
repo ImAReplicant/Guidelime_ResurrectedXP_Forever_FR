@@ -37,7 +37,7 @@ Guidelime.registerGuide([==[
 [A Mage][G 50,50,480 Ironforge]Arrivez à Forgefer.
 [G 69.54,50.33 Ironforge]Parler à *Maître-bricoleur Suprétincelle* \\ Rendre [QT2923 Maître-artisan Overspark]
 [L 55.51,47.75 Ironforge][TAR1573-]Parler à *Gryth Thurden* \\ Prendre le vol vers [F Wetlands]
-[O][L 10.59,60.59 Wetlands]Parler à *Glorin Front-d'acier* \\ Rendre [QT270 La Flotte perdue]
+[G 10.59,60.59 Wetlands]Parler à *Glorin Front-d'acier* \\ Rendre [QT270 La Flotte perdue]
 [G 10.69,60.95 Wetlands]Parler à *Helbrek l'aubergiste* \\ Lier votre pierre de foyer à [S Wetlands][TAR1464-]
 [OC][L 10.37,61.02 Wetlands]Monter vers *Archéologue Outrepanse* \\ (uniquement si vous avez rendu Les absences du Prospecteur)
 [G 10.84,60.44 Wetlands]Parler à *Archéologue Outrepanse* \\ Accepter [QA943 Les absences du Prospecteur]
@@ -90,7 +90,7 @@ Guidelime.registerGuide([==[
 [G 11.86,58.84 Wetlands]Parler à *Caitlin Grassman* \\ Accepter [QA95647 Perdu dans les fourrés]
 [G 11.8,57.99 Wetlands]Parler à *Sidonie* \\ Rendre [QT470 En creusant dans la vase]
 [A Hunter][G 11,58.6 Wetlands]Parler à *Edwina Monzor* \\ [V]Racheter *Flèches rasoir* si nécessaire[TAR1462-]
-[O][L 8.36,58.53 Wetlands]Parler à *Karl Boran* \\ Rendre [QT286 Rapporter la statuette] \\ Accepter [QA98189 Rapporter la statuette]
+[G 8.36,58.53 Wetlands]Parler à *Karl Boran* \\ Rendre [QT286 Rapporter la statuette] \\ Accepter [QA98189 Rapporter la statuette]
 [O][L 8.51,55.7 Wetlands]Parler à *James Halloran* \\ Rendre [QT471 Les devoirs de l'apprenti] \\ Accepter [QA98072 Crocos des cieux]
 [A IT3348>5][OC][G 8.51,55.7 Wetlands]Apporter les six *Peaux de crocilisque géants* à *James Halloran* au port de Menethil.
 [OC][G 10.28,56.33,20 Wetlands]Passer par ce point de passage
@@ -139,7 +139,7 @@ Guidelime.registerGuide([==[
 [OC]Tuer *Whelps*. Les fouiller pour leurs *Écailles cramoisies immaculées* \\ [QC98072,1 Crocos des cieux]
 [OC][L 61.93,37.41 Wetlands]Tuer *Griffe pourrie affolée*. Le fouiller pour *Chair de griffe pourrie malveillante* \\ Chercher au moins un membre de groupe de plus pour tuer *Chair de griffe pourrie malveillante* bientôt, pendant que vous trouvez *Chair de griffe pourrie malveillante* \\ [QC98283,1 Carnage] \\ (quête de groupe : facultative, à ignorer en solo)
 [OC][G 69.43,34.67,20 Wetlands]Entrer dans la grotte de la crête des raptors
-[O][G 69.8,28.92,60 Wetlands]Tuer *Tranchegueules des hautes-terres* et *Anciens tranchegueules*. Les fouiller pour leurs *Incisives de tranchegueule* \\ Fouiller *Œufs de tranchegueule* au sol \\ [QC98245,1 Travail d'aiguille tranchegueule] \\ [QC98246,1 Période de disette]
+[G 69.8,28.92,60 Wetlands]Tuer *Tranchegueules des hautes-terres* et *Anciens tranchegueules*. Les fouiller pour leurs *Incisives de tranchegueule* \\ Fouiller *Œufs de tranchegueule* au sol \\ [QC98245,1 Travail d'aiguille tranchegueule] \\ [QC98246,1 Période de disette]
 [OC][L 69.8,28.92 Wetlands]Utiliser *Chair de griffe pourrie malveillante* à *Pierre à offrandes* pour invoquer *Chair de griffe pourrie malveillante* dans la grotte de la crête des raptors \\ (si vous avez pris Carnage) \\ (route groupe (2+ joueurs) : uniquement si vous êtes en groupe)[UI280331-]
 [OC][L 69.8,28.92 Wetlands]Tuer *Chair de griffe pourrie malveillante*. Le fouiller pour *Tête de Carnage* \\ *Chair de griffe pourrie malveillante* est un élite niveau 30 avec 4300 pv. Il appelle à l'aide à 50% et dispose d'un étourdissement qui vous met à terre \\ [QC98283,2 Carnage] \\ (quête de groupe (2+ joueurs) : facultative, à ignorer en solo)
 [OC][G 61.93,37.41,70 Wetlands]Tuer *Whelps*. Les fouiller pour leurs *Écailles cramoisies immaculées* \\ [QC98072,1 Crocos des cieux]
@@ -155,7 +155,7 @@ Guidelime.registerGuide([==[
 [A IT270865][OC][G 38.81,52.39 Wetlands]Parler à *Prospecteur Whelgar* \\ Utiliser *Relique des Titans* pour lancer la quête \\ Accepter [QA95810 La relique égarée] \\ Rendre [QT95810 La relique égarée] \\ Accepter [QA98824 Prisme préhistorique][UI270865-]
 [OC][L 38.81,52.39 Wetlands]Parler à *Prospecteur Whelgar* \\ Accepter [QA98824 Prisme préhistorique] \\ (uniquement si vous avez rendu La relique égarée)
 [G 49.8,18.26 Wetlands][G 49.91,18.23 Wetlands]Parler à *Tresse-longue le Macabre* et *Rhag Garmaçon* \\ Rendre [QT472 La chute de Dun Modr] \\ Accepter [QA631 Le viaduc de Thandol]
-[O][L 51.29,7.95 Wetlands]Descendre l'escalier en spirale sous le pont de Thandol et cliquer sur *Cadavre d'Ebenezer Bouclerouille*. Éviter les *Saboteurs Sombrefers* élites \\ Rendre [QT631 Le viaduc de Thandol] \\ Si vous voulez continuer la chaîne du pont de Thandol déjà listée, acceptez manuellement la partie suivante ici, puis retourner voir Rhag Garmason pour le rendu. \\ Pour reporter cette visite facultative, cochez cette étape.
+[G 51.29,7.95 Wetlands]Go down the spiral stairs beneath the Thandol Span and click *Ebenezer Rustlocke's Corpse*. Ensure you are on full HP and avoid or crowd-control the two elite *Dark Iron Saboteurs* (skip this step if you do not want to continue the Thandol Span chain) \\ Rendre [QT631 Le viaduc de Thandol] \\ Accepter [QA632 Le viaduc de Thandol]
 [OC][L 49.67,18.23 Wetlands][L 49.8,18.26 Wetlands][L 50.05,18.17 Wetlands]Parler à *Motley Garmaçon*, *Tresse-longue le Macabre* et *Ashlan Rictus-de-pierre* \\ Accepter [QA303 La guerre contre les Sombrefer] \\ Accepter [QA304 Une tâche sinistre] \\ Accepter [QA88756 Retour explosif] \\ (quête de groupe (3+ joueurs) : facultative, à ignorer en solo)
 [OC][L 60.01,24.35 Wetlands]Tuer *Dark Iron Dwarves*, *Tunneliers Sombrefers*, *Saboteurs Sombrefers* et *Démolisseurs Sombrefers* \\ Fouiller *Explosifs volés* au sol \\ *Saboteurs Sombrefers* lancent *Sapeur explosion* en mourant, infligeant des dégâts de Feu à proximité \\ *Démolisseurs Sombrefers* lance *Bombes* en continu à distance \\ [QC303,1 La guerre contre les Sombrefer] \\ [QC303,2 La guerre contre les Sombrefer] \\ [QC303,3 La guerre contre les Sombrefer] \\ [QC303,4 La guerre contre les Sombrefer] \\ [QC88756,1 Retour explosif] \\ (quête de groupe (3+ joueurs) : facultative, à ignorer en solo)
 [OC][L 62.48,28.41 Wetlands]Tuer *Balgaras le Crasseux*. Le fouiller pour son *Ear* \\ S'il n'est pas dans les camps au sud, il peut aussi apparaître dans l'un des bâtiments au nord à Dun Modr \\ [QC304,1 Une tâche sinistre] \\ (quête de groupe (3+ joueurs) : facultative, à ignorer en solo)
@@ -178,7 +178,7 @@ Guidelime.registerGuide([==[
 [G 50.71,58.76,350 Hillsbrad Foothills]Rejoindre Austrivage. Si vous ne pouvez pas y voler, suivez la route à l'ouest depuis Refuge Pointe vers Hillsbrad, puis la route au sud jusqu'à Austrivage.
 [OC]Attention à ne pas croiser *Messagère des Réprouvés* qui patrouille parfois la route de la ferme de Go'Shek à Moulin-de-Tarren[TAR2714-][TAR2721-]
 [OC]Attention en entrant à Austrivage ! Des *Camouflé* niveau 37-38 *Assassins ténébreux* tendent régulièrement une embuscade en ville ! \\ Si vous arrivez à en tuer un, vous pourrez fouiller un objet qui lance une quête : *Contrat de l'assassin*. L'événement est rare et les monstres sont difficiles à ce niveau, ne faites pas de détour pour l'obtenir \\ Récupérer [CI3668,1][TAR2434-]
-[G 50.71,58.76,15 Hillsbrad Foothills][G 52.09,58.7 Hillsbrad Foothills]Parler à *Brasseur Sentine* au sous-sol \\ Si vous échouez la quête à durée limitée, abandonnez-la et ignorer cette étape \\ Rendre [QT647 Le tord-boyaux de MacKreel]
+[OC][G 50.71,58.76,15 Hillsbrad Foothills][G 52.09,58.7 Hillsbrad Foothills]Parler à *Brasseur Sentine* au sous-sol \\ Si vous échouez la quête à durée limitée, abandonnez-la et ignorer cette étape \\ If Guidelime brings back the earlier line that accepts *MacKreel's Moonshine* once you abandon it: tick that line off \\ Rendre [QT647 Le tord-boyaux de MacKreel]
 [A Hunter][OC][G 50.41,58.8 Hillsbrad Foothills]Aller à l'endroit indiqué
 [A Hunter][OC][L 50.41,58.8 Hillsbrad Foothills]Parler à *Wesley* \\ Mettre votre familier à l'écurie. Vous apprivoiserez un *Ancienne Rampemousse* bientôt[TAR9978-]
 [G 49.34,52.27 Hillsbrad Foothills]Parler à *Darla Harris* \\ Prendre le [P Southshore] Point de vol[TAR2432-]

@@ -4,7 +4,7 @@ Guidelime.registerGuide([==[
 [GA Alliance]
 [NX 45-46 Tanaris]
 [OC][G 27.53,77.79 Stranglethorn Vale]Go to the marked location
-[OC][L 27.53,77.79 Stranglethorn Vale]Talk to *Gyll* \\ Fly to Riverglades [F]Farholde[TAR2859-]
+[OC][L 27.53,77.79 Stranglethorn Vale]Talk to *Gyll* \\ Fly to Riverglades [F]Farholde Keep[TAR2859-]
 [G 72.32,61.92 Riverglades]Click on the *Tanning Rack* behind the boat. \\ Accept [QA95260 Terrors From the Deep]
 [G 78.49,53.99 Riverglades]Click on the *Wanted Poster*. \\ Accept [QA95254 WANTED: Trapclaw] \\ Accept [QA95120 WANTED: Old Rot-Chum]
 [G 78.85,54.22 Riverglades]Talk to *Gray Dawnbright*. \\ Turn in [QT95961 Stepped Out]
@@ -19,14 +19,14 @@ Guidelime.registerGuide([==[
 [OR][G 77.61,50.95 Riverglades]Talk to *Kor'gar* inside the building. \\ Buy 1 *Goblin Degreaser* for 40 silver. \\ Collect [QC95988,3 -][CI271653,1][TAR260565-]
 [G 79.45,52.7 Riverglades]Talk to *Wharfmaster Whizzbuzz*. \\ Turn in [QT97332 Twice Misplaced Trust] \\ Accept [QA95119 Unfriendly Competition] \\ Accept [QA95118 Saltwater Savages]
 [G 79.94,52.49 Riverglades]Talk to *Argo Brinewhistle*. \\ Turn in [QT95260 Terrors From the Deep] \\ Accept [QA95261 It Takes Guts]
-[G 80.85,53.03,40 Riverglades]Kill *Trapclaw*. Loot it for *Trapclaw's Pincer*. \\ Skip this step if *Trapclaw* is not there. \\ [QC95254,1 WANTED: Trapclaw]
+[OC][G 80.85,53.03,40 Riverglades]Kill *Trapclaw*. Loot it for *Trapclaw's Pincer*. \\ Skip this step if *Trapclaw* is not there. \\ [QC95254,1 WANTED: Trapclaw]
 [G 81.02,49.77,40 Riverglades]Kill *Shore Crawlers*. Loot them for *Crawler Spittle*, *Sand Crawler Meat*, and *Beast Entrails*. \\ [QC95988,1 Goes Down Smooth] \\ [QC95121,2 A Taste of the Sea] \\ [QC95261,1 It Takes Guts]
 [G 81.02,49.77,40 Riverglades]Loot *Sand Crawler Meat* from Shore Crawlers. [QC95121,2 A Taste of the Sea]
 [G 81.02,49.77,40 Riverglades]Loot *Crawler Spittle* from Shore Crawlers. [QC95988,1 Goes Down Smooth]
 [G 87.3,37.83,40 Riverglades]Kill *Musketeers* and *Buccaneers*. Loot them for *Smuggled Goods*. \\ [QC95119,1 Unfriendly Competition] \\ [QC95119,2 Unfriendly Competition] \\ [QC95288,1 Smuggler's Paradise]
 [G 87.3,37.83,40 Riverglades]Kill *Eastsea Musketeers* and *Eastsea Buccaneers*. [QC95119,1 Unfriendly Competition] \\ [QC95119,2 Unfriendly Competition]
 [G 79.45,52.7 Riverglades]Talk to *Wharfmaster Whizzbuzz*. \\ Turn in [QT95119 Unfriendly Competition] \\ Accept [QA95122 Unchecked Expansion] \\ Accept [QA95123 A Blast Ye Scurvy Dogs!]
-[G 80.85,53.03,40 Riverglades]Kill *Trapclaw*. Loot it for *Trapclaw's Pincer*. \\ Skip this step if *Trapclaw* is not there. \\ [QC95254,1 WANTED: Trapclaw]
+[OC][G 80.85,53.03,40 Riverglades]Kill *Trapclaw*. Loot it for *Trapclaw's Pincer*. \\ Skip this step if *Trapclaw* is not there. \\ [QC95254,1 WANTED: Trapclaw]
 [OC][L 80.41,40.05 Riverglades]Climb over the mountain
 [OC][L 79.56,37.42 Riverglades]Loop through this area
 [OC]Kill *Eastsea Raiders* and *Eastsea Bombardiers* around Windstead. \\ [QC95122,1 Unchecked Expansion] \\ [QC95122,2 Unchecked Expansion]
@@ -59,7 +59,6 @@ Kill *Eastsea Raiders* and *Eastsea Bombardiers* around Windstead. \\ [QC95122,1
 [O]Kill *Ghostmaw*. Loot it for *Ghostmaw's Fang*. \\ Ghostmaw is an elite crocodile that can be anywhere along the riverbank. Group up or skip this quest if he is too difficult. \\ You'll have more chances to kill him later. \\ [QC95991,1 WANTED: Ghostmaw]
 [O]Kill *Rog'mar Trainees* and *Blademaster Kaijo*. Loot him for *Blademaster's Banner*. \\ *Blademaster Kaijo* is an elite. Group up or skip this quest if you cannot defeat him. \\ Click on the *Rog'mar Supply Crates* around the camps. \\ [QC95064,1 Preventative Measures] \\ [QC95426,1 Rog'mar Supplies] \\ [QC95912,1 WANTED: Blademaster Kaijo]
 [O][L 59.41,28.15 Riverglades]Kill *Krek the Noxious* at the waterfall. \\ *Krek the Noxious* is an elite. Group up or skip this quest if you cannot defeat him. \\ [QC96085,1 Upstream Contamination]
-[G 62.07,35.45,40 Riverglades]Kill *Rog'mar Trainees* and *Blademaster Kaijo*. Loot him for *Blademaster's Banner*. \\ *Blademaster Kaijo* is an elite. Group up or skip this quest if you cannot defeat him. \\ Click on the *Rog'mar Supply Crates* around the camps. \\ [QC95064,1 Preventative Measures] \\ [QC95426,1 Rog'mar Supplies] \\ [QC95912,1 WANTED: Blademaster Kaijo]
 [G 62.07,35.45,40 Riverglades]Kill *Rog'mar Trainees*. [QC95064,1 Preventative Measures]
 [G 62.07,35.45,40 Riverglades]Open the *Rog'mar Supply Crates* around the camps. [QC95426,1 Rog'mar Supplies]
 [G 68.15,48.58 Riverglades]Talk to *Sleebo Fizzlespout*. \\ Accept [QA96063 Gaseous Gold]
@@ -102,10 +101,11 @@ Kill *Eastsea Raiders* and *Eastsea Bombardiers* around Windstead. \\ [QC95122,1
 [OC][G 66.89,81.76,10 Riverglades]Climb onto the castle walls and enter the keep through the upper entrance.
 [G 66.76,81.12 Riverglades]Talk to *Ashe Amberhall*. \\ Turn in [QT94907 A Small Favor] \\ Accept [QA94984 Tome of Twilight]
 [O][L 66.76,81.12 Riverglades]If you brought *News to Farholde*, talk to *Ashe Amberhall*. \\ Turn in [QT94891 News to Farholde]
-[G 66.67,81.02 Riverglades]Talk to *Demar Brant*. \\ Turn in [QT94926 Drop the Hammer] \\ Turn in [QT95148 Southern Watch Gnoll Report] \\ Turn in [QT95059 Frazzlespark's Crate] \\ Turn in [QT95066 The Rog'mar Situation] \\ Turn in [QT94892 Dying Wish] \\ Accept [QA94893 Delivering Closure] \\ Accept [QA94982 Eye of Mugg]
+[G 66.67,81.02 Riverglades]Talk to *Demar Brant*. \\ Turn in [QT95148 Southern Watch Gnoll Report] \\ Turn in [QT95059 Frazzlespark's Crate] \\ Turn in [QT95066 The Rog'mar Situation] \\ Turn in [QT94892 Dying Wish] \\ Accept [QA94893 Delivering Closure] \\ Accept [QA94982 Eye of Mugg]
+[O][L 66.67,81.02 Riverglades]If you defeated Komuk, talk to *Demar Brant*. \\ Turn in [QT94926 Drop the Hammer]
 [O][L 66.67,81.02 Riverglades]After turning in *News to Farholde*, talk to *Demar Brant*. \\ Accept [QA94894 The Twilight Threat]
-[OC][L 66.85,79.93 Riverglades]Leave the keep through the other exit. \\ (Only if you are in Farholde Keep)
-[G 66.15,79.6 Riverglades]Talk to *Ember Bladewhisper*. \\ Turn in [QT95912 WANTED: Blademaster Kaijo]
+[OC][G 66.85,79.93,10 Riverglades]Leave the keep through the other exit. \\ (Only if you are in Farholde Keep)
+[O][L 66.15,79.6 Riverglades]If you defeated Blademaster Kaijo, talk to *Ember Bladewhisper*. \\ Turn in [QT95912 WANTED: Blademaster Kaijo]
 [O]Destroy *Rog'mar Report*. [CI274981,0-]
 [A IT7964>7][G 66.15,79.6 Riverglades]Talk to *Ember Bladewhisper*. \\ Turn in [QT95184 The Sharpest of Blades]
 [OC][L 63.54,85.08 Riverglades]Talk to *Wheatley*. \\ Turn in [QT95991 WANTED: Ghostmaw]

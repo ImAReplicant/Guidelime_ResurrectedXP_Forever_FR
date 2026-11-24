@@ -32,6 +32,7 @@ Use the *Heavy Leaden Collection Phial* on a *Irradiated Slime* or *Irradiated H
 [A IT9282][OC]Use the *Blue Punch Card* at the *Matrix Punchograph 3005-C* \\ The Punchograph is located on the suspended platform right next to the *Electrocutioner 6000* \\ Collect [CI9281,1][TAR6235-]
 [A IT9281]Use the *Red Punch Card* at the *Matrix Punchograph 3005-D* \\ [QC2930,1 Data Rescue]
 Kill *Mekgineer Thermaplugg* \\ [QC2929,1 The Grand Betrayal]
+Kill all *Gnomeregan Mobs*. Loot them for their *Robo-mechanical Guts* \\ [QC2928,1 Gyrodrillmatic Excavationators]
 [A IT9326][O][QT2945-]Use the *Grime-Encrusted Ring* to accept [QA2945 Grime-Encrusted Ring][UI9326-] \\ Take the ring to *The Sparklematic 5200* in the Clean Zone near the instance entrance. Bring your group for the trip back, then turn it in at the machine. Tick this step if you are postponing the return.
 [O]Only after handing in the *Grime-Encrusted Ring*, click *The Sparklematic 5200* again. Accept [QA2947 Return of the Ring]. Tick this step if you are skipping the follow-up.
 [OC]Hearth to [H Kharanos] \\ (Skip if you are already in Dun Morogh)

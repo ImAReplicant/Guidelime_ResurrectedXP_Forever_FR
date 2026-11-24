@@ -96,11 +96,11 @@ Parler à *Monty* sur la plateforme centrale du tram des profondeurs \\ Rendre [
 [OC][G 54.7,38.3,200 Loch Modan]Se rendre sur l'île au milieu du loch
 [G 54.72,38.15 Loch Modan]Tuer *Crocilisques du loch*. Les fouiller pour leurs *Viande* et *Peau* \\ [QC385,1 Chasse aux crocilisques] \\ [QC385,2 Chasse aux crocilisques]
 [G 81.76,61.66 Loch Modan]Parler à *Marek Cœur-de-fer* \\ Rendre [QT385 Chasse aux crocilisques] \\ Rendre [QT86758 Remuer le couteau dans la plaie]
-[O][L 83.49,65.4 Loch Modan]Si vous avez pris *Le défi d'un chasseur*, finissez de tuer les *Anciens sangliers des montagnes* et revenez vers *Daryl le Jeune* en 12 minutes. Si le minuteur est écoulé, abandonnez la quête échouée et cocher cette étape. \\ Rendre [QT258 Le défi d'un chasseur]
 [OC][L 83.49,65.4 Loch Modan]Parler à *Daryl le Jeune* \\ Accepter [QA258 Le défi d'un chasseur] \\ (ignorer si vous êtes déjà niveau 16 ou plus)
 [OC][L 69.45,39.18 Loch Modan]Tuer *Anciens sangliers des montagnes* \\ Vous devez terminer cette quête et revenir vers *Daryl le Jeune* en 12 minutes. En cas d'échec, abandonnez-la et reprenez-la \\ [QC258,1 Le défi d'un chasseur]
 [OC][L 83.28,62.97 Loch Modan]Se diriger vers *Daryl le Jeune* \\ (si vous avez pris Le défi d'un chasseur)
 [XP16-2360 Farmer jusqu'à être à 2360 xp du niveau 16 (12.040/14.400)]
+[OC][L 83.49,65.4 Loch Modan]If you took *A Hunter's Challenge*, return to *Daryl the Youngling* within 12 minutes. If the timer expired, abandon the failed quest and continue to Thelsamar. \\ Rendre [QT258 Le défi d'un chasseur]
 [A Softcore][OC]Sauter hors du pavillon et mourir sur les monstres en dessous \\ Mourir et réapparaissez au cimetière de Thelsamar
 [G 37.17,47.94,8 Loch Modan][G 37.24,47.38 Loch Modan]Parler à *Jern Casque-à-cornes* \\ Rendre [QT298 Compte rendu d'avancement des fouilles] \\ Accepter [QA301 Rapport à Forgefer]
 [G 40.28,39.28,5 Loch Modan][G 39.62,39.64 Loch Modan]Parler à *Khara Eau-profonde* \\ Rendre [QT86614 L'argent des vagues]

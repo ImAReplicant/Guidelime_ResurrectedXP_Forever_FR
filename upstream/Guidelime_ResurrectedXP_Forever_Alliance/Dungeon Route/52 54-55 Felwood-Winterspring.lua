@@ -39,6 +39,7 @@ Kill *Jaedenar Enforcers*, *Jaedenar Darkweavers*, *Jaedenar Warlocks* and *Jaed
 [G 31.27,45.16 Winterspring]Talk to *Donova Snowden* \\ Accept [QA5082 Threat of the Winterfall]
 [O][G 41.6,42.8 Winterspring][L 32.4,37.6 Winterspring]Kill *Winterfall Pathfinders*, *Winterfall Den Watchers* and *Winterfall Totemics* \\ [QC5082,1 Threat of the Winterfall] \\ [QC5082,2 Threat of the Winterfall] \\ [QC5082,3 Threat of the Winterfall]
 Kill *Winterfall Furbolgs*. Loot them for a *Empty Firewater Flask* \\ Use the *Empty Firewater Flask* to start the quest \\ Accept [QA5083 Winterfall Firewater][UI12771-]
+[G 41.6,42.8 Winterspring][L 32.4,37.6 Winterspring]Finish this before you go on \\ Kill *Winterfall Pathfinders*, *Winterfall Den Watchers* and *Winterfall Totemics* \\ [QC5082,1 Threat of the Winterfall] \\ [QC5082,2 Threat of the Winterfall] \\ [QC5082,3 Threat of the Winterfall]
 [G 31.27,45.16 Winterspring]Talk to *Donova Snowden* \\ Turn in [QT5082 Threat of the Winterfall] \\ Turn in [QT5083 Winterfall Firewater] \\ Accept [QA5084 Falling to Corruption]
 [OC]Run back to Felwood
 [G 60.2,5.84 Felwood]Click the *Deadwood Cauldron* in the northern *Furbolg* camp \\ If you create an escape path, you can simply click the *Deadwood Cauldron* and then run away. You don't need to kill all surrounding *Furbolgs* \\ Turn in [QT5084 Falling to Corruption] \\ Accept [QA5085 Mystery Goo]

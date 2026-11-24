@@ -79,7 +79,7 @@ Guidelime.registerGuide([==[
 [G 11.78,78.3 Azshara]Talk to *Commander Truesong* \\ Accept [QA88807 Slay the Spitelash]
 [G 12.58,77.33 Azshara]Talk to *Berdun Cliffbrew* \\ Accept [QA89001 Home on the Range]
 [O][L 17.12,69 Azshara][L 14.22,72.74 Azshara]Kill *Highborne Apparitions* and *Highborne Lichlings* \\ [QC5535,1 Spiritual Unrest] \\ [QC5535,2 Spiritual Unrest] \\ (Skip if you are already in Haldarr Encampment)
-[O]Kill *Haldarr Satyrs*, *Haldarr Tricksters* and *Haldarr Felsworns* \\ [QC5536,1 A Land Filled with Hatred] \\ [QC5536,2 A Land Filled with Hatred] \\ [QC5536,3 A Land Filled with Hatred]
+[G 20.4,61.8 Azshara]Kill *Haldarr Satyrs*, *Haldarr Tricksters* and *Haldarr Felsworns* \\ [QC5536,1 A Land Filled with Hatred] \\ [QC5536,2 A Land Filled with Hatred] \\ [QC5536,3 A Land Filled with Hatred]
 [O][L 20.6,61.8 Azshara]Talk to *Keldara Sunblade* \\ This is an escort quest, make sure to clear the area before starting \\ Accept [QA88857 Saving a Sentinel] \\ If the escort failed, abandon the failed quest and return here to try again. Tick this step if you are skipping it.
 [O][L 20.6,61.8 Azshara]While *Saving a Sentinel* is in your log, protect *Keldara Sunblade* through three waves of attackers. \\ [QC88857,1 Saving a Sentinel]
 [A Warrior,Paladin,Hunter,Rogue,Shaman,Mage,Warlock,Druid][G 17.12,69,60 Azshara]Kill *Highborne Apparitions* and *Highborne Lichlings* \\ [QC5535,1 Spiritual Unrest] \\ [QC5535,2 Spiritual Unrest]

@@ -30,8 +30,8 @@ Loot the *Deeds* throughout Scholomance \\ *The Deed to Southshore* is located i
 [OC]Equip the *Spectral Essence* you received from the previous quest to be able to see *Magistrate Marduke* \\ If you lost it you can ask *Eva Sarkhoff* for another[UI13544-]
 [G 70.54,73.99 Western Plaguelands]Talk to *Magistrate Marduke* \\ Accept [QA5461 The Human, Ras Frostwhisper][UI13544-]
 [OC]Equip the *Spectral Essence* you received from the previous quest to be able to see *Magistrate Marduke* \\ If you lost it you can ask *Eva Sarkhoff* for another[UI13544-]
-[G 70.54,73.99 Western Plaguelands]Talk to *Magistrate Marduke* \\ Turn in [QT5465 Soulbound Keepsake] \\ Accept [QA5466 The Lich, Ras Frostwhisper][UI13544-]
-Use the *Soulbound Keepsake* on *Ras Frostwhisper* \\ Kill *Ras Frostwhisper* inside Scholomance. Loot him for his *Head* \\ [QC5466,1 The Lich, Ras Frostwhisper][UI13752-]
+[O][L 70.54,73.99 Western Plaguelands]Talk to *Magistrate Marduke* \\ (Return run: only if you have *Soulbound Keepsake*) \\ Turn in [QT5465 Soulbound Keepsake] \\ Accept [QA5466 The Lich, Ras Frostwhisper][UI13544-]
+[O]Use the *Soulbound Keepsake* on *Ras Frostwhisper* \\ (Return run: only if you are on *The Lich, Ras Frostwhisper*) \\ Kill *Ras Frostwhisper* inside Scholomance. Loot him for his *Head* \\ [QC5466,1 The Lich, Ras Frostwhisper][UI13752-]
 [O][G 70.22,73.71,50 Western Plaguelands][G 70.54,73.99 Western Plaguelands]Return to *Magistrate Marduke* outside the instance \\ Equip the *Spectral Essence* to see him. If you lost it, ask *Eva Sarkhoff* for another \\ Talk to *Magistrate Marduke* \\ Turn in [QT5466 The Lich, Ras Frostwhisper][UI13544-]
 [G 43.4,83.6 Western Plaguelands]Talk to *Weldon Barov* \\ Turn in [QT5343 Barov Family Fortune]
 [OC]Hearth to [H Light's Hope Chapel] \\ (Only if your Hearthstone is ready)

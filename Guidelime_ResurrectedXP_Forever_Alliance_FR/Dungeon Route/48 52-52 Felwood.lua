@@ -61,9 +61,9 @@ Guidelime.registerGuide([==[
 [A Warlock][OR][O][L 39.45,84.55 Felwood]Tuer *Satyres Jadefeus* et *Gangreliges Jadefeus*. Les fouiller pour du tissu gangrené \\ Récupérer [QC8419-][QC8420-][CI14256,1] Cocher ce rappel si vous quittez Gangrebois sans la quête de classe.
 [OC]Ouvrir *Package of Empty Ooze Containers* \\ Récupérer [CI11914,6] \\ Récupérer [CI11948,6][UI11912-]
 [G 40.77,66.86 Felwood]Tuer *Caisse de pots de Limon vides* \\ Utiliser *Pot de Limon maudit vide* sur leurs cadavres \\ [QC4512,1 Un grand périple pour une petite gelée][UI11912-][UI11914-]
-[A Warlock][O][L 41.52,44.99 Felwood]Après avoir livré le tissu gangrené à *Démonet*, acceptez [QA8421 L'anti-étoffe des héros]. Cocher cette étape si vous ignorez la suite.
 [A Warlock][A IT14256][O][L 41.52,44.99 Felwood]Apporter *Gangrétoffe* à *Démonet* pour rendre [QT8419 La demande d'un diablotin].
 [A Warlock][A IT14256][O][L 41.52,44.99 Felwood]Si vous avez pris la quête directement auprès de *Démonet*, apportez-lui *Gangrétoffe* pour rendre [QT8420 Chaud et piquant].
+[A Warlock][O][L 41.52,44.99 Felwood]Après avoir livré le tissu gangrené à *Démonet*, acceptez [QA8421 L'anti-étoffe des héros]. Cocher cette étape si vous ignorez la suite.
 [A Warlock][O][L 40.48,59.07 Felwood][L 39.98,54.76 Felwood]Tant que *L'anti-étoffe des héros* est dans votre journal, fouillez *Essences de Vénéneuse* sur les *Pot de Limon corrompu vide* en traversant Gangrebois \\ [QC8421,2 L'anti-étoffe des héros]
 [A IT11948][OC][L 40.48,59.07 Felwood][L 39.98,54.76 Felwood]Si vous croisez *Pot de Limon corrompu vide* en allant à Jaedenar, remplissez les jarres vides sur leurs cadavres[UI11948-]
 [G 36.49,61.4,60 Felwood]Tuer *Molosses de Jaedenar*, *Gardiens de Jaedenar*, *Adeptes de Jaedenar* et *Sectateurs de Jaedenar* \\ [QC5155,1 Les forces de Jaedenar] \\ [QC5155,2 Les forces de Jaedenar] \\ [QC5155,3 Les forces de Jaedenar] \\ [QC5155,4 Les forces de Jaedenar]

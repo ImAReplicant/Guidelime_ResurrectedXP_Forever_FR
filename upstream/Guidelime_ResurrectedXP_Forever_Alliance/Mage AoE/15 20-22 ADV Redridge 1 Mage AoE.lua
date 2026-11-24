@@ -77,7 +77,7 @@ Guidelime.registerGuide([==[
 [G 24.8,47.36 Redridge Mountains]Talk to *Karen* \\ Buy a *Mining Pick* from her \\ You'll need this for later \\ Collect [CI2901,1][TAR790-]
 [G 24.63,44.26 Redridge Mountains]Talk to *Conacher* \\ Accept [QA91 Solomon's Law]
 [G 22.63,47.38 Redridge Mountains][G 21.66,46.42 Redridge Mountains]Talk to *Baren* and the *Wanted Poster* \\ Accept [QA127 Selling Fish] \\ Accept [QA180 Wanted: Lieutenant Fangore]
-[O][L 21.83,44.95 Redridge Mountains]Go Inside the Inn \\ Talk to *Darcy* \\ Accept [QA129 A Free Lunch]
+[G 21.83,44.95 Redridge Mountains]Go Inside the Inn \\ Talk to *Darcy* \\ Accept [QA129 A Free Lunch]
 [G 21.4,43.95 Redridge Mountains]Inside the Inn \\ Talk to *Daniels* \\ Accept [QA116 Dry Times] \\ Turn in [QT116 Dry Times]
 [G 21.38,45.33 Redridge Mountains]Inside the Inn \\ Talk to *Wiley* by jumping from the bannister downstairs \\ Turn in [QT65 The Defias Brotherhood]
 [G 24.23,53.64 Redridge Mountains]Talk to *Shawn* \\ Accept [QA3741 Hilary's Necklace]
@@ -109,7 +109,7 @@ Guidelime.registerGuide([==[
 [OC][L 13.86,24.5 Redridge Mountains][XP21+14365 Grind to 14365+/25200xp] \\ (Only if you have not done Redridge Goulash)
 [OC][L 13.86,24.5 Redridge Mountains][XP21+15715 Grind to 15715+/25200xp] \\ (Only if you turned in Redridge Goulash)
 [OC]Return to Lakeshire
-[G 28.42,48.96 Redridge Mountains][G 27.05,48.64 Redridge Mountains]Talk to *Marris* and *Oslow* \\ Turn in [QT20 Blackrock Menace] \\ Accept [QA19 Tharil'zun] \\ Turn in [QT89 The Everstill Bridge] (choose reward 1)
+[G 28.42,48.96 Redridge Mountains][G 27.05,48.64 Redridge Mountains]Talk to *Marris* and *Oslow* \\ Turn in [QT20 Blackrock Menace] \\ Turn in [QT89 The Everstill Bridge] (choose reward 1)
 [G 25.85,47.24 Redridge Mountains]Talk to *Verner* \\ Accept [QA118 The Price of Shoes]
 [G 22.63,47.38 Redridge Mountains]Talk to *Baren* \\ Turn in [QT127 Selling Fish] \\ Accept [QA150 Murloc Poachers] \\ Turn in [QT150 Murloc Poachers]
 [OC][L 21.99,45.54 Redridge Mountains][V]Vendor Trash. You can sell the *Mining Pick* now if you wish[TAR789-]

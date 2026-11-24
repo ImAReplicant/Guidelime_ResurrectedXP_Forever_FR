@@ -190,7 +190,8 @@ Guidelime.registerGuide([==[
 [A Cooking<50][A IT6889][L 37.51,41.67 Darkshore]Se diriger vers *Feu de camp* au sol \\ Commencer *Cuisine* *Œufs cuits aux herbes*. Faites-le jusqu'à ce que votre *Cuisine* atteigne au moins le niveau 10 \\ Continuer à monter votre *Cuisine* jusqu'à épuisement des *Petits œufs* \\ Une quête du bois de la Pénombre exigera 50 ou plus en *Cuisine*. Vous pourrez aussi cuisiner sur le bateau bientôt \\ Cocher cette étape une fois tous les *Œufs cuits aux herbes* fabriqués
 [A IT5469>4][A Cooking10][G 37.7,40.7 Darkshore]Parler à *Alanndarian Chantenuit* \\ Accepter [QA2178 Brouet de trotteur] \\ Rendre [QT2178 Brouet de trotteur]
 [A Human,Dwarf,Gnome,Skyborne][OC][L 37.39,40.13 Darkshore]Parler à *Thundris Tissevent* \\ Rendre [QT958 Les outils des Bien-nés]
-[A NightElf][OC][L 37.39,40.13 Darkshore]Parler à *Thundris Tissevent* \\ Rendre [QT958 Les outils des Bien-nés] \\ Accepter [QA97914 Vers de nouveaux horizons]
+[A NightElf][OC][L 37.39,40.13 Darkshore]Parler à *Thundris Tissevent* \\ Rendre [QT958 Les outils des Bien-nés]
+[A NightElf][G 37.39,40.13 Darkshore]Parler à *Thundris Tissevent* \\ Accepter [QA97914 Vers de nouveaux horizons]
 [A NightElf][OC][G 36.81,44.14,8 Darkshore]Passer par ce point de passage
 [A NightElf][OC][G 35.74,43.71,12 Darkshore]Retourner vers *Cerellean Blanchegriffe* sur le quai
 [A NightElf][OC][G 35.74,43.71 Darkshore]Parler à *Cerellean Blanchegriffe* \\ Rendre [QT963 Un amour éternel]
@@ -202,8 +203,7 @@ Guidelime.registerGuide([==[
 [A NightElf,Warrior,Hunter,Rogue][OC][G 48.77,59.14,10 Stormwind City]Sortir du port de Hurlevent
 [A NightElf,Druid][G 36.11,64.39 Stormwind City]Parler à *Theridran* \\ [T]Apprendre vos sorts de classe[TAR5505-]
 [A NightElf,Priest][G 49.5,45.22 Stormwind City]Parler à *Frère Joshua* \\ [T]Apprendre vos sorts de classe[TAR5489-]
-[A NightElf][OC][L 57.74,47.87 Stormwind City]Rendre [QT97914 Vers de nouveaux horizons]
-[A NightElf][G 57.74,47.87 Stormwind City]Parler à *Baros Alexston* \\ Accepter [QA97926 Faire avec les moyens du bord]
+[A NightElf][G 57.74,47.87 Stormwind City]Parler à *Baros Alexston* \\ Rendre [QT97914 Vers de nouveaux horizons] \\ Accepter [QA97926 Faire avec les moyens du bord]
 [A NightElf,Warrior,Hunter][G 63.87,69.08 Stormwind City]Parler à *Woo Ping* \\ [T]Apprendre Épées à deux mains[TAR11867-]
 [A NightElf,Rogue][G 63.87,69.08 Stormwind City]Parler à *Woo Ping* \\ [T]Apprendre Épées à une main[TAR11867-]
 [A NightElf,Warrior,Hunter,Rogue][G 66.43,73.63 Stormwind City]Parler à *Elaine Trias* \\ Rendre [QT97220 La faveur de Philmor] \\ Accepter [QA97222 Livraison au corps de garde]
@@ -343,7 +343,8 @@ Guidelime.registerGuide([==[
 [G 55.04,33.34,8 Darkshore][G 55.38,36.34 Darkshore]Fouiller *Pédoncules d'amanite* et *Amanite phalloïde* au sol \\ Rester dans la partie haute. S'il n'y a pas de *Amanite phalloïde* au bout du côté nord, descendez et prenez-en un dans la salle sud en dessous \\ Attention : *Chevaucheurs des vagues Tempécailles* lancent *Projection aquatique* (instantané à distance : dégâts aux ennemis proches et projection en arrière) - ne vous placez pas de façon à être projeté du niveau supérieur de la grotte \\ [QC947,1 La caverne aux champignons] \\ [QC947,2 La caverne aux champignons]
 [OC]Tuer *Jeunes trotteurs des forêts*. Les fouiller pour leurs *Viande de trotteur* \\ Attention : ils lancent *Fuite* sous 30% de vie \\ Récupérer [CI5469,5] \\ (ignorer si vous avez déjà rendu Brouet de trotteur)
 [OC]Se rendre à Auberdine
-[G 37.39,40.13 Darkshore]Parler à *Thundris Tissevent* \\ Rendre [QT4762 La Bondissante] \\ Rendre [QT97926 Faire avec les moyens du bord] \\ Accepter [QA4763 La corruption des Noirbois]
+[A NightElf][G 37.39,40.13 Darkshore]Parler à *Thundris Tissevent* \\ Rendre [QT4762 La Bondissante] \\ Rendre [QT97926 Faire avec les moyens du bord] \\ Accepter [QA4763 La corruption des Noirbois]
+[A !NightElf][G 37.39,40.13 Darkshore]Parler à *Thundris Tissevent* \\ Rendre [QT4762 La Bondissante] \\ Accepter [QA4763 La corruption des Noirbois]
 [A Cooking10][A IT5469>4][G 37.7,40.7 Darkshore]Parler à *Alanndarian Chantenuit* \\ Accepter [QA2178 Brouet de trotteur] \\ Rendre [QT2178 Brouet de trotteur]
 [A Druid][OC][L 37.7,40.7 Darkshore]Parler à *Alanndarian Chantenuit* \\ Accepter [QA6123 Rassembler les ingrédients du remède]
 [A Human,Dwarf,Gnome,Skyborne][OC][L 37.44,41.84 Darkshore]Parler à *Archéologue Hollee* \\ Accepter [QA729 Les absences du Prospecteur] \\ (uniquement si Nettoyage de l'infection est terminée)

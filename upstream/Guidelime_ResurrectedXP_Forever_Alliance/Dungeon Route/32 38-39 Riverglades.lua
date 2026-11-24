@@ -38,8 +38,8 @@ Guidelime.registerGuide([==[
 [OC][L 46.79,47.34 Riverglades]Kill *Twilight Raiders*. Loot them for *Farmers' Mementos*. \\ Collect [CI266148,5] \\ (Fewer if some already count for What We Lost)
 [OC]Kill *Twilight Neophytes*, *Twilight Shadowmancers* and *Twilight Raiders*. Loot *Twilight Charms* from the Neophytes and Shadowmancers. \\ [QC94877,1 Saving Sunnyglade] \\ [QC94877,2 Saving Sunnyglade] \\ [QC94877,3 Saving Sunnyglade] \\ [QC94881,1 Curious Trinkets] \\ Keep the *Field Marshal's Log* if it drops.
 Click on the *Graves* \\ [QC94829,1 What We Lost]
-[G 53.61,44.89 Riverglades]Kill *Converted Farmers* inside the hut. Loot them for *Damaged Locket*. \\ [QC94858,2 All That's Left]
 [G 52.78,42.34 Riverglades]Talk to *Farmer Elbrim*. \\ Turn in [QT94829 What We Lost] \\ Accept [QA94858 All That's Left]
+[G 53.61,44.89 Riverglades]Kill *Converted Farmers* inside the hut. Loot them for *Damaged Locket*. \\ [QC94858,2 All That's Left]
 [G 53.73,44.81 Riverglades]Click on the *Doll* \\ [QC94858,1 All That's Left]
 [G 52.78,42.36 Riverglades]Talk to *Farmer Elbrim*. \\ Turn in [QT94858 All That's Left]
 [OC][L 49.88,46.15 Riverglades]Enter and navigate the Crypts
@@ -136,6 +136,7 @@ Escort *Hurley* to rescue *Curly*. If you still need *Jumbo Crawfish Shells* for
 [OC][L 41.51,62.2 Riverglades]Loop through this area
 [OC]Click on the *Wood Bundle*. \\ [QC96009,1 High Stakes]
 Click on the *Soil*. \\ [QC94843,1 From Seed to Sprout]
+[G 41.51,62.2 Riverglades]Click on the *Wood Bundle*. \\ [QC96009,1 High Stakes]
 [G 39.58,74.64 Riverglades]Talk to *Cedric Dalton*. \\ Accept [QA94678 Gnoll Infestation] \\ Accept [QA94679 Snargl's Snout]
 [G 37.73,76.02 Riverglades]Talk to *Goren Grayfellow*. \\ [V]Sell junk and repair your gear.[TAR272435-]
 [G 36.37,75.76 Riverglades]Talk to *Watcher Fredericks*. \\ Turn in [QT94999 Eyes for the Watchman]

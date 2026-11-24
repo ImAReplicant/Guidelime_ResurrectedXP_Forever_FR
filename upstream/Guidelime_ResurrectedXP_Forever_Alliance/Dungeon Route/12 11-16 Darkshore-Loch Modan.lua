@@ -145,7 +145,8 @@ Guidelime.registerGuide([==[
 [A Cooking<50][A IT6889][OC][G 37.51,41.67 Darkshore]Go to the marked location
 [A Cooking<50][A IT6889][L 37.51,41.67 Darkshore]Travel toward the *Campfire* on the ground \\ Start *Cooking* *Herb Baked Eggs*. Do this until your *Cooking* has reached at least level 10 \\ Continue leveling your *Cooking* until you run out of *Small Eggs* \\ There is a quest in Duskwood later requiring your *Cooking* to be 50 or higher. You can also cook this when you get on the boat soon \\ Skip this step once you've made all *Herb Baked Eggs*
 [A IT5469>4][A Cooking10][G 37.7,40.7 Darkshore]Talk to *Alanndarian Nightsong* \\ Accept [QA2178 Easy Strider Living] \\ Turn in [QT2178 Easy Strider Living]
-[OC][L 37.39,40.13 Darkshore]Talk to *Thundris Windweaver* \\ Turn in [QT958 Tools of the Highborne] \\ Accept [QA97914 Expanding Horizons]
+[OC][L 37.39,40.13 Darkshore]Talk to *Thundris Windweaver* \\ Turn in [QT958 Tools of the Highborne]
+[G 37.39,40.13 Darkshore]Talk to *Thundris Windweaver* \\ Accept [QA97914 Expanding Horizons]
 [OC][G 36.81,44.14,8 Darkshore]Go via this waypoint
 [OC][G 35.74,43.71,12 Darkshore]Return to *Cerellean Whiteclaw* on the dock
 [OC][G 35.74,43.71 Darkshore]Talk to *Cerellean Whiteclaw* \\ Turn in [QT963 For Love Eternal]
@@ -157,8 +158,7 @@ Guidelime.registerGuide([==[
 [A Warrior,Hunter,Rogue][OC][G 48.77,59.14,10 Stormwind City]Exit the Stormwind Harbor
 [A Druid][G 36.11,64.39 Stormwind City]Talk to *Theridran* \\ [T]Train your class spells[TAR5505-]
 [A Priest][G 49.5,45.22 Stormwind City]Talk to *Brother Joshua* \\ [T]Train your class spells[TAR5489-]
-[OC][L 57.74,47.87 Stormwind City]Turn in [QT97914 Expanding Horizons]
-[G 57.74,47.87 Stormwind City]Talk to *Baros Alexston* \\ Accept [QA97926 Making Do]
+[G 57.74,47.87 Stormwind City]Talk to *Baros Alexston* \\ Turn in [QT97914 Expanding Horizons] \\ Accept [QA97926 Making Do]
 [A Warrior,Hunter][G 63.87,69.08 Stormwind City]Talk to *Woo Ping* \\ [T]Train 2h Swords[TAR11867-]
 [A Rogue][G 63.87,69.08 Stormwind City]Talk to *Woo Ping* \\ [T]Train 1h Swords[TAR11867-]
 [A Warrior,Hunter,Rogue][G 66.43,73.63 Stormwind City]Talk to *Elaine Trias* \\ Turn in [QT97220 Philmor's Favor] \\ Accept [QA97222 Gatehouse Goods]

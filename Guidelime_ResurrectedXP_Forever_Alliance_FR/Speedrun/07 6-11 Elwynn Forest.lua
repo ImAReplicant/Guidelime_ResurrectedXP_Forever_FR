@@ -86,6 +86,7 @@ Guidelime.registerGuide([==[
 [G 43.13,85.72 Elwynn Forest]Parler à *Billy Maclure* \\ Rendre [QT84 Revenir voir Billy] \\ Accepter [QA87 Dent-d'or]
 [G 39.92,80.11 Elwynn Forest]Entrer dans l'un des grands espaces ouverts de la mine de Fargodeep \\ [QC62,1 La mine de Fargodeep]
 [G 41.73,78.02 Elwynn Forest]Tuer *Dent-d'or*. Le fouiller pour *Collier de Bernice* \\ Attention : il attaque généralement avec le *Mineur kobold* à côté de lui \\ [QC87,1 Dent-d'or]
+[G 39.14,82.87 Elwynn Forest]Finish killing *Kobold Tunnelers* and *Kobold Miners* in and around Fargodeep Mine for their *Kobold Candles* and *Gold Dust* \\ [QC60,1 Les bougies de kobolds] \\ [QC47,1 L'échange de poussière d'or]
 [OC][L 41.61,79.88 Elwynn Forest]Tuer *Nimsy* dans la mine de Fargodeep. Le fouiller pour *Livre d'images : Les Joyeux Élémentaires* \\ Essayer de trouver un groupe pour cette étape. Les *Kobolds* réapparaissent très vite dans la grotte \\ Il invoque aussi un *Grondeur* en renfort. Attention si vous tentez le solo. Ignorer cette étape si vous ne pouvez pas le tuer \\ [QC91775,1 Restitution de livres]
 [A Warrior][OC]Garder un seul *Potion de soins mineure* désormais : vous en aurez besoin pour Rolf's Corpse plus tard
 [OC][L 39.14,82.87 Elwynn Forest][XP7+1140 Farmer jusqu'à 1140+/4500 xp] \\ (uniquement si Restitution de livres est terminée)

@@ -19,7 +19,8 @@ Guidelime.registerGuide([==[
 [A Gnome][G 34.83,49.28 Loch Modan]Run up to Thelsamar. do NOT set your hearth \\ Talk to *Vidra Hearthstove* \\ Accept [QA418 Thelsamar Blood Sausages]
 [G 34.8,48.6 Loch Modan][V]Buy 1-2 6 slot bags to fill your bag slots
 [G 35.5,48.4 Loch Modan][V]Buy food/water (try to have 40 level 5 drink, 20 level 5 food)
-[G 32.6,49.9,80 Loch Modan][G 37.2,46.1,80 Loch Modan][G 36.7,41.6 Loch Modan]Find Kadrell. He patrols along the Thelsamar road \\ Talk to *Mountaineer Kadrell* \\ Turn in [QT414 Stout to Kadrell] \\ Accept [QA416 Rat Catching] \\ Accept [QA1339 Mountaineer Stormpike's Task]
+[A Gnome][G 32.6,49.9,80 Loch Modan][G 37.2,46.1,80 Loch Modan][G 36.7,41.6 Loch Modan]Find Kadrell. He patrols along the Thelsamar road \\ Talk to *Mountaineer Kadrell* \\ Turn in [QT414 Stout to Kadrell] \\ Accept [QA416 Rat Catching] \\ Accept [QA1339 Mountaineer Stormpike's Task]
+[A !Gnome][G 32.6,49.9,80 Loch Modan][G 37.2,46.1,80 Loch Modan][G 36.7,41.6 Loch Modan]Find Kadrell. He patrols along the Thelsamar road \\ Talk to *Mountaineer Kadrell* \\ Accept [QA416 Rat Catching] \\ Accept [QA1339 Mountaineer Stormpike's Task]
 [OC]Loot Spider Ichor from spiders, Bear Meat from bears and Boar Intestines from boars for Thelsamar Blood Sausages. \\ [CI3174,3] \\ [CI3173,3] \\ [CI3172,3]
 [A Gnome,Skyborne][G 24.1,18.2 Loch Modan][V]Vendor and repair
 [A Gnome,Skyborne][G 24.76,18.4 Loch Modan]Talk to *Mountaineer Stormpike* \\ Turn in [QT1339 Mountaineer Stormpike's Task] \\ Accept [QA1338 Stormpike's Order] \\ Accept [QA307 Filthy Paws]

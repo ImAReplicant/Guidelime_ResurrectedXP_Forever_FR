@@ -46,9 +46,9 @@ Click *The Discs of Norgannon* \\ Turn in [QT2278 The Platinum Discs] \\ Accept 
 [O][L 74.18,9.37 Ironforge]Talk to *Krom Stoutarm* \\ Turn in [QT1360 Reclaimed Treasures]
 [G 77.54,11.83 Ironforge][G 77.34,9.71 Ironforge]Talk to *Historian Karnik* and *Advisor Belgrum* \\ Turn in [QT724 Prospect of Faith] \\ Accept [QA725 Passing Word of a Threat] \\ Turn in [QT725 Passing Word of a Threat] \\ Accept [QA726 Passing Word of a Threat] \\ Turn in [QT726 Passing Word of a Threat]
 [G 33.87,59.14 Ironforge]Talk to *Dinita Stonemantle* \\ Turn in [QT2439 The Platinum Discs]
-[O][L 36.38,3.61 Ironforge]Talk to *Talvash del Kissel* \\ Bring 5 *Silver Bars* to *Talvash del Kissel* \\ If you are unable to acquire them, abandon this quest \\ [QC2199,1 Lore for a Price] \\ Turn in [QT2199 Lore for a Price] \\ Tick this step if you are postponing this visit.
-[O][L 36.38,3.61 Ironforge]Talk to *Talvash del Kissel* \\ Accept [QA2199 Lore for a Price] \\ Tick this step if you are postponing this visit.
-[O][L 36.38,3.61 Ironforge]Talk to *Talvash del Kissel* \\ Turn in [QT2198 The Shattered Necklace] \\ Tick this step if you are postponing this visit.
+[O][L 36.38,3.61 Ironforge]Talk to *Talvash del Kissel* \\ (Shattered Necklace follow-up 3/3 — activates after accepting *Lore for a Price*) \\ Bring 5 *Silver Bars* to *Talvash del Kissel* \\ If you are unable to acquire them, abandon this quest \\ [QC2199,1 Lore for a Price] \\ Turn in [QT2199 Lore for a Price] \\ Tick this step if you are postponing this visit.
+[O][L 36.38,3.61 Ironforge]Talk to *Talvash del Kissel* \\ (Shattered Necklace follow-up 2/3 — activates after turning in *The Shattered Necklace*) \\ Accept [QA2199 Lore for a Price] \\ Tick this step if you are postponing this visit.
+[O][L 36.38,3.61 Ironforge]Talk to *Talvash del Kissel* \\ (Shattered Necklace follow-up 1/3 — activates after using the *Shattered Necklace* below) \\ Turn in [QT2198 The Shattered Necklace] \\ Tick this step if you are postponing this visit.
 [A IT7666]Use the *Shattered Necklace* to start the quest \\ Accept [QA2198 The Shattered Necklace][UI7666-]
 [OC][L 55.5,47.74 Ironforge]Talk to *Gryth Thurden* \\ Fly to [F]Southshore[TAR1573-]
 [OC][L 19.45,72.87 Alterac Mountains]Travel to Dalaran

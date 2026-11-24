@@ -20,6 +20,7 @@ Guidelime.registerGuide([==[
 [O]AoE Wolves all along the coast \\ [QC226,1 Wolves at Our Heels] \\ [QC226,2 Wolves at Our Heels]
 [A Cooking50][O]Loot the wolves for Lean Wolf Flanks \\ [QC90,1 Seasoned Wolf Kabobs]
 [G 28.1,31.47 Duskwood]Talk to *Abercrombie* \\ Turn in [QT165 The Hermit] \\ Accept [QA148 Supplies from Darkshire]
+Finish this before you go on \\ AoE Wolves all along the coast \\ [QC226,1 Wolves at Our Heels] \\ [QC226,2 Wolves at Our Heels]
 [G 7.72,33.21 Duskwood]Talk to *Lars* \\ Turn in [QT226 Wolves at Our Heels]
 [O][L 10.68,59.08 Duskwood]Collect 6 *Gooey Spider Legs* from the spiders \\ [CI2251,6] \\ If you already completed or skip Dusky Crab Cakes, tick this step off.
 [G 10.68,59.08 Duskwood]Finish off Spiders \\ [QC245,1 Eight-Legged Menaces]

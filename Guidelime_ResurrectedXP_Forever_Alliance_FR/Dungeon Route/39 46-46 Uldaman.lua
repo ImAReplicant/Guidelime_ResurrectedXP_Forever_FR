@@ -46,9 +46,9 @@ Cliquer sur *Les disques de Norgannon* \\ Rendre [QT2278 Les Disques de platine]
 [O][L 74.18,9.37 Ironforge]Parler à *Krom Rudebras* \\ Rendre [QT1360 Des Trésors à recouvrer]
 [G 77.54,11.83 Ironforge][G 77.34,9.71 Ironforge]Parler à *Historien Karnik* et *Conseiller Belgrum* \\ Rendre [QT724 Espérance en la foi] \\ Accepter [QA725 Avertir de la menace] \\ Rendre [QT725 Avertir de la menace] \\ Accepter [QA726 Avertir de la menace] \\ Rendre [QT726 Avertir de la menace]
 [G 33.87,59.14 Ironforge]Parler à *Dinita Mantepierre* \\ Rendre [QT2439 Les Disques de platine]
-[O][L 36.38,3.61 Ironforge]Parler à *Talvash del Kissel* \\ Apporter 5 *Barres d'argent* à *Talvash del Kissel* \\ Si vous ne pouvez pas les obtenir, abandonnez cette quête \\ [QC2199,1 Le Prix de la Connaissance] \\ Rendre [QT2199 Le Prix de la Connaissance] \\ Cocher cette étape si vous reportez cette visite.
-[O][L 36.38,3.61 Ironforge]Parler à *Talvash del Kissel* \\ Accepter [QA2199 Le Prix de la Connaissance] \\ Cocher cette étape si vous reportez cette visite.
-[O][L 36.38,3.61 Ironforge]Parler à *Talvash del Kissel* \\ Rendre [QT2198 Le Collier brisé] \\ Cocher cette étape si vous reportez cette visite.
+[O][L 36.38,3.61 Ironforge]Parler à *Talvash del Kissel* \\ (Shattered Necklace follow-up 3/3 — activates after accepting *Lore for a Price*) \\ Apporter 5 *Barres d'argent* à *Talvash del Kissel* \\ Si vous ne pouvez pas les obtenir, abandonnez cette quête \\ [QC2199,1 Le Prix de la Connaissance] \\ Rendre [QT2199 Le Prix de la Connaissance] \\ Cocher cette étape si vous reportez cette visite.
+[O][L 36.38,3.61 Ironforge]Parler à *Talvash del Kissel* \\ (Shattered Necklace follow-up 2/3 — activates after turning in *The Shattered Necklace*) \\ Accepter [QA2199 Le Prix de la Connaissance] \\ Cocher cette étape si vous reportez cette visite.
+[O][L 36.38,3.61 Ironforge]Parler à *Talvash del Kissel* \\ (Shattered Necklace follow-up 1/3 — activates after using the *Shattered Necklace* below) \\ Rendre [QT2198 Le Collier brisé] \\ Cocher cette étape si vous reportez cette visite.
 [A IT7666]Utiliser *Collier brisé* pour lancer la quête \\ Accepter [QA2198 Le Collier brisé][UI7666-]
 [OC][L 55.5,47.74 Ironforge]Parler à *Gryth Thurden* \\ Prendre le vol vers [F]Austrivage[TAR1573-]
 [OC][L 19.45,72.87 Alterac Mountains]Se rendre à Dalaran

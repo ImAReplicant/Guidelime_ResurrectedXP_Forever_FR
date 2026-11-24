@@ -121,7 +121,7 @@ Tuer *Fouette-vents hargneux*. Les fouiller pour *Filets de trotteur des trombes
 [A Hunter,Mage][OC]Tuer *Saute-ciels*. \\ Si vous trouvez une Tornade, touchez-la pour obtenir son buff de vitesse. \\ Tant que le buff de vitesse Tornade est actif, évitez de les tuer. \\ [QC93949,1 Les insectes ont des oreilles]
 [A Warrior,Paladin,Rogue,Priest,Shaman,Mage,Warlock,Druid][OC][L 52.35,70.23 Zephras Isle]Sauter de la montagne et utiliser *Walk on Air* pour voler vers le point de passage. \\ Attention aux ennemis près du bord. \\ (ignorer si vous êtes déjà à Valanaar) \\ (ignorer si vous êtes déjà dans les basses-terres de Gustberry) \\ (uniquement si Walk on Air est disponible)
 [A Hunter][OC][L 52.35,70.23 Zephras Isle]Sauter de la montagne et utiliser *Walk on Air* pour voler vers le point de passage. \\ Attention aux ennemis près du bord. \\ (uniquement si Dompter la bête est terminée) \\ (ignorer si vous êtes déjà à Valanaar) \\ (ignorer si vous êtes déjà dans les basses-terres de Gustberry) \\ (uniquement si Walk on Air est disponible)
-[A Hunter][OC][L 52.81,75.82 Zephras Isle]Utiliser *Bâtonnet de domptage* sur *Bâtonnet de domptage* à portée maximale. \\ [QC94978,1 Dompter la bête][UI267272-]
+[A Hunter][G 52.81,75.82 Zephras Isle]Utiliser *Bâtonnet de domptage* sur *Bâtonnet de domptage* à portée maximale. \\ [QC94978,1 Dompter la bête][UI267272-]
 [A Hunter][OC][L 52.73,71.12 Zephras Isle]Sauter de la montagne et utiliser *Walk on Air* pour voler vers le point de passage. \\ (uniquement si Dompter la bête est terminée) \\ (ignorer si vous êtes déjà à Valanaar) \\ (ignorer si vous êtes déjà dans les basses-terres de Gustberry) \\ (uniquement si Walk on Air est disponible)
 [A Hunter][G 59.57,72.64 Zephras Isle]Parler à *Quel'ana Vent-Vif*. \\ Rendre [QT94978 Dompter la bête] \\ Accepter [QA94979 Dompter la bête]
 [A Hunter][OC]Renvoyer *Bâtonnet de domptage* par clic droit sur son cadre et « renvoyer », sinon vous ne pourrez pas apprivoiser un *Fouette-vent hargneux* \\ Attention : il vous attaquera quand vous le renverrez.
@@ -235,7 +235,7 @@ Tuer *Creux du vent libéré*. \\ [QC93172,1 Libérez les creux]
 [G 63.04,37.12,40 Zephras Isle]Tuer *Fantassins al'aketh* et *Chasse-tempêtes al'aketh*. \\ Les fouiller pour *Héritages ensanglantés*, *Oreilles de sectateur al'akeths* et *Charmes de pierre de vent al'akeths*. \\ [QC94487,1 Indignes même dans la mort] \\ [QC92834,1 Rendre au centuple] \\ [QC93165,1 La miséricorde tombe dans l'oreille d'un sourd]
 [G 63.04,37.12,40 Zephras Isle]Fouiller *Héritages ensanglantés* sur les *Fantassins al'aketh* et *Stormchasers*. \\ [QC94487,1 Indignes même dans la mort]
 [G 63.04,37.12,40 Zephras Isle]Fouiller *Charmes de pierre de vent al'akeths* sur les *Fantassins al'aketh* et *Stormchasers*. \\ [QC92834,1 Rendre au centuple]
-[O][L 62.83,38.25 Zephras Isle]Cliquer sur *Graine de zéphyr*, surtout autour des arbres ici. \\ [QC93160,1 Les richesses de la forêt]
+[G 62.83,38.25 Zephras Isle]Cliquer sur *Graine de zéphyr*, surtout autour des arbres ici. \\ [QC93160,1 Les richesses de la forêt]
 [OC]Tuer *Hurleurs de la rafale d'ombre*. \\ Les fouiller pour *Serres de hurleur* et *Plumes de criailleuse en parfaits états*. \\ [QC92741,1 Visiteuses indésirables] \\ [QC94486,1 Des plumes pour le bandage]
 [OC]Cliquer sur *Tear Moss* sur les arbres. \\ [QC94485,1 Les larmes de la Dame]
 [A Warrior,Paladin][G 53.97,38.9 Zephras Isle]Parler à *Ermite étrange*. \\ Rendre [QT93160 Les richesses de la forêt] \\ Rendre [QT93172 Libérez les creux] (choisir la récompense 3)

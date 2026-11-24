@@ -54,7 +54,6 @@ Kill *Undead*. Loot them for their *Plagued Flesh Samples* \\ [QC5212,1 The Fles
 [OC]Travel to Western Plaguelands
 [OC]Equip the *Spectral Essence* you received from the previous quest to be able to see *Magistrate Marduke* \\ If you lost it you can ask *Eva Sarkhoff* for another[UI13544-]
 [G 70.54,73.99 Western Plaguelands]Talk to *Magistrate Marduke* \\ Turn in [QT5465 Soulbound Keepsake] \\ Accept [QA5466 The Lich, Ras Frostwhisper][UI13544-]
-[G 70.54,73.99 Western Plaguelands]Talk to *Magistrate Marduke* \\ Accept [QA5466 The Lich, Ras Frostwhisper][UI13544-]
 [OC]Find a group for Scholomance now if you wish to complete the final quest of the chain "The Lich, Ras Frostwhisper"
 Use the *Soulbound Keepsake* on *Ras Frostwhisper* \\ Kill *Ras Frostwhisper* inside Scholomance. Loot him for his *Head* \\ [QC5466,1 The Lich, Ras Frostwhisper][UI13752-]
 [OC][G 70.22,73.71,50 Western Plaguelands]Return to *Magistrate Marduke* outside the instance

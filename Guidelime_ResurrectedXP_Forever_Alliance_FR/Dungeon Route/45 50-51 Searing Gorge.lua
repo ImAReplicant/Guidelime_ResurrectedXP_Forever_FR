@@ -47,6 +47,7 @@ Guidelime.registerGuide([==[
 [G 65.59,62.17 Searing Gorge]Cliquer sur *Toilettes en bois* \\ Accepter [QA4449 Piégé !]
 [O][G 63.1,60.9 Searing Gorge]Tuer *Géologues Sombrefers*. Les fouiller pour leurs *Etoffe de soie* s'il vous en faut plus \\ Vous devrez probablement revenir chercher plus de *Géologues Sombrefers* plus tard \\ [QC4449,1 Piégé !] \\ Récupérer [CI4306,15]
 [G 72.64,79.74 Searing Gorge]Tuer *Margol l'Enragée*. Le fouiller pour *Corne de Margol* \\ Ne pas accepter encore la quête associée \\ Récupérer [CI10000,1]
+[G 63.1,60.9 Searing Gorge]Terminer ceci avant de continuer \\ Tuer *Géologues Sombrefers* \\ [QC4449,1 Piégé !]
 [G 65.59,62.17 Searing Gorge]Cliquer sur *Toilettes en bois* \\ Rendre [QT4449 Piégé !]
 [G 63.88,60.98 Searing Gorge]Parler à *Dorius Soignepierre* \\ Cela lance une escorte. Nettoyez les abords de la fosse avant d'accepter cette quête \\ Accepter [QA3367 Les pierres de Suntara]
 [A IT10000][O]Utiliser *Corne de Margol* pour accepter La corne de la bête [QA3181 La corne de la bête][UI10000-]
@@ -82,5 +83,5 @@ Guidelime.registerGuide([==[
 [A Druid][OC][L 52.53,40.56 Moonglade]Se téléporter à Reflet-de-Lune \\ Parler à *Loganaar* \\ [T]Apprendre vos sorts de classe \\ (à partir du niveau 52)[TAR12042-]
 [A Warrior,Rogue]Retourner à l'auberge [H Stormwind] \\ Acheter de la nourriture si nécessaire
 [A Paladin,Hunter,Priest,Shaman,Mage,Warlock,Druid]Retourner à l'auberge [H Stormwind] \\ Acheter nourriture/eau si nécessaire
-[G 53.93,81.68 Stormwind City]Parler à *Clavicus Knavingham* à l'étage \\ Faire les quêtes de tissu à Hurlevent. Il vous faudra 3 piles de chaque tissu. Ignorer cette étape si vous ne pouvez pas toutes les faire \\ Rendre [QA7791-][QT7791 Un don de laine] \\ Rendre [QA7793-][QT7793 Un don de soie] \\ Rendre [QA7794-][QT7794 Un don de tisse-mage] \\ Rendre [QA7795-][QT7795 Un don d'étoffe runique]
+[O][G 53.93,81.68 Stormwind City]Parler à *Clavicus Knavingham* à l'étage \\ Faire les quêtes de tissu à Hurlevent. Il vous faudra 3 piles de chaque tissu. Ignorer cette étape si vous ne pouvez pas toutes les faire \\ Rendre [QA7791-][QT7791 Un don de laine] \\ Rendre [QA7793-][QT7793 Un don de soie] \\ Rendre [QA7794-][QT7794 Un don de tisse-mage] \\ Rendre [QA7795-][QT7795 Un don d'étoffe runique]
 ]==], "RestedXP Forever Donjons (A) FR")

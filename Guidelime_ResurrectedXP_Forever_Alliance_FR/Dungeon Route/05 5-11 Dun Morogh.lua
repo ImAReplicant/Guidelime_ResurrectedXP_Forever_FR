@@ -88,7 +88,8 @@ Guidelime.registerGuide([==[
 [A Warrior,Paladin,Hunter,Rogue,Shaman,Druid][OC][G 30.45,46 Dun Morogh]Parler à *Keeg Gibn* \\ [V]Vendre les objets inutiles[TAR1697-]
 [A Priest,Mage,Warlock][OC][L 30.45,46 Dun Morogh]Parler à *Keeg Gibn* \\ Acheter jusqu'à 20 *Lait glacé* chez lui \\ Récupérer [CI1179,20][TAR1697-]
 [G 30.19,45.73 Dun Morogh][G 30.19,45.53 Dun Morogh]Parler à *Rejold Brasselorge* et *Marleth Brasselorge* \\ Rendre [QT318 L'Evershine] \\ Accepter [QA319 Une faveur pour un tonneau d'Evershine] \\ Accepter [QA315 La bière parfaite] \\ Accepter [QA310 Bières rivales]
-[OC][L 31.21,39.19 Dun Morogh]Tuer *Anciens sangliers des rochers*. Les fouiller pour leurs *Côtes de sanglier des rochers* \\ Tuer *Ours Griffeglaces* et *Léopards des neiges* \\ [QC319,2 Une faveur pour un tonneau d'Evershine] \\ Récupérer [CI2886,6] \\ [QC319,1 Une faveur pour un tonneau d'Evershine] \\ [QC319,3 Une faveur pour un tonneau d'Evershine]
+[G 31.21,39.19 Dun Morogh]Kill *Elder Crag Boars*, *Ice Claw Bears*, and *Snow Leopards*. Loot *Crag Boar Ribs* if you still need them for *Beer Basted Boar Ribs* \\ [QC319,2 Une faveur pour un tonneau d'Evershine] \\ [QC319,1 Une faveur pour un tonneau d'Evershine] \\ [QC319,3 Une faveur pour un tonneau d'Evershine]
+[G 31.21,39.19 Dun Morogh]Finish collecting *Crag Boar Ribs* from *Elder Crag Boars* \\ [QC384,1 Côtes de sanglier à la bière]
 [G 30.19,45.73 Dun Morogh]Parler à *Rejold Brasselorge* \\ Rendre [QT319 Une faveur pour un tonneau d'Evershine] \\ Accepter [QA320 Retour vers Bellowfiz]
 [O]Tuer *Chasseurs de têtes Crins-de-givre* dans la grotte \\ [QC287,1 Le repaire des Frostmane]
 [OC][L 24.68,50.84 Dun Morogh]Monter sur le côté de l'entrée de la grotte. Sauter dans le fort Frostmane
@@ -97,7 +98,8 @@ Guidelime.registerGuide([==[
 [A Hardcore][OC][G 47.38,52.52 Dun Morogh]Retourner à Kharanos
 [A Softcore][OC]Mourir et réapparaître auprès du *Gardien des âmes*[TAR6491-]
 [G 46.77,53.81 Dun Morogh]Parler à *Senir Blanchebarbe* \\ Rendre [QT98323 Sécuriser la montagne] \\ Rendre [QT287 Le repaire des Frostmane]
-[OC][L 47.38,52.52 Dun Morogh]Parler à *Belm l'aubergiste* à l'intérieur \\ Acheter *Bière au malt Rhapsody* et *Tonneblonde* chez lui \\ [QC384,2 Côtes de sanglier à la bière] \\ Récupérer [CI2686,1]
+[G 47.38,52.52 Dun Morogh]Parler à *Belm l'aubergiste* à l'intérieur \\ Buy a *Rhapsody Malt* from him (and a *Thunder Ale* if you are turning in *Bitter Rivals*) \\ [QC384,2 Côtes de sanglier à la bière]
+[OC][L 47.38,52.52 Dun Morogh]Parler à *Belm l'aubergiste* à l'intérieur \\ Acheter *Tonneblonde* chez lui \\ Récupérer [CI2686,1]
 [OC][L 47.64,52.65 Dun Morogh]Parler à *Jarven Tonnebière* en bas \\ Rendre *Distraire Jarven*[TAR1373-]
 [G 47.72,52.7 Dun Morogh]Cliquer sur *Tonneau de Tonneblonde non gardé* \\ Rendre [QT310 Bières rivales] \\ Accepter [QA311 Retour chez Marleth]
 [A Priest][G 47.34,52.19 Dun Morogh]Parler à *Maxan Anvol* à l'intérieur \\ [T]Apprendre vos sorts de classe
@@ -182,7 +184,7 @@ Guidelime.registerGuide([==[
 [A Warrior,Paladin,Rogue,Priest,Shaman,Mage,Warlock,Druid][G 68.67,55.97 Dun Morogh][G 69.08,56.33 Dun Morogh]Parler à *Sénateur Mehr Sacrepierre* et *Contremaître Front-de-pierre* \\ Accepter [QA433 Le serviteur public] \\ Accepter [QA432 Ces satanés troggs !]
 [A Hunter][G 68.67,55.97 Dun Morogh]Parler à *Sénateur Mehr Sacrepierre* \\ Accepter [QA433 Le serviteur public]
 [O]Fouiller *Brises-crâne Mâcherocs* et *Briseurs d'os Mâcherocs* pour *Tonnelet de poudre vide* \\ Utiliser *Tonnelet de poudre vide* pour lancer la quête \\ NOTE : cet objet a un faible taux de chute. Ignorer cette étape si vous ne le trouvez pas \\ Accepter [QA95213 Poudre explosive volée][UI268548-]
-[O][G 70.07,57.03,45 Dun Morogh]Tuer *Brises-crâne Mâcherocs* dans ou devant la mine \\ [QC432,1 Ces satanés troggs !]
+[G 70.07,57.03,45 Dun Morogh]Tuer *Brises-crâne Mâcherocs* dans ou devant la mine \\ [QC432,1 Ces satanés troggs !]
 [OC][L 70.75,56.22 Dun Morogh]Entrer dans la mine de la carrière de Gol'Bolar
 [G 70.75,56.22,30 Dun Morogh]Tuer *Briseurs d'os Mâcherocs* dans la mine \\ [QC433,1 Le serviteur public]
 [A Warrior,Paladin,Rogue,Priest,Shaman,Mage,Warlock,Druid][G 68.67,55.97 Dun Morogh][G 69.08,56.33 Dun Morogh]Parler à *Sénateur Mehr Sacrepierre* et *Contremaître Front-de-pierre* \\ Rendre [QT433 Le serviteur public] \\ Rendre [QT432 Ces satanés troggs !]

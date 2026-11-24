@@ -39,6 +39,7 @@ Tuer *Massacreurs de Jaedenar*, *Tisseurs d'ombre de Jaedenar*, *Démonistes de 
 [G 31.27,45.16 Winterspring]Parler à *Donova Antreneige* \\ Accepter [QA5082 La menace des Tombe-hiver]
 [O][G 41.6,42.8 Winterspring][L 32.4,37.6 Winterspring]Tuer *Guides Tombes-hiver*, *Protecteurs Tombes-hiver* et *Totémiques Tombes-hiver* \\ [QC5082,1 La menace des Tombe-hiver] \\ [QC5082,2 La menace des Tombe-hiver] \\ [QC5082,3 La menace des Tombe-hiver]
 Tuer *Winterfall Furbolgs*. Les fouiller pour *Flacon d'eau-de-feu vide* \\ Utiliser *Flacon d'eau-de-feu vide* pour lancer la quête \\ Accepter [QA5083 L'eau de feu de Tombe-hiver][UI12771-]
+[G 41.6,42.8 Winterspring][L 32.4,37.6 Winterspring]Terminer ceci avant de continuer \\ Tuer *Guides Tombes-hiver*, *Protecteurs Tombes-hiver* et *Totémiques Tombes-hiver* \\ [QC5082,1 La menace des Tombe-hiver] \\ [QC5082,2 La menace des Tombe-hiver] \\ [QC5082,3 La menace des Tombe-hiver]
 [G 31.27,45.16 Winterspring]Parler à *Donova Antreneige* \\ Rendre [QT5082 La menace des Tombe-hiver] \\ Rendre [QT5083 L'eau de feu de Tombe-hiver] \\ Accepter [QA5084 Corrompu]
 [OC]Retourner en courant à Gangrebois
 [G 60.2,5.84 Felwood]Cliquer sur *Chaudron des Mort-bois* dans le camp *Furbolg* au nord \\ Si vous ouvrez une sortie, cliquez simplement sur *Chaudron des Mort-bois* puis fuyez. Pas besoin de tuer tous les *Furbolgs* autour \\ Rendre [QT5084 Corrompu] \\ Accepter [QA5085 Gelée mystère]

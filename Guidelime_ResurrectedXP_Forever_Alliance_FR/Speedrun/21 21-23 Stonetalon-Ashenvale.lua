@@ -38,6 +38,7 @@ Guidelime.registerGuide([==[
 [A Warrior,Paladin,Rogue,Priest,Shaman,Mage,Druid][OC][L 37.44,41.83 Darkshore]Parler à *Archéologue Hollee* \\ Rendre [QT731 Les absences du Prospecteur] \\ Accepter [QA741 Les absences du Prospecteur]
 [A Warrior,Paladin,Rogue,Priest,Shaman,Mage,Druid][O][G 37.44,41.83 Darkshore]Parler à *Archéologue Hollee* \\ Accepter [QA741 Les absences du Prospecteur]
 [A Warrior,Paladin,Rogue,Priest,Shaman,Mage,Druid][O][L 37.7,43.39 Darkshore]Parler à *Sentinelle Glynda Nal'Shea* si vous avez vaincu Murkdeep. \\ Rendre [QT4740 On recherche : Fondeboue !]
+[A !Warlock][O][L 37.39,40.13 Darkshore]Parler à *Thundris Tissevent* \\ Rendre [QT98042 Rira bien qui rira le dernier]
 [A Warrior,Paladin,Rogue,Priest,Shaman,Mage,Druid][O][L 23.7,64.51 Teldrassil]À Darnassus, parlez à *Chef archéologue Grisemoustache* \\ Rendre [QT741 Les absences du Prospecteur] \\ Accepter [QA942 Les absences du Prospecteur]
 [A NightElf,Warrior,Paladin,Rogue,Priest,Shaman,Mage,Druid][OC][L 36.34,45.57 Darkshore]Parler à *Caylais Plumelune* \\ Prendre le vol vers Teldrassil[TAR3841-]
 [A NightElf,Warlock][OC][G 36.34,45.57 Darkshore]Aller à l'endroit indiqué
@@ -102,6 +103,7 @@ Guidelime.registerGuide([==[
 [A Warlock][OC][L 39.37,43.48 Darkshore]Parler à *Terenthis* \\ Rendre [QT995 Évasion par la ruse]
 [A Warlock][OC][L 37.44,41.83 Darkshore]Parler à *Archéologue Hollee* \\ Rendre [QT731 Les absences du Prospecteur] \\ Accepter [QA741 Les absences du Prospecteur]
 [A Warlock][O][G 37.44,41.83 Darkshore]Parler à *Archéologue Hollee* \\ Accepter [QA741 Les absences du Prospecteur]
+[A Warlock][O][L 37.39,40.13 Darkshore]Parler à *Thundris Tissevent* \\ Rendre [QT98042 Rira bien qui rira le dernier]
 [A Warlock][OC][G 32.75,42.21,60 Darkshore]Se rendre aux quais d'Auberdine. Attendre le bateau pour le village de Rut'theran
 [A Warlock][OC][G 33.17,40.21 Darkshore]Prendre le bateau vers le village de Rut'theran
 [A Warlock][OC][L 23.7,64.51 Teldrassil]Parler à *Chef archéologue Grisemoustache* \\ Rendre [QT741 Les absences du Prospecteur] \\ Accepter [QA942 Les absences du Prospecteur]

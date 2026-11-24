@@ -12,9 +12,6 @@ permissions:
 jobs:
   check:
     runs-on: ubuntu-latest
-    outputs:
-      update: ${{ steps.check.outputs.update }}
-      version: ${{ steps.check.outputs.version }}
     steps:
       - uses: actions/checkout@v4
 
@@ -22,15 +19,11 @@ jobs:
         with:
           python-version: "3.12"
 
+      # Aucune cle requise : les metadonnees viennent de cfwidget, l'archive de mediafilez.
+      # Sortie 2 = nouvelle version disponible, 0 = a jour, 1 = erreur (cfwidget injoignable).
       - name: Nouvelle version de l'addon anglais ?
         id: check
-        env:
-          CF_API_KEY: ${{ secrets.CF_API_KEY }}
         run: |
-          if [ -z "$CF_API_KEY" ]; then
-            echo "::warning::CF_API_KEY absent : verification de l'amont ignoree (voir AGENTS.md)"
-            exit 0
-          fi
           set +e
           python3 tools/update_upstream.py --check
           code=$?
@@ -43,20 +36,19 @@ jobs:
 
       - name: Mise a jour et regeneration
         if: steps.check.outputs.update == 'true'
-        env:
-          CF_API_KEY: ${{ secrets.CF_API_KEY }}
+        id: apply
         run: |
           python3 tools/update_upstream.py --apply
           python3 tools/extract.py
           python3 tools/build_fr.py
           python3 tools/validate.py
           python3 tools/package.py
-          echo "version=$(grep '^## Version:' upstream/Guidelime_ResurrectedXP_Forever_Alliance/Guidelime_ResurrectedXP_Forever_Alliance.toc | cut -d' ' -f3)" >> "$GITHUB_OUTPUT"
-        id: apply
+          version=$(grep '^## Version:' upstream/Guidelime_ResurrectedXP_Forever_Alliance/Guidelime_ResurrectedXP_Forever_Alliance.toc | cut -d' ' -f3)
+          echo "version=$version" >> "$GITHUB_OUTPUT"
 
-      - name: Differerence sur les guides amont
+      - name: Corps de la pull request
         if: steps.check.outputs.update == 'true'
-        id: diff
+        id: body
         run: |
           {
             echo "## Guides modifies"
@@ -78,5 +70,5 @@ jobs:
           branch: upstream/${{ steps.apply.outputs.version }}
           title: "Upstream ${{ steps.apply.outputs.version }}"
           commit-message: "Upstream ${{ steps.apply.outputs.version }} : guides anglais et traduction regeneres"
-          body: ${{ steps.diff.outputs.body }}
+          body: ${{ steps.body.outputs.body }}
           delete-branch: true

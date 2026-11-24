@@ -19,7 +19,8 @@ Guidelime.registerGuide([==[
 [OC][G 64.57,83.5,8 Riverglades][G 66.58,83.06,30 Riverglades]Suivre les points de passage lime dans l'ordre
 [OC][G 66.89,81.76,10 Riverglades]Monter sur les remparts du château et entrer dans le donjon par la première entrée latérale.
 [G 66.68,81.11 Riverglades]Parler à *Ashe Ambrehall*. \\ Accepter [QA94881 De curieux bijoux] \\ Accepter [QA94879 Chutes d'informations]
-[G 66.65,81.11 Riverglades]Parler à *Demar Brant* à l'étage. \\ Rendre [QT95315 Le rapport des rives Claires] \\ Accepter [QA94613 Mon royaume pour un cheval] \\ Accepter [QA94877 Sauver Clairsoleil]
+[O][L 66.65,81.11 Riverglades]If you brought *The Riverglades Report*, talk to *Demar Brant* upstairs. \\ Rendre [QT95315 Le rapport des rives Claires]
+[G 66.65,81.11 Riverglades]Parler à *Demar Brant* à l'étage. \\ Accepter [QA94613 Mon royaume pour un cheval] \\ Accepter [QA94877 Sauver Clairsoleil]
 [OC][L 66.85,79.93 Riverglades]Sortir de la salle du trône par la sortie de l'étage. \\ Éviter l'entrée principale.
 [G 66.13,79.6 Riverglades]Parler à *Amber Murmelame*. \\ Accepter [QA95156 Empaillés et embrochés]
 [G 65.63,80.76 Riverglades]Cliquer sur *Avis de recherche*. \\ Accepter [QA95991 AVIS DE RECHERCHE : Gueule-Fantôme]
@@ -39,8 +40,8 @@ Guidelime.registerGuide([==[
 [OC][L 46.79,47.34 Riverglades]Tuer *Pillards du Crépuscule*. Les fouiller pour *Souvenirs des fermiers*. \\ Récupérer [CI266148,5] \\ (moins si certains comptent déjà pour Nos pertes)
 [OC]Tuer *Néophytes du Crépuscule*, *Ombremages du Crépuscule* et *Pillards du Crépuscule*. Récupérer *Charmes du Crépuscule* sur les néophytes et les ombremages. \\ [QC94877,1 Sauver Clairsoleil] \\ [QC94877,2 Sauver Clairsoleil] \\ [QC94877,3 Sauver Clairsoleil] \\ [QC94881,1 De curieux bijoux] \\ Garder *Journal du maréchal de camp* s'il tombe.
 Cliquer sur *Souvenirs enfouis* \\ [QC94829,1 Nos pertes]
-[G 53.61,44.89 Riverglades]Tuer *Fermières converties* dans la hutte. Les fouiller pour *Médaillon endommagé*. \\ [QC94858,2 Tout ce qu'il reste]
 [G 52.78,42.34 Riverglades]Parler à *Fermier Elbrim*. \\ Rendre [QT94829 Nos pertes] \\ Accepter [QA94858 Tout ce qu'il reste]
+[G 53.61,44.89 Riverglades]Tuer *Fermières converties* dans la hutte. Les fouiller pour *Médaillon endommagé*. \\ [QC94858,2 Tout ce qu'il reste]
 [G 53.73,44.81 Riverglades]Cliquer sur *Poupée abandonnée* \\ [QC94858,1 Tout ce qu'il reste]
 [G 52.78,42.36 Riverglades]Parler à *Fermier Elbrim*. \\ Rendre [QT94858 Tout ce qu'il reste]
 [OC][L 49.88,46.15 Riverglades]Entrer dans les cryptes et progressez
@@ -137,6 +138,7 @@ Escorter *Hurley* pour secourir *Kurty*. S'il vous manque encore *Carapaces d'é
 [OC][L 41.51,62.2 Riverglades]Faire le tour de cette zone
 [OC]Cliquer sur *Tas de bois*. \\ [QC96009,1 Enjeux de taille]
 Cliquer sur *Arbrisseau planté*. \\ [QC94843,1 De la graine à la pousse]
+[G 41.51,62.2 Riverglades]Cliquer sur *Tas de bois*. \\ [QC96009,1 Enjeux de taille]
 [G 39.58,74.64 Riverglades]Parler à *Cédric Dalton*. \\ Accepter [QA94678 Infestation gnolle] \\ Accepter [QA94679 Le groin de Snargl]
 [G 37.73,76.02 Riverglades]Parler à *Goren Grislhomme*. \\ [V]Vendre les objets inutiles et réparer votre équipement.[TAR272435-]
 [G 36.37,75.76 Riverglades]Parler à *Gardien Fredericks*. \\ Rendre [QT94999 Des yeux pour le guetteur]

@@ -40,7 +40,6 @@ Guidelime.registerGuide([==[
 [A Hunter][OC][G 31.04,43.12 Feralas][L 30.64,43.43 Feralas]Talk to *Mardrack Greenwell* and *Faralorn* \\ There is a grinding session ahead \\ [V]Buy food/water if needed \\ [V]Buy Ammo if needed
 [G 31.78,45.5 Feralas]Talk to *Troyas Moonbreeze* \\ Turn in [QT2942 The Morrow Stone]
 [O][L 30.63,42.71 Feralas]Talk to *Pratt McGrubben* \\ Turn in [QT7733 Improved Quality]
-[O][G 30.63,42.71 Feralas]Talk to *Pratt McGrubben* and turn in [QT7735 Pristine Yeti Hide].
-[A IT18969][O]Use the *Pristine Yeti Hide* to accept [QA7735 Pristine Yeti Hide], then give it to Pratt. [UI18969-]
+[A IT18969][O][G 30.63,42.71 Feralas]Use the *Pristine Yeti Hide* to accept [QA7735 Pristine Yeti Hide], then talk to *Pratt McGrubben* to turn in [QT7735 Pristine Yeti Hide].[UI18969-]
 [L 30.24,43.25 Feralas][TAR8019-]Talk to *Fyldren Moonfeather* \\ Fly to [F Ratchet]
 ]==], "RestedXP Forever Speedrun (A)")

@@ -16,14 +16,14 @@ Guidelime.registerGuide([==[
 [OR][G 77.61,50.95 Riverglades]Parler à *Dégraissant gobelin* dans le bâtiment. \\ Acheter 1 *Dégraissant gobelin* pour 40 pièces d'argent. \\ Récupérer [QC95988,3 -][CI271653,1][TAR260565-]
 [G 79.45,52.7 Riverglades]Parler à *Maître de quai Whizzbuzz*. \\ Rendre [QT97332 Une confiance deux fois mal placée] \\ Accepter [QA95119 Concurrence déloyale] \\ Accepter [QA95118 Sauvagerie en haute mer]
 [G 79.94,52.49 Riverglades]Parler à *Argo Sifflécume*. \\ Rendre [QT95260 Terreurs enfouies] \\ Accepter [QA95261 Il faut des tripes]
-[G 80.85,53.03,40 Riverglades]Tuer *Traquepince*. Le fouiller pour *Pince de Trapclaw*. \\ Ignorer cette étape si *Traquepince* n'est pas là. \\ [QC95254,1 AVIS DE RECHERCHE : Traquepince]
+[OC][G 80.85,53.03,40 Riverglades]Tuer *Traquepince*. Le fouiller pour *Pince de Trapclaw*. \\ Ignorer cette étape si *Traquepince* n'est pas là. \\ [QC95254,1 AVIS DE RECHERCHE : Traquepince]
 [G 81.02,49.77,40 Riverglades]Tuer *Clampants du rivage*. Les fouiller pour *Bave de rampant*, *Chair de clampant des sables* et *Entrailles de bête*. \\ [QC95988,1 Un pur délice] \\ [QC95121,2 Saveurs maritimes] \\ [QC95261,1 Il faut des tripes]
 [G 81.02,49.77,40 Riverglades]Fouiller *Chair de clampant des sables* sur les rampants des rives. [QC95121,2 Saveurs maritimes]
 [G 81.02,49.77,40 Riverglades]Fouiller *Bave de rampant* sur les rampants des rives. [QC95988,1 Un pur délice]
 [G 87.3,37.83,40 Riverglades]Tuer *Musketeers* et *Buccaneers*. Les fouiller pour *Marchandises de contrebande*. \\ [QC95119,1 Concurrence déloyale] \\ [QC95119,2 Concurrence déloyale] \\ [QC95288,1 Le paradis de la contrebande]
 [G 87.3,37.83,40 Riverglades]Tuer *Mousquetaires des mers de l'Est* et *Boucaniers des mers de l'Est*. [QC95119,1 Concurrence déloyale] \\ [QC95119,2 Concurrence déloyale]
 [G 79.45,52.7 Riverglades]Parler à *Maître de quai Whizzbuzz*. \\ Rendre [QT95119 Concurrence déloyale] \\ Accepter [QA95122 Croissance incontrôlée] \\ Accepter [QA95123 Et boum, chiens galeux !]
-[G 80.85,53.03,40 Riverglades]Tuer *Traquepince*. Le fouiller pour *Pince de Trapclaw*. \\ Ignorer cette étape si *Traquepince* n'est pas là. \\ [QC95254,1 AVIS DE RECHERCHE : Traquepince]
+[OC][G 80.85,53.03,40 Riverglades]Tuer *Traquepince*. Le fouiller pour *Pince de Trapclaw*. \\ Ignorer cette étape si *Traquepince* n'est pas là. \\ [QC95254,1 AVIS DE RECHERCHE : Traquepince]
 [OC][L 80.41,40.05 Riverglades]Passer par-dessus la montagne
 [OC][L 79.56,37.42 Riverglades]Faire le tour de cette zone
 [OC]Tuer *Pillards de la mer de l'Est* et *Bombardiers de la mer de l'Est* autour de Windstead. \\ [QC95122,1 Croissance incontrôlée] \\ [QC95122,2 Croissance incontrôlée]
@@ -56,7 +56,6 @@ Tuer *Pillards de la mer de l'Est* et *Bombardiers de la mer de l'Est* autour de
 [O]Tuer *Gueule-Fantôme*. Le fouiller pour *Croc de Ghostmaw*. \\ Ghostmaw est un crocodile élite qui peut être n'importe où le long de la rive. Groupez-vous ou ignorez cette quête s'il est trop difficile. \\ Vous aurez d'autres occasions de le tuer plus tard. \\ [QC95991,1 AVIS DE RECHERCHE : Gueule-Fantôme]
 [O]Tuer *Recrues Rog'mar* et *Maître-lame Kaijo*. Le fouiller pour *Bannière du maître d'armes*. \\ *Maître-lame Kaijo* est un élite. Groupez-vous ou ignorez cette quête si vous ne pouvez pas le vaincre. \\ Cliquer sur *Caisses de ravitaillement Rog'mar* autour des campements. \\ [QC95064,1 Mesures préventives] \\ [QC95426,1 Fournitures de Rog'mar] \\ [QC95912,1 AVIS DE RECHERCHE : maître-lame Kaijo]
 [O][L 59.41,28.15 Riverglades]Tuer *Krek le Nuisible* à la cascade. \\ *Krek le Nuisible* est un élite. Groupez-vous ou ignorez cette quête si vous ne pouvez pas le vaincre. \\ [QC96085,1 Contamination en amont]
-[G 62.07,35.45,40 Riverglades]Tuer *Recrues Rog'mar* et *Maître-lame Kaijo*. Le fouiller pour *Bannière du maître d'armes*. \\ *Maître-lame Kaijo* est un élite. Groupez-vous ou ignorez cette quête si vous ne pouvez pas le vaincre. \\ Cliquer sur *Caisses de ravitaillement Rog'mar* autour des campements. \\ [QC95064,1 Mesures préventives] \\ [QC95426,1 Fournitures de Rog'mar] \\ [QC95912,1 AVIS DE RECHERCHE : maître-lame Kaijo]
 [G 62.07,35.45,40 Riverglades]Tuer *Recrues Rog'mar*. [QC95064,1 Mesures préventives]
 [G 62.07,35.45,40 Riverglades]Ouvrir *Caisses de ravitaillement Rog'mar* autour des campements. [QC95426,1 Fournitures de Rog'mar]
 [G 68.15,48.58 Riverglades]Parler à *Slibo Bekdanlo*. \\ Accepter [QA96063 Du gaz en or]
@@ -99,10 +98,11 @@ Tuer *Pillards de la mer de l'Est* et *Bombardiers de la mer de l'Est* autour de
 [OC][G 66.89,81.76,10 Riverglades]Monter sur les remparts du château et entrer dans le donjon par l'entrée supérieure.
 [G 66.76,81.12 Riverglades]Parler à *Ashe Ambrehall*. \\ Rendre [QT94907 Un petit service] \\ Accepter [QA94984 Tome du Crépuscule]
 [O][L 66.76,81.12 Riverglades]Si vous avez apporté *Des nouvelles pour Fort-Lointain*, parlez à *Ashe Ambrehall*. \\ Rendre [QT94891 Des nouvelles pour Fort-Lointain]
-[G 66.67,81.02 Riverglades]Parler à *Demar Brant*. \\ Rendre [QT94926 Marteau funeste] \\ Rendre [QT95148 Rapport sur les Gnolls de la garde du Sud] \\ Rendre [QT95059 La caisse de Faiblétincelle] \\ Rendre [QT95066 Le cas de Rog'mar] \\ Rendre [QT94892 Les dernières volontés d'un maréchal] \\ Accepter [QA94893 Derniers mots] \\ Accepter [QA94982 L'œil de Mugg]
+[G 66.67,81.02 Riverglades]Parler à *Demar Brant*. \\ Rendre [QT95148 Rapport sur les Gnolls de la garde du Sud] \\ Rendre [QT95059 La caisse de Faiblétincelle] \\ Rendre [QT95066 Le cas de Rog'mar] \\ Rendre [QT94892 Les dernières volontés d'un maréchal] \\ Accepter [QA94893 Derniers mots] \\ Accepter [QA94982 L'œil de Mugg]
+[O][L 66.67,81.02 Riverglades]If you defeated Komuk, talk to *Demar Brant*. \\ Rendre [QT94926 Marteau funeste]
 [O][L 66.67,81.02 Riverglades]Après avoir rendu *Des nouvelles pour Fort-Lointain*, parlez à *Demar Brant*. \\ Accepter [QA94894 La menace du Crépuscule]
-[OC][L 66.85,79.93 Riverglades]Sortir du donjon par l'autre sortie. \\ (uniquement si vous êtes au donjon de Farholde)
-[G 66.15,79.6 Riverglades]Parler à *Amber Murmelame*. \\ Rendre [QT95912 AVIS DE RECHERCHE : maître-lame Kaijo]
+[OC][G 66.85,79.93,10 Riverglades]Sortir du donjon par l'autre sortie. \\ (uniquement si vous êtes au donjon de Farholde)
+[O][L 66.15,79.6 Riverglades]If you defeated Blademaster Kaijo, talk to *Ember Bladewhisper*. \\ Rendre [QT95912 AVIS DE RECHERCHE : maître-lame Kaijo]
 [O]Détruire *Rapport de Rog'mar*. [CI274981,0-]
 [A IT7964>7][G 66.15,79.6 Riverglades]Parler à *Amber Murmelame*. \\ Rendre [QT95184 Des lames des plus affûtées]
 [OC][L 63.54,85.08 Riverglades]Parler à *Wheatley*. \\ Rendre [QT95991 AVIS DE RECHERCHE : Gueule-Fantôme]

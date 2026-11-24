@@ -38,6 +38,7 @@ Guidelime.registerGuide([==[
 [A Warrior,Paladin,Rogue,Priest,Shaman,Mage,Druid][OC][L 37.44,41.83 Darkshore]Talk to *Archaeologist Hollee* \\ Turn in [QT731 The Absent Minded Prospector] \\ Accept [QA741 The Absent Minded Prospector]
 [A Warrior,Paladin,Rogue,Priest,Shaman,Mage,Druid][O][G 37.44,41.83 Darkshore]Talk to *Archaeologist Hollee* \\ Accept [QA741 The Absent Minded Prospector]
 [A Warrior,Paladin,Rogue,Priest,Shaman,Mage,Druid][O][L 37.7,43.39 Darkshore]Talk to *Sentinel Glynda Nal'Shea* if you have defeated Murkdeep. \\ Turn in [QT4740 WANTED: Murkdeep!]
+[A !Warlock][O][L 37.39,40.13 Darkshore]Talk to *Thundris Windweaver* \\ Turn in [QT98042 It's All Fun and Games Until...]
 [A Warrior,Paladin,Rogue,Priest,Shaman,Mage,Druid][O][L 23.7,64.51 Teldrassil]In Darnassus, talk to *Chief Archaeologist Greywhisker* \\ Turn in [QT741 The Absent Minded Prospector] \\ Accept [QA942 The Absent Minded Prospector]
 [A NightElf,Warrior,Paladin,Rogue,Priest,Shaman,Mage,Druid][OC][L 36.34,45.57 Darkshore]Talk to *Caylais Moonfeather* \\ Fly to Teldrassil[TAR3841-]
 [A NightElf,Warlock][OC][G 36.34,45.57 Darkshore]Go to the marked location
@@ -102,6 +103,7 @@ Guidelime.registerGuide([==[
 [A Warlock][OC][L 39.37,43.48 Darkshore]Talk to *Terenthis* \\ Turn in [QT995 Escape Through Stealth]
 [A Warlock][OC][L 37.44,41.83 Darkshore]Talk to *Archaeologist Hollee* \\ Turn in [QT731 The Absent Minded Prospector] \\ Accept [QA741 The Absent Minded Prospector]
 [A Warlock][O][G 37.44,41.83 Darkshore]Talk to *Archaeologist Hollee* \\ Accept [QA741 The Absent Minded Prospector]
+[A Warlock][O][L 37.39,40.13 Darkshore]Talk to *Thundris Windweaver* \\ Turn in [QT98042 It's All Fun and Games Until...]
 [A Warlock][OC][G 32.75,42.21,60 Darkshore]Travel to the Auberdine Docks. Wait for the Rut'theran Village boat
 [A Warlock][OC][G 33.17,40.21 Darkshore]Take the boat to Rut'theran Village
 [A Warlock][OC][L 23.7,64.51 Teldrassil]Talk to *Chief Archaeologist Greywhisker* \\ Turn in [QT741 The Absent Minded Prospector] \\ Accept [QA942 The Absent Minded Prospector]

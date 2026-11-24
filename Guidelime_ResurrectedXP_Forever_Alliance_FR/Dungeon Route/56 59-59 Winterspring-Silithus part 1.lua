@@ -4,7 +4,7 @@ Guidelime.registerGuide([==[
 [GA Alliance]
 [NX 59-60 Berceau-de-l'Hiver/Silithus partie 2]
 [OC][L 80.19,38.35 Stormwind City]Parler à *Généralissime Bolvar Fordragon* \\ Rendre [QT6186 La venue du Flétrisseur] \\ (ignorer si vous êtes déjà à Berceau-de-l'Hiver)
-[G 53.93,81.68 Stormwind City]Parler à *Clavicus Knavingham* à l'étage \\ Faire les quêtes de tissu à Hurlevent. Il vous faudra 3 piles de chaque tissu. Ignorer cette étape si vous ne pouvez pas toutes les faire \\ Rendre [QA7791-][QT7791 Un don de laine] \\ Rendre [QA7793-][QT7793 Un don de soie] \\ Rendre [QA7794-][QT7794 Un don de tisse-mage] \\ Rendre [QA7795-][QT7795 Un don d'étoffe runique] \\ (ignorer si vous êtes déjà à Berceau-de-l'Hiver : cocher l'étape)
+[OC][L 53.93,81.68 Stormwind City]Parler à *Clavicus Knavingham* à l'étage \\ Faire les quêtes de tissu à Hurlevent. Il vous faudra 3 piles de chaque tissu. Ignorer cette étape si vous ne pouvez pas toutes les faire \\ Rendre [QA7791-][QT7791 Un don de laine] \\ Rendre [QA7793-][QT7793 Un don de soie] \\ Rendre [QA7794-][QT7794 Un don de tisse-mage] \\ Rendre [QA7795-][QT7795 Un don d'étoffe runique] \\ (ignorer si vous êtes déjà à Berceau-de-l'Hiver)
 [A Mage][OC]Se téléporter à Darnassus \\ (ignorer si vous êtes déjà à Berceau-de-l'Hiver)
 [A Mage][OC][L 38.33,80.95 Darnassus]Parler à *Astarii Cherchétoile* \\ Rendre [QT3378 Prière à Elune] \\ (ignorer si vous êtes déjà à Berceau-de-l'Hiver)
 [A Mage][OC][G 29.47,41.4 Darnassus]Prendre le portail violet vers le village de Rut'theran \\ (ignorer si vous êtes déjà à Berceau-de-l'Hiver)

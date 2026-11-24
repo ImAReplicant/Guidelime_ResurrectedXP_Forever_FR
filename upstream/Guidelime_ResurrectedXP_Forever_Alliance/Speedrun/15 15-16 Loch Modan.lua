@@ -96,11 +96,11 @@ Talk to *Monty* on the middle platform in the Deeprun Tram \\ Turn in [QT6661 De
 [OC][G 54.7,38.3,200 Loch Modan]Travel to the island located in the middle of The Loch
 [G 54.72,38.15 Loch Modan]Kill *Loch Crocolisks*. Loot them for their *Meat* and *Skin* \\ [QC385,1 Crocolisk Hunting] \\ [QC385,2 Crocolisk Hunting]
 [G 81.76,61.66 Loch Modan]Talk to *Marek Ironheart* \\ Turn in [QT385 Crocolisk Hunting] \\ Turn in [QT86758 Twisting the Knife]
-[O][L 83.49,65.4 Loch Modan]If you took *A Hunter's Challenge*, finish killing the *Elder Mountain Boars* and return to *Daryl the Youngling* within 12 minutes. If the timer expired, abandon the failed quest and tick off this step. \\ Turn in [QT258 A Hunter's Challenge]
 [OC][L 83.49,65.4 Loch Modan]Talk to *Daryl the Youngling* \\ Accept [QA258 A Hunter's Challenge] \\ (Skip if you are already level 16 or higher)
 [OC][L 69.45,39.18 Loch Modan]Kill *Elder Mountain Boars* \\ You must complete this quest and return to *Daryl the Youngling* with 12 minutes. If you fail the quest, abandon it and pick it up again \\ [QC258,1 A Hunter's Challenge]
 [OC][L 83.28,62.97 Loch Modan]Travel toward *Daryl the Youngling* \\ (If you took A Hunter's Challenge)
 [XP16-2360 Grind untill you're 2360 xp away from level 16 (12.040/14.400)]
+[OC][L 83.49,65.4 Loch Modan]If you took *A Hunter's Challenge*, return to *Daryl the Youngling* within 12 minutes. If the timer expired, abandon the failed quest and continue to Thelsamar. \\ Turn in [QT258 A Hunter's Challenge]
 [A Softcore][OC]Jump out of the lodge and die to the mobs below \\ Die and respawn at the Thelsamar graveyard
 [G 37.17,47.94,8 Loch Modan][G 37.24,47.38 Loch Modan]Talk to *Jern Hornhelm* \\ Turn in [QT298 Excavation Progress Report] \\ Accept [QA301 Report to Ironforge]
 [G 40.28,39.28,5 Loch Modan][G 39.62,39.64 Loch Modan]Talk to *Khara Deepwater* \\ Turn in [QT86614 Silver of the Waves]

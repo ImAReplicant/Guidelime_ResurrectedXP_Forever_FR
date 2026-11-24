@@ -23,11 +23,8 @@ Guidelime.registerGuide([==[
 [A Hunter][G 61.55,89.43 Ironforge]Parler à *Thalgus Tonnepoing* en bas \\ Acheter *Carquois lourd* \\ Récupérer [CI7371,1][TAR7976-]
 [G 72.74,94.03 Ironforge]Parler à *Pilote Barbe-longue* \\ Accepter [QA1179 Les frères Brassbolts]
 [A Skyborne][O][L 68.74,48.97 Ironforge]Parler à *Grand Bricoleur Mekkanivelle* à Tinker Town. \\ [QC93963,2 À la découverte de l'Alliance]
-[A Shaman][OC][G 55.49,47.72 Ironforge]Parler à *Gryth Thurden*. Prendre le vol vers [F]Refuge Pointe pour *L'appel de l'air*. Si vous n'avez pas le point de vol, cochez l'étape de rendu de Veyric ci-dessous pour reporter le détour et prendre le tram vers Hurlevent, ou traversez Loch Modan, Dun Algaz et les Paluns puis le pont de Thandol vers le nord jusqu'à Refuge Pointe.[TAR1573-]
-[A Shaman][OC][G 60.39,27.05 Arathi Highlands]Se diriger vers *Veyric Hametonne* en haut des montagnes
 [A Shaman][G 59.83,27.59 Arathi Highlands]Pour *L'appel de l'air*, prenez le vol depuis *Gryth Thurden* à Forgefer [L 55.49,47.72 Ironforge] jusqu'à Refuge Pointe. Sans son point de vol, traversez Loch Modan, Dun Algaz et les Paluns puis le pont de Thandol. Depuis Refuge Pointe, prenez le sentier de montagne [L 60.39,27.05 Arathi Highlands] à *Veyric Hametonne*. Rendre [QT94789 L'appel de l'air]. Cocher cette étape pour reporter le détour et continuer vers Hurlevent.
 [A Warrior,Paladin,Hunter,Rogue,Priest,Warlock,Druid][OC][G 78,52,5 Ironforge]Prendre le tram des profondeurs. Prendre le tram vers Hurlevent \\ Monter votre *Secourisme* si besoin en attendant le tram
-[A Shaman][OC][L 47.17,13.87 Ironforge]Si vous êtes encore à Forgefer et niveau 30 ou plus, parlez à *Eldrun Brise-tempête* pour accepter [QA94789 L'appel de l'air]. Si vous êtes sous le niveau 30 ou passez ce détour, continuez vers Hurlevent.
 [A Shaman][G 66.3,34,420 Stormwind City]Rejoindre Hurlevent. Depuis Refuge Pointe, parlez à *Cedrik Prose* [L 45.73,46.09 Arathi Highlands] et prenez le vol vers Hurlevent. Si le vol direct est indisponible, retournez à Forgefer et prendre le tram des profondeurs [L 78,52 Ironforge] jusqu'au quartier des nains. Apprendre Secourisme en attendant si besoin.[TAR2835-]
 [A Mage][OC]Se téléporter à Hurlevent
 [OC][L 59.72,33.77 Stormwind City]Parler à *Grimand Elmore* \\ Rendre [QT322 Béni soit ce bras] \\ Accepter [QA325 En armes et prêt] \\ (uniquement si vous avez rendu Les lingots perdus)
@@ -176,7 +173,7 @@ Guidelime.registerGuide([==[
 [A Warrior][G 78.54,63.23,15 Stormwind City][G 81.74,59.54,15 Stormwind City][G 80.55,59.87 Stormwind City]Parler à *Wu Shen* ou *Ilsa Corbin* \\ [T]Apprendre vos sorts de classe[TAR5479-][TAR5480-]
 [A Warrior][G 80.55,59.87 Stormwind City]Parler à *Wu Shen* \\ Accepter [QA1718 L'île mortelle]
 [A Rogue][G 77.44,65.31 Stormwind City]Parler à *Osborne l'homme de la nuit* \\ [T]Apprendre vos sorts de classe[TAR918-]
-[O][L 74.26,59.17 Stormwind City]Parler à *Dashel Poing-de-pierre* \\ *Dashel Poing-de-pierre* deviendra hostile après avoir accepté la quête suivante. Vaincre-le \\ Rendre [QT1246 Un diplomate a disparu] \\ Accepter [QA1447 Un diplomate a disparu] \\ (maintenez Maj chez le PNJ, sinon Guidelime accepte la quête immédiatement)
+[G 74.26,59.17 Stormwind City]Parler à *Dashel Poing-de-pierre* \\ *Dashel Poing-de-pierre* deviendra hostile après avoir accepté la quête suivante. Vaincre-le \\ Rendre [QT1246 Un diplomate a disparu] \\ Accepter [QA1447 Un diplomate a disparu] \\ (maintenez Maj chez le PNJ, sinon Guidelime accepte la quête immédiatement)
 [G 74.26,59.17 Stormwind City]Vaincre *Dashel Poing-de-pierre* \\ *Dashel Poing-de-pierre* attaquera aussi avec 2 *Nervis de la vieilles villes*. Ignorez-les et concentrez-vous sur *Dashel Poing-de-pierre* \\ Attention : les *Nervis de la vieilles villes* se réinitialisent quand vous vainquez Dashel, mais redeviennent hostiles après être revenus à leur emplacement d'origine \\ [QC1447,1 Un diplomate a disparu]
 [G 74.26,59.17 Stormwind City]Parler à *Dashel Poing-de-pierre* \\ Rendre [QT1447 Un diplomate a disparu] \\ Accepter [QA1247 Un diplomate a disparu]
 [G 66.02,74.09 Stormwind City]Parler à *Elling Trias* \\ Rendre [QT1247 Un diplomate a disparu] \\ Accepter [QA1248 Un diplomate a disparu]
@@ -200,10 +197,8 @@ Guidelime.registerGuide([==[
 [A IT2794][G 77.07,30.21 Stormwind City]Parler à *Milton Sheaf* \\ Si vous avez trouvé *Un vieux livre d'histoire*, vous pouvez le rendre \\ Accepter [QA337 Un vieux livre d'histoire] \\ Rendre [QT337 Un vieux livre d'histoire] \\ Accepter [QA538 Austrivage][UI2794-]
 [A IT2794<1][OC]Abandonner Des retrouvailles pour Mauren \\ Abandonner Fleur des cieux
 [A IT2794<1][O][L 77.88,48.94 Stormwind City]Parler à *Seigneur Baurles K. Wishock* \\ Rendre [QT336 Un noble brassage]
-[OC][L 77.07,30.21 Stormwind City]Parler à *Milton Sheaf* \\ Accepter [QA538 Austrivage]
-[A Warlock][OC][G 42.27,81.7,20 Stormwind City]Passer par ce point de passage
-[A Warlock][OC][G 40.72,84.87,15 Stormwind City]Entrer à L'Agneau massacré et descendre
-[A Warlock][G 40.14,85.28 Stormwind City][G 40.21,85.3 Stormwind City]Parler à *Zardeth de la Griffe noire* et *Zggi* \\ Accepter [QA397 Vous nous avez bien servi] \\ Rendre [QT397 Vous nous avez bien servi]
+[OC][L 77.07,30.21 Stormwind City]Parler à *Milton Sheaf* \\ Accepter [QA538 Austrivage] \\ (Only if you turned in An Old History Book)
+[A Warlock][O][L 40.14,85.28 Stormwind City][L 40.21,85.3 Stormwind City]Go downstairs in The Slaughtered Lamb and talk to *Zardeth of the Black Claw* and *Zggi* \\ Accepter [QA397 Vous nous avez bien servi] \\ Rendre [QT397 Vous nous avez bien servi]
 [A Hunter][G 67.35,36.25 Stormwind City]Parler à *Einris Brillelance* \\ [T]Apprendre vos sorts de classe[TAR5515-]
 [A Warrior,Paladin,Hunter,Rogue,Priest,Shaman,Warlock,Druid][OC][G 66.99,33.38,25 Stormwind City]Passer par ce point de passage
 [A Warrior,Paladin,Hunter,Rogue,Priest,Shaman,Warlock,Druid][OC][G 69.2,30.7 Stormwind City]Prendre le tram des profondeurs. Prendre le tram vers Forgefer \\ Monter votre *Secourisme* si besoin en attendant le tram

@@ -21,7 +21,7 @@ Guidelime.registerGuide([==[
 [A Warrior][G 69.3,79 Elwynn Forest]Tuer *Princesse*. La fouiller pour son *Collier* \\ *Princesse* vous aggro avec ses deux *Entourage porcin* \\ *Princesse* lance aussi *Charge précipitée* qui inflige de lourds dégâts \\ Accumuler 100 de rage avant d'attaquer *Princesse* \\ Se préparer à utiliser *Potion de soins inférieure* \\ [QC88,1 Princesse doit mourir !]
 [A Paladin,Priest,Shaman,Mage,Warlock,Druid][G 69.3,79 Elwynn Forest]Tuer *Princesse*. La fouiller pour son *Collier* \\ *Princesse* vous aggro avec ses deux *Entourage porcin* \\ *Princesse* lance aussi *Charge précipitée* qui inflige de lourds dégâts \\ Se préparer à utiliser *Potion de soins inférieure* \\ Vidéo de référence : https://www.youtube.com/watch?v=GRrXOV-UvD4 \\ [QC88,1 Princesse doit mourir !]
 [A Rogue][G 69.3,79 Elwynn Forest]Tuer *Princesse*. La fouiller pour son *Collier* \\ *Princesse* vous aggro avec ses deux *Entourage porcin* \\ *Princesse* lance aussi *Charge précipitée* qui inflige de lourds dégâts \\ S'assurer que *Évasion* est prêt. Si vous avez du mal, utilisez la barrière avec les armes de jet pour exploiter le pathing et gagner du temps \\ Se préparer à utiliser *Potion de soins inférieure* \\ Vidéo de référence : https://www.youtube.com/watch?v=GRrXOV-UvD4 \\ [QC88,1 Princesse doit mourir !]
-[A Warlock][O][L 71.1,80.66 Elwynn Forest]Tuer *Morgan le collecteur* et fouiller *Anneau du collecteur*. Lancer *Peur* sur Morgan pour le contrôler. \\ [QC147,1 Chasse à l'homme]
+[A Warlock][O][L 71.1,80.66 Elwynn Forest]Only if you already turned in *The Collector* and are on *Manhunt*: kill *Morgan the Collector* and loot *The Collector's Ring*. Cast *Fear* on Morgan to control him. \\ [QC147,1 Chasse à l'homme]
 [A Warlock][G 71.1,80.66 Elwynn Forest]Tuer *Surena Caledon*. La fouiller pour son *Choker* \\ Concentrez-vous sur les *Surena Caledon* et tuez-les très vite \\ Lancer *Peur* sur *Morgan le collecteur* en continu \\ [QC1688,1 Surena Caledon]
 [OC][G 73.97,72.18,30 Elwynn Forest]Aller vers l'est jusqu'à *Garde Thomas*
 [G 73.97,72.18 Elwynn Forest]Parler à *Garde Thomas* \\ Rendre [QT35 Inquiétudes supplémentaires] \\ Accepter [QA37 Trouver les gardes disparus] \\ Accepter [QA52 Protéger la frontière]
@@ -65,10 +65,10 @@ Guidelime.registerGuide([==[
 [A Warlock][G 39.22,85.25 Stormwind City]Parler à *Gakin le Tisse-noir* \\ Rendre [QT1689 Le lien]
 [A Warlock][A Softcore][OC]Raccourci facultatif de Comté-de-l'Or : mourir et réapparaissez auprès du Gardien des esprits en utilisant *Connexion vitale* et en vous tenant sur le feu de camp à côté[TAR6491-]
 [OC][G 42.11,65.93 Elwynn Forest]Sortir de Hurlevent. Se rendre à Comté-de-l'Or
-[A Warlock][O][L 42.11,65.93 Elwynn Forest]Parler à *Maréchal Dughan* \\ Rendre [QT147 Chasse à l'homme]
 [G 42.11,65.93 Elwynn Forest]Parler à *Maréchal Dughan* \\ Rendre [QT39 Remettre le rapport de Thomas]
 [A Warlock][O]Parler à *Maréchal Dughan* \\ Rendre [QT176 On recherche : « Lardeur »]
 [A Warlock][O]Parler à *Maréchal Dughan* \\ Rendre [QT123 Le collecteur]
+[A Warlock][O]Only if you already turned in *The Collector* and are on *Manhunt*: talk to *Marshal Dughan* \\ Rendre [QT147 Chasse à l'homme]
 [A Warrior][OC][L 41.09,65.77 Elwynn Forest]Parler à *Lyria Du Lac* \\ [T]Apprendre vos sorts de classe \\ (à partir du niveau 12)[TAR913-]
 [A Paladin][OC][L 41.1,66.04 Elwynn Forest]Parler à *Frère Wilhelm* \\ [T]Apprendre vos sorts de classe \\ (à partir du niveau 12)[TAR927-]
 [A Rogue,Priest,Mage][OC][L 43.88,66.55 Elwynn Forest]Monter à l'étage de l'auberge \\ (à partir du niveau 12)

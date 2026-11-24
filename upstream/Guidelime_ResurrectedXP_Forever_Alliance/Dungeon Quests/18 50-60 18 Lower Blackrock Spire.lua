@@ -2,9 +2,9 @@ Guidelime.registerGuide([==[
 [N 55-60 18 Lower Blackrock Spire][GL OFF]
 [D RestedXP Forever dungeon quest guides: pick up and complete all quests for one dungeon. Converted from the RestedXP guide for Guidelime. Start at level 55 or higher for all required pickups.]
 [GA Alliance]
-[OC]Start looking for a group for LBRS as you acquire all of the quests
 [OC]Travel to Tanaris
-[G 66.88,24.03 Tanaris]Talk to *Prospector Ironboot* \\ Accept [QA4788 The Final Tablets]
+[O][L 66.88,24.03 Tanaris]Talk to *Prospector Ironboot* \\ Accept [QA4788 The Final Tablets] \\ (Requires *The Lost Tablets of Mosh'aru* completed)
+[OC]Start looking for a group for LBRS as you acquire all of the quests
 [OC]Travel to Burning Steppes
 [G 85.82,68.95 Burning Steppes]Talk to *Helendis Riverhorn* \\ Accept [QA4701 Put Her Down]
 [G 65.8,22 Burning Steppes]Talk to *Kibler* \\ Accept [QA4862 En-Ay-Es-Tee-Why] \\ Accept [QA4729 Kibler's Exotic Pets]

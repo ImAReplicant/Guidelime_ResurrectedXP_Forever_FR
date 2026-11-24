@@ -21,7 +21,7 @@ Finish this before you go on \\ AoE gnolls. Loot them for Shadowhide Pendants \\
 [G 73.87,44.4 Duskwood]Set your hearth to [S Darkshire]
 [G 72.53,46.85 Duskwood]Talk to *Clerk Daltry* \\ Turn in [QT66 The Legend of Stalvan] \\ Accept [QA67 The Legend of Stalvan]
 [G 49.86,77.72 Duskwood]Run to the Defias Farm. Click the dirt mound \\ Be careful as there are stealthed mobs around that slow, and mobs can run easily through the wall into the barn and awkwardly pull mobs \\ Turn in [QT95 Sven's Revenge] \\ Accept [QA230 Sven's Camp]
-[G 45.12,67.03 Duskwood]If Stitches has killed the questgiver, skip this and turn in some other time \\ Talk to *Watcher Dodds* \\ Turn in [QT245 Eight-Legged Menaces]
+[OC][G 45.12,67.03 Duskwood]If Stitches has killed the questgiver, skip this and turn in some other time \\ Talk to *Watcher Dodds* \\ Turn in [QT245 Eight-Legged Menaces]
 [A Human,NightElf,Dwarf,Gnome,Skyborne][G 31.7,41.98 Duskwood]AoE spiders for Vials of Spider Venom en route to Abercrombie. \\ [QC101,2 The Totem of Infliction]
 [A Human,NightElf,Dwarf,Gnome,Skyborne][G 31.7,41.98 Duskwood]AoE spiders for Pristine Spider Silk. \\ [QC1940,1 Pristine Spider Silk]
 [G 28.11,31.46 Duskwood]Talk to *Abercrombie* \\ Turn in [QT157 Deliver the Thread] \\ Accept [QA158 Zombie Juice]
@@ -59,7 +59,7 @@ Hearth to [H Darkshire] \\ Buy food/water if needed
 [G 48.2,87.21 Stormwind City][T]Train your class spells
 [A Human,NightElf,Dwarf,Gnome,Skyborne][G 51.83,83.49 Stormwind City]Go through the green portal. Run into the clothes shop. Turn in \\ Wait out the RP event then turn in again. Choose the Blouse \\ Talk to *Wynne Larson* \\ Turn in [QT1940 Pristine Spider Silk] \\ Turn in [QA1942-][QT1942 Astral Knot Garment]
 [G 42.53,72.36 Stormwind City][G 42.47,72.06 Stormwind City]Talk to *Caretaker Folsom* \\ Turn in [QT70 The Legend of Stalvan] \\ Accept [QA72 The Legend of Stalvan] \\ Click the *Sealed Crate* \\ Turn in [QT72 The Legend of Stalvan] \\ Accept [QA74 The Legend of Stalvan]
-[O]Talk to *Thomas*, the child who patrols around the Cathedral \\ Accept [QA1274 The Missing Diplomat]
+[G 49.64,44.47 Stormwind City]Talk to *Thomas*, the child who patrols around the Cathedral \\ Accept [QA1274 The Missing Diplomat]
 [G 52.65,50.43,30 Stormwind City][G 49.94,46 Stormwind City]Go into Stormwind Cathedral \\ Talk to *Bishop Farthing* \\ Turn in [QT269 Seeking Wisdom] \\ Accept [QA270 The Doomed Fleet]
 [G 73.44,46.21,30 Stormwind City][G 80.24,44.08 Stormwind City]Go into Stormwind Keep \\ Talk to *Bishop DeLavey* \\ Turn in [QT1274 The Missing Diplomat] \\ Accept [QA1241 The Missing Diplomat]
 [OC][L 77.08,30.19 Stormwind City]Talk to *Milton Sheaf* in the library and accept [QA538 Southshore].

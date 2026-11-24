@@ -6,7 +6,8 @@ Guidelime.registerGuide([==[
 [NX 19-21 Darkshore/Ashenvale]
 [G 37.21,44.22 Darkshore]Click the *Wanted Poster* \\ Accept [QA4740 WANTED: Murkdeep!]
 [A NightElf][G 37.44,41.84 Darkshore]Talk to *Archaeologist Hollee* \\ Turn in [QT730 Trouble In Darkshore?] \\ Accept [QA729 The Absent Minded Prospector]
-[G 37.39,40.13 Darkshore]Talk to *Thundris Windweaver* \\ Turn in [QT4762 The Cliffspring River] \\ Turn in [QT97926 Making Do] \\ Accept [QA4763 The Blackwood Corrupted]
+[A NightElf][G 37.39,40.13 Darkshore]Talk to *Thundris Windweaver* \\ Turn in [QT4762 The Cliffspring River] \\ Turn in [QT97926 Making Do] \\ Accept [QA4763 The Blackwood Corrupted]
+[A !NightElf][G 37.39,40.13 Darkshore]Talk to *Thundris Windweaver* \\ Turn in [QT4762 The Cliffspring River] \\ Accept [QA4763 The Blackwood Corrupted]
 [OC][L 37.78,44.06 Darkshore]Use the *Empty Cleansing Bowl* at the *Auberdine Moonwell* \\ Collect [CI12347,1][UI12346-]
 [OC][G 42.02,58.87,50 Darkshore][G 43.22,59.69,50 Darkshore][G 43.07,62.45,50 Darkshore][G 42.49,60.68,50 Darkshore]Follow the waypoints to the area where Anaya patrols.
 [L 42.49,60.68 Darkshore]Kill *Anaya Dawnrunner*. Loot her for her *Pendant* \\ [QC963,1 For Love Eternal]

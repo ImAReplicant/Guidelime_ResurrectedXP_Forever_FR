@@ -60,9 +60,9 @@ Guidelime.registerGuide([==[
 [A Warlock][OR][O][L 39.45,84.55 Felwood]Kill *Jadefire Satyrs* and *Jadefire Felsworns*. Loot them for a Felcloth \\ Collect [QC8419-][QC8420-][CI14256,1] Tick this reminder if you are leaving Felwood without the class quest.
 [OC]Open the *Package of Empty Ooze Containers* \\ Collect [CI11914,6] \\ Collect [CI11948,6][UI11912-]
 [G 40.77,66.86 Felwood]Kill *Cursed Oozes* \\ Use the *Empty Cursed Ooze Jars* on their corpses \\ [QC4512,1 A Little Slime Goes a Long Way][UI11912-][UI11914-]
-[A Warlock][O][L 41.52,44.99 Felwood]After delivering the Felcloth to *Impsy*, accept [QA8421 The Wrong Stuff]. Tick this step if you are skipping the follow-up.
 [A Warlock][A IT14256][O][L 41.52,44.99 Felwood]Bring the *Felcloth* to *Impsy* to turn in [QT8419 An Imp's Request].
 [A Warlock][A IT14256][O][L 41.52,44.99 Felwood]If you took the quest directly from *Impsy*, bring him the *Felcloth* to turn in [QT8420 Hot and Itchy].
+[A Warlock][O][L 41.52,44.99 Felwood]After delivering the Felcloth to *Impsy*, accept [QA8421 The Wrong Stuff]. Tick this step if you are skipping the follow-up.
 [A Warlock][O][L 40.48,59.07 Felwood][L 39.98,54.76 Felwood]While *The Wrong Stuff* is in your log, loot *Bloodvenom Essences* from *Tainted Oozes* as you travel through Felwood \\ [QC8421,2 The Wrong Stuff]
 [A IT11948][OC][L 40.48,59.07 Felwood][L 39.98,54.76 Felwood]If you pass *Tainted Oozes* on the way to Jaedenar, fill empty jars on their corpses[UI11948-]
 [G 36.49,61.4,60 Felwood]Kill *Jaedenar Hounds*, *Jaedenar Guardians*, *Jaedenar Adepts* and *Jaedenar Cultists* \\ [QC5155,1 Forces of Jaedenar] \\ [QC5155,2 Forces of Jaedenar] \\ [QC5155,3 Forces of Jaedenar] \\ [QC5155,4 Forces of Jaedenar]

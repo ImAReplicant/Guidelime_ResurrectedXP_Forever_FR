@@ -1,7 +1,7 @@
 ## Interface: 16001
 ## Title: Guidelime |cff2a9df4ResurrectedXP Forever|r (Alliance)
 ## Author: RestedXP (route), converted for Guidelime
-## Version: 1.7.6
+## Version: 1.8.0
 ## Dependencies: Guidelime, Questie, QuestieDB
 ## Notes: RestedXP Forever leveling guides (Alliance) for Guidelime on WoW: Forever
 

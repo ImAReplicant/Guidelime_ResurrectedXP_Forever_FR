@@ -88,7 +88,8 @@ Guidelime.registerGuide([==[
 [A Warrior,Paladin,Hunter,Rogue,Shaman,Druid][OC][G 30.45,46 Dun Morogh]Talk to *Keeg Gibn* \\ [V]Vendor trash[TAR1697-]
 [A Priest,Mage,Warlock][OC][L 30.45,46 Dun Morogh]Talk to *Keeg Gibn* \\ Buy up to 20 *Ice Cold Milk* from him \\ Collect [CI1179,20][TAR1697-]
 [G 30.19,45.73 Dun Morogh][G 30.19,45.53 Dun Morogh]Talk to *Rejold Barleybrew* and *Marleth Barleybrew* \\ Turn in [QT318 Evershine] \\ Accept [QA319 A Favor for Evershine] \\ Accept [QA315 The Perfect Stout] \\ Accept [QA310 Bitter Rivals]
-[OC][L 31.21,39.19 Dun Morogh]Kill *Elder Crag Boars*. Loot them for their *Crag Boar Ribs* \\ Kill *Ice Claw Bears* and *Snow Leopards* \\ [QC319,2 A Favor for Evershine] \\ Collect [CI2886,6] \\ [QC319,1 A Favor for Evershine] \\ [QC319,3 A Favor for Evershine]
+[G 31.21,39.19 Dun Morogh]Kill *Elder Crag Boars*, *Ice Claw Bears*, and *Snow Leopards*. Loot *Crag Boar Ribs* if you still need them for *Beer Basted Boar Ribs* \\ [QC319,2 A Favor for Evershine] \\ [QC319,1 A Favor for Evershine] \\ [QC319,3 A Favor for Evershine]
+[G 31.21,39.19 Dun Morogh]Finish collecting *Crag Boar Ribs* from *Elder Crag Boars* \\ [QC384,1 Beer Basted Boar Ribs]
 [G 30.19,45.73 Dun Morogh]Talk to *Rejold Barleybrew* \\ Turn in [QT319 A Favor for Evershine] \\ Accept [QA320 Return to Bellowfiz]
 [O]Kill *Frostmane Headhunters* inside the cave \\ [QC287,1 Frostmane Hold]
 [OC][L 24.68,50.84 Dun Morogh]Run up the side of the cave entrance. Jump down into Frostmane Hold
@@ -97,7 +98,8 @@ Guidelime.registerGuide([==[
 [A Hardcore][OC][G 47.38,52.52 Dun Morogh]Return to Kharanos
 [A Softcore][OC]Die and respawn at the *Spirit Healer*[TAR6491-]
 [G 46.77,53.81 Dun Morogh]Talk to *Senir Whitebeard* \\ Turn in [QT98323 Secure the Mountain] \\ Turn in [QT287 Frostmane Hold]
-[OC][L 47.38,52.52 Dun Morogh]Talk to *Innkeeper Belm* inside \\ Buy a *Rhapsody Malt* and a *Thunder Ale* from him \\ [QC384,2 Beer Basted Boar Ribs] \\ Collect [CI2686,1]
+[G 47.38,52.52 Dun Morogh]Talk to *Innkeeper Belm* inside \\ Buy a *Rhapsody Malt* from him (and a *Thunder Ale* if you are turning in *Bitter Rivals*) \\ [QC384,2 Beer Basted Boar Ribs]
+[OC][L 47.38,52.52 Dun Morogh]Talk to *Innkeeper Belm* inside \\ Buy a *Thunder Ale* from him \\ Collect [CI2686,1]
 [OC][L 47.64,52.65 Dun Morogh]Talk to *Jarven Thunderbrew* downstairs \\ Turn in *Distracting Jarven*[TAR1373-]
 [G 47.72,52.7 Dun Morogh]Click the *Unguarded Thunder Ale Barrel* \\ Turn in [QT310 Bitter Rivals] \\ Accept [QA311 Return to Marleth]
 [A Priest][G 47.34,52.19 Dun Morogh]Talk to *Maxan Anvol* inside \\ [T]Train your class spells
@@ -182,7 +184,7 @@ Guidelime.registerGuide([==[
 [A Warrior,Paladin,Rogue,Priest,Shaman,Mage,Warlock,Druid][G 68.67,55.97 Dun Morogh][G 69.08,56.33 Dun Morogh]Talk to *Senator Mehr Stonehallow* and *Foreman Stonebrow* \\ Accept [QA433 The Public Servant] \\ Accept [QA432 Those Blasted Troggs!]
 [A Hunter][G 68.67,55.97 Dun Morogh]Talk to *Senator Mehr Stonehallow* \\ Accept [QA433 The Public Servant]
 [O]Loot the *Rockjaw Skullthumpers* and *Rockjaw Bonesnappers* for the *Empty Powder Keg* \\ Use the *Empty Powder Keg* to start the quest \\ NOTE: This item has a low drop rate. Skip this step if you do not find it \\ Accept [QA95213 Stolen Blasting Powder][UI268548-]
-[O][G 70.07,57.03,45 Dun Morogh]Kill *Rockjaw Skullthumpers* in or outside the mine \\ [QC432,1 Those Blasted Troggs!]
+[G 70.07,57.03,45 Dun Morogh]Kill *Rockjaw Skullthumpers* in or outside the mine \\ [QC432,1 Those Blasted Troggs!]
 [OC][L 70.75,56.22 Dun Morogh]Enter the Gol'Bolar Quarry Mine
 [G 70.75,56.22,30 Dun Morogh]Kill *Rockjaw Bonesnappers* inside the mine \\ [QC433,1 The Public Servant]
 [A Warrior,Paladin,Rogue,Priest,Shaman,Mage,Warlock,Druid][G 68.67,55.97 Dun Morogh][G 69.08,56.33 Dun Morogh]Talk to *Senator Mehr Stonehallow* and *Foreman Stonebrow* \\ Turn in [QT433 The Public Servant] \\ Turn in [QT432 Those Blasted Troggs!]

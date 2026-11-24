@@ -23,6 +23,7 @@ Guidelime.registerGuide([==[
 [G 49.5,40.7 Elwynn Forest]Parler à *Daniel* \\ Rendre [QT92124 Inventaire des livres]
 [G 49.6,40.41 Elwynn Forest]Parler à *Frère Paxton* \\ Accepter [QA91743 Rongeurs retors]
 [G 47.6,36.72,45 Elwynn Forest]Tuer *Vermines kobolds*. Les fouiller pour leurs *Livres dérobés* \\ Ne pas faire de détour pour fouiller tous les *Livres dérobés* maintenant \\ [QC7,1 Nettoyer le camp des kobolds]
+[G 49.05,38.27,45 Elwynn Forest]Finish killing *Young Wolves* and *Timber Wolves* for their *Tough Wolf Meat* \\ [QC33,1 Les loups derrière la frontière]
 [A Warrior,Paladin,Hunter,Rogue][G 48.94,40.17 Elwynn Forest]Parler à *Eagan Tannepeau* \\ Rendre [QT33 Les loups derrière la frontière] (choisir la récompense 2)
 [A Priest,Shaman,Mage,Warlock,Druid][G 48.94,40.17 Elwynn Forest]Parler à *Eagan Tannepeau* \\ Rendre [QT33 Les loups derrière la frontière] (choisir la récompense 1)
 [A Priest,Mage][G 47.49,41.57 Elwynn Forest]Parler à *Frère Danil* \\ Vendre les objets inutiles \\ Acheter 10 *Eau de source* de plus chez lui \\ Garder au moins 10 pièces de cuivre pour plus tard \\ Récupérer [CI159,10][TAR152-]
@@ -58,14 +59,19 @@ Guidelime.registerGuide([==[
 [OC][L 49.6,40.41 Elwynn Forest]Parler à *Frère Paxton* \\ Rendre [QT91743 Rongeurs retors] \\ Accepter [QA91745 Consultant en minage]
 [A Mage][OC][G 48.79,41.58,12 Elwynn Forest][G 49.26,40.63,12 Elwynn Forest][G 49.51,40.1,6 Elwynn Forest][G 49.69,40.23,6 Elwynn Forest][G 49.59,40.67,6 Elwynn Forest][G 49.32,40.49,6 Elwynn Forest][G 49.44,39.88,10 Elwynn Forest]Suivre les points de passage lime dans l'ordre
 [A Mage][OC][G 49.66,39.4,12 Elwynn Forest]Se diriger vers *Khelden Bremen* à l'étage
-[A Mage][G 49.66,39.4 Elwynn Forest]Parler à *Khelden Bremen* à l'intérieur, à l'étage \\ Rendre [QT3104 Lettre glyphée] \\ Apprendre vos sorts de classe
-[A Priest][G 49.81,39.49 Elwynn Forest]Parler à *Prêtresse Anetta* à l'intérieur, en bas \\ Rendre [QT3103 Lettre bénie] \\ Apprendre vos sorts de classe
+[A Human,Mage][G 49.66,39.4 Elwynn Forest]Parler à *Khelden Bremen* à l'intérieur, à l'étage \\ Rendre [QT3104 Lettre glyphée] \\ Apprendre vos sorts de classe
+[A !Human,Mage][G 49.66,39.4 Elwynn Forest]Parler à *Khelden Bremen* à l'intérieur, à l'étage \\ [T]Apprendre vos sorts de classe
+[A Human,Priest][G 49.81,39.49 Elwynn Forest]Parler à *Prêtresse Anetta* à l'intérieur, en bas \\ Rendre [QT3103 Lettre bénie] \\ Apprendre vos sorts de classe
+[A !Human,Priest][G 49.81,39.49 Elwynn Forest]Parler à *Prêtresse Anetta* à l'intérieur, en bas \\ [T]Apprendre vos sorts de classe
 [A Warrior][OC][G 49.6,41.8,15 Elwynn Forest]Se diriger vers *Llane Beshere* à l'intérieur, en bas
 [A Paladin][OC][G 49.6,41.8,15 Elwynn Forest]Se diriger vers *Frère Sammuel* à l'intérieur, en bas
-[A Warrior][G 50.24,42.29 Elwynn Forest]Parler à *Llane Beshere* à l'intérieur, en bas \\ Rendre [QT3100 Lettre simple] \\ Apprendre vos sorts de classe
-[A Paladin][G 50.43,42.12 Elwynn Forest]Parler à *Frère Sammuel* \\ Rendre [QT3101 Lettre consacrée] \\ Apprendre vos sorts de classe
+[A Human,Warrior][G 50.24,42.29 Elwynn Forest]Parler à *Llane Beshere* à l'intérieur, en bas \\ Rendre [QT3100 Lettre simple] \\ Apprendre vos sorts de classe
+[A !Human,Warrior][G 50.24,42.29 Elwynn Forest]Parler à *Llane Beshere* à l'intérieur, en bas \\ [T]Apprendre vos sorts de classe
+[A Human,Paladin][G 50.43,42.12 Elwynn Forest]Parler à *Frère Sammuel* \\ Rendre [QT3101 Lettre consacrée] \\ Apprendre vos sorts de classe
+[A !Human,Paladin][G 50.43,42.12 Elwynn Forest]Parler à *Frère Sammuel* \\ [T]Apprendre vos sorts de classe
 [A Warrior,Paladin,Hunter,Rogue,Priest,Shaman,Mage,Druid][G 48.17,42.94 Elwynn Forest]Parler à *Adjoint Willem* dehors \\ Accepter [QA18 La confrérie des voleurs]
-[A Hunter][G 51.21,40.81 Elwynn Forest]Parler à *Tordrin Durelame* \\ Rendre [QT92479 Une lettre écrite à la hâte] \\ Apprendre vos sorts de classe
+[A Human,Hunter][G 51.21,40.81 Elwynn Forest]Parler à *Tordrin Durelame* \\ Rendre [QT92479 Une lettre écrite à la hâte] \\ Apprendre vos sorts de classe
+[A !Human,Hunter][G 51.21,40.81 Elwynn Forest]Parler à *Tordrin Durelame* \\ [T]Apprendre vos sorts de classe
 [A Warlock][G 49.87,42.65 Elwynn Forest]Parler à *Drusilla La Salle* \\ [T]Apprendre *Corruption*[TAR459-]
 [G 52.55,48.79,30 Elwynn Forest]Tuer *Nervis défias*. Les fouiller pour leurs *Masques rouges* \\ [QC18,1 La confrérie des voleurs]
 [A Rogue][G 52.55,48.79,30 Elwynn Forest][XP4 Farmer jusqu'au niveau 4]
@@ -87,7 +93,8 @@ Guidelime.registerGuide([==[
 [OC][L 49.21,28 Elwynn Forest]Tuer *Trouve-qui-brille Narf*. Le fouiller pour *Sac de livres « d'images »* \\ [QC91752,1 Un peu de recul]
 [A Warrior,Paladin,Hunter,Rogue,Shaman,Warlock,Druid][G 50.69,39.35 Elwynn Forest]Parler à *Milly Osworth* \\ Passer la suite \\ Rendre [QT3903 Milly Osworth]
 [A Priest,Mage][G 50.69,39.35 Elwynn Forest]Parler à *Milly Osworth* \\ Rendre [QT3903 Milly Osworth] \\ Accepter [QA3904 Les vendanges de Milly]
-[A Rogue][G 50.31,39.92 Elwynn Forest]Parler à *Jorik Kerridan* \\ Rendre [QT3102 Lettre codée] \\ Apprendre *Camouflage* \\ Apprendre *Vol à la tire*
+[A Human,Rogue][G 50.31,39.92 Elwynn Forest]Parler à *Jorik Kerridan* \\ Rendre [QT3102 Lettre codée] \\ Apprendre *Camouflage* \\ Apprendre *Vol à la tire*
+[A !Human,Rogue][G 50.31,39.92 Elwynn Forest]Parler à *Jorik Kerridan* \\ [T]Apprendre *Camouflage* \\ Apprendre *Vol à la tire*
 [A Priest,Mage][G 52.55,48.79,30 Elwynn Forest]Fouiller *Récolte de Milly* au sol \\ [QC3904,1 Les vendanges de Milly]
 [G 57.52,48.25 Elwynn Forest]Tuer *Garrick Ladétrousse*. Le fouiller pour sa *Tête* \\ [QC6,1 La prime pour Garrick Padfoot]
 [G 52.55,48.79,30 Elwynn Forest][XP5 Farmer jusqu'au niveau 5]

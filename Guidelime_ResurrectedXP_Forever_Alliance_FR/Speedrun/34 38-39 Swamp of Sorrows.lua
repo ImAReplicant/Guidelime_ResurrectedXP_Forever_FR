@@ -68,5 +68,5 @@ Guidelime.registerGuide([==[
 [OC]Retourner à l'auberge [H Booty Bay] \\ (uniquement si De la Poussière de rêve dans les marécages est terminée)
 [OC][L 26.94,77.21 Stranglethorn Vale]Parler à *Krazek* à l'étage \\ Rendre [QT1116 De la Poussière de rêve dans les marécages]
 [OC][L 26.94,77.21 Stranglethorn Vale]Attendre la fin du roleplay \\ Parler à *Krazek* \\ Accepter [QA1117 Des rumeurs pour Kravel]
-[OC][L 27.53,77.79 Stranglethorn Vale]Parler à *Gyll* \\ Prendre le vol vers Riverglades [F]Farholde \\ (ignorer si vous êtes déjà à Riverglades)[TAR2859-]
+[OC][L 27.53,77.79 Stranglethorn Vale]Parler à *Gyll* \\ Prendre le vol vers Riverglades [F]Farholde Keep \\ (ignorer si vous êtes déjà à Riverglades)[TAR2859-]
 ]==], "RestedXP Forever Speedrun (A) FR")

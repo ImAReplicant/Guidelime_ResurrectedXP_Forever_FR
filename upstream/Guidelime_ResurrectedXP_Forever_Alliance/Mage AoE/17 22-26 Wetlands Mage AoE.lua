@@ -60,6 +60,7 @@ Hearth to [H Menethil Harbor] \\ Buy food/water if needed
 [G 38.18,50.89 Wetlands]Kite Sarltooth all the way back to Ormer without killing him until you pick up the next quest if you can, otherwise just turn in \\ Talk to *Ormer Ironbraid* \\ Turn in [QT295 Ormer's Revenge] \\ Accept [QA296 Ormer's Revenge]
 [G 33.11,51.4 Wetlands]Kill Sarltooth. Loot him for his Talon. He's found on the south-eastern part of the site, up the mountain \\ [QC296,1 Ormer's Revenge]
 [G 38.18,50.89 Wetlands]Talk to *Ormer Ironbraid* \\ Turn in [QT296 Ormer's Revenge]
+Finish this before you go on \\ Loot the relics found within the Excavation Site. They can be found all over (even up to where Sarltooth is) \\ [QC299,1 Uncovering the Past] \\ [QC299,2 Uncovering the Past] \\ [QC299,3 Uncovering the Past] \\ [QC299,4 Uncovering the Past]
 [G 38.81,52.39 Wetlands]Go into the cave \\ Talk to *Prospector Whelgar* \\ Turn in [QT299 Uncovering the Past]
 [G 44.07,26.67 Wetlands]Run out of the Site to Ironbeard's Tomb. AoE Oozes. Loot them for Sida's Bag \\ [QC470,1 Digging Through the Ooze]
 Finish this before you go on \\ Kill the stealthed Fen Creepers found in the shallow parts of the inland water \\ [QC275,1 Blisters on The Land]

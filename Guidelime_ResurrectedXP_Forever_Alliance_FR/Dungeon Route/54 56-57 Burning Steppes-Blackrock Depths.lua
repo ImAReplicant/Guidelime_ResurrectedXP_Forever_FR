@@ -16,9 +16,9 @@ Guidelime.registerGuide([==[
 [A Rogue][G 51.49,15.33 Ironforge]Parler à *Phenwick* \\ [T]Apprendre vos sorts de classe[TAR5167-]
 [A Warlock][G 51.1,8.7,15 Ironforge][G 50.34,5.66 Ironforge]Parler à *Eglantin* \\ [T]Apprendre vos sorts de classe[TAR5172-]
 [A Warlock][G 53.2,7.8,15 Ironforge][G 52.7,6.07 Ironforge]Parler à *Jubahl Cherchecadavre* \\ [V]Acheter *Grimoires* pour vos familiers[TAR6382-]
-[O][L 75.77,23.39 Ironforge]Si vous avez déjà récolté les échantillons d'Un'Goro, parlez à *Laris Bringuefourbi*. Rendre [QT4513 Un grand périple pour une petite gelée]. Cocher cette étape pour reporter le rendu.
-[A Mage][O][L 75.77,23.39 Ironforge]Parler à *Laris Bringuefourbi*. Accepter [QA4513 Un grand périple pour une petite gelée]. Cocher cette étape si vous passez les échantillons d'Un'Goro.
 [O][L 75.77,23.39 Ironforge]Parler à *Laris Bringuefourbi*. Rendre [QT4512 Un grand périple pour une petite gelée]. Cocher cette étape si vous reportez le rendu.
+[A Mage][O][L 75.77,23.39 Ironforge]Parler à *Laris Bringuefourbi*. Accepter [QA4513 Un grand périple pour une petite gelée]. Cocher cette étape si vous passez les échantillons d'Un'Goro.
+[A IT11954>9][O][L 75.77,23.39 Ironforge]Si vous avez déjà récolté les échantillons d'Un'Goro, parlez à *Laris Bringuefourbi*. Rendre [QT4513 Un grand périple pour une petite gelée]. Cocher cette étape pour reporter le rendu.
 [OC][L 71.83,16.12 Ironforge]Parler à *Conservateur en chef Thorius* \\ *Conservateur en chef Thorius* patrouille dans la salle des Explorateurs \\ N'acceptez cette quête que si vous pouvez trouver des membres de groupe pour les quêtes élites des Gorges des Sillons de feu bientôt \\ Accepter [QA3371 La justice des nains]
 [A Warrior][G 65.9,88.41 Ironforge]Parler à *Bilban Cléamornifles* \\ [T]Apprendre vos sorts de classe[TAR5114-]
 [A Hunter][G 69.87,82.89 Ironforge]Parler à *Regnus Tonnegranit* \\ [T]Apprendre vos sorts de classe[TAR5117-]

@@ -8,16 +8,37 @@ ou textes absents des bases frFR de Guidelime. Pour les traduire, ajouter une en
 
 | Element | Distincts | Traduits | Reste | Occurrences restantes |
 |---|---|---|---|---|
-| Clauses | 4114 | 4114 | 0 | 0 / 37963 (0.0%) |
-| Noms | 3846 | 3567 | 279 | 944 / 24010 (3.9%) |
-| Titres de quetes | 1374 | 1374 | 0 | 0 / 13623 (0.0%) |
+| Clauses | 4123 | 4102 | 21 | 42 / 37983 (0.1%) |
+| Noms | 3851 | 3572 | 279 | 948 / 24045 (3.9%) |
+| Titres de quetes | 1373 | 1373 | 0 | 0 / 13633 (0.0%) |
 | Titres de quetes cites dans la prose | 221 | 221 | 0 | 0 / 762 (0.0%) |
 
 ## Titres de guides (0)
 
 
-## Clauses restees en anglais (0)
+## Clauses restees en anglais (21)
 
+- `If you defeated Blademaster Kaijo, talk to {N}.` (4)
+- `If you defeated Komuk, talk to {N}.` (4)
+- `Farholde Keep` (3)
+- `(Only if you turned in An Old History Book)` (2)
+- `, then talk to {N} to turn in` (2)
+- `Buy a {N} from him (and a {N} if you are turning in {N})` (2)
+- `Finish collecting {N} from {N}` (2)
+- `Finish gathering any remaining ingredients for {N} and {N}` (2)
+- `Finish killing {N} and {N} for their {N}` (2)
+- `Finish killing {N} and {N} in and around Fargodeep Mine for their {N} and {N}` (2)
+- `Go downstairs in The Slaughtered Lamb and talk to {N} and {N}` (2)
+- `If Guidelime brings back the earlier line that accepts {N} once you abandon it: tick that line off` (2)
+- `If you brought {N}, talk to {N} upstairs.` (2)
+- `Kill {N}, {N}, and {N}. Loot {N} if you still need them for {N}` (2)
+- `Only if you already turned in {N} and are on {N}: kill {N} and loot {N}. Cast {N} on Morgan to control him.` (2)
+- `Only if you already turned in {N} and are on {N}: talk to {N}` (2)
+- `(Shattered Necklace follow-up 1/3 — activates after using the {N} below)` (1)
+- `(Shattered Necklace follow-up 2/3 — activates after turning in {N})` (1)
+- `(Shattered Necklace follow-up 3/3 — activates after accepting {N})` (1)
+- `Go down the spiral stairs beneath the Thandol Span and click {N}. Ensure you are on full HP and avoid or crowd-control the two elite {N} (skip this step if you do not want to continue the Thandol Span chain)` (1)
+- `If you took {N}, return to {N} within 12 minutes. If the timer expired, abandon the failed quest and continue to Thelsamar.` (1)
 
 ## Noms restes en anglais (279)
 
@@ -57,6 +78,7 @@ ou textes absents des bases frFR de Guidelime. Pour les traduire, ajouter une en
 - `Whelps` (6)
 - `Wings` (6)
 - `Wrathtail Nagas` (6)
+- `Young Wolves` (6)
 - `Zimmix Sputterspark` (6)
 - `Alliance Soldiers` (5)
 - `Grain Sacks` (5)
@@ -124,6 +146,7 @@ ou textes absents des bases frFR de Guidelime. Pour les traduire, ajouter une en
 - `Syndicate Thieves` (4)
 - `The Story of Morgan Ladimore` (4)
 - `The Wanted Poster` (4)
+- `Timber Wolves` (4)
 - `Treasure` (4)
 - `Trelane's Wand` (4)
 - `Tribal Necklaces` (4)
@@ -135,7 +158,6 @@ ou textes absents des bases frFR de Guidelime. Pour les traduire, ajouter une en
 - `Venom Sacs` (4)
 - `Worm Meat` (4)
 - `Wreckage` (4)
-- `Young Wolves` (4)
 - `Zanzils` (4)
 - `patrols` (4)
 - `Axes` (3)
@@ -246,7 +268,6 @@ ou textes absents des bases frFR de Guidelime. Pour les traduire, ajouter une en
 - `Tenaron` (2)
 - `Threshwackonator 4100` (2)
 - `Tigresses` (2)
-- `Timber Wolves` (2)
 - `Tomes` (2)
 - `Tough Jerky` (2)
 - `Venture Co. Foremen` (2)

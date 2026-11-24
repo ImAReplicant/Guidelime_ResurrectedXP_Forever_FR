@@ -57,10 +57,13 @@ Guidelime.registerGuide([==[
 [OC][L 46.83,52.36 Dun Morogh]Talk to *Ragnar* \\ Turn in [QT384 Beer Basted Boar Ribs]
 [OC][L 47.38,52.52 Dun Morogh]Talk to *Belm* \\ Buy up to 20 *Ice Cold Milk*, as many as you can afford. \\ Collect [CI1179,20] \\ Tick this step if you buy fewer or skip the purchase.[TAR1247-]
 [A IT1179<1][OC][L 47.38,52.52 Dun Morogh]Talk to *Belm* \\ Buy up to 20 *Refreshing Spring Water*, as many as you can afford. \\ Collect [CI159,20] \\ Tick this step if you buy fewer or skip the purchase.[TAR1247-]
-[G 46.73,53.83 Dun Morogh]Talk to *Senir* \\ Turn in [QT420 Senir's Observations]
+[G 46.73,53.83 Dun Morogh]Talk to *Senir* \\ Turn in [QT420 Senir's Observations] \\ Accept [QA98322 Secure the Mountain]
 [A IT7005][OC]Equip the *Skinning Knife* \\ (If it is an upgrade)[UI7005-]
+[G 44.13,56.95 Dun Morogh]Talk to *Mountaineer Gretchen* \\ Turn in [QT98322 Secure the Mountain] \\ Accept [QA98319 Secure the Mountain]
 [G 42.57,54.8,10 Dun Morogh]Kill *Young Wendigos* and *Wendigos*. Loot them for their *Wendigo Manes* \\ Be careful as they cast *Frost Breath* (Melee Cast: Deals 6-10 Frost damage) and have increased *Frost Resistance* \\ [QC313,1 The Grizzled Den]
+[G 42.94,49.62 Dun Morogh]Travel to the corpse of *Mountaineer Cornelius* inside the Grizzled Den cave \\ Be careful of the higher level *Wendigos* deeper in the cave \\ [QC98319,1 Secure the Mountain]
 [G 44.13,56.95 Dun Morogh]Open the *Ammo Crate* on the ground. Loot it for *Rumbleshot's Ammo* \\ This has a 5 second cast time \\ [QC5541,1 Ammo for Rumbleshot]
+[G 44.1,57.06 Dun Morogh]Talk to *Mountaineer Gretchen* \\ Turn in [QT98319 Secure the Mountain] \\ Accept [QA98323 Secure the Mountain]
 [OC][L 40.68,65.13 Dun Morogh]Kill *Crag Boars* and *Juvenile Snow Leopards* en route \\ If you still need ribs for *Beer Basted Boar Ribs*, loot the boars \\ Be careful as *Crag Boars* cast *Charge* (Self Instant: Increases movespeed for 3 seconds, dealing 25-70 melee damage on hit. Only castable at range) \\ Travel toward *Hegnar* \\ (Skip the extra kills if you are within 1,000 XP of level 7 or higher) \\ [QC384,1 Beer Basted Boar Ribs]
 [G 40.68,65.13 Dun Morogh]Talk to *Hegnar* \\ Turn in [QT5541 Ammo for Rumbleshot] \\ Vendor Trash
 [OC][L 36.38,52.49 Dun Morogh]Deal 51%+ damage to nearby *Juvenile Snow Leopards* and *Young Black Bears*, then pull them to the *Ironforge Mountaineer* to kill them more efficiently \\ Kill *Large Crag Boars* and *Crag Boars* en route. If you still need ribs for *Beer Basted Boar Ribs*, loot the boars \\ Be careful as *Large Crag Boars* and *Crag Boars* cast *Charge* (Self Instant: Increases movespeed for 3 seconds, dealing 25-70 melee damage on hit. Only castable at range) \\ [XP7 Grind to Level 7 en route to Tundra before talking to him] \\ [QC384,1 Beer Basted Boar Ribs][TAR727-]
@@ -70,7 +73,7 @@ Guidelime.registerGuide([==[
 [OC][L 30.45,46.01 Dun Morogh]Talk to *Keeg* \\ Sell any vendor trash you are carrying.[TAR1697-]
 [O][L 36.85,45.48 Dun Morogh]Kill *Ice Claw Bears*, *Elder Crag Boars*, and *Snow Leopards* en route to the Cave \\ Focus on the *Snow Leopards* \\ Be careful as *Ice Claw Bears* cast *Ice Claw* (Melee Instant: Deals an additional 4 melee damage), and *Elder Crag Boars* cast *Charge* (Self Instant: Increases movespeed for 3 seconds, dealing 25-70 melee damage on hit. Only castable at range) \\ [QC319,1 A Favor for Evershine] \\ [QC319,2 A Favor for Evershine] \\ [QC319,3 A Favor for Evershine]
 [O][L 36.85,45.48 Dun Morogh]Loot *Crag Boar Ribs* from *Elder Crag Boars* if you still need them. \\ [QC384,1 Beer Basted Boar Ribs]
-[G 46.73,53.83 Dun Morogh]Talk to *Senir* \\ Accept [QA287 Frostmane Hold]
+[G 46.73,53.83 Dun Morogh]Talk to *Senir* \\ Turn in [QT98323 Secure the Mountain] \\ Accept [QA287 Frostmane Hold]
 [OC][G 46.97,51.99,10 Dun Morogh]Go via this waypoint
 [OC][G 47.19,52.02,12 Dun Morogh]Go inside
 [A IT2886>5][OC][L 47.38,52.52 Dun Morogh]Talk to *Belm* \\ Buy *Rhapsody Malt* and *Thunder Ale* from him \\ [QC384,2 Beer Basted Boar Ribs] \\ Collect [CI2686,1]

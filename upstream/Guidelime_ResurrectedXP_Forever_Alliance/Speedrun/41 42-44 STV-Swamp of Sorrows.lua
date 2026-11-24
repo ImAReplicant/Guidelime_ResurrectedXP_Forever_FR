@@ -118,7 +118,7 @@ Kill *Kurzen Elites* and *Kurzen Subchiefs* \\ Kill *Colonel Kurzen*. Loot him f
 [OC][G 35.66,10.81,80 Stranglethorn Vale]Travel to Nesingwary's Expedition
 [G 35.66,10.81 Stranglethorn Vale]Talk to *Sir S. J. Erlgadin* and *Hemet Nesingwary* \\ Turn in [QT197 Raptor Mastery] \\ Accept [QA208 Big Game Hunter]
 [G 35.66,10.81 Stranglethorn Vale]Talk to *Hemet Nesingwary* \\ Accept [QA208 Big Game Hunter]
-[G 35.66,10.53 Stranglethorn Vale]Talk to *Barnil Stonepot* \\ Turn in all your *Green Hills of Stranglethorn - Pages* \\ Skip this step if you don't have all the *Green Hills of Stranglethorn - Chapters* \\ Accept [QA338 The Green Hills of Stranglethorn] \\ Accept [QA339 Chapter I] \\ Accept [QA340 Chapter II] \\ Accept [QA341 Chapter III] \\ Accept [QA342 Chapter IV] \\ Turn in [QT339 Chapter I] \\ Turn in [QT340 Chapter II] \\ Turn in [QT341 Chapter III] \\ Turn in [QT342 Chapter IV] \\ Turn in [QT338 The Green Hills of Stranglethorn]
+[OC][L 35.66,10.53 Stranglethorn Vale]Talk to *Barnil Stonepot* \\ Turn in all your *Green Hills of Stranglethorn - Pages* \\ Skip this step if you don't have all the *Green Hills of Stranglethorn - Chapters* \\ Accept [QA338 The Green Hills of Stranglethorn] \\ Accept [QA339 Chapter I] \\ Accept [QA340 Chapter II] \\ Accept [QA341 Chapter III] \\ Accept [QA342 Chapter IV] \\ Turn in [QT339 Chapter I] \\ Turn in [QT340 Chapter II] \\ Turn in [QT341 Chapter III] \\ Turn in [QT342 Chapter IV] \\ Turn in [QT338 The Green Hills of Stranglethorn]
 [A IT4852][OC]Use the *Flash Bomb* on *King Bangalash* when he is at 55%[UI4852-]
 [G 38.2,35.57 Stranglethorn Vale]Kill *King Bangalash*. Loot him for the *Head of Bangalash* \\ *King Bangalash* will spawn 2 *Panthers* at 50% health. Try to CC him just before 50% if possible so it prevents him from spawning any \\ If you saved the *Flash Bomb* from the Badlands you can use it to *Fear* him. This fear DOES NOT break on damage making it very useful for bringing him below the 50% threshold while CCd \\ [QC208,1 Big Game Hunter] \\ (Only if you are on Big Game Hunter: otherwise tick it off)[UI4852-]
 [OC][G 35.66,10.81 Stranglethorn Vale]Talk to *Hemet Nesingwary* \\ Turn in [QT208 Big Game Hunter]
@@ -128,7 +128,6 @@ Kill *Kurzen Elites* and *Kurzen Subchiefs* \\ Kill *Colonel Kurzen*. Loot him f
 [OC][G 58.43,41.51,50 Deadwind Pass]Travel to Swamp of Sorrows
 [G 22.87,48.18 Swamp of Sorrows]Click *A Soggy Scroll* in the water under the bridge \\ Turn in [QT624 Cortello's Riddle] \\ Accept [QA625 Cortello's Riddle]
 [O]Kill *Swampwalkers*, *Swampwalker Elders*, *Tangled Horrors* and *Mire Lords*. Loot them for *Khadgar's Essays* \\ [QC1364,1 Mazen's Behest]
-[OC][L 26.74,59.82 Swamp of Sorrows]Talk to *Watcher Biggs* \\ Turn in [QT1398 Driftwood]
 [OC][L 26.74,59.82 Swamp of Sorrows]Talk to *Watcher Biggs* \\ Accept [QA1398 Driftwood] \\ (Only if you are on ... and Bugs)
 [OC][L 91.56,70.07 Swamp of Sorrows]Kill *Silt Crawlers* and *Monstrous Crawlers*. Loot them for their *Pristine Crawler Legs* \\ [QC1258,1 ... and Bugs] \\ (Only if you are on Driftwood)
 [OC][L 79.85,7.98 Swamp of Sorrows][L 89.98,25.91 Swamp of Sorrows][L 94.65,49.99 Swamp of Sorrows][L 82.35,92.29 Swamp of Sorrows]Loot *Sundried Driftwood* on the ground along the coast \\ [QC1398,1 Driftwood] \\ (Only if you are on ... and Bugs)

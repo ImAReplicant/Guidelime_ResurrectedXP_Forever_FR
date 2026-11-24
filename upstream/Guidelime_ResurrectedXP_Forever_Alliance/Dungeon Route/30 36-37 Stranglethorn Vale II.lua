@@ -96,8 +96,8 @@ Escort *Zimmix Sputterspark* out of the Ruins of Zul'Kunda \\ [QC97331,1 Zimmix'
 [A Paladin,Hunter,Priest,Shaman,Mage,Warlock,Druid][OC]Hearth to [H Booty Bay] only if it is ready and bound there \\ Buy food/water if needed
 [O]If you are still near Rebel Camp or Nesingwary and cannot hearth to Booty Bay, follow the main road south through Stranglethorn Vale to Booty Bay. Tick this step when you reach Booty Bay.
 [G 27,77.12 Stranglethorn Vale]Talk to *Kebok* up stairs on the top floor \\ Turn in [QT189 Bloodscalp Ears]
-[O][L 26.94,77.21 Stranglethorn Vale]Talk to *Krazek* upstairs to accept [QA1116 Dream Dust in the Swamp]. Tick this reminder if you skip the quest.
 [O][L 26.94,77.21 Stranglethorn Vale]Talk to *Krazek* upstairs \\ Turn in [QT1115 The Rumormonger] \\ Tick this reminder if you defer the delivery.
+[O][L 26.94,77.21 Stranglethorn Vale]Talk to *Krazek* upstairs to accept [QA1116 Dream Dust in the Swamp]. Tick this reminder if you skip the quest.
 [OC]Keep the *Goblin Fishing Poles*. They are useful for splitpulling mobs \\ Click here to watch a video about splitpulling (useful to learn): https://www.youtube.com/watch?v=H-IwZ6P-ldY
 [G 27.23,76.87 Stranglethorn Vale]Talk to *Baron Revilgaz* \\ Turn in [QT601 Water Elementals] \\ Accept [QA602 Magical Analysis]
 [G 28.29,77.59 Stranglethorn Vale]Talk to *Drizzlik* \\ Turn in [QT577 Some Assembly Required]

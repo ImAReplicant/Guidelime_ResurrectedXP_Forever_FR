@@ -47,6 +47,7 @@ Guidelime.registerGuide([==[
 [G 65.59,62.17 Searing Gorge]Click on the *Wooden Outhouse* \\ Accept [QA4449 Caught!]
 [O][G 63.1,60.9 Searing Gorge]Kill *Dark Iron Geologists*. Loot them for their *Silk Cloth* if you still need more \\ You most likely will have to come back for more *Dark Iron Geologists* later \\ [QC4449,1 Caught!] \\ Collect [CI4306,15]
 [G 72.64,79.74 Searing Gorge]Kill *Margol the Rager*. Loot it for *Margol's Horn* \\ Do not Accept the quest for this yet \\ Collect [CI10000,1]
+[G 63.1,60.9 Searing Gorge]Finish this before you go on \\ Kill *Dark Iron Geologists* \\ [QC4449,1 Caught!]
 [G 65.59,62.17 Searing Gorge]Click on the *Wooden Outhouse* \\ Turn in [QT4449 Caught!]
 [G 63.88,60.98 Searing Gorge]Talk to *Dorius Stonetender* \\ This will start an escort. Clear the surrounding area of the pit before accepting this quest \\ Accept [QA3367 Suntara Stones]
 [A IT10000][O]Use the *Margol's Horn* to accept The Horn of the Beast [QA3181 The Horn of the Beast][UI10000-]
@@ -82,5 +83,5 @@ Guidelime.registerGuide([==[
 [A Druid][OC][L 52.53,40.56 Moonglade]Teleport to Moonglade \\ Talk to *Loganaar* \\ [T]Train your class spells \\ (From level 52)[TAR12042-]
 [A Warrior,Rogue]Hearth to [H Stormwind] \\ Buy food if needed
 [A Paladin,Hunter,Priest,Shaman,Mage,Warlock,Druid]Hearth to [H Stormwind] \\ Buy food/water if needed
-[G 53.93,81.68 Stormwind City]Talk to *Clavicus Knavingham* up stairs \\ Do the Stormwind cloth turn ins. You'll need 3 stacks of each cloth. Skip this step if you're unable to complete all of them \\ Turn in [QA7791-][QT7791 A Donation of Wool] \\ Turn in [QA7793-][QT7793 A Donation of Silk] \\ Turn in [QA7794-][QT7794 A Donation of Mageweave] \\ Turn in [QA7795-][QT7795 A Donation of Runecloth]
+[O][G 53.93,81.68 Stormwind City]Talk to *Clavicus Knavingham* up stairs \\ Do the Stormwind cloth turn ins. You'll need 3 stacks of each cloth. Skip this step if you're unable to complete all of them \\ Turn in [QA7791-][QT7791 A Donation of Wool] \\ Turn in [QA7793-][QT7793 A Donation of Silk] \\ Turn in [QA7794-][QT7794 A Donation of Mageweave] \\ Turn in [QA7795-][QT7795 A Donation of Runecloth]
 ]==], "RestedXP Forever Dungeon Route (A)")

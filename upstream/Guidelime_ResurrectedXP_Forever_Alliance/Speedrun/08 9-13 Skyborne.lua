@@ -121,7 +121,7 @@ Kill *Ornery Galestriders*. Loot them for *Lowlands Galestrider Tenderloins*. \\
 [A Hunter,Mage][OC]Kill *Skyhoppers*. \\ If you find a Tornado, touch it to gain its speed buff. \\ While the Tornado speed buff is active, avoid killing them. \\ [QC93949,1 Bugged]
 [A Warrior,Paladin,Rogue,Priest,Shaman,Mage,Warlock,Druid][OC][L 52.35,70.23 Zephras Isle]Jump off the mountain and use *Walk on Air* to fly towards the waypoint location. \\ Be careful of the enemies near the edge. \\ (Skip if you are already in Valanaar) \\ (Skip if you are already in Gustberry Lowlands) \\ (Only if Walk on Air is ready)
 [A Hunter][OC][L 52.35,70.23 Zephras Isle]Jump off the mountain and use *Walk on Air* to fly towards the waypoint location. \\ Be careful of the enemies near the edge. \\ (Only if Taming the Beast is complete) \\ (Skip if you are already in Valanaar) \\ (Skip if you are already in Gustberry Lowlands) \\ (Only if Walk on Air is ready)
-[A Hunter][OC][L 52.81,75.82 Zephras Isle]Use your *Taming Rod* on a *Windsong Crawler* at max range. \\ [QC94978,1 Taming the Beast][UI267272-]
+[A Hunter][G 52.81,75.82 Zephras Isle]Use your *Taming Rod* on a *Windsong Crawler* at max range. \\ [QC94978,1 Taming the Beast][UI267272-]
 [A Hunter][OC][L 52.73,71.12 Zephras Isle]Jump off the mountain and use *Walk on Air* to fly towards the waypoint location. \\ (Only if Taming the Beast is complete) \\ (Skip if you are already in Valanaar) \\ (Skip if you are already in Gustberry Lowlands) \\ (Only if Walk on Air is ready)
 [A Hunter][G 59.57,72.64 Zephras Isle]Talk to *Quel'ana Quickgale*. \\ Turn in [QT94978 Taming the Beast] \\ Accept [QA94979 Taming the Beast]
 [A Hunter][OC]Dismiss your *Windsong Crawler* by right clicking its unit frame and clicking dismiss, otherwise you'll be unable to tame an *Ornery Galestrider* \\ Be careful; it will attack you when dismissed.
@@ -235,7 +235,7 @@ Kill *Wind Hollows*. \\ [QC93172,1 Free the Hollows]
 [G 63.04,37.12,40 Zephras Isle]Kill *Al'Aketh Footsoldiers* and *Al'Aketh Stormchasers*. \\ Loot them for *Bloody Heirlooms*, *Al'Aketh Cultist's Ears* and *Al'Aketh Windstone Charms*. \\ [QC94487,1 Unwanted and Unworthy] \\ [QC92834,1 Avenged Tenfold] \\ [QC93165,1 Mercy Falls on Deaf Ears]
 [G 63.04,37.12,40 Zephras Isle]Loot *Bloody Heirlooms* from the *Al'Aketh Footsoldiers* and *Stormchasers*. \\ [QC94487,1 Unwanted and Unworthy]
 [G 63.04,37.12,40 Zephras Isle]Loot *Al'Aketh Windstone Charms* from the *Al'Aketh Footsoldiers* and *Stormchasers*. \\ [QC92834,1 Avenged Tenfold]
-[O][L 62.83,38.25 Zephras Isle]Click on the *Seeds* especially around trees here. \\ [QC93160,1 The Forest's Bounty]
+[G 62.83,38.25 Zephras Isle]Click on the *Seeds* especially around trees here. \\ [QC93160,1 The Forest's Bounty]
 [OC]Kill *Shadowgale Shrieklings*. \\ Loot them for *Shriekling Talons* and *Pristine Shriekling Feathers*. \\ [QC92741,1 Unwelcome Visitors] \\ [QC94486,1 Feathers for Binding]
 [OC]Click on the *Tear Moss* on trees. \\ [QC94485,1 Tears of the Lady]
 [A Warrior,Paladin][G 53.97,38.9 Zephras Isle]Talk to *Strange Hermit*. \\ Turn in [QT93160 The Forest's Bounty] \\ Turn in [QT93172 Free the Hollows] (choose reward 3)

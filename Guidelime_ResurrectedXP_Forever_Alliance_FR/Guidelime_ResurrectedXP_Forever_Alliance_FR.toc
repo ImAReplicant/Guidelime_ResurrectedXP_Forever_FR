@@ -1,7 +1,7 @@
 ## Interface: 16001
 ## Title: Guidelime |cff2a9df4ResurrectedXP Forever FR|r (Alliance)
 ## Author: RestedXP (route), converted for Guidelime, traduction FR non officielle
-## Version: 1.7.6-fr.1
+## Version: 1.8.0-fr.1
 ## RequiredDeps: Guidelime, Questie
 ## Notes: Traduction francaise du guide RestedXP Forever (Alliance) pour Guidelime.
 ## IconTexture: Interface\AddOns\Guidelime_ResurrectedXP_Forever_Alliance_FR\Media\Icon.tga

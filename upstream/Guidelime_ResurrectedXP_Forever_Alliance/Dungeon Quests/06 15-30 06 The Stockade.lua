@@ -12,8 +12,8 @@ Guidelime.registerGuide([==[
 [G 73.26,55.1,40 Stormwind City][G 74.83,56.45,40 Stormwind City][G 76.41,59.76,40 Stormwind City][G 75.73,61.34,40 Stormwind City]Talk to *Nikova Raskol* \\ *Nikova Raskol* patrols in Old Town \\ Accept [QA388 The Color of Blood]
 [G 52.51,70.27,10 Stormwind City][G 51.48,69.39 Stormwind City]Talk to *Warden Thelwater* \\ Turn in [QT389 Bazil Thredd] \\ Accept [QA391 The Stockade Riots] \\ Accept [QA387 Quell The Uprising]
 [OC][L 50.5,66.5 Stormwind City]Find a group for The Stockades. Zone in once your group is ready
-[O]Kill the *Defias*. Loot them for their *Bandanas* \\ [QC387,1 Quell The Uprising] \\ [QC387,2 Quell The Uprising] \\ [QC387,3 Quell The Uprising] \\ [QC388,1 The Color of Blood]
-[O]Kill *Targorr the Dread*. Loot him for his *Head*. *Targorr* has a random spawn location \\ Kill *Dextren Ward* on the west prison wing. Loot him for his *Hand* \\ [QC386,1 What Comes Around...] \\ [QC377,1 Crime and Punishment]
+Kill the *Defias*. Loot them for their *Bandanas* \\ [QC387,1 Quell The Uprising] \\ [QC387,2 Quell The Uprising] \\ [QC387,3 Quell The Uprising] \\ [QC388,1 The Color of Blood]
+Kill *Targorr the Dread*. Loot him for his *Head*. *Targorr* has a random spawn location \\ Kill *Dextren Ward* on the west prison wing. Loot him for his *Hand* \\ [QC386,1 What Comes Around...] \\ [QC377,1 Crime and Punishment]
 [O]Kill *Bazil Thredd* on the east prison wing. Loot him for his *Head* \\ Ensure you have 3 *Silk Cloth* for the follow up of this quest chain \\ [QC391,1 The Stockade Riots] \\ Collect [CI4306,3] \\ If you skipped The Stockade Riots, tick off its remaining optional chain steps.
 [O][L 51.48,69.39 Stormwind City]Talk to *Warden Thelwater* \\ Turn in [QT387 Quell The Uprising] \\ Turn in [QT391 The Stockade Riots] \\ Accept [QA392 The Curious Visitor]
 [G 52.51,70.27,10 Stormwind City][G 51.48,69.39 Stormwind City]Talk to *Warden Thelwater* \\ Turn in [QT387 Quell The Uprising]

@@ -67,7 +67,7 @@ Guidelime.registerGuide([==[
 [OC][G 71.6,4.5,20 Swamp of Sorrows]Go via this waypoint
 [OC][G 42.85,95.24 Riverglades]Travel to the beach northeast and follow along the coast north to the Riverglades
 [G 60.66,81.49 Riverglades]Talk to *Gretchen Mayberry*. \\ Get the [P Farholde Keep] Flight Path \\ If you already know this flight path, tick this step off.[TAR257087-]
-[O][L 77.78,77.26 Thousand Needles]If you are carrying [QT1117 Rumors for Kravel], deliver it to *Kravel Koalbeard* in the optional 40-41 Desolace guide. Select that guide after 39-40 Alterac/Arathi if you want to finish the delivery. Tick this reminder to continue the default route.
-[O][L 26.94,77.21 Stranglethorn Vale]After handing in the Dream Dust, wait for *Krazek* upstairs in Booty Bay and accept [QA1117 Rumors for Kravel]. From Booty Bay, *Gyll* [L 27.53,77.79 Stranglethorn Vale] can fly you back to Farholde Keep. Tick this step if you are skipping the follow-up.
 [A IT5803>9][O][L 26.94,77.21 Stranglethorn Vale]With all ten *Specks of Dream Dust*, hearth to Booty Bay if still bound there, or travel there when convenient. Talk to *Krazek* upstairs to turn in [QT1116 Dream Dust in the Swamp]. Tick this reminder to defer the trip.
+[O][L 26.94,77.21 Stranglethorn Vale]After handing in the Dream Dust, wait for *Krazek* upstairs in Booty Bay and accept [QA1117 Rumors for Kravel]. From Booty Bay, *Gyll* [L 27.53,77.79 Stranglethorn Vale] can fly you back to Farholde Keep. Tick this step if you are skipping the follow-up.
+[O][L 77.78,77.26 Thousand Needles]If you are carrying [QT1117 Rumors for Kravel], deliver it to *Kravel Koalbeard* in the optional 40-41 Desolace guide. Select that guide after 39-40 Alterac/Arathi if you want to finish the delivery. Tick this reminder to continue the default route.
 ]==], "RestedXP Forever Dungeon Route (A)")

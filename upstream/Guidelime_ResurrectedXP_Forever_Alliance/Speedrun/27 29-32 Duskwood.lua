@@ -23,11 +23,8 @@ Guidelime.registerGuide([==[
 [A Hunter][G 61.55,89.43 Ironforge]Talk to *Thalgus Thunderfist* downstairs \\ Buy a *Heavy Quiver* \\ Collect [CI7371,1][TAR7976-]
 [G 72.74,94.03 Ironforge]Talk to *Pilot Longbeard* \\ Accept [QA1179 The Brassbolts Brothers]
 [A Skyborne][O][L 68.74,48.97 Ironforge]Speak with *High Tinker Mekkatorque* in Tinker Town. \\ [QC93963,2 Exploring the Alliance]
-[A Shaman][OC][G 55.49,47.72 Ironforge]Talk to *Gryth Thurden*. Fly to [F]Refuge Pointe for *Call of Air*. If you lack the flight path, tick the Veyric turn-in step below to defer the detour and take the tram to Stormwind, or ride through Loch Modan, Dun Algaz and the Wetlands, then north across the Thandol Span to Refuge Pointe.[TAR1573-]
-[A Shaman][OC][G 60.39,27.05 Arathi Highlands]Travel towards *Veyric Thunderhame* up in the mountains
 [A Shaman][G 59.83,27.59 Arathi Highlands]For *Call of Air*, fly from *Gryth Thurden* in Ironforge [L 55.49,47.72 Ironforge] to Refuge Pointe. Without its flight path, ride through Loch Modan, Dun Algaz and the Wetlands and cross the Thandol Span. From Refuge Pointe, take the mountain path [L 60.39,27.05 Arathi Highlands] to *Veyric Thunderhame*. Turn in [QT94789 Call of Air]. Tick this step to defer the detour and continue to Stormwind.
 [A Warrior,Paladin,Hunter,Rogue,Priest,Warlock,Druid][OC][G 78,52,5 Ironforge]Enter the Deeprun Tram. Take the tram to Stormwind \\ Level your *First Aid* if needed while waiting for the tram
-[A Shaman][OC][L 47.17,13.87 Ironforge]If you are still in Ironforge and at least level 30, talk to *Eldrun Stormbreaker* to accept [QA94789 Call of Air]. If you are below level 30 or skip this detour, continue to Stormwind.
 [A Shaman][G 66.3,34,420 Stormwind City]Reach Stormwind. From Refuge Pointe, talk to *Cedrik Prose* [L 45.73,46.09 Arathi Highlands] and fly to Stormwind. If the direct flight is unavailable, return to Ironforge. From Ironforge, take the Deeprun Tram [L 78,52 Ironforge] to the Dwarven District. Train First Aid while waiting if needed.[TAR2835-]
 [A Mage][OC]Teleport to Stormwind
 [OC][L 59.72,33.77 Stormwind City]Talk to *Grimand Elmore* \\ Turn in [QT322 Blessed Arm] \\ Accept [QA325 Armed and Ready] \\ (Only if you turned in The Lost Ingots)
@@ -176,7 +173,7 @@ Guidelime.registerGuide([==[
 [A Warrior][G 78.54,63.23,15 Stormwind City][G 81.74,59.54,15 Stormwind City][G 80.55,59.87 Stormwind City]Talk to *Wu* or *Ilsa* \\ [T]Train your class spells[TAR5479-][TAR5480-]
 [A Warrior][G 80.55,59.87 Stormwind City]Talk to *Wu Shen* \\ Accept [QA1718 The Islander]
 [A Rogue][G 77.44,65.31 Stormwind City]Talk to *Osborne* \\ [T]Train your class spells[TAR918-]
-[O][L 74.26,59.17 Stormwind City]Talk to *Dashel Stonefist* \\ *Dashel Stonefist* will become hostile after accepting the follow up quest. Defeat him \\ Turn in [QT1246 The Missing Diplomat] \\ Accept [QA1447 The Missing Diplomat] \\ (Hold Shift at the NPC, or Guidelime accepts this quest at once)
+[G 74.26,59.17 Stormwind City]Talk to *Dashel Stonefist* \\ *Dashel Stonefist* will become hostile after accepting the follow up quest. Defeat him \\ Turn in [QT1246 The Missing Diplomat] \\ Accept [QA1447 The Missing Diplomat] \\ (Hold Shift at the NPC, or Guidelime accepts this quest at once)
 [G 74.26,59.17 Stormwind City]Defeat *Dashel Stonefist* \\ *Dashel Stonefist* will also attack with 2 *Old Town Thugs*. Ignore them and focus on *Dashel Stonefist* \\ Be careful as the *Old Town Thugs* will reset when you defeat Dashel but then become hostile again after returning to their original locations \\ [QC1447,1 The Missing Diplomat]
 [G 74.26,59.17 Stormwind City]Talk to *Dashel Stonefist* \\ Turn in [QT1447 The Missing Diplomat] \\ Accept [QA1247 The Missing Diplomat]
 [G 66.02,74.09 Stormwind City]Talk to *Elling Trias* \\ Turn in [QT1247 The Missing Diplomat] \\ Accept [QA1248 The Missing Diplomat]
@@ -200,10 +197,8 @@ Guidelime.registerGuide([==[
 [A IT2794][G 77.07,30.21 Stormwind City]Talk to *Milton Sheaf* \\ If you found *An Old History Book* you may turn it in \\ Accept [QA337 An Old History Book] \\ Turn in [QT337 An Old History Book] \\ Accept [QA538 Southshore][UI2794-]
 [A IT2794<1][OC]Abandon Retrieval for Mauren \\ Abandon Bloom of the Heavens
 [A IT2794<1][O][L 77.88,48.94 Stormwind City]Talk to *Lord Baurles K. Wishock* \\ Turn in [QT336 A Noble Brew]
-[OC][L 77.07,30.21 Stormwind City]Talk to *Milton Sheaf* \\ Accept [QA538 Southshore]
-[A Warlock][OC][G 42.27,81.7,20 Stormwind City]Go via this waypoint
-[A Warlock][OC][G 40.72,84.87,15 Stormwind City]Go into The Slaughtered Lamb and go downstairs
-[A Warlock][G 40.14,85.28 Stormwind City][G 40.21,85.3 Stormwind City]Talk to *Zardeth of the Black Claw* and *Zggi* \\ Accept [QA397 You Have Served Us Well] \\ Turn in [QT397 You Have Served Us Well]
+[OC][L 77.07,30.21 Stormwind City]Talk to *Milton Sheaf* \\ Accept [QA538 Southshore] \\ (Only if you turned in An Old History Book)
+[A Warlock][O][L 40.14,85.28 Stormwind City][L 40.21,85.3 Stormwind City]Go downstairs in The Slaughtered Lamb and talk to *Zardeth of the Black Claw* and *Zggi* \\ Accept [QA397 You Have Served Us Well] \\ Turn in [QT397 You Have Served Us Well]
 [A Hunter][G 67.35,36.25 Stormwind City]Talk to *Einris Brightspear* \\ [T]Train your class spells[TAR5515-]
 [A Warrior,Paladin,Hunter,Rogue,Priest,Shaman,Warlock,Druid][OC][G 66.99,33.38,25 Stormwind City]Go via this waypoint
 [A Warrior,Paladin,Hunter,Rogue,Priest,Shaman,Warlock,Druid][OC][G 69.2,30.7 Stormwind City]Enter the Deeprun Tram. Take the Tram to Ironforge \\ Level your *First Aid* if needed while waiting for the Tram

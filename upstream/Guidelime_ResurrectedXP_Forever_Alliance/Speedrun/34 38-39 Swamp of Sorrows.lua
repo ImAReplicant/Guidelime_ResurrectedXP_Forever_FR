@@ -68,5 +68,5 @@ Guidelime.registerGuide([==[
 [OC]Hearth to [H Booty Bay] \\ (Only if Dream Dust in the Swamp is complete)
 [OC][L 26.94,77.21 Stranglethorn Vale]Talk to *Krazek* up stairs \\ Turn in [QT1116 Dream Dust in the Swamp]
 [OC][L 26.94,77.21 Stranglethorn Vale]Wait out the RP \\ Talk to *Krazek* \\ Accept [QA1117 Rumors for Kravel]
-[OC][L 27.53,77.79 Stranglethorn Vale]Talk to *Gyll* \\ Fly to Riverglades [F]Farholde \\ (Skip if you are already in Riverglades)[TAR2859-]
+[OC][L 27.53,77.79 Stranglethorn Vale]Talk to *Gyll* \\ Fly to Riverglades [F]Farholde Keep \\ (Skip if you are already in Riverglades)[TAR2859-]
 ]==], "RestedXP Forever Speedrun (A)")

@@ -61,6 +61,7 @@ Guidelime.registerGuide([==[
 [OC][L 56.4,30.5 Westfall]Talk to *Salma Saldean* \\ Turn in [QT22 Goretusk Liver Pie] \\ Turn in [QT38 Westfall Stew]
 [A IT732<3][OC][L 50.8,21.76 Westfall]Collect three *Okra* in the fields if you still need them for *Westfall Stew*.
 [G 50.8,21.76 Westfall]Kill *Harvest Watchers*. Loot them for their *Flasks of Oil* \\ [QC9,1 The Killing Fields] \\ Collect 5x *Flask of Oil*
+[G 54.42,40.38 Westfall]Finish gathering any remaining ingredients for *Westfall Stew* and *Goretusk Liver Pie* \\ [QC38,1 Westfall Stew] \\ [QC38,2 Westfall Stew] \\ [QC38,3 Westfall Stew] \\ [QC38,4 Westfall Stew] \\ [QC22,1 Goretusk Liver Pie]
 [G 56.04,31.23 Westfall]Talk to *Farmer Saldean* \\ Turn in [QT9 The Killing Fields]
 [G 56.4,30.5 Westfall]Talk to *Salma Saldean* \\ Turn in [QT38 Westfall Stew] \\ Turn in [QT22 Goretusk Liver Pie]
 [OC]Kill *Defias Trappers* and *Defias Smugglers*. Loot them for their *Red Leather Bandanas* \\ It is a dynamic respawn area meaning if you kill enough they will keep respawning \\ [QC12,1 The People's Militia] \\ [QC12,2 The People's Militia] \\ [QC153,1 Red Leather Bandanas]

@@ -37,7 +37,7 @@ Guidelime.registerGuide([==[
 [OC]If you still need meat for *Stocking Jetsteam*, save four *Chunks of Boar Meat* from the boars on the way to Kharanos. Collect [CI769,4]
 [G 43.9,55.7 Dun Morogh]grind boars north-east to Kharanos \\ [XP5+2415 Grind to 2415/+2800xp]
 [A Softcore][G 47,55.1,120 Dun Morogh]Die and respawn at the Spirit Healer, or run to Kharanos. Make sure your subzone is NOT Coldridge Pass
-[G 46.73,53.83 Dun Morogh]Talk to *Senir Whitebeard* \\ Turn in [QT420 Senir's Observations]
+[G 46.73,53.83 Dun Morogh]Talk to *Senir Whitebeard* \\ Turn in [QT420 Senir's Observations] \\ Accept [QA98322 Secure the Mountain]
 [OC][G 46.7,53.5 Dun Morogh][V]vendor trash
 [G 46.8,52.4 Dun Morogh]Talk to *Ragnar Thunderbrew* \\ Accept [QA384 Beer Basted Boar Ribs]
 [G 48.3,57 Dun Morogh][XP6 Grind to 6]
@@ -53,13 +53,16 @@ Guidelime.registerGuide([==[
 [G 52,50.1,40 Dun Morogh][G 51.5,53.9,40 Dun Morogh][G 50.1,53.9,40 Dun Morogh][G 49.9,50.9,40 Dun Morogh][G 48,49.5,40 Dun Morogh][G 48.2,46.9,40 Dun Morogh][G 43.5,52.5,40 Dun Morogh]Get the items for Stocking Jetsteam \\ [QC317,1 Stocking Jetsteam] \\ [QC317,2 Stocking Jetsteam]
 [G 49.43,48.41 Dun Morogh]Talk to *Pilot Bellowfiz* \\ Turn in [QT317 Stocking Jetsteam] \\ Accept [QA318 Evershine]
 [G 46.9,52.1,20 Dun Morogh][G 47.4,52.5 Dun Morogh]Go back to the Inn \\ [V]Buy as much level 5 drink as you can afford \\ You can buy a Skinning Knife outside the inn if you want, it's better than a staff until you get a +stats weapon
+[G 44.13,56.95 Dun Morogh]Talk to *Mountaineer Gretchen* \\ Turn in [QT98322 Secure the Mountain] \\ Accept [QA98319 Secure the Mountain]
 [G 42.5,54.8,40 Dun Morogh][G 42.4,52.2,40 Dun Morogh][G 41,49.4,40 Dun Morogh]Go into the cave. Kill Wendigos. Loot them for their Manes \\ [QC313,1 The Grizzled Den]
+[G 42.94,49.62 Dun Morogh]Travel to the corpse of *Mountaineer Cornelius* inside the Grizzled Den cave \\ Be careful of the higher level *Wendigos* deeper in the cave \\ [QC98319,1 Secure the Mountain]
 [G 44.1,56.9 Dun Morogh]Loot the crate \\ [QC5541,1 Ammo for Rumbleshot]
+[G 44.1,57.06 Dun Morogh]Talk to *Mountaineer Gretchen* \\ Turn in [QT98319 Secure the Mountain] \\ Accept [QA98323 Secure the Mountain]
 [G 40.6,62.6,30 Dun Morogh][G 40.68,65.13 Dun Morogh]Talk to *Hegnar Rumbleshot* \\ Turn in [QT5541 Ammo for Rumbleshot] \\ Vendor and repair
 [XP7 Grind to 7]
 [G 35.2,56.4,50 Dun Morogh][G 36,52,50 Dun Morogh][G 34.6,51.7 Dun Morogh]Grind some mobs en route \\ Talk to *Tundra MacGrann* \\ Accept [QA312 Tundra MacGrann's Stolen Stash]
 [G 30.5,46 Dun Morogh][V]Vendor. Buy up to 20 level 5 drink
-[O][G 30.2,45.8 Dun Morogh]Talk to *Rejold Barleybrew* \\ Turn in [QT318 Evershine] \\ Accept [QA319 A Favor for Evershine]
+[G 30.2,45.8 Dun Morogh]Talk to *Rejold Barleybrew* \\ Turn in [QT318 Evershine] \\ Accept [QA319 A Favor for Evershine]
 [G 30.19,45.73 Dun Morogh]Talk to *Rejold Barleybrew* and accept [QA315 The Perfect Stout].
 [G 30.19,45.53 Dun Morogh]Talk to *Marleth Barleybrew* \\ Accept [QA310 Bitter Rivals]
 [G 31.5,38.9,60 Dun Morogh][G 28.3,39.9,60 Dun Morogh][G 28.7,43.7,60 Dun Morogh][G 25.8,47.2,60 Dun Morogh][G 30,51.8,60 Dun Morogh]Kill Bears, Boars and Leopards. Go from north->west->south \\ [QC319,1 A Favor for Evershine] \\ [QC319,2 A Favor for Evershine] \\ [QC319,3 A Favor for Evershine]
@@ -73,7 +76,7 @@ Hearth to [H Kharanos]
 [XP8 Grind to 8]
 [G 47.5,52.1 Dun Morogh][T]Train your class spells \\ Make sure you train Polymorph
 [G 47.4,52.5 Dun Morogh][V]Buy up to 30 level 5 drink from the innkeeper
-[G 46.73,53.83 Dun Morogh]Talk to *Senir Whitebeard* \\ Accept [QA287 Frostmane Hold]
+[G 46.73,53.83 Dun Morogh]Talk to *Senir Whitebeard* \\ Turn in [QT98323 Secure the Mountain] \\ Accept [QA287 Frostmane Hold]
 [G 49.62,48.61 Dun Morogh]Talk to *Pilot Stonegear* \\ Turn in [QT313 The Grizzled Den]
 [G 49.43,48.41 Dun Morogh]Talk to *Pilot Bellowfiz* \\ Turn in [QT320 Return to Bellowfiz]
 [G 45.8,49.4 Dun Morogh]Inside the building \\ Talk to *Razzle Sprysprocket* \\ Accept [QA412 Operation Recombobulation]

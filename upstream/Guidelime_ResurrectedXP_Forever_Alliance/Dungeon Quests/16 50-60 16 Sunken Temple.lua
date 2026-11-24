@@ -83,9 +83,9 @@ Guidelime.registerGuide([==[
 [G 62.5,38.55 The Barrens]Open *Marvon's Chest*. Loot it for the *Stone Circle* \\ [QC3444,1 The Stone Circle]
 [OC]Travel to Tanaris
 [G 52.71,45.92 Tanaris]Talk to *Marvon Rivetseeker* \\ Turn in [QT3444 The Stone Circle] \\ Accept [QA3446 Into the Depths] \\ Accept [QA3447 Secret of the Circle]
-[G 66.99,22.35 Tanaris]Talk to *Yeh'kinya* \\ Accept [QA3528 The God Hakkar]
+[O][L 66.99,22.35 Tanaris]Talk to *Yeh'kinya* \\ Accept [QA3528 The God Hakkar] \\ (Requires *The Ancient Egg* completed)
 [OC]Travel to Stormwind
-[G 69.45,40.39 Stormwind City]Talk to *Brohann Caskbelly* \\ Accept [QA1475 Into The Temple of Atal'Hakkar]
+[O][L 69.45,40.39 Stormwind City]Talk to *Brohann Caskbelly* \\ Accept [QA1475 Into The Temple of Atal'Hakkar] \\ (Requires *Rhapsody's Tale* completed)
 [OC]Loot the *Atal'ai Tablets* on the ground \\ These can be looted en-route to the instance portal, as well as inside Sunken Temple \\ [QC1475,1 Into The Temple of Atal'Hakkar]
 [OC]Start looking for a Sunken Temple group. If you are still forming the group, you can grind mobs in Blasted Lands before heading to the dungeon.
 [OC][G 69.98,53.16 Swamp of Sorrows]Travel to Sunken Temple once your group is ready

@@ -136,7 +136,7 @@ Guidelime.registerGuide([==[
 [OC]Kill *Whelps*. Loot them for their *Pristine Crimson Scales* \\ [QC98072,1 Crocs of the Sky]
 [OC][L 61.93,37.41 Wetlands]Kill the *Maddened Rotclaw*. Loot it for the *Malignant Rotclaw Flesh* \\ Start looking for at least one more party member for killing *Carnage* soon while you find the *Malignant Rotclaw Flesh* \\ [QC98283,1 Carnage] \\ (Group quest: optional, skip it when solo)
 [OC][G 69.43,34.67,20 Wetlands]Enter the Raptor Ridge cave
-[O][G 69.8,28.92,60 Wetlands]Kill *Highland Razormaws* and *Elder Razormaws*. Loot them for their *Razormaw Incisors* \\ Loot the *Razormaw Eggs* on the ground \\ [QC98245,1 Razormaw Needling] \\ [QC98246,1 Trying Times]
+[G 69.8,28.92,60 Wetlands]Kill *Highland Razormaws* and *Elder Razormaws*. Loot them for their *Razormaw Incisors* \\ Loot the *Razormaw Eggs* on the ground \\ [QC98245,1 Razormaw Needling] \\ [QC98246,1 Trying Times]
 [OC][L 69.8,28.92 Wetlands]Use the *Malignant Rotclaw Flesh* at the *Offering Stone* to summon *Carnage* inside the Raptor Ridge cave \\ (If you took Carnage) \\ (Group route (2+ players): only if you are in a group)[UI280331-]
 [OC][L 69.8,28.92 Wetlands]Kill *Carnage*. Loot it for *Carnage's Head* \\ *Carnage* is a level 30 elite with 4300 HP. He calls for help at 50% and has a Knockdown stun \\ [QC98283,2 Carnage] \\ (Group quest (2+ players): optional, skip it when solo)
 [OC][L 61.93,37.41 Wetlands]Kill *Whelps*. Loot them for their *Pristine Crimson Scales* \\ [QC98072,1 Crocs of the Sky]
@@ -183,7 +183,7 @@ Kill the *Relic Guardian*. Loot it for the *Titan Relic* \\ Use the *Titan Relic
 [G 50.71,58.76,350 Hillsbrad Foothills]Reach Southshore. If you cannot fly there, follow the road west from Refuge Pointe into Hillsbrad, then take the road south to Southshore.
 [OC]Be careful not to run into the *Forsaken Courier* who can be patrolling the road from Go'shek Farm to Tarren Mill \\ (Only if you are in Arathi Highlands)[TAR2714-][TAR2721-]
 [OC]Be careful while entering Southshore! Every now and then level 37-38 *Stealthed* *Shadowy Assassins* ambush the town! \\ If you manage to kill one you will be able to loot an item that starts a quest: *Assassin's Contract*. The event is rare and the mobs are hard to kill at this level so do not go out of your way to try to get it \\ Collect [CI3668,1][TAR2434-]
-[G 50.71,58.76,15 Hillsbrad Foothills][G 52.09,58.7 Hillsbrad Foothills]Talk to *Brewmeister Bilger* in the basement \\ If you fail the timed quest, abandon it and skip this step \\ Turn in [QT647 MacKreel's Moonshine]
+[OC][G 50.71,58.76,15 Hillsbrad Foothills][G 52.09,58.7 Hillsbrad Foothills]Talk to *Brewmeister Bilger* in the basement \\ If you fail the timed quest, abandon it and skip this step \\ If Guidelime brings back the earlier line that accepts *MacKreel's Moonshine* once you abandon it: tick that line off \\ Turn in [QT647 MacKreel's Moonshine]
 [A Hunter][OC][G 50.41,58.8 Hillsbrad Foothills]Go to the marked location
 [A Hunter][OC][L 50.41,58.8 Hillsbrad Foothills]Talk to *Wesley* \\ Stable your pet. You will tame a *Elder Moss Creeper* shortly[TAR9978-]
 [G 49.34,52.27 Hillsbrad Foothills]Talk to *Darla Harris* \\ Get the [P Southshore] Flight Path[TAR2432-]

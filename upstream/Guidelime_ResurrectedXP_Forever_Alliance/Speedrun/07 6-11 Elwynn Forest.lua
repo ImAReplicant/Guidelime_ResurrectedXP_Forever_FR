@@ -86,6 +86,7 @@ Guidelime.registerGuide([==[
 [G 43.13,85.72 Elwynn Forest]Talk to *Billy Maclure* \\ Turn in [QT84 Back to Billy] \\ Accept [QA87 Goldtooth]
 [G 39.92,80.11 Elwynn Forest]Enter one of the larger open spaces in Fargodeep Mine \\ [QC62,1 The Fargodeep Mine]
 [G 41.73,78.02 Elwynn Forest]Kill *Goldtooth*. Loot him for *Bernice's Necklace* \\ Be careful as he usually pulls with the *Kobold Miner* next to him \\ [QC87,1 Goldtooth]
+[G 39.14,82.87 Elwynn Forest]Finish killing *Kobold Tunnelers* and *Kobold Miners* in and around Fargodeep Mine for their *Kobold Candles* and *Gold Dust* \\ [QC60,1 Kobold Candles] \\ [QC47,1 Gold Dust Exchange]
 [OC][L 41.61,79.88 Elwynn Forest]Kill *Nimsy* inside Fargodeep Mine. Loot him for the *Picture Book: Fun with Elementals* \\ Try to find a group for this step. The *Kobolds* respawn very fast in the cave \\ He will also summon a *Rumbler* add. Be careful if you're attempting to solo this. Skip this step if you are unable to kill him \\ [QC91775,1 Book Return]
 [A Warrior][OC]Try to save a single *Minor Healing Potion* from now on as you will need it for Rolf's Corpse later
 [OC][L 39.14,82.87 Elwynn Forest][XP7+1140 Grind to 1140+/4500xp] \\ (Only if Book Return is complete)

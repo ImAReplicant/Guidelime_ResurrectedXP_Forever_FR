@@ -6,7 +6,7 @@ Guidelime.registerGuide([==[
 [OC]Remember to take out *Black Dragonflight Molt* from your bank if you completed the quest in Searing Gorge for it earlier. You will need it shortly \\ Collect [CI10575,1]
 [OC]Travel to Ironforge
 [G 18.1,51.6 Ironforge]Talk to *Innkeeper Firebrew* \\ If you have a Mage in your group you will set your Hearth to Lakeshire instead \\ Set your Hearthstone to [S Ironforge][TAR5111-]
-[G 39.09,56.19 Ironforge]Talk to *King Magni Bronzebeard* \\ Accept [QA4341 Kharan Mighthammer]
+[G 39.09,56.19 Ironforge]Talk to *King Magni Bronzebeard* \\ If you cannot accept this quest, complete *The Smoldering Ruins of Thaurissan* first \\ Accept [QA4341 Kharan Mighthammer]
 [OC][L 75.77,23.39 Ironforge]Talk to *Laris Geardawdle* \\ Turn in [QT4513 A Little Slime Goes a Long Way]
 [OC]Travel to Kharanos
 [G 46.83,52.36 Dun Morogh]Talk to *Ragnar Thunderbrew* \\ Accept [QA4126 Hurley Blackbreath]

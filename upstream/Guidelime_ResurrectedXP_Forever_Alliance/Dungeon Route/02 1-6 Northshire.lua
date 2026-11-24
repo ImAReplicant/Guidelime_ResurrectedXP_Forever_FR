@@ -23,6 +23,7 @@ Guidelime.registerGuide([==[
 [G 49.5,40.7 Elwynn Forest]Talk to *Daniel* \\ Turn in [QT92124 Book Inventory]
 [G 49.6,40.41 Elwynn Forest]Talk to *Brother Paxton* \\ Accept [QA91743 Rascally Rodents]
 [G 47.6,36.72,45 Elwynn Forest]Kill *Kobold Vermins*. Loot them for their *Stolen Books* \\ Don't go out of your way to loot all *Stolen Books* yet \\ [QC7,1 Kobold Camp Cleanup]
+[G 49.05,38.27,45 Elwynn Forest]Finish killing *Young Wolves* and *Timber Wolves* for their *Tough Wolf Meat* \\ [QC33,1 Wolves Across the Border]
 [A Warrior,Paladin,Hunter,Rogue][G 48.94,40.17 Elwynn Forest]Talk to *Eagan Peltskinner* \\ Turn in [QT33 Wolves Across the Border] (choose reward 2)
 [A Priest,Shaman,Mage,Warlock,Druid][G 48.94,40.17 Elwynn Forest]Talk to *Eagan Peltskinner* \\ Turn in [QT33 Wolves Across the Border] (choose reward 1)
 [A Priest,Mage][G 47.49,41.57 Elwynn Forest]Talk to *Brother Danil* \\ Vendor Trash \\ Buy 10 more *Refreshing Spring Water* from him \\ Make sure you save 10c or more for later \\ Collect [CI159,10][TAR152-]
@@ -58,14 +59,19 @@ Guidelime.registerGuide([==[
 [OC][L 49.6,40.41 Elwynn Forest]Talk to *Brother Paxton* \\ Turn in [QT91743 Rascally Rodents] \\ Accept [QA91745 Mining Consultant]
 [A Mage][OC][G 48.79,41.58,12 Elwynn Forest][G 49.26,40.63,12 Elwynn Forest][G 49.51,40.1,6 Elwynn Forest][G 49.69,40.23,6 Elwynn Forest][G 49.59,40.67,6 Elwynn Forest][G 49.32,40.49,6 Elwynn Forest][G 49.44,39.88,10 Elwynn Forest]Follow the lime waypoints in order
 [A Mage][OC][G 49.66,39.4,12 Elwynn Forest]Travel toward *Khelden Bremen* upstairs
-[A Mage][G 49.66,39.4 Elwynn Forest]Talk to *Khelden Bremen* inside upstairs \\ Turn in [QT3104 Glyphic Letter] \\ Train your class spells
-[A Priest][G 49.81,39.49 Elwynn Forest]Talk to *Priestess Anetta* inside downstairs \\ Turn in [QT3103 Hallowed Letter] \\ Train your class spells
+[A Human,Mage][G 49.66,39.4 Elwynn Forest]Talk to *Khelden Bremen* inside upstairs \\ Turn in [QT3104 Glyphic Letter] \\ Train your class spells
+[A !Human,Mage][G 49.66,39.4 Elwynn Forest]Talk to *Khelden Bremen* inside upstairs \\ [T]Train your class spells
+[A Human,Priest][G 49.81,39.49 Elwynn Forest]Talk to *Priestess Anetta* inside downstairs \\ Turn in [QT3103 Hallowed Letter] \\ Train your class spells
+[A !Human,Priest][G 49.81,39.49 Elwynn Forest]Talk to *Priestess Anetta* inside downstairs \\ [T]Train your class spells
 [A Warrior][OC][G 49.6,41.8,15 Elwynn Forest]Travel toward *Llane Beshere* inside downstairs
 [A Paladin][OC][G 49.6,41.8,15 Elwynn Forest]Travel toward *Brother Sammuel* inside downstairs
-[A Warrior][G 50.24,42.29 Elwynn Forest]Talk to *Llane Beshere* inside downstairs \\ Turn in [QT3100 Simple Letter] \\ Train your class spells
-[A Paladin][G 50.43,42.12 Elwynn Forest]Talk to *Brother Sammuel* \\ Turn in [QT3101 Consecrated Letter] \\ Train your class spells
+[A Human,Warrior][G 50.24,42.29 Elwynn Forest]Talk to *Llane Beshere* inside downstairs \\ Turn in [QT3100 Simple Letter] \\ Train your class spells
+[A !Human,Warrior][G 50.24,42.29 Elwynn Forest]Talk to *Llane Beshere* inside downstairs \\ [T]Train your class spells
+[A Human,Paladin][G 50.43,42.12 Elwynn Forest]Talk to *Brother Sammuel* \\ Turn in [QT3101 Consecrated Letter] \\ Train your class spells
+[A !Human,Paladin][G 50.43,42.12 Elwynn Forest]Talk to *Brother Sammuel* \\ [T]Train your class spells
 [A Warrior,Paladin,Hunter,Rogue,Priest,Shaman,Mage,Druid][G 48.17,42.94 Elwynn Forest]Talk to *Deputy Willem* outside \\ Accept [QA18 Brotherhood of Thieves]
-[A Hunter][G 51.21,40.81 Elwynn Forest]Talk to *Tordrin Sternblade* \\ Turn in [QT92479 A Scribbled Letter] \\ Train your class spells
+[A Human,Hunter][G 51.21,40.81 Elwynn Forest]Talk to *Tordrin Sternblade* \\ Turn in [QT92479 A Scribbled Letter] \\ Train your class spells
+[A !Human,Hunter][G 51.21,40.81 Elwynn Forest]Talk to *Tordrin Sternblade* \\ [T]Train your class spells
 [A Warlock][G 49.87,42.65 Elwynn Forest]Talk to *Drusilla La Salle* \\ [T]Train *Corruption*[TAR459-]
 [G 52.55,48.79,30 Elwynn Forest]Kill *Defias Thugs*. Loot them for their *Red Burlap Bandanas* \\ [QC18,1 Brotherhood of Thieves]
 [A Rogue][G 52.55,48.79,30 Elwynn Forest][XP4 Grind to level 4]
@@ -87,7 +93,8 @@ Guidelime.registerGuide([==[
 [OC][L 49.21,28 Elwynn Forest]Kill *Shinyfinder Narf*. Loot him for the *Sack of "Picture" Books* \\ [QC91752,1 The Big Picture]
 [A Warrior,Paladin,Hunter,Rogue,Shaman,Warlock,Druid][G 50.69,39.35 Elwynn Forest]Talk to *Milly Osworth* \\ Skip the followup \\ Turn in [QT3903 Milly Osworth]
 [A Priest,Mage][G 50.69,39.35 Elwynn Forest]Talk to *Milly Osworth* \\ Turn in [QT3903 Milly Osworth] \\ Accept [QA3904 Milly's Harvest]
-[A Rogue][G 50.31,39.92 Elwynn Forest]Talk to *Jorik Kerridan* \\ Turn in [QT3102 Encrypted Letter] \\ Train *Stealth* \\ Train *Pick Pocket*
+[A Human,Rogue][G 50.31,39.92 Elwynn Forest]Talk to *Jorik Kerridan* \\ Turn in [QT3102 Encrypted Letter] \\ Train *Stealth* \\ Train *Pick Pocket*
+[A !Human,Rogue][G 50.31,39.92 Elwynn Forest]Talk to *Jorik Kerridan* \\ [T]Train *Stealth* \\ Train *Pick Pocket*
 [A Priest,Mage][G 52.55,48.79,30 Elwynn Forest]Loot *Milly's Harvest* on the ground \\ [QC3904,1 Milly's Harvest]
 [G 57.52,48.25 Elwynn Forest]Kill *Garrick Padfoot*. Loot him for his *Head* \\ [QC6,1 Bounty on Garrick Padfoot]
 [G 52.55,48.79,30 Elwynn Forest][XP5 Grind to level 5]

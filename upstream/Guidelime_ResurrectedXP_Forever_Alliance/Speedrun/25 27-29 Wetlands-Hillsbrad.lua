@@ -37,7 +37,7 @@ Guidelime.registerGuide([==[
 [A Mage][G 50,50,480 Ironforge]Arrive in Ironforge.
 [G 69.54,50.33 Ironforge]Talk to *Tinkmaster Overspark* \\ Turn in [QT2923 Tinkmaster Overspark]
 [L 55.51,47.75 Ironforge][TAR1573-]Talk to *Gryth Thurden* \\ Fly to [F Wetlands]
-[O][L 10.59,60.59 Wetlands]Talk to *Glorin Steelbrow* \\ Turn in [QT270 The Doomed Fleet]
+[G 10.59,60.59 Wetlands]Talk to *Glorin Steelbrow* \\ Turn in [QT270 The Doomed Fleet]
 [G 10.69,60.95 Wetlands]Talk to *Innkeeper Helbrek* \\ Set your Hearthstone to [S Wetlands][TAR1464-]
 [OC][L 10.37,61.02 Wetlands]Travel upstairs towards *Archaeologist Flagongut* \\ (Only if you turned in The Absent Minded Prospector)
 [G 10.84,60.44 Wetlands]Talk to *Archaeologist Flagongut* \\ Accept [QA943 The Absent Minded Prospector]
@@ -90,7 +90,7 @@ Guidelime.registerGuide([==[
 [G 11.86,58.84 Wetlands]Talk to *Caitlin Grassman* \\ Accept [QA95647 Lost in the Thicket Things]
 [G 11.8,57.99 Wetlands]Talk to *Sida* \\ Turn in [QT470 Digging Through the Ooze]
 [A Hunter][G 11,58.6 Wetlands]Talk to *Edwina Monzor* \\ [V]Restock on *Razor Arrows* if needed[TAR1462-]
-[O][L 8.36,58.53 Wetlands]Talk to *Karl Boran* \\ Turn in [QT286 Return the Statuette] \\ Accept [QA98189 Return the Statuette]
+[G 8.36,58.53 Wetlands]Talk to *Karl Boran* \\ Turn in [QT286 Return the Statuette] \\ Accept [QA98189 Return the Statuette]
 [O][L 8.51,55.7 Wetlands]Talk to *James Halloran* \\ Turn in [QT471 Apprentice's Duties] \\ Accept [QA98072 Crocs of the Sky]
 [A IT3348>5][OC][G 8.51,55.7 Wetlands]Bring the six *Giant Crocolisk Skins* to *James Halloran* in Menethil Harbor.
 [OC][G 10.28,56.33,20 Wetlands]Go via this waypoint
@@ -139,7 +139,7 @@ Guidelime.registerGuide([==[
 [OC]Kill *Whelps*. Loot them for their *Pristine Crimson Scales* \\ [QC98072,1 Crocs of the Sky]
 [OC][L 61.93,37.41 Wetlands]Kill the *Maddened Rotclaw*. Loot it for the *Malignant Rotclaw Flesh* \\ Start looking for at least one more party member for killing *Carnage* soon while you find the *Malignant Rotclaw Flesh* \\ [QC98283,1 Carnage] \\ (Group quest: optional, skip it when solo)
 [OC][G 69.43,34.67,20 Wetlands]Enter the Raptor Ridge cave
-[O][G 69.8,28.92,60 Wetlands]Kill *Highland Razormaws* and *Elder Razormaws*. Loot them for their *Razormaw Incisors* \\ Loot the *Razormaw Eggs* on the ground \\ [QC98245,1 Razormaw Needling] \\ [QC98246,1 Trying Times]
+[G 69.8,28.92,60 Wetlands]Kill *Highland Razormaws* and *Elder Razormaws*. Loot them for their *Razormaw Incisors* \\ Loot the *Razormaw Eggs* on the ground \\ [QC98245,1 Razormaw Needling] \\ [QC98246,1 Trying Times]
 [OC][L 69.8,28.92 Wetlands]Use the *Malignant Rotclaw Flesh* at the *Offering Stone* to summon *Carnage* inside the Raptor Ridge cave \\ (If you took Carnage) \\ (Group route (2+ players): only if you are in a group)[UI280331-]
 [OC][L 69.8,28.92 Wetlands]Kill *Carnage*. Loot it for *Carnage's Head* \\ *Carnage* is a level 30 elite with 4300 HP. He calls for help at 50% and has a Knockdown stun \\ [QC98283,2 Carnage] \\ (Group quest (2+ players): optional, skip it when solo)
 [OC][G 61.93,37.41,70 Wetlands]Kill *Whelps*. Loot them for their *Pristine Crimson Scales* \\ [QC98072,1 Crocs of the Sky]
@@ -155,7 +155,7 @@ Guidelime.registerGuide([==[
 [A IT270865][OC][G 38.81,52.39 Wetlands]Talk to *Prospector Whelgar* \\ Use the *Titan Relic* to start the quest \\ Accept [QA95810 Lost Relic Carry] \\ Turn in [QT95810 Lost Relic Carry] \\ Accept [QA98824 Prehistoric Prism][UI270865-]
 [OC][L 38.81,52.39 Wetlands]Talk to *Prospector Whelgar* \\ Accept [QA98824 Prehistoric Prism] \\ (Only if you turned in Lost Relic Carry)
 [G 49.8,18.26 Wetlands][G 49.91,18.23 Wetlands]Talk to *Longbraid the Grim* and *Rhag Garmason* \\ Turn in [QT472 Fall of Dun Modr] \\ Accept [QA631 The Thandol Span]
-[O][L 51.29,7.95 Wetlands]Go down the spiral stairs beneath the Thandol Span and click *Ebenezer Rustlocke's Corpse*. Avoid the elite *Dark Iron Saboteurs* \\ Turn in [QT631 The Thandol Span] \\ If you want to continue the already-listed Thandol Span chain, manually accept the next part here, then return to Rhag Garmason for its hand-in. \\ To postpone this optional visit, tick this step off.
+[G 51.29,7.95 Wetlands]Go down the spiral stairs beneath the Thandol Span and click *Ebenezer Rustlocke's Corpse*. Ensure you are on full HP and avoid or crowd-control the two elite *Dark Iron Saboteurs* (skip this step if you do not want to continue the Thandol Span chain) \\ Turn in [QT631 The Thandol Span] \\ Accept [QA632 The Thandol Span]
 [OC][L 49.67,18.23 Wetlands][L 49.8,18.26 Wetlands][L 50.05,18.17 Wetlands]Talk to *Motley Garmason*, *Longbraid the Grim* and *Ashlan Stonesmirk* \\ Accept [QA303 The Dark Iron War] \\ Accept [QA304 A Grim Task] \\ Accept [QA88756 Bring Back a Bang] \\ (Group quest (3+ players): optional, skip it when solo)
 [OC][L 60.01,24.35 Wetlands]Kill *Dark Iron Dwarves*, *Dark Iron Tunnelers*, *Dark Iron Saboteurs* and *Dark Iron Demolitionists* \\ Loot the *Stolen Explosives* on the ground \\ *Dark Iron Saboteurs* will cast *Sapper Explode* as they die which deals Fire damage in close proximity \\ *Dark Iron Demolitionists* will continously throw *Bombs* from range \\ [QC303,1 The Dark Iron War] \\ [QC303,2 The Dark Iron War] \\ [QC303,3 The Dark Iron War] \\ [QC303,4 The Dark Iron War] \\ [QC88756,1 Bring Back a Bang] \\ (Group quest (3+ players): optional, skip it when solo)
 [OC][L 62.48,28.41 Wetlands]Kill *Balgaras the Foul*. Loot him for his *Ear* \\ If he is not at the camps to the south he may also spawn inside one of the buildings to the north in Dun Modr \\ [QC304,1 A Grim Task] \\ (Group quest (3+ players): optional, skip it when solo)
@@ -178,7 +178,7 @@ Guidelime.registerGuide([==[
 [G 50.71,58.76,350 Hillsbrad Foothills]Reach Southshore. If you cannot fly there, follow the road west from Refuge Pointe into Hillsbrad, then take the road south to Southshore.
 [OC]Be careful not to run into the *Forsaken Courier* who can be patrolling the road from Go'shek Farm to Tarren Mill[TAR2714-][TAR2721-]
 [OC]Be careful while entering Southshore! Every now and then level 37-38 *Stealthed* *Shadowy Assassins* ambush the town! \\ If you manage to kill one you will be able to loot an item that starts a quest: *Assassin's Contract*. The event is rare and the mobs are hard to kill at this level so do not go out of your way to try to get it \\ Collect [CI3668,1][TAR2434-]
-[G 50.71,58.76,15 Hillsbrad Foothills][G 52.09,58.7 Hillsbrad Foothills]Talk to *Brewmeister Bilger* in the basement \\ If you fail the timed quest, abandon it and skip this step \\ Turn in [QT647 MacKreel's Moonshine]
+[OC][G 50.71,58.76,15 Hillsbrad Foothills][G 52.09,58.7 Hillsbrad Foothills]Talk to *Brewmeister Bilger* in the basement \\ If you fail the timed quest, abandon it and skip this step \\ If Guidelime brings back the earlier line that accepts *MacKreel's Moonshine* once you abandon it: tick that line off \\ Turn in [QT647 MacKreel's Moonshine]
 [A Hunter][OC][G 50.41,58.8 Hillsbrad Foothills]Go to the marked location
 [A Hunter][OC][L 50.41,58.8 Hillsbrad Foothills]Talk to *Wesley* \\ Stable your pet. You will tame a *Elder Moss Creeper* shortly[TAR9978-]
 [G 49.34,52.27 Hillsbrad Foothills]Talk to *Darla Harris* \\ Get the [P Southshore] Flight Path[TAR2432-]

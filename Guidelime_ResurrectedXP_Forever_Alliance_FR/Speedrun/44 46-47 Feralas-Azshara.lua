@@ -79,7 +79,7 @@ Guidelime.registerGuide([==[
 [G 11.78,78.3 Azshara]Parler à *Commandante Chantevrai* \\ Accepter [QA88807 Tuer les Nagas fouette-bile]
 [G 12.58,77.33 Azshara]Parler à *Berdun Brasse-Falaise* \\ Accepter [QA89001 Foyer en chantier]
 [O][L 17.12,69 Azshara][L 14.22,72.74 Azshara]Tuer *Apparitions biens-née* et *Jeunes liches biens-née* \\ [QC5535,1 Agitation spirituelle] \\ [QC5535,2 Agitation spirituelle] \\ (ignorer si vous êtes déjà au campement de Haldarr)
-[O]Tuer *Satyres Haldarrs*, *Entourloupeurs Haldarrs* et *Gangreliges Haldarrs* \\ [QC5536,1 Un pays plein de haine] \\ [QC5536,2 Un pays plein de haine] \\ [QC5536,3 Un pays plein de haine]
+[G 20.4,61.8 Azshara]Tuer *Satyres Haldarrs*, *Entourloupeurs Haldarrs* et *Gangreliges Haldarrs* \\ [QC5536,1 Un pays plein de haine] \\ [QC5536,2 Un pays plein de haine] \\ [QC5536,3 Un pays plein de haine]
 [O][L 20.6,61.8 Azshara]Parler à *Keldara Sunblade* \\ C'est une quête d'escorte : nettoyez la zone avant de commencer \\ Accepter [QA88857 Sauvetage d'une sentinelle] \\ Si l'escorte a échoué, abandonnez la quête échouée et revenez ici pour réessayer. Cocher cette étape si vous la passez.
 [O][L 20.6,61.8 Azshara]Tant que *Sauvetage d'une sentinelle* est dans votre journal, protégez *Keldara Sunblade* contre trois vagues d'attaquants. \\ [QC88857,1 Sauvetage d'une sentinelle]
 [A Warrior,Paladin,Hunter,Rogue,Shaman,Mage,Warlock,Druid][G 17.12,69,60 Azshara]Tuer *Apparitions biens-née* et *Jeunes liches biens-née* \\ [QC5535,1 Agitation spirituelle] \\ [QC5535,2 Agitation spirituelle]

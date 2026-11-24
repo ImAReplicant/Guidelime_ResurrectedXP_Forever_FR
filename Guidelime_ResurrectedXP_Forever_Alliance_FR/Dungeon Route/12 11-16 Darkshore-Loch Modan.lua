@@ -145,7 +145,8 @@ Guidelime.registerGuide([==[
 [A Cooking<50][A IT6889][OC][G 37.51,41.67 Darkshore]Aller à l'endroit indiqué
 [A Cooking<50][A IT6889][L 37.51,41.67 Darkshore]Se diriger vers *Feu de camp* au sol \\ Commencer *Cuisine* *Œufs cuits aux herbes*. Faites-le jusqu'à ce que votre *Cuisine* atteigne au moins le niveau 10 \\ Continuer à monter votre *Cuisine* jusqu'à épuisement des *Petits œufs* \\ Une quête du bois de la Pénombre exigera 50 ou plus en *Cuisine*. Vous pourrez aussi cuisiner sur le bateau bientôt \\ Cocher cette étape une fois tous les *Œufs cuits aux herbes* fabriqués
 [A IT5469>4][A Cooking10][G 37.7,40.7 Darkshore]Parler à *Alanndarian Chantenuit* \\ Accepter [QA2178 Brouet de trotteur] \\ Rendre [QT2178 Brouet de trotteur]
-[OC][L 37.39,40.13 Darkshore]Parler à *Thundris Tissevent* \\ Rendre [QT958 Les outils des Bien-nés] \\ Accepter [QA97914 Vers de nouveaux horizons]
+[OC][L 37.39,40.13 Darkshore]Parler à *Thundris Tissevent* \\ Rendre [QT958 Les outils des Bien-nés]
+[G 37.39,40.13 Darkshore]Parler à *Thundris Tissevent* \\ Accepter [QA97914 Vers de nouveaux horizons]
 [OC][G 36.81,44.14,8 Darkshore]Passer par ce point de passage
 [OC][G 35.74,43.71,12 Darkshore]Retourner vers *Cerellean Blanchegriffe* sur le quai
 [OC][G 35.74,43.71 Darkshore]Parler à *Cerellean Blanchegriffe* \\ Rendre [QT963 Un amour éternel]
@@ -157,8 +158,7 @@ Guidelime.registerGuide([==[
 [A Warrior,Hunter,Rogue][OC][G 48.77,59.14,10 Stormwind City]Sortir du port de Hurlevent
 [A Druid][G 36.11,64.39 Stormwind City]Parler à *Theridran* \\ [T]Apprendre vos sorts de classe[TAR5505-]
 [A Priest][G 49.5,45.22 Stormwind City]Parler à *Frère Joshua* \\ [T]Apprendre vos sorts de classe[TAR5489-]
-[OC][L 57.74,47.87 Stormwind City]Rendre [QT97914 Vers de nouveaux horizons]
-[G 57.74,47.87 Stormwind City]Parler à *Baros Alexston* \\ Accepter [QA97926 Faire avec les moyens du bord]
+[G 57.74,47.87 Stormwind City]Parler à *Baros Alexston* \\ Rendre [QT97914 Vers de nouveaux horizons] \\ Accepter [QA97926 Faire avec les moyens du bord]
 [A Warrior,Hunter][G 63.87,69.08 Stormwind City]Parler à *Woo Ping* \\ [T]Apprendre Épées à deux mains[TAR11867-]
 [A Rogue][G 63.87,69.08 Stormwind City]Parler à *Woo Ping* \\ [T]Apprendre Épées à une main[TAR11867-]
 [A Warrior,Hunter,Rogue][G 66.43,73.63 Stormwind City]Parler à *Elaine Trias* \\ Rendre [QT97220 La faveur de Philmor] \\ Accepter [QA97222 Livraison au corps de garde]

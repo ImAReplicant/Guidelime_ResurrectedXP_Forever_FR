@@ -190,7 +190,8 @@ Guidelime.registerGuide([==[
 [A Cooking<50][A IT6889][L 37.51,41.67 Darkshore]Travel toward the *Campfire* on the ground \\ Start *Cooking* *Herb Baked Eggs*. Do this until your *Cooking* has reached at least level 10 \\ Continue leveling your *Cooking* until you run out of *Small Eggs* \\ There is a quest in Duskwood later requiring your *Cooking* to be 50 or higher. You can also cook this when you get on the boat soon \\ Skip this step once you've made all *Herb Baked Eggs*
 [A IT5469>4][A Cooking10][G 37.7,40.7 Darkshore]Talk to *Alanndarian Nightsong* \\ Accept [QA2178 Easy Strider Living] \\ Turn in [QT2178 Easy Strider Living]
 [A Human,Dwarf,Gnome,Skyborne][OC][L 37.39,40.13 Darkshore]Talk to *Thundris Windweaver* \\ Turn in [QT958 Tools of the Highborne]
-[A NightElf][OC][L 37.39,40.13 Darkshore]Talk to *Thundris Windweaver* \\ Turn in [QT958 Tools of the Highborne] \\ Accept [QA97914 Expanding Horizons]
+[A NightElf][OC][L 37.39,40.13 Darkshore]Talk to *Thundris Windweaver* \\ Turn in [QT958 Tools of the Highborne]
+[A NightElf][G 37.39,40.13 Darkshore]Talk to *Thundris Windweaver* \\ Accept [QA97914 Expanding Horizons]
 [A NightElf][OC][G 36.81,44.14,8 Darkshore]Go via this waypoint
 [A NightElf][OC][G 35.74,43.71,12 Darkshore]Return to *Cerellean Whiteclaw* on the dock
 [A NightElf][OC][G 35.74,43.71 Darkshore]Talk to *Cerellean Whiteclaw* \\ Turn in [QT963 For Love Eternal]
@@ -202,8 +203,7 @@ Guidelime.registerGuide([==[
 [A NightElf,Warrior,Hunter,Rogue][OC][G 48.77,59.14,10 Stormwind City]Exit the Stormwind Harbor
 [A NightElf,Druid][G 36.11,64.39 Stormwind City]Talk to *Theridran* \\ [T]Train your class spells[TAR5505-]
 [A NightElf,Priest][G 49.5,45.22 Stormwind City]Talk to *Brother Joshua* \\ [T]Train your class spells[TAR5489-]
-[A NightElf][OC][L 57.74,47.87 Stormwind City]Turn in [QT97914 Expanding Horizons]
-[A NightElf][G 57.74,47.87 Stormwind City]Talk to *Baros Alexston* \\ Accept [QA97926 Making Do]
+[A NightElf][G 57.74,47.87 Stormwind City]Talk to *Baros Alexston* \\ Turn in [QT97914 Expanding Horizons] \\ Accept [QA97926 Making Do]
 [A NightElf,Warrior,Hunter][G 63.87,69.08 Stormwind City]Talk to *Woo Ping* \\ [T]Train 2h Swords[TAR11867-]
 [A NightElf,Rogue][G 63.87,69.08 Stormwind City]Talk to *Woo Ping* \\ [T]Train 1h Swords[TAR11867-]
 [A NightElf,Warrior,Hunter,Rogue][G 66.43,73.63 Stormwind City]Talk to *Elaine Trias* \\ Turn in [QT97220 Philmor's Favor] \\ Accept [QA97222 Gatehouse Goods]
@@ -343,7 +343,8 @@ Guidelime.registerGuide([==[
 [G 55.04,33.34,8 Darkshore][G 55.38,36.34 Darkshore]Loot the *Scaber Stalks* and a *Death Cap* on the ground \\ Stay on the upper section. If there is not a *Death Cap* at the end of the top side, drop down and get one from the southern room below \\ Be careful as *Stormscale Wave Riders* cast *Aqua Jet* (Ranged Instant: Deals damage to nearby enemies and knocks them back) - make sure you're not in a position to get knocked off the upper level of the cave \\ [QC947,1 Cave Mushrooms] \\ [QC947,2 Cave Mushrooms]
 [OC]Kill *Foreststrider Fledglings*. Loot them for their *Strider Meat* \\ Be careful as they *Flee* at <30% health \\ Collect [CI5469,5] \\ (Skip if you already turned in Easy Strider Living)
 [OC]Travel to Auberdine
-[G 37.39,40.13 Darkshore]Talk to *Thundris Windweaver* \\ Turn in [QT4762 The Cliffspring River] \\ Turn in [QT97926 Making Do] \\ Accept [QA4763 The Blackwood Corrupted]
+[A NightElf][G 37.39,40.13 Darkshore]Talk to *Thundris Windweaver* \\ Turn in [QT4762 The Cliffspring River] \\ Turn in [QT97926 Making Do] \\ Accept [QA4763 The Blackwood Corrupted]
+[A !NightElf][G 37.39,40.13 Darkshore]Talk to *Thundris Windweaver* \\ Turn in [QT4762 The Cliffspring River] \\ Accept [QA4763 The Blackwood Corrupted]
 [A Cooking10][A IT5469>4][G 37.7,40.7 Darkshore]Talk to *Alanndarian Nightsong* \\ Accept [QA2178 Easy Strider Living] \\ Turn in [QT2178 Easy Strider Living]
 [A Druid][OC][L 37.7,40.7 Darkshore]Talk to *Alanndarian Nightsong* \\ Accept [QA6123 Gathering the Cure]
 [A Human,Dwarf,Gnome,Skyborne][OC][L 37.44,41.84 Darkshore]Talk to *Archaeologist Hollee* \\ Accept [QA729 The Absent Minded Prospector] \\ (Only if Cleansing of the Infected is complete)

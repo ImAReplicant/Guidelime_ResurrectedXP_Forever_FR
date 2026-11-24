@@ -4,7 +4,7 @@ Guidelime.registerGuide([==[
 [GA Alliance]
 [NX 59-60 Winterspring/Silithus part 2]
 [OC][L 80.19,38.35 Stormwind City]Talk to *Highlord Bolvar Fordragon* \\ Turn in [QT6186 The Blightcaller Cometh]
-[G 53.93,81.68 Stormwind City]Talk to *Clavicus Knavingham* up stairs \\ Do the Stormwind cloth turn ins. You'll need 3 stacks of each cloth. Skip this step if you're unable to complete all of them \\ Turn in [QA7791-][QT7791 A Donation of Wool] \\ Turn in [QA7793-][QT7793 A Donation of Silk] \\ Turn in [QA7794-][QT7794 A Donation of Mageweave] \\ Turn in [QA7795-][QT7795 A Donation of Runecloth]
+[OC][L 53.93,81.68 Stormwind City]Talk to *Clavicus Knavingham* up stairs \\ Do the Stormwind cloth turn ins. You'll need 3 stacks of each cloth. Skip this step if you're unable to complete all of them \\ Turn in [QA7791-][QT7791 A Donation of Wool] \\ Turn in [QA7793-][QT7793 A Donation of Silk] \\ Turn in [QA7794-][QT7794 A Donation of Mageweave] \\ Turn in [QA7795-][QT7795 A Donation of Runecloth]
 [A Mage][OC]Teleport to Darnassus
 [A Mage][OC][L 38.33,80.95 Darnassus]Talk to *Astarii Starseeker* \\ Turn in [QT3378 Prayer to Elune]
 [A Mage][OC][G 29.47,41.4 Darnassus]Take the purple portal to Rut'theran Village
