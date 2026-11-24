@@ -71,7 +71,9 @@ def main():
     # version de jeu CurseForge : 17053 = Forever 1.60.1. Sans elle, le fichier s'affiche
     # « no game version » et n'est pas propose par l'application.
     game_version = int(os.environ.get("CF_GAME_VERSION_ID", "17053"))
-    release_type = os.environ.get("CF_RELEASE_TYPE", "release")
+    # envoi manuel = beta par defaut (un fichier release sur un projet neuf part en moderation) ;
+    # le workflow de tag force release via CF_RELEASE_TYPE=release
+    release_type = os.environ.get("CF_RELEASE_TYPE", "beta")
     targets = [
         ("CurseForge", "CF_PROJECT_ID", "CF_API_TOKEN", CURSE_URL,
          {"metadata": json.dumps({"changelog": notes, "changelogType": "markdown",

@@ -112,11 +112,12 @@ modifiés et les restes à traduire ; si l'amont n'a pas bougé, il ne produit r
 4. Tag `v<version>` (ex. `v1.7.6-fr.2`) et push : la CI reconstruit, vérifie, publie la release GitHub
    et envoie l'archive sur CurseForge et Wago.
 
-Premier envoi manuel (avant tout tag), pour ne pas publier une version `release` sur un projet tout neuf :
+Premier envoi manuel (avant tout tag) : `release.py` envoie en **beta** par défaut, pour ne pas publier une
+version `release` sur un projet tout neuf ; le workflow de tag force `release`.
 
 ```bash
 python3 tools/package.py
-CF_PROJECT_ID=1829310 CF_RELEASE_TYPE=beta CF_API_TOKEN=… python3 tools/release.py
+CF_PROJECT_ID=1829310 CF_API_TOKEN=… python3 tools/release.py
 ```
 
 `CF_GAME_VERSION_ID` (défaut `17053` = Forever 1.60.1) doit correspondre à la version de jeu du client :

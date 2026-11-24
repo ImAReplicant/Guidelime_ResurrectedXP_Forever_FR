@@ -47,6 +47,7 @@ jobs:
         env:
           CF_PROJECT_ID: ${{ secrets.CF_PROJECT_ID }}
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CF_RELEASE_TYPE: release
           WAGO_PROJECT_ID: ${{ secrets.WAGO_PROJECT_ID }}
           WAGO_API_TOKEN: ${{ secrets.WAGO_API_TOKEN }}
         run: python3 tools/release.py
