@@ -13,9 +13,9 @@ jobs:
   check:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
 
@@ -65,7 +65,7 @@ jobs:
 
       - name: Pull request
         if: steps.check.outputs.update == 'true'
-        uses: peter-evans/create-pull-request@v7
+        uses: peter-evans/create-pull-request@v8
         with:
           branch: upstream/${{ steps.apply.outputs.version }}
           title: "Upstream ${{ steps.apply.outputs.version }}"
