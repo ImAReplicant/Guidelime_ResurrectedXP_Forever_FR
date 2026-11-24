@@ -68,19 +68,27 @@ def main():
     if not os.path.exists(ZIP):
         raise SystemExit("archive absente : lancer python3 tools/package.py")
     ver, notes = version(), changelog()
+    # version de jeu CurseForge : 17053 = Forever 1.60.1. Sans elle, le fichier s'affiche
+    # « no game version » et n'est pas propose par l'application.
+    game_version = int(os.environ.get("CF_GAME_VERSION_ID", "17053"))
+    release_type = os.environ.get("CF_RELEASE_TYPE", "release")
     targets = [
         ("CurseForge", "CF_PROJECT_ID", "CF_API_TOKEN", CURSE_URL,
          {"metadata": json.dumps({"changelog": notes, "changelogType": "markdown",
-                                  "displayName": ver, "releaseType": "release"})}),
+                                  "displayName": ver, "releaseType": release_type,
+                                  "gameVersions": [game_version]})},
+         "version de jeu %d, type %s" % (game_version, release_type)),
         ("Wago Addons", "WAGO_PROJECT_ID", "WAGO_API_TOKEN", WAGO_URL,
-         {"metadata": json.dumps({"label": ver, "stability": "stable", "changelog": notes})}),
+         {"metadata": json.dumps({"label": ver, "stability": "stable", "changelog": notes})},
+         "canal stable"),
     ]
     missing = []
-    for name, id_var, token_var, url, fields in targets:
+    for name, id_var, token_var, url, fields, detail in targets:
         pid = os.environ.get(id_var)
         token = os.environ.get(token_var)
         where = url % (pid or "<%s>" % id_var)
-        print("%-12s %s  version %s  fichier %s" % (name, where, ver, os.path.basename(ZIP)))
+        print("%-12s %s  version %s  fichier %s  (%s)"
+              % (name, where, ver, os.path.basename(ZIP), detail))
         if dry:
             continue
         if not pid or not token:

@@ -4,6 +4,19 @@ Toutes les versions notables de la traduction française de *Guidelime — Resur
 Format : [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/). Versionnement : `<version amont>-fr.<n>`,
 où la version amont est celle de l'addon anglais (`## Version` de son `.toc`).
 
+## [1.8.0-fr.1] — 2026-11-24
+
+Mise à jour vers les guides anglais **1.8.0** (73 fichiers amont modifiés).
+
+### Modifié
+- Guides `Speedrun/`, `Dungeon Route/` et `Riverglades/` régénérés depuis l'amont 1.8.0 ; les
+  traductions existantes sont conservées (mémoire de traduction).
+- `glossaire/` régénéré (`cles.json`, `name_ids.json`, `quest_ids.json`, `en_ids.json`, `auto_*`).
+
+### À faire
+- **21 clauses** (42 occurrences) apparaissent en anglais dans `RAPPORT-traduction.md` : à traduire dans
+  `glossaire/trad/` lors de la prochaine passe.
+
 ## [1.7.6-fr.1] — 2026-11-23
 
 Première version publiable.

@@ -26,9 +26,9 @@ QUEST_TAG = re.compile(r"^(Q[AATCS])([0-9/?]+)((?:,[0-9]*)?)(\s*)(.*)$")
 XP_TAG = re.compile(r"^(XP)\s*(\d+)([+\-.]?)(\d*)\s*(.*)$")
 GUIDE_TAG = re.compile(r"^(NX|LI|N)(\s*)(.*)$")
 FR_SUFFIX = "-fr.1"  # suffixe de la version FR, a bumper avec le guide
-# a remplacer a la creation des projets CurseForge / Wago (voir AGENTS.md)
+# projet CurseForge : https://www.curseforge.com/wow/addons/guidelime-resurrectedxp-forever-alliance-fr
 WEBSITE = "https://github.com/ImAReplicant/Guidelime_ResurrectedXP_Forever_FR"
-CURSE_ID = "000000"
+CURSE_ID = "1829310"
 WAGO_ID = "CHANGEME"
 FOOTER = re.compile(r'^\]==\], "([^"]*)"\)(\.title = "([^"]*)")?$')
 HEADER = "Guidelime.registerGuide([==["

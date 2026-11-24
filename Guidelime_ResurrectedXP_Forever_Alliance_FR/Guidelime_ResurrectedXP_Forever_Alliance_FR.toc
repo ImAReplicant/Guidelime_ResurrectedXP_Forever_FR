@@ -6,7 +6,7 @@
 ## Notes: Traduction francaise du guide RestedXP Forever (Alliance) pour Guidelime.
 ## IconTexture: Interface\AddOns\Guidelime_ResurrectedXP_Forever_Alliance_FR\Media\Icon.tga
 ## X-Website: https://github.com/ImAReplicant/Guidelime_ResurrectedXP_Forever_FR
-## X-Curse-Project-ID: 000000
+## X-Curse-Project-ID: 1829310
 ## X-Wago-ID: CHANGEME
 
 Speedrun\01 1-6 Shadowglen.lua
