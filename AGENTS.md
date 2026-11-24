@@ -112,15 +112,32 @@ modifiés et les restes à traduire ; si l'amont n'a pas bougé, il ne produit r
 4. Tag `v<version>` (ex. `v1.7.6-fr.2`) et push : la CI reconstruit, vérifie, publie la release GitHub
    et envoie l'archive sur CurseForge et Wago.
 
+Premier envoi manuel (avant tout tag), pour ne pas publier une version `release` sur un projet tout neuf :
+
+```bash
+python3 tools/package.py
+CF_PROJECT_ID=1829310 CF_RELEASE_TYPE=beta CF_API_TOKEN=… python3 tools/release.py
+```
+
+`CF_GAME_VERSION_ID` (défaut `17053` = Forever 1.60.1) doit correspondre à la version de jeu du client :
+sans elle, le fichier s'affiche « no game version » et n'est pas proposé par l'application CurseForge.
+
+Un fichier envoyé sur un projet neuf reste **en attente de modération** avant d'être listé publiquement.
+Pour vérifier qu'il est bien publié (aucune authentification requise) :
+
+```bash
+curl -s https://api.cfwidget.com/1829310 | python3 -m json.tool | grep -A3 '"files"'
+```
+
 ### Checklist de première publication (à faire une fois)
 
-- [ ] Créer le dépôt distant et remplacer `WEBSITE` dans `tools/build_fr.py` (et le README).
-- [ ] Créer le projet CurseForge (jeu *WoW*, version **Forever**, catégorie *Quests & Leveling*) ;
-      renseigner `CURSE_ID` dans `tools/build_fr.py` et le secret `CF_PROJECT_ID`.
-- [ ] Créer le projet Wago Addons ; renseigner `WAGO_ID` dans `tools/build_fr.py` et le secret
-      `WAGO_PROJECT_ID`.
+- [x] Dépôt distant et `WEBSITE` renseignés.
+- [x] Projet CurseForge créé (id **1829310**, version **Forever**) et `CURSE_ID` renseigné.
+- [ ] Projet Wago Addons ; renseigner `WAGO_ID` dans `tools/build_fr.py` et le secret `WAGO_PROJECT_ID`.
 - [ ] Secrets GitHub : `CF_API_TOKEN`, `WAGO_API_TOKEN`, `CF_PROJECT_ID`, `WAGO_PROJECT_ID`.
-- [ ] Uploader `Media/icon-256.png` comme avatar des deux pages.
+- [ ] Avatar de la page : **`Media/avatar-400.png`** (400×400, imposé par la charte CurseForge). La charte
+      interdit l'imagerie sous copyright : l'actuel dérive de l'icône Guidelime, à remplacer par un visuel
+      original si la modération le refuse.
 
 ## Pièges connus
 

@@ -32,8 +32,8 @@ def main():
             for guide in sorted(glob.glob(os.path.join(src, d, "*.lua"))):
                 zf.write(guide, "%s/%s/%s" % (FR, d, os.path.basename(guide)))
         for media in sorted(glob.glob(os.path.join(src, "Media", "*"))):
-            # icon-source.png est la source de tools/make_icon.sh, inutile dans le zip
-            if os.path.basename(media) != "icon-source.png":
+            # sources et visuels de page (CurseForge/Wago) : hors du zip d'addon
+            if os.path.basename(media) not in ("icon-source.png", "avatar-400.png"):
                 zf.write(media, FR + "/Media/" + os.path.basename(media))
     with zipfile.ZipFile(path) as zf:
         names = zf.namelist()
