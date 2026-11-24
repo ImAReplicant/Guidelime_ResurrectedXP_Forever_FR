@@ -44,11 +44,11 @@ def fetch_bytes(url):
         return resp.read()
 
 
-def local_version():
-    for line in open(TOC, encoding="utf-8"):
+def local_version(path=TOC):
+    for line in open(path, encoding="utf-8"):
         if line.startswith("## Version:"):
             return line.split(":", 1)[1].strip()
-    raise SystemExit("## Version introuvable dans %s" % TOC)
+    raise SystemExit("## Version introuvable dans %s" % path)
 
 
 def parse_version(text):
@@ -59,12 +59,16 @@ def parse_version(text):
     return tuple(int(x) for x in m.group(1).split("."))
 
 
-def project_id(key):
-    data = fetch_json("/mods/search?gameId=%d&slug=%s" % (GAME_ID, SLUG), key)
+def pick_mod(data, slug):
+    """Id du projet dont le slug correspond exactement (la recherche peut renvoyer des voisins)."""
     for mod in data.get("data", []):
-        if mod.get("slug") == SLUG:
+        if mod.get("slug") == slug:
             return mod["id"]
-    raise SystemExit("projet introuvable sur CurseForge : %s" % SLUG)
+    raise SystemExit("projet introuvable sur CurseForge : %s" % slug)
+
+
+def project_id(key):
+    return pick_mod(fetch_json("/mods/search?gameId=%d&slug=%s" % (GAME_ID, SLUG), key), SLUG)
 
 
 def latest_release(files):
@@ -118,6 +122,26 @@ def selftest():
     assert parse_version("1.7.7") > parse_version("1.7.6")
     assert parse_version("1.7.7-fr.2") == (1, 7, 7)
     assert file_version({"displayName": "", "fileName": "Guide-1.8.0.zip"}) == "1.8.0"
+
+    # recherche par slug : le voisin homonyme ne doit pas etre retenu
+    mods = {"data": [{"id": 7, "slug": "guidelime-resurrectedxp-horde-forever"},
+                     {"id": 123456, "slug": SLUG}]}
+    assert pick_mod(mods, SLUG) == 123456
+    try:
+        pick_mod({"data": [{"id": 7, "slug": "autre"}]}, SLUG)
+    except SystemExit:
+        pass
+    else:
+        raise AssertionError("un slug absent doit faire echouer la recherche")
+
+    # lecture de la version dans un .toc, et comparaison avec ce que lit la chaine
+    with tempfile.NamedTemporaryFile("w", suffix=".toc", delete=False, encoding="utf-8") as tmp:
+        tmp.write("## Interface: 16001\n## Version: 1.7.7\n")
+    try:
+        assert local_version(tmp.name) == "1.7.7"
+        assert parse_version(local_version(tmp.name)) > parse_version("1.7.6")
+    finally:
+        os.unlink(tmp.name)
     print("selftest : OK")
 
 
