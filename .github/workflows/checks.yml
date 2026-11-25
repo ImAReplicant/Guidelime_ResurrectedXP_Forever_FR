@@ -23,6 +23,9 @@ jobs:
       - name: Auto-controle de la mise a jour amont
         run: python3 tools/update_upstream.py --selftest
 
+      - name: Auto-controle de la publication
+        run: python3 tools/release.py --selftest
+
       - name: Generation de l'addon FR
         run: python3 tools/build_fr.py
 

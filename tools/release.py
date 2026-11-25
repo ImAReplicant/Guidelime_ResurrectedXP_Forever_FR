@@ -152,26 +152,46 @@ def selected_targets(targets):
     return [t for t in targets if t[0] == alias[want]]
 
 
-def main():
-    dry = "--dry-run" in sys.argv
-    if "--status" in sys.argv:
-        return publication_status()
-    if "--notes" in sys.argv:
-        return notes_file()
-    if not os.path.exists(ZIP):
-        raise SystemExit("archive absente : lancer python3 tools/package.py")
-    ver, notes = version(), changelog()
-    # version de jeu CurseForge : 17053 = Forever 1.60.1. Sans elle, le fichier s'affiche
-    # « no game version » et n'est pas propose par l'application.
+def release_types():
+    """(type CurseForge, stabilite Wago) : envoi manuel = beta, tag = release/stable.
+
+    Un fichier `release` depose sur un projet neuf part en moderation ; le workflow de tag force
+    CF_RELEASE_TYPE=release, et Wago suit (stable), sauf WAGO_STABILITY explicite.
+    """
+    cf = os.environ.get("CF_RELEASE_TYPE", "beta")
+    wago = os.environ.get("WAGO_STABILITY", "stable" if cf == "release" else "beta")
+    return cf, wago
+
+
+def selftest():
+    """Verifie hors reseau la logique de publication : notes, types, cibles, URLs."""
+    ver = version()
+    assert ver.count("-fr.") == 1, ver
+    notes = changelog()
+    assert notes.startswith("Mise a jour vers les guides anglais") or notes.startswith("Mise à jour"), notes[:40]
+    assert not [ln for ln in notes.split("\n") if ln.startswith("## ")], "les notes ne doivent contenir qu'une version"
+
+    os.environ.pop("CF_RELEASE_TYPE", None)
+    os.environ.pop("WAGO_STABILITY", None)
+    assert release_types() == ("beta", "beta")
+    os.environ["CF_RELEASE_TYPE"] = "release"
+    assert release_types() == ("release", "stable")
+    os.environ["WAGO_STABILITY"] = "alpha"
+    assert release_types() == ("release", "alpha")
+    os.environ.pop("CF_RELEASE_TYPE", None)
+    os.environ.pop("WAGO_STABILITY", None)
+
+    assert CURSE_URL % "1829310" == "https://wow.curseforge.com/api/projects/1829310/upload-file"
+    assert WAGO_URL % "mKOalZNx" == "https://addons.wago.io/api/projects/mKOalZNx/version"
+
+    names = [t[0] for t in _targets("x", "x", "beta", "beta", "1.60.1")]
+    assert names == ["CurseForge", "Wago Addons"], names
+    print("selftest : OK")
+
+
+def _targets(ver, notes, release_type, wago_stability, wago_patch):
     game_version = int(os.environ.get("CF_GAME_VERSION_ID", "17053"))
-    # envoi manuel = beta par defaut (un fichier release sur un projet neuf part en moderation) ;
-    # le workflow de tag force release via CF_RELEASE_TYPE=release
-    release_type = os.environ.get("CF_RELEASE_TYPE", "beta")
-    # Wago exige un patch de jeu : Forever n'y connait que 1.60.1. La stabilite suit le type d'envoi.
-    wago_patch = os.environ.get("WAGO_PATCH", "1.60.1")
-    wago_stability = os.environ.get("WAGO_STABILITY",
-                                    "stable" if release_type == "release" else "beta")
-    targets = [
+    return [
         ("CurseForge", "CF_PROJECT_ID", "CF_API_TOKEN", CURSE_URL,
          {"metadata": json.dumps({"changelog": notes, "changelogType": "markdown",
                                   "displayName": ver, "releaseType": release_type,
@@ -182,6 +202,27 @@ def main():
                                   "supported_forever_patch": wago_patch})},
          "canal %s, patch Forever %s" % (wago_stability, wago_patch)),
     ]
+
+
+def main():
+    dry = "--dry-run" in sys.argv
+    if "--status" in sys.argv:
+        return publication_status()
+    if "--notes" in sys.argv:
+        return notes_file()
+    if "--selftest" in sys.argv:
+        selftest()
+        return 0
+    if not os.path.exists(ZIP):
+        raise SystemExit("archive absente : lancer python3 tools/package.py")
+    ver, notes = version(), changelog()
+    # version de jeu CurseForge : 17053 = Forever 1.60.1. Sans elle, le fichier s'affiche
+    # « no game version » et n'est pas propose par l'application.
+    game_version = int(os.environ.get("CF_GAME_VERSION_ID", "17053"))
+    release_type, wago_stability = release_types()
+    # Wago exige un patch de jeu : Forever n'y connait que 1.60.1.
+    wago_patch = os.environ.get("WAGO_PATCH", "1.60.1")
+    targets = _targets(ver, notes, release_type, wago_stability, wago_patch)
     missing = []
     for name, id_var, token_var, url, fields, detail in selected_targets(targets):
         pid = os.environ.get(id_var)
