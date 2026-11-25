@@ -91,10 +91,33 @@ def post(url, headers, body, content_type):
         return resp.status, resp.read().decode("utf-8", "replace")
 
 
+def notes_file():
+    """--notes <fichier> : ecrit la section du CHANGELOG de la version courante (notes de release)."""
+    if "--notes" not in sys.argv:
+        return None
+    path = sys.argv[sys.argv.index("--notes") + 1]
+    open(path, "w", encoding="utf-8").write(changelog() + "\n")
+    print("notes de version ecrites dans %s" % path)
+    return 0
+
+
+def selected_targets(targets):
+    """--only curse|wago : restreint l'envoi a une plateforme (defaut : les deux)."""
+    if "--only" not in sys.argv:
+        return targets
+    want = sys.argv[sys.argv.index("--only") + 1].strip().lower()
+    alias = {"curse": "CurseForge", "curseforge": "CurseForge", "wago": "Wago Addons"}
+    if want not in alias:
+        raise SystemExit("cible inconnue : %s (attendu : curse ou wago)" % want)
+    return [t for t in targets if t[0] == alias[want]]
+
+
 def main():
     dry = "--dry-run" in sys.argv
     if "--status" in sys.argv:
         return publication_status()
+    if "--notes" in sys.argv:
+        return notes_file()
     if not os.path.exists(ZIP):
         raise SystemExit("archive absente : lancer python3 tools/package.py")
     ver, notes = version(), changelog()
@@ -104,6 +127,10 @@ def main():
     # envoi manuel = beta par defaut (un fichier release sur un projet neuf part en moderation) ;
     # le workflow de tag force release via CF_RELEASE_TYPE=release
     release_type = os.environ.get("CF_RELEASE_TYPE", "beta")
+    # Wago exige un patch de jeu : Forever n'y connait que 1.60.1. La stabilite suit le type d'envoi.
+    wago_patch = os.environ.get("WAGO_PATCH", "1.60.1")
+    wago_stability = os.environ.get("WAGO_STABILITY",
+                                    "stable" if release_type == "release" else "beta")
     targets = [
         ("CurseForge", "CF_PROJECT_ID", "CF_API_TOKEN", CURSE_URL,
          {"metadata": json.dumps({"changelog": notes, "changelogType": "markdown",
@@ -111,11 +138,12 @@ def main():
                                   "gameVersions": [game_version]})},
          "version de jeu %d, type %s" % (game_version, release_type)),
         ("Wago Addons", "WAGO_PROJECT_ID", "WAGO_API_TOKEN", WAGO_URL,
-         {"metadata": json.dumps({"label": ver, "stability": "stable", "changelog": notes})},
-         "canal stable"),
+         {"metadata": json.dumps({"label": ver, "stability": wago_stability, "changelog": notes,
+                                  "supported_forever_patch": wago_patch})},
+         "canal %s, patch Forever %s" % (wago_stability, wago_patch)),
     ]
     missing = []
-    for name, id_var, token_var, url, fields, detail in targets:
+    for name, id_var, token_var, url, fields, detail in selected_targets(targets):
         pid = os.environ.get(id_var)
         token = os.environ.get(token_var)
         where = url % (pid or "<%s>" % id_var)

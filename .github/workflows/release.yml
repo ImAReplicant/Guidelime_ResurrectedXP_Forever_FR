@@ -36,12 +36,15 @@ jobs:
       - name: Archive de l'addon
         run: python3 tools/package.py
 
+      - name: Notes de version
+        run: python3 tools/release.py --notes "$RUNNER_TEMP/release-notes.md"
+
       - name: Release GitHub
         uses: softprops/action-gh-release@v3
         with:
           files: dist/Guidelime_ResurrectedXP_Forever_Alliance_FR.zip
           generate_release_notes: false
-          body_path: CHANGELOG.md
+          body_path: ${{ runner.temp }}/release-notes.md
 
       - name: Publication CurseForge et Wago
         env:

@@ -7,7 +7,7 @@
 ## IconTexture: Interface\AddOns\Guidelime_ResurrectedXP_Forever_Alliance_FR\Media\Icon.tga
 ## X-Website: https://github.com/ImAReplicant/Guidelime_ResurrectedXP_Forever_FR
 ## X-Curse-Project-ID: 1829310
-## X-Wago-ID: CHANGEME
+## X-Wago-ID: mKOalZNx
 
 Speedrun\01 1-6 Shadowglen.lua
 Speedrun\02 1-6 Northshire.lua
