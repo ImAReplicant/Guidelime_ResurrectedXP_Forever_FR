@@ -143,11 +143,17 @@ appartient bien au projet.
 
 - [x] Dépôt distant et `WEBSITE` renseignés.
 - [x] Projet CurseForge créé (id **1829310**, version **Forever**) et `CURSE_ID` renseigné.
-- [ ] Projet Wago Addons ; renseigner `WAGO_ID` dans `tools/build_fr.py` et le secret `WAGO_PROJECT_ID`.
-- [ ] Secrets GitHub : `CF_API_TOKEN`, `WAGO_API_TOKEN`, `CF_PROJECT_ID`, `WAGO_PROJECT_ID`.
+- [x] Projet Wago créé (id **mKOalZNx**) et `WAGO_ID` renseigné.
+- [x] Secrets GitHub : `CF_API_TOKEN`, `WAGO_API_TOKEN`, `CF_PROJECT_ID`, `WAGO_PROJECT_ID`.
 - [ ] Avatar de la page : **`Media/avatar-400.png`** (400×400, imposé par la charte CurseForge). La charte
       interdit l'imagerie sous copyright : l'actuel dérive de l'icône Guidelime, à remplacer par un visuel
       original si la modération le refuse.
+
+**État au 2026-11-25** : `1.8.0-fr.1` est publié en **beta** sur les deux plateformes — CurseForge fichier
+`9801543`, Wago release `kQA5gB3Q` (`python3 tools/release.py --status` → code 0). Le **tag `v*` est
+volontairement reporté** à la prochaine version (traduction des 21 clauses restantes ou montée amont) :
+il publiera alors des fichiers de type `release` et la release GitHub avec les notes de la section
+courante.
 
 ## Pièges connus
 
