@@ -129,6 +129,10 @@ la version courante (`publie : 1.8.0-fr.1 | type 2 | versions 1.60.1` / `canal b
 partout, **2** en attente, **1** illisible. Le workflow `upstream` (hebdomadaire) lance cette vérification
 et émet un avertissement tant qu'une plateforme manque.
 
+Attention au contrôle manuel côté Wago : les releases ne sont **pas** dans la page du projet
+(`/addons/<slug>` n'a pas de champ `releases`), mais dans
+`https://addons.wago.io/addons/<slug>/versions?stability=beta` (puis `stable`, `alpha`).
+
 Corriger le type, la version de jeu ou le changelog d'un fichier **déjà envoyé** (sans ré-uploader) :
 `POST https://wow.curseforge.com/api/projects/1829310/update-file`, en-tête `X-Api-Token`, champ `metadata`
 = `{"fileID": <id>, "displayName": …, "releaseType": "beta|release|alpha", "gameVersions": [17053],
