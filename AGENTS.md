@@ -124,9 +124,10 @@ CF_PROJECT_ID=1829310 CF_API_TOKEN=… python3 tools/release.py
 sans elle, le fichier s'affiche « no game version » et n'est pas proposé par l'application CurseForge.
 
 Un fichier envoyé sur un projet neuf reste **en attente de modération** avant d'être listé publiquement.
-`python3 tools/release.py --status` interroge l'API publique et répond : **0** publié, **2** en attente,
-**1** illisible. Le workflow `upstream` (hebdomadaire) lance cette vérification et émet un avertissement
-tant que le fichier n'est pas public.
+`python3 tools/release.py --status` interroge les pages publiques des deux plateformes et affiche l'état de
+la version courante (`publie : 1.8.0-fr.1 | type 2 | versions 1.60.1` / `canal beta`) ; code **0** publié
+partout, **2** en attente, **1** illisible. Le workflow `upstream` (hebdomadaire) lance cette vérification
+et émet un avertissement tant qu'une plateforme manque.
 
 Corriger le type, la version de jeu ou le changelog d'un fichier **déjà envoyé** (sans ré-uploader) :
 `POST https://wow.curseforge.com/api/projects/1829310/update-file`, en-tête `X-Api-Token`, champ `metadata`

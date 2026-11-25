@@ -26,34 +26,74 @@ ZIP = os.path.join(ROOT, "dist", ADDON + ".zip")
 TOC = os.path.join(OUT, ADDON_TOC)
 CURSE_URL = "https://wow.curseforge.com/api/projects/%s/upload-file"
 WAGO_URL = "https://addons.wago.io/api/projects/%s/version"
+WAGO_URL = "https://addons.wago.io/api/projects/%s/version"
 CURSE_PUBLIC = "https://www.curseforge.com/api/v1/mods/%s/files"
+WAGO_PUBLIC = "https://addons.wago.io/addons/%s/versions?stability=%s"
 
 
-def publication_status():
-    """Etat de publication du fichier courant sur la page du projet (API publique, sans jeton).
+def _get(url, accept="application/json"):
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0", "Accept": accept})
+    with urllib.request.urlopen(req, timeout=30) as resp:
+        return resp.read().decode("utf-8", "replace")
 
-    Un fichier depose sur un projet neuf reste invisible tant que la moderation ne l'a pas approuve.
-    Code de sortie : 0 publie, 2 en attente de moderation, 1 erreur.
-    """
+
+def curse_status(want):
+    """(etat, detail) : fichier public du projet CurseForge portant cette version."""
     pid = os.environ.get("CF_PROJECT_ID", "1829310")
-    want = version()
-    try:
-        req = urllib.request.Request(CURSE_PUBLIC % pid, headers={"User-Agent": "Mozilla/5.0",
-                                                                  "Accept": "application/json"})
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            files = json.loads(resp.read().decode("utf-8")).get("data") or []
-    except Exception as exc:  # noqa: BLE001 - message brut de l'API
-        print("ERREUR : etat de publication illisible (%s)" % exc, file=sys.stderr)
-        return 1
+    files = json.loads(_get(CURSE_PUBLIC % pid)).get("data") or []
     for f in files:
         name = f.get("displayName") or f.get("fileName") or ""
         if want in name:
-            print("publie : %s | type %s | versions %s" % (
-                name, f.get("releaseType"), ", ".join(str(v) for v in f.get("gameVersions") or [])))
-            return 0
-    print("en attente de moderation : %s n'apparait pas encore sur la page du projet (%d fichier(s) public(s))"
-          % (want, len(files)))
-    return 2
+            return "publie", "%s | type %s | versions %s" % (
+                name, f.get("releaseType"), ", ".join(str(v) for v in f.get("gameVersions") or []))
+    return "attente", "aucun fichier %s (%d fichier(s) public(s))" % (want, len(files))
+
+
+def wago_status(want):
+    """(etat, detail) : release Wago de cette version, tous canaux confondus.
+
+    Wago rend ses pages en Inertia : les releases sont dans l'attribut data-page, pas dans le HTML.
+    """
+    import html as html_mod
+    import re
+
+    slug = os.environ.get("WAGO_SLUG", ADDON.lower().replace("_", "-"))
+    seen = []
+    for stability in ("stable", "beta", "alpha"):
+        body = _get(WAGO_PUBLIC % (slug, stability), accept="text/html")
+        m = re.search(r'data-page="([^"]+)"', body)
+        if not m:
+            continue
+        props = json.loads(html_mod.unescape(m.group(1))).get("props", {})
+        for rel in (props.get("releases") or {}).get("data") or []:
+            label = rel.get("label") or ""
+            seen.append(label)
+            if want in label:
+                return "publie", "%s | canal %s | %s" % (
+                    label, rel.get("stability"), rel.get("created_at", "")[:10])
+    return "attente", "aucune release %s (%s)" % (want, ", ".join(seen) or "aucune")
+
+
+def publication_status():
+    """Etat de publication de la version courante sur CurseForge et Wago (public, sans jeton).
+
+    Un fichier depose sur un projet neuf reste invisible tant que la moderation ne l'a pas approuve.
+    Code de sortie : 0 publie partout, 2 en attente quelque part, 1 erreur.
+    """
+    want = version()
+    codes = []
+    for name, check in (("CurseForge", curse_status), ("Wago", wago_status)):
+        try:
+            state, detail = check(want)
+        except Exception as exc:  # noqa: BLE001 - message brut de l'API
+            print("%-11s ERREUR : etat illisible (%s)" % (name, exc), file=sys.stderr)
+            codes.append(1)
+            continue
+        print("%-11s %s : %s" % (name, state, detail))
+        codes.append(0 if state == "publie" else 2)
+    if 1 in codes:
+        return 1
+    return 0 if all(c == 0 for c in codes) else 2
 
 
 def version():
